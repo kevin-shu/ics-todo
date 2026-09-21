@@ -18,3 +18,6 @@
 - Haiku 會在 summary 自行擴寫縮寫（如 LLH）→ 指示中明訂只根據原文。
 - Haiku 不穩定：會編造摘要內容、重跑時漏抓考試 → page-extractor 改用 Sonnet（只讀變動頁面，額度影響小）。
 - 雲端 Sonnet 曾用 `${CANVAS_TOKEN:-no}` 把 token 印進 run log → SKILL.md 明訂不得輸出 token。
+- Canvas 檔案連結帶 `verifier` 參數可免登入下載，公開網頁會外洩講義 → fetch.py 移除 verifier。git 歷史中仍有舊連結（使用者決定不清理）。
+- Quiz API 沒有 `updated_at`，新 quiz 被誤判為未變動 → 快取沒有就一定判讀，並以說明文字 md5 當版本。
+- Favicon：`sips -p 580 580 --padColor FFFFFF` 補白成正方形，再 `sips -z` 縮成各尺寸。

@@ -1,4 +1,5 @@
 """從 Canvas 抓取資料：結構化的作業/quiz，以及需要交給 LLM 判讀的課程頁面與作業說明（僅新增或有變動者）。"""
+import hashlib
 import html
 import json
 import os
@@ -29,7 +30,9 @@ def get(path):
 
 def to_text(body):
     """HTML 轉純文字，保留換行；超連結轉成 [文字](URL) 讓 LLM 取得資源網址。"""
-    body = re.sub(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', r"[\2](\1)", body or "", flags=re.S)
+    # Canvas 檔案連結的 verifier 參數可讓人免登入下載，網頁公開，故移除（改為需登入 Canvas）
+    body = re.sub(r'(canvas\.ics\.hit-u\.ac\.jp/[^"?]+)\?[^"]*verifier=[^"]*', r"\1", body or "")
+    body = re.sub(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', r"[\2](\1)", body, flags=re.S)
     body = re.sub(r"<(br|/p|/li|/h\d|/div|/tr)[^>]*>", "\n", body)
     text = html.unescape(re.sub(r"<[^>]+>", " ", body))
     return "\n".join(line.strip() for line in text.splitlines() if line.strip())
@@ -41,7 +44,6 @@ def fetch_canvas_items():
     for p in get(f"/api/v1/planner/items?start_date={start}&per_page=100"):
         if p.get("course_id") not in COURSES or p["plannable_type"] not in TODO_TYPES:
             continue
-        subs = p.get("submissions") or {}
         items.append({
             "id": f"canvas:{p['plannable_type']}:{p['plannable_id']}",
             "course": COURSES[p["course_id"]],
@@ -49,7 +51,6 @@ def fetch_canvas_items():
             "type": p["plannable_type"],
             "due": p.get("plannable_date"),
             "url": BASE + p["html_url"],
-            "submitted": bool(subs.get("submitted")) if isinstance(subs, dict) else False,
             "source": "canvas",
             # 取得作業說明用的 API 路徑，寫檔前移除
             "api": f"/api/v1/courses/{p['course_id']}/{TODO_TYPES[p['plannable_type']][0]}/{p['plannable_id']}",
@@ -64,14 +65,16 @@ def fetch_pages(canvas_items):
 
     def check(url, updated_at, entry):
         current[url] = updated_at
-        if cache.get(url, {}).get("updated_at") != updated_at:
+        if url not in cache or cache[url].get("updated_at") != updated_at:
             changed.append({"page_url": url, "updated_at": updated_at, **entry})
 
     # Canvas 作業/quiz 的說明，交給 LLM 產生一句話摘要
     for it in canvas_items:
         a = get(it.pop("api"))
-        check(it["url"], a.get("updated_at"),
-              {"kind": "canvas_item", "course": it["course"], "title": it["title"], "text": to_text(a.get(TODO_TYPES[it["type"]][1]))})
+        text = to_text(a.get(TODO_TYPES[it["type"]][1]))
+        # Quiz API 沒有 updated_at，改以說明文字的雜湊判斷是否變動
+        version = a.get("updated_at") or hashlib.md5(text.encode()).hexdigest()
+        check(it["url"], version, {"kind": "canvas_item", "course": it["course"], "title": it["title"], "text": text})
 
     for cid, code in COURSES.items():
         # Syllabus 常寫有上課時間（如 OB 的 Tuesdays / Fridays 0945-1145），供頁面缺時間時參考

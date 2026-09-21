@@ -63,7 +63,6 @@ def build(cache):
                 "summary": it.get("summary", ""),
                 "source_url": src,  # 出處（課程頁面）
                 "source_title": page["title"],
-                "submitted": False,
                 "note": it.get("note", ""),
                 "source": "page",
             })

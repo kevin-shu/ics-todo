@@ -23,7 +23,7 @@ const link = (href, text) => { const a = el("a", "", text); a.href = href; a.tar
 
 function section(item, now) {
   const due = item.due ? new Date(item.due).getTime() : Infinity;
-  if (item.submitted || checked(item.id)) return "done";
+  if (checked(item.id)) return "done";
   if (due < now) return SUBMITTABLE.has(item.type) ? "overdue" : "done";
   return "pending";
 }
@@ -36,8 +36,7 @@ function card(it, name, now, data) {
 
   const box = el("input");
   box.type = "checkbox";
-  box.checked = checked(it.id) || it.submitted;
-  box.disabled = it.submitted;
+  box.checked = checked(it.id);
   box.onchange = (e) => { setChecked(it.id, e.target.checked); render(data); };
 
   const body = el("div", "body");

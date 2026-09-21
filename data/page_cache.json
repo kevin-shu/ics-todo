@@ -34,6 +34,34 @@
   "title": "3. Peer Evaluation (Team Members)",
   "summary": "Evaluate team members' contributions and provide feedback"
  },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6099": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "01 | Problem set",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6101": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "02 | Problem set",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6103": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "03 | Problem set",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6102": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "04 | Problem set",
+  "summary": ""
+ },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules": {
   "updated_at": "MODULE 1 | Marketing, Customer Value, and Growth\n| 1 | 2026-09-21 | MON | 09:45-11:45 |\nMODULE 2 | Building the Marketing Toolbox\n| 2 | 2026-09-24 | THU | 09:45-11:45 |\n| 3 | 2026-09-28 | MON | 09:45-11:45 |\n| 4 | 2026-10-01 | THU | 09:45-11:45 |\n| 5 | 2026-10-05 | MON | 09:45-11:45 |\n| 6 | 2026-10-08 | THU | 09:45-11:45 |\n| 7 | 2026-10-12 | MON | 09:45-11:45 |\nMODULE 3 | From Analysis to Marketing Strategy\n| 8 | 2026-10-15 | THU | 09:45-11:45 |\n| 9 | 2026-10-19 | MON | 09:45-11:45 |\n| 10 | 2026-10-22 | THU | 09:45-11:45 |\n| 11 | 2026-10-26 | MON | 09:45-11:45 |\n| 12 | 2026-11-02 | MON | 9:00-13:00 |",
   "kind": "page",
@@ -52,7 +80,7 @@
     "type": "prep",
     "due": "2026-09-21T09:45:00+09:00",
     "url": null,
-    "summary": "Read the overview of marketing frameworks as a roadmap for the course.",
+    "summary": "Read the HBS note on the framework for marketing strategy formation.",
     "note": ""
    },
    {
@@ -76,7 +104,7 @@
     "type": "prep",
     "due": "2026-09-24T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on how Starbucks creates and delivers customer value.",
+    "summary": "Read the Starbucks case on delivering customer service.",
     "note": ""
    },
    {
@@ -84,7 +112,7 @@
     "type": "prep",
     "due": "2026-09-24T09:45:00+09:00",
     "url": null,
-    "summary": "Read the toolkit introducing Customer Lifetime Value (CLV) analysis.",
+    "summary": "Read the toolkit note on customer lifetime value analysis.",
     "note": ""
    }
   ]
@@ -100,7 +128,7 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the toolkit on market size and market share analysis.",
+    "summary": "Read the toolkit note on market size and market share analysis.",
     "note": ""
    },
    {
@@ -108,7 +136,7 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended overview of segmentation and targeting.",
+    "summary": "Read the recommended reading on segmentation and targeting.",
     "note": "optional"
    },
    {
@@ -116,7 +144,7 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on segmenting, targeting, and positioning Cialis in the ED market.",
+    "summary": "Read the Product Team Cialis case.",
     "note": ""
    }
   ]
@@ -140,7 +168,7 @@
     "type": "prep",
     "due": "2026-10-01T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case about why the superior Quartz shower isn't selling as expected.",
+    "summary": "Read the Aqualisa Quartz case.",
     "note": ""
    }
   ]
@@ -164,7 +192,7 @@
     "type": "prep",
     "due": "2026-10-05T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case examining distribution channel choices for launching a new wine.",
+    "summary": "Read the Château Margaux case.",
     "note": ""
    }
   ]
@@ -188,7 +216,7 @@
     "type": "prep",
     "due": "2026-10-08T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on deciding how to price the newly approved drug Angiomax.",
+    "summary": "Read The Medicines Company case.",
     "note": ""
    }
   ]
@@ -212,7 +240,7 @@
     "type": "prep",
     "due": "2026-10-12T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on Casper's promotional strategy for its next stage of growth.",
+    "summary": "Read the Casper Sleep case.",
     "note": ""
    }
   ]
@@ -225,17 +253,25 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27527": {
-  "updated_at": "2026-09-21T06:05:18Z",
+  "updated_at": "2026-09-21T11:11:45Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 01 |1245-1445, Mon, Sep 21, 2026",
   "items": [
    {
-    "title": "Prep: LLH Ch.1 and Ch.5 (-p.250)",
+    "title": "Prep: LLH Ch.1",
     "type": "prep",
     "due": "2026-09-21T12:45:00+09:00",
     "url": null,
-    "summary": "Read chapter 1 and chapter 5 (up to p.250) of the textbook.",
+    "summary": "Read Chapter 1 of the LLH textbook before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: LLH Ch.5 (-p.250)",
+    "type": "prep",
+    "due": "2026-09-21T12:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapter 5 (up to p.250) of the LLH textbook before class.",
     "note": ""
    },
    {
@@ -243,15 +279,15 @@
     "type": "exam",
     "due": "2026-09-21T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9636",
-    "summary": "Complete the before-class quiz.",
+    "summary": "Complete the quiz before class begins.",
     "note": ""
    },
    {
     "title": "01 | Problem set",
     "type": "assignment",
-    "due": "2026-09-24T09:30:00+09:00",
+    "due": "2026-09-28T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9630",
-    "summary": "Submit the problem set homework.",
+    "summary": "Complete and submit the problem set (deadline extended).",
     "note": ""
    }
   ]
@@ -267,7 +303,7 @@
     "type": "prep",
     "due": "2026-09-24T12:45:00+09:00",
     "url": null,
-    "summary": "Read chapter 2 of the textbook.",
+    "summary": "Read Chapter 2 of the LLH textbook before class.",
     "note": ""
    },
    {
@@ -275,7 +311,7 @@
     "type": "assignment",
     "due": "2026-09-28T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9632",
-    "summary": "Submit the problem set homework.",
+    "summary": "Complete and submit the problem set assignment.",
     "note": ""
    }
   ]
@@ -291,7 +327,7 @@
     "type": "prep",
     "due": "2026-09-28T12:45:00+09:00",
     "url": null,
-    "summary": "Read chapter 3 of the textbook.",
+    "summary": "Read Chapter 3 of the LLH textbook before class.",
     "note": ""
    },
    {
@@ -299,7 +335,7 @@
     "type": "assignment",
     "due": "2026-10-01T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
-    "summary": "Submit the problem set homework.",
+    "summary": "Complete and submit the problem set assignment.",
     "note": ""
    }
   ]
@@ -315,7 +351,7 @@
     "type": "prep",
     "due": "2026-10-01T12:45:00+09:00",
     "url": null,
-    "summary": "Read chapter 4 of the textbook.",
+    "summary": "Read Chapter 4 of the LLH textbook before class.",
     "note": ""
    },
    {
@@ -323,7 +359,7 @@
     "type": "assignment",
     "due": "2026-10-05T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9633",
-    "summary": "Submit the problem set homework.",
+    "summary": "Complete and submit the problem set assignment.",
     "note": ""
    }
   ]
@@ -339,7 +375,7 @@
     "type": "exam",
     "due": "2026-10-29T09:00:00+09:00",
     "url": null,
-    "summary": "Take the final exam in Classroom 2.",
+    "summary": "Take the final exam.",
     "note": ""
    }
   ]
@@ -378,15 +414,15 @@
     "type": "prep",
     "due": "2026-09-22T09:45:00+09:00",
     "url": null,
-    "summary": "Read the introductory chapter on organizational behavior.",
+    "summary": "Read Chapter 1 of the textbook.",
     "note": ""
    },
    {
-    "title": "Prep: NPR Podcast – Hard Work Is Irrelevant",
+    "title": "Prep: NPR Podcast – Hard Work Is Irrelevant (Episode 647)",
     "type": "prep",
     "due": "2026-09-22T09:45:00+09:00",
     "url": "https://www.npr.org/sections/money/2017/09/13/550793717/episode-647-hard-work-is-irrelevant",
-    "summary": "Listen to the podcast on Netflix's culture and be ready to discuss it.",
+    "summary": "Listen to the podcast and be ready to discuss Netflix's culture.",
     "note": ""
    }
   ]
@@ -398,11 +434,11 @@
   "title": "SESSION 2 | Sep. 25 FRI | Intragroup dynamics",
   "items": [
    {
-    "title": "Prep: Textbook Ch.9. Foundations of Group Behavior",
+    "title": "Prep: Textbook Chap 9. Foundations of Group Behavior",
     "type": "prep",
     "due": "2026-09-25T09:45:00+09:00",
     "url": null,
-    "summary": "Read the optional textbook chapter on foundations of group behavior.",
+    "summary": "Read Chapter 9 on foundations of group behavior.",
     "note": "optional"
    },
    {
@@ -434,23 +470,23 @@
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case about managing a global team at Sun Microsystems.",
+    "summary": "Read the case on managing a global team at Sun Microsystems.",
     "note": ""
    },
    {
-    "title": "Prep: Textbook Ch.6",
+    "title": "Prep: Textbook Chapter 6",
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": null,
-    "summary": "Read chapter 6 of the textbook.",
+    "summary": "Read Chapter 6 of the textbook.",
     "note": ""
    },
    {
-    "title": "Prep: The Blue Eyes, Brown Eyes Experiment video clip",
+    "title": "Prep: The Blue Eyes, Brown Eyes Experiment (video)",
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=dLAi78hluFc&ab_channel=chel.by.the.seas",
-    "summary": "Watch the clip and reflect on how it influenced children's perceptions.",
+    "summary": "Watch the clip and reflect on the discussion questions.",
     "note": ""
    },
    {
@@ -470,27 +506,27 @@
   "title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
   "items": [
    {
-    "title": "Prep: Textbook Ch.4",
+    "title": "Prep: Textbook Chapter 4",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": null,
-    "summary": "Read the optional textbook chapter on emotion and leadership.",
+    "summary": "Read Chapter 4 of the textbook.",
     "note": "optional"
    },
    {
-    "title": "Prep: The Dark Side of Emotional Intelligence (A. Grant, 2014)",
+    "title": "Prep: A. Grant (2014) - The Dark Side of Emotional Intelligence",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
-    "url": "https://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/",
+    "url": null,
     "summary": "Read the article on the dark side of emotional intelligence.",
     "note": "optional"
    },
    {
-    "title": "Prep: The Dark Triad of personality: A 10 year review (Furnham et al., 2013)",
+    "title": "Prep: Furnham et al. (2013) - The Dark Triad of Personality: A 10 Year Review",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": null,
-    "summary": "Read the academic review on the Dark Triad of personality.",
+    "summary": "Read the review on the Dark Triad of personality.",
     "note": "optional"
    }
   ]
@@ -502,11 +538,11 @@
   "title": "Module outline",
   "items": [
    {
-    "title": "Midterm Exam",
+    "title": "Midterm",
     "type": "exam",
     "due": "2026-10-16T12:45:00+09:00",
     "url": null,
-    "summary": "Take the midterm exam.",
+    "summary": "Midterm exam.",
     "note": ""
    },
    {
@@ -514,7 +550,7 @@
     "type": "exam",
     "due": "2026-11-03T09:00:00+09:00",
     "url": null,
-    "summary": "Take the final exam.",
+    "summary": "Final exam.",
     "note": ""
    }
   ]
@@ -529,8 +565,8 @@
     "title": "Prep: Price Elasticity of Demand and Revenue",
     "type": "prep",
     "due": "2026-09-29T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/135710?verifier=f7d210e3-0b7a-4ba4-9df7-9d976a52728f&wrap=1",
-    "summary": "Read this material in advance of Session 3 to follow the in-class discussion.",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/135710",
+    "summary": "Read this material in advance of Session 3.",
     "note": ""
    }
   ]
