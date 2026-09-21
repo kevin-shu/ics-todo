@@ -10,7 +10,7 @@
 - 課程頁面沒有 Canvas 的 to-do date，預習只寫在 Page 內文 → 交給 Haiku（page-extractor）判讀，並以 `updated_at` 快取，只讀有變動的頁面。
 - 各課上課日期格式不一，Python 難以解析 → 日期判斷也交給 Haiku。
 - ECON 的考試只寫在 Module 名稱 → 每門課加一頁「Module 大綱」虛擬頁面。
-- OB 頁面只有日期沒有時間 → 規則：時間用 00:00，note 寫「時間未定」。
+- OB 頁面只有日期沒有時間 → 每頁附上 Syllabus 前 1000 字，由其中的固定上課時間補上；仍找不到才用 00:00 並標 `time TBD`（網頁顯示 before class）。
 - Haiku 會把 Canvas 已有的 quiz 從頁面再抽一次 → build.py 去重不限類型，同課標題相符就以 Canvas 為準。
 - 在同一個 Claude Code session 中新建的 `.claude/agents/*` 不會被載入，要重開 session 才能用 `subagent_type: page-extractor`。
 - 雲端環境只能從 claude.ai/code 輸入框上方的雲朵圖示 → Add cloud environment 建立，CLI 無法建立；新建環境後要重新載入 `/schedule` 才拿得到 environment id。

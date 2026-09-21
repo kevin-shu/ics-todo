@@ -10,3 +10,5 @@
 	=> kevin-shu/ics-todo（public），Pages 於 https://kevin-shu.github.io/ics-todo/ (71362ca)
 - [x] Feature: 建立每日 19:00 JST 雲端 routine
 	=> routine trig_01FBGyPmMuY8DtfWaVKAYnEh，環境 ics-todo；首次雲端執行成功 push (7cb131c)
+- [x] Improve: 標題連到資源本身、每張卡片加一句話摘要、source 行、Syllabus 補上課時間、英文介面與 ICS 識別色
+	=> 預習每個資源各一筆，Canvas 作業說明也由 Haiku 摘要；介面改英文白底 #00428e (036f238)
