@@ -12,3 +12,5 @@
 	=> routine trig_01FBGyPmMuY8DtfWaVKAYnEh，環境 ics-todo；首次雲端執行成功 push (7cb131c)
 - [x] Improve: 標題連到資源本身、每張卡片加一句話摘要、source 行、Syllabus 補上課時間、英文介面與 ICS 識別色
 	=> 預習每個資源各一筆，Canvas 作業說明也由 Haiku 摘要；介面改英文白底 #00428e (036f238)
+- [x] Improve: 抽出頁面中交代給之後課堂的預習、page-extractor 改用 Sonnet、禁止輸出 token
+	=> 每頁附課程表 schedule 供查詢 Session N 日期；Haiku 會編造摘要/漏抓考試故改 Sonnet；routine prompt 加上 push 失敗即停止 (c42ac34)

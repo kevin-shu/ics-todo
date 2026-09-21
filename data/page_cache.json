@@ -52,7 +52,7 @@
     "type": "prep",
     "due": "2026-09-21T09:45:00+09:00",
     "url": null,
-    "summary": "Read the overview of major concepts and frameworks in marketing strategy.",
+    "summary": "Read the overview of marketing frameworks as a roadmap for the course.",
     "note": ""
    },
    {
@@ -60,7 +60,7 @@
     "type": "prep",
     "due": "2026-09-21T09:45:00+09:00",
     "url": null,
-    "summary": "Read the note on low-tech marketing math.",
+    "summary": "Read the HBS note on low-tech marketing math.",
     "note": ""
    }
   ]
@@ -76,7 +76,7 @@
     "type": "prep",
     "due": "2026-09-24T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Starbucks case on creating and delivering customer value.",
+    "summary": "Read the case on how Starbucks creates and delivers customer value.",
     "note": ""
    },
    {
@@ -84,7 +84,7 @@
     "type": "prep",
     "due": "2026-09-24T09:45:00+09:00",
     "url": null,
-    "summary": "Read the toolkit on Customer Lifetime Value (CLV) analysis.",
+    "summary": "Read the toolkit introducing Customer Lifetime Value (CLV) analysis.",
     "note": ""
    }
   ]
@@ -108,7 +108,7 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended reading on segmentation and targeting.",
+    "summary": "Read the recommended overview of segmentation and targeting.",
     "note": "optional"
    },
    {
@@ -116,7 +116,7 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on segmenting, targeting, and positioning Cialis.",
+    "summary": "Read the case on segmenting, targeting, and positioning Cialis in the ED market.",
     "note": ""
    }
   ]
@@ -140,7 +140,7 @@
     "type": "prep",
     "due": "2026-10-01T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on why the Quartz shower is not selling despite its superiority.",
+    "summary": "Read the case about why the superior Quartz shower isn't selling as expected.",
     "note": ""
    }
   ]
@@ -156,7 +156,7 @@
     "type": "prep",
     "due": "2026-10-05T09:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended reading on developing and managing distribution channels.",
+    "summary": "Read the recommended reading on managing distribution channels.",
     "note": "optional"
    },
    {
@@ -164,7 +164,7 @@
     "type": "prep",
     "due": "2026-10-05T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on distribution channel decisions for launching a new wine.",
+    "summary": "Read the case examining distribution channel choices for launching a new wine.",
     "note": ""
    }
   ]
@@ -188,7 +188,7 @@
     "type": "prep",
     "due": "2026-10-08T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on how to price the newly approved drug Angiomax.",
+    "summary": "Read the case on deciding how to price the newly approved drug Angiomax.",
     "note": ""
    }
   ]
@@ -212,7 +212,7 @@
     "type": "prep",
     "due": "2026-10-12T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on Casper Sleep's promotional strategy for its next growth stage.",
+    "summary": "Read the case on Casper's promotional strategy for its next stage of growth.",
     "note": ""
    }
   ]
@@ -235,7 +235,7 @@
     "type": "prep",
     "due": "2026-09-21T12:45:00+09:00",
     "url": null,
-    "summary": "Read LLH Chapter 1 and Chapter 5 up to page 250.",
+    "summary": "Read chapter 1 and chapter 5 (up to p.250) of the textbook.",
     "note": ""
    },
    {
@@ -267,7 +267,7 @@
     "type": "prep",
     "due": "2026-09-24T12:45:00+09:00",
     "url": null,
-    "summary": "Read LLH Chapter 2.",
+    "summary": "Read chapter 2 of the textbook.",
     "note": ""
    },
    {
@@ -291,7 +291,7 @@
     "type": "prep",
     "due": "2026-09-28T12:45:00+09:00",
     "url": null,
-    "summary": "Read LLH Chapter 3.",
+    "summary": "Read chapter 3 of the textbook.",
     "note": ""
    },
    {
@@ -315,7 +315,7 @@
     "type": "prep",
     "due": "2026-10-01T12:45:00+09:00",
     "url": null,
-    "summary": "Read LLH Chapter 4.",
+    "summary": "Read chapter 4 of the textbook.",
     "note": ""
    },
    {
@@ -339,7 +339,7 @@
     "type": "exam",
     "due": "2026-10-29T09:00:00+09:00",
     "url": null,
-    "summary": "Take the final exam.",
+    "summary": "Take the final exam in Classroom 2.",
     "note": ""
    }
   ]
@@ -386,7 +386,7 @@
     "type": "prep",
     "due": "2026-09-22T09:45:00+09:00",
     "url": "https://www.npr.org/sections/money/2017/09/13/550793717/episode-647-hard-work-is-irrelevant",
-    "summary": "Listen to the podcast and be ready to discuss Netflix's workplace culture and HRM practices.",
+    "summary": "Listen to the podcast on Netflix's culture and be ready to discuss it.",
     "note": ""
    }
   ]
@@ -398,7 +398,7 @@
   "title": "SESSION 2 | Sep. 25 FRI | Intragroup dynamics",
   "items": [
    {
-    "title": "Prep: Textbook Ch.9 – Foundations of Group Behavior",
+    "title": "Prep: Textbook Ch.9. Foundations of Group Behavior",
     "type": "prep",
     "due": "2026-09-25T09:45:00+09:00",
     "url": null,
@@ -406,11 +406,19 @@
     "note": "optional"
    },
    {
-    "title": "Prep: Blog Post on Nemawashi",
+    "title": "Prep: Blog posting on Nemawashi",
     "type": "prep",
     "due": "2026-09-25T09:45:00+09:00",
     "url": "https://note.com/fukuharatamanegi/n/nc59dfba301c1",
     "summary": "Read the Japanese blog post to explore the concept of Nemawashi.",
+    "note": ""
+   },
+   {
+    "title": "Sign up for team project meeting timeslot",
+    "type": "task",
+    "due": "2026-09-29T09:45:00+09:00",
+    "url": "https://chouseisan.com/s?h=b72efd06069543e29809f5bbc37c24cd",
+    "summary": "Sign up for a timeslot to meet with the instructor about your team project.",
     "note": ""
    }
   ]
@@ -422,11 +430,11 @@
   "title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
   "items": [
    {
-    "title": "Prep: Case #2 – Managing a Global Team: Greg James at Sun Microsystems, Inc. (A)",
+    "title": "Prep: Case #2 - Managing a Global Team: Greg James at Sun Microsystems, Inc. (A)",
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on managing a global team at Sun Microsystems.",
+    "summary": "Read the case about managing a global team at Sun Microsystems.",
     "note": ""
    },
    {
@@ -434,15 +442,23 @@
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 6 of the textbook.",
+    "summary": "Read chapter 6 of the textbook.",
     "note": ""
    },
    {
-    "title": "Prep: The Blue Eyes, Brown Eyes Experiment (video)",
+    "title": "Prep: The Blue Eyes, Brown Eyes Experiment video clip",
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=dLAi78hluFc&ab_channel=chel.by.the.seas",
-    "summary": "Watch the clip and reflect on how it shaped children's perceptions and its implications for leaders.",
+    "summary": "Watch the clip and reflect on how it influenced children's perceptions.",
+    "note": ""
+   },
+   {
+    "title": "Sign up for team project meeting timeslot",
+    "type": "task",
+    "due": "2026-09-29T09:45:00+09:00",
+    "url": "https://chouseisan.com/s?h=b72efd06069543e29809f5bbc37c24cd",
+    "summary": "Sign up for a timeslot to meet with the instructor about your team project.",
     "note": ""
    }
   ]
@@ -460,6 +476,22 @@
     "url": null,
     "summary": "Read the optional textbook chapter on emotion and leadership.",
     "note": "optional"
+   },
+   {
+    "title": "Prep: The Dark Side of Emotional Intelligence (A. Grant, 2014)",
+    "type": "prep",
+    "due": "2026-10-02T09:45:00+09:00",
+    "url": "https://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/",
+    "summary": "Read the article on the dark side of emotional intelligence.",
+    "note": "optional"
+   },
+   {
+    "title": "Prep: The Dark Triad of personality: A 10 year review (Furnham et al., 2013)",
+    "type": "prep",
+    "due": "2026-10-02T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the academic review on the Dark Triad of personality.",
+    "note": "optional"
    }
   ]
  },
@@ -470,7 +502,7 @@
   "title": "Module outline",
   "items": [
    {
-    "title": "Midterm",
+    "title": "Midterm Exam",
     "type": "exam",
     "due": "2026-10-16T12:45:00+09:00",
     "url": null,
@@ -498,7 +530,7 @@
     "type": "prep",
     "due": "2026-09-29T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/135710?verifier=f7d210e3-0b7a-4ba4-9df7-9d976a52728f&wrap=1",
-    "summary": "Read this material in advance of Session 3 to be able to follow the discussion.",
+    "summary": "Read this material in advance of Session 3 to follow the in-class discussion.",
     "note": ""
    }
   ]

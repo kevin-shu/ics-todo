@@ -1,5 +1,5 @@
 // 讀取 data.json，依現在時間把項目分成「To do / Overdue / Done」三區顯示
-const TYPE_LABEL = { assignment: "Assignment", quiz: "Quiz", discussion_topic: "Discussion", prep: "Prep", exam: "Exam" };
+const TYPE_LABEL = { assignment: "Assignment", quiz: "Quiz", discussion_topic: "Discussion", prep: "Prep", exam: "Exam", task: "Task" };
 // 可在 Canvas 繳交的類型，過期未交才列入「Overdue」
 const SUBMITTABLE = new Set(["assignment", "quiz", "discussion_topic"]);
 const HOUR = 3600e3;

@@ -49,10 +49,10 @@
 
 ### data.json 項目欄位
 
-`id`、`course`、`title`、`type`（assignment / quiz / discussion_topic / prep / exam）、`due`（ISO，可為 null）、`url`（資源本身的連結，可為 null）、`summary`（一句英文描述）、`source_url` / `source_title`（僅頁面項目：出處課程頁面）、`submitted`、`note`（`optional` / `time TBD`）、`source`（canvas / page）、`first_seen`。
+`id`、`course`、`title`、`type`（assignment / quiz / discussion_topic / prep / exam / task）、`due`（ISO，可為 null）、`url`（資源本身的連結，可為 null）、`summary`（一句英文描述）、`source_url` / `source_title`（僅頁面項目：出處課程頁面）、`submitted`、`note`（`optional` / `time TBD`）、`source`（canvas / page）、`first_seen`。
 
 - `id`：Canvas 項目為 `canvas:<type>:<plannable_id>`；頁面項目為 `page:<page_url>#<正規化標題>`。
-- 去重：頁面抽出的項目（不論類型）若與同課 Canvas 項目標題（小寫英數字）互相包含，丟棄頁面那筆。
+- 去重：頁面抽出的項目（不論類型）若與同課 Canvas 項目標題（小寫英數字）互相包含，丟棄頁面那筆；多個頁面抽出同課同標題的項目只留一筆。
 - `first_seen`：沿用上一版 `data.json`，新項目為本次執行時間。
 
 ## 網頁顯示規則（app.js）
@@ -60,7 +60,7 @@
 - 介面英文；ICS 識別色：白底、藍色 `#00428e`。
 - **To do**：依 deadline 排序；距 deadline < 48 小時標紅。
 - **Overdue**：過了 deadline 且未繳交的 assignment / quiz / discussion_topic。
-- **Done / Past**：Canvas 顯示已繳交、手動勾選，或已過時間的預習與考試（預設收合）。
+- **Done / Past**：Canvas 顯示已繳交、手動勾選，或已過時間的預習、考試與 task（預設收合）。
 - 卡片：標題連到資源本身（無則純文字）、下方一句 summary、課程/類型/時間，頁面項目最後一行為 `(source: <課程頁面>)`。
 - `first_seen` 在 24 小時內顯示 NEW。
 - 勾選狀態存在瀏覽器 localStorage（`done:<id>`），只在該瀏覽器有效。

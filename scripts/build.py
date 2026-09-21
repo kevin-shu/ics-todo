@@ -40,6 +40,7 @@ def build(cache):
     for i in items:
         i["summary"] = cache.get(i["url"], {}).get("summary", "")
     canvas_titles = {(i["course"], norm(i["title"])) for i in items}
+    page_seen = set()  # 同一事項可能寫在多個頁面（如 OB 的登記時段），同課同標題只留一筆
     for src, page in cache.items():
         if page["kind"] != "page":
             continue
@@ -49,6 +50,9 @@ def build(cache):
                 c == page["course"] and (norm(it["title"]) in t or t in norm(it["title"])) for c, t in canvas_titles
             ):
                 continue
+            if (page["course"], norm(it["title"])) in page_seen:
+                continue
+            page_seen.add((page["course"], norm(it["title"])))
             items.append({
                 "id": f"page:{src}#{norm(it['title'])}",
                 "course": page["course"],

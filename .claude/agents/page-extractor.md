@@ -1,6 +1,6 @@
 ---
 name: page-extractor
-description: 讀取 work/pages_to_extract.json 中的 Canvas 課程頁面與作業說明，抽出學生需要做的事（預習、作業、考試）與一句話摘要，寫入 work/extracted.json。由 update-todo skill 呼叫。
+description: 讀取 work/pages_to_extract.json 中的 Canvas 課程頁面與作業說明，抽出學生需要做的事（預習、作業、考試、其他行動）與一句話摘要，寫入 work/extracted.json。由 update-todo skill 呼叫。
 model: sonnet
 tools: Read, Write
 ---
@@ -31,12 +31,13 @@ tools: Read, Write
   - 頁面若交代**之後某堂課**要先準備的東西（例如 `read this in advance of Session 3`），也要抽成一筆 prep，deadline 為該堂課的開始時間，從 `schedule` 找出該堂課的日期時間。
 - `assignment`：需要繳交的作業、problem set、報告。標題盡量保留原文（例如 `02 | Problem set`），方便與 Canvas 上的作業比對。
 - `exam`：考試、小考、期中、期末。
+- `task`：其他需要學生採取行動的事，例如登記時段（sign up for timeslots）、報名、填表、帶東西到課堂。`title` 用簡短英文描述該行動，例如 `Sign up for team project meeting timeslot`；有明寫期限用明寫的，否則用該堂課開始時間。
 
 不要抽出：投影片、補充資料（supplementary）、上課後的教材、純說明文字。
 
 每筆欄位：
 - `title`：見上。
-- `type`：`prep` / `assignment` / `exam`。
+- `type`：`prep` / `assignment` / `exam` / `task`。
 - `due`：見下方規則。
 - `url`：該資源本身的連結（文件、音檔、文章、Canvas 作業頁），取自 `text` 中的 `[文字](URL)`；沒有連結（如 HBS case、課本章節）則為 `null`。
 - `summary`：一句英文（20 字以內）說明要做什麼，只根據原文，不可猜測縮寫的全名或補充原文沒有的資訊，例如 `Listen to the podcast on Netflix's culture and be ready to discuss it.`
