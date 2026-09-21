@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ICS 課程待辦</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --card: #fff; --text: #1d1d1f; --muted: #6e6e73; --line: #e3e3e0;
+    --red: #d92d20; --red-bg: #fdecea; --new: #1a7f37;
+    --MK: #b54708; --FA: #175cd3; --OB: #7a2e98; --ECON: #067647;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161617; --card: #202022; --text: #f2f2f3; --muted: #a1a1a6; --line: #333336;
+      --red: #ff6b5e; --red-bg: #3a1e1c; --new: #4ac26b;
+      --MK: #fdb022; --FA: #84adff; --OB: #d6a4f5; --ECON: #47cd89;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 -apple-system, "Noto Sans TC", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  h2 { font-size: 16px; margin: 28px 0 8px; color: var(--muted); }
+  #updated { color: var(--muted); font-size: 13px; }
+  ul { list-style: none; padding: 0; margin: 0; }
+  li { display: flex; gap: 10px; align-items: flex-start; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; margin-bottom: 8px; }
+  li.urgent { border-color: var(--red); background: var(--red-bg); }
+  li input { margin-top: 4px; flex: none; }
+  .body { flex: 1; min-width: 0; }
+  .meta { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .course { font-weight: 700; }
+  .due { font-variant-numeric: tabular-nums; }
+  li.urgent .due { color: var(--red); font-weight: 600; }
+  .new { color: var(--new); font-weight: 700; font-size: 12px; }
+  a { color: inherit; text-decoration: none; overflow-wrap: anywhere; }
+  a:hover { text-decoration: underline; }
+  details summary { cursor: pointer; }
+  details li { opacity: .6; }
+  .empty { color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>ICS 課程待辦</h1>
+  <div id="updated"></div>
+  <h2>未完成</h2>
+  <ul id="pending"></ul>
+  <h2>已過期未交</h2>
+  <ul id="overdue"></ul>
+  <details>
+    <summary><h2 style="display:inline">已完成 / 已結束</h2></summary>
+    <ul id="done"></ul>
+  </details>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

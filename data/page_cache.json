@@ -1,0 +1,274 @@
+{
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules": {
+  "updated_at": "MODULE 1 | Marketing, Customer Value, and Growth\n| 1 | 2026-09-21 | MON | 09:45-11:45 |\nMODULE 2 | Building the Marketing Toolbox\n| 2 | 2026-09-24 | THU | 09:45-11:45 |\n| 3 | 2026-09-28 | MON | 09:45-11:45 |\n| 4 | 2026-10-01 | THU | 09:45-11:45 |\n| 5 | 2026-10-05 | MON | 09:45-11:45 |\n| 6 | 2026-10-08 | THU | 09:45-11:45 |\n| 7 | 2026-10-12 | MON | 09:45-11:45 |\nMODULE 3 | From Analysis to Marketing Strategy\n| 8 | 2026-10-15 | THU | 09:45-11:45 |\n| 9 | 2026-10-19 | MON | 09:45-11:45 |\n| 10 | 2026-10-22 | THU | 09:45-11:45 |\n| 11 | 2026-10-26 | MON | 09:45-11:45 |\n| 12 | 2026-11-02 | MON | 9:00-13:00 |",
+  "course": "MK",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27900": {
+  "updated_at": "2026-09-21T03:25:29Z",
+  "course": "MK",
+  "items": [
+   {
+    "title": "預習：Framework for Marketing Strategy Formation (HBS 8153)；Note on Low-Tech Marketing Math (HBS 599011)",
+    "type": "prep",
+    "due": "2026-09-21T09:45:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27913": {
+  "updated_at": "2026-09-16T10:28:27Z",
+  "course": "MK",
+  "items": [
+   {
+    "title": "預習：Starbucks case (HBS 504016)；CLV reading (HBS 511029)",
+    "type": "prep",
+    "due": "2026-09-24T09:45:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27902": {
+  "updated_at": "2026-09-16T10:28:36Z",
+  "course": "MK",
+  "items": [
+   {
+    "title": "預習：Market Size & Market Share Analysis (HBS 510081)；Segmentation & Targeting (HBS 8219)；Product Team Cialis (HBS 505038)",
+    "type": "prep",
+    "due": "2026-09-28T09:45:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903": {
+  "updated_at": "2026-09-16T10:28:42Z",
+  "course": "MK",
+  "items": [
+   {
+    "title": "預習：Product Policy (HBS 8208)；Aqualisa Quartz (HBS 502030)",
+    "type": "prep",
+    "due": "2026-10-01T09:45:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27904": {
+  "updated_at": "2026-09-16T10:29:12Z",
+  "course": "MK",
+  "items": [
+   {
+    "title": "預習：Channels of Distribution (HBS 8149)；Château Margaux (HBS 513107)",
+    "type": "prep",
+    "due": "2026-10-05T09:45:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27905": {
+  "updated_at": "2026-09-16T10:29:18Z",
+  "course": "MK",
+  "items": [
+   {
+    "title": "預習：Pricing Strategy (HBS 8203)；The Medicines Company (HBS 502006)",
+    "type": "prep",
+    "due": "2026-10-08T09:45:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27906": {
+  "updated_at": "2026-09-16T10:29:23Z",
+  "course": "MK",
+  "items": [
+   {
+    "title": "預習：Marketing Communications (HBS 8186)；Casper Sleep (HBS 517042)",
+    "type": "prep",
+    "due": "2026-10-12T09:45:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules": {
+  "updated_at": "MODULE 1 | General Topics\nMODULE 2 | Specific Topics\nFINAL",
+  "course": "FA",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27527": {
+  "updated_at": "2026-09-21T06:05:18Z",
+  "course": "FA",
+  "items": [
+   {
+    "title": "預習：LLH Ch.1 and Ch.5",
+    "type": "prep",
+    "due": "2026-09-21T12:45:00+09:00",
+    "note": ""
+   },
+   {
+    "title": "01 | Before Class Quiz",
+    "type": "exam",
+    "due": "2026-09-21T09:30:00+09:00",
+    "note": ""
+   },
+   {
+    "title": "01 | Problem set",
+    "type": "assignment",
+    "due": "2026-09-24T09:30:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27528": {
+  "updated_at": "2026-09-20T14:09:19Z",
+  "course": "FA",
+  "items": [
+   {
+    "title": "預習：LLH Ch.2",
+    "type": "prep",
+    "due": "2026-09-24T12:45:00+09:00",
+    "note": ""
+   },
+   {
+    "title": "02 | Problem set",
+    "type": "assignment",
+    "due": "2026-09-28T09:30:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529": {
+  "updated_at": "2026-09-20T14:09:56Z",
+  "course": "FA",
+  "items": [
+   {
+    "title": "預習：LLH Ch.3",
+    "type": "prep",
+    "due": "2026-09-28T12:45:00+09:00",
+    "note": ""
+   },
+   {
+    "title": "03 | Problem set",
+    "type": "assignment",
+    "due": "2026-10-01T09:30:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530": {
+  "updated_at": "2026-09-20T14:10:17Z",
+  "course": "FA",
+  "items": [
+   {
+    "title": "預習：LLH Ch.4",
+    "type": "prep",
+    "due": "2026-10-01T12:45:00+09:00",
+    "note": ""
+   },
+   {
+    "title": "04 | Problem set",
+    "type": "assignment",
+    "due": "2026-10-05T09:30:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28092": {
+  "updated_at": "2026-09-19T05:43:11Z",
+  "course": "FA",
+  "items": [
+   {
+    "title": "Final Exam",
+    "type": "exam",
+    "due": "2026-10-29T09:00:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules": {
+  "updated_at": "INTRODUCTION SESSION\n| MODULE 1 | Know how to work with others\n| MODULE 2 | Know yourself\n| MODULE 3 |  Know where you work",
+  "course": "OB",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27852": {
+  "updated_at": "2026-08-20T14:50:34Z",
+  "course": "OB",
+  "items": [
+   {
+    "title": "預習：Syllabus",
+    "type": "prep",
+    "due": "2026-09-22T00:00:00+09:00",
+    "note": "時間未定"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27853": {
+  "updated_at": "2026-08-20T14:50:41Z",
+  "course": "OB",
+  "items": [
+   {
+    "title": "預習：Textbook Ch.1；NPR Podcast (Hard Work Is Irrelevant)",
+    "type": "prep",
+    "due": "2026-09-22T00:00:00+09:00",
+    "note": "時間未定"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854": {
+  "updated_at": "2026-09-19T10:00:53Z",
+  "course": "OB",
+  "items": [
+   {
+    "title": "預習：Case #1；Textbook Ch.9；Nemawashi blog posting",
+    "type": "prep",
+    "due": "2026-09-25T00:00:00+09:00",
+    "note": "時間未定"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855": {
+  "updated_at": "2026-09-21T05:36:41Z",
+  "course": "OB",
+  "items": [
+   {
+    "title": "預習：Case #2；Textbook Ch.6；The Blue Eyes, Brown Eyes Experiment",
+    "type": "prep",
+    "due": "2026-09-29T00:00:00+09:00",
+    "note": "時間未定"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856": {
+  "updated_at": "2026-09-21T05:40:31Z",
+  "course": "OB",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules": {
+  "updated_at": "MODULE 1 | MICROECONOMICS\n| 1 | 2026-09-22 | TUE | 12:45-14:45 |\n| 2 | 2026-09-25 | FRI | 12:45-14:45 |\n| 3 | 2026-09-29 | TUE | 12:45-14:45 |\n| 4 | 2026-10-02 | FRI | 12:45-14:45 |\n| 5 | 2026-10-06 | TUE | 12:45-14:45 |\n| 6 | 2026-10-09 | FRI | 12:45-14:45 |\n| 7 | 2026-10-13 | TUE | 12:45-14:45 |\nMODULE 2: MACROECONOMICS\n| 8 | 2026-10-16 | FRI | 12:45-14:45 | Midterm\n| 9 | 2026-10-20 | TUE | 12:45-14:45 |\n| 10 | 2026-10-23 | FRI | 12:45-14:45 |\n| 11 | 2026-10-27 | TUE | 12:45-14:45 |\n| FINAL  EXAM | 2026-11-03 | TUE | 09:00-13:00 |",
+  "course": "ECON",
+  "items": [
+   {
+    "title": "Midterm Exam",
+    "type": "exam",
+    "due": "2026-10-16T12:45:00+09:00",
+    "note": ""
+   },
+   {
+    "title": "Final Exam",
+    "type": "exam",
+    "due": "2026-11-03T09:00:00+09:00",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27549": {
+  "updated_at": "2026-09-09T15:14:04Z",
+  "course": "ECON",
+  "items": [
+   {
+    "title": "預習：Porter's Five Forces Analysis；Characteristics of Consumer Demand",
+    "type": "prep",
+    "due": "2026-09-22T12:45:00+09:00",
+    "note": ""
+   }
+  ]
+ }
+}
