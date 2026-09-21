@@ -61,6 +61,10 @@ function card(it, now, data) {
 function render(data) {
   const now = Date.now();
   document.getElementById("updated").textContent = "Last updated: " + fmt(data.generated_at);
+  // 每日排程若失敗（如 token 過期），超過 36 小時未更新就顯示警告
+  const stale = document.getElementById("stale");
+  stale.hidden = now - new Date(data.generated_at).getTime() < 36 * HOUR;
+  stale.textContent = `⚠️ Data not updated since ${fmt(data.generated_at)} — may be outdated.`;
   const lists = { todo: [], past: [] };
   for (const it of data.items) lists[dueTime(it) < now ? "past" : "todo"].push(it);
   lists.todo.sort((a, b) => dueTime(a) - dueTime(b));

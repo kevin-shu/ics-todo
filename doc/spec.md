@@ -65,6 +65,7 @@
 - 勾選框代表「我做完了」：已勾選的卡片變淡、標題加刪除線，留在原位。
 - 卡片：標題連到資源本身（無則純文字）、下方一句 summary、課程/類型/時間，頁面項目最後一行為 `(source: <課程頁面>)`。
 - `first_seen` 在 24 小時內顯示 NEW。
+- `generated_at` 超過 36 小時（每日排程失敗，如 token 過期）時，頁首顯示「Data not updated since … — may be outdated.」警告。
 - 圖示：`icons/`（favicon 32、apple-touch-icon 180、manifest 用 512），由 ICS logo 補白成正方形後以 `sips` 產生；`manifest.webmanifest` 供 Android 加到主畫面。
 - 勾選狀態存在瀏覽器 localStorage（`done:<id>`），只在該瀏覽器有效。
 - 時間一律 JST，格式 `Tue 9/22 09:45`；`time TBD` 顯示為 `Tue 9/22 · before class`。

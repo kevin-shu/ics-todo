@@ -44,6 +44,7 @@
   li.checked { opacity: .5; }
   li.checked .title { text-decoration: line-through; }
   .empty { color: var(--muted); font-size: 14px; }
+  #stale { margin-top: 16px; padding: 10px 12px; border-radius: 8px; background: #fff4e5; color: #8a4b00; border: 1px solid #f5c27a; font-size: 14px; }
 </style>
 </head>
 <body>
@@ -52,6 +53,7 @@
   <div id="updated"></div>
 </div></header>
 <main>
+  <div id="stale" hidden></div>
   <h2>To do</h2>
   <ul id="todo"></ul>
   <details>
