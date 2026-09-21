@@ -59,9 +59,10 @@
 ## 網頁顯示規則（app.js）
 
 - 介面英文；ICS 識別色：白底、藍色 `#00428e`。
-- **To do**：依 deadline 排序；距 deadline < 48 小時標紅。
-- **Overdue**：過了 deadline 且未勾選的 assignment / quiz / discussion_topic。
-- **Done / Past**：手動勾選，或已過時間的預習、考試與 task（預設收合）。
+- 只依 deadline 是否已過分兩區（MECE），勾選不影響分區：
+  - **To do**：deadline 未到或無 deadline，由近到遠排序；未勾選且 48 小時內到期標紅。
+  - **Past**：deadline 已過，最近過期的在最上面（預設收合）。
+- 勾選框代表「我做完了」：已勾選的卡片變淡、標題加刪除線，留在原位。
 - 卡片：標題連到資源本身（無則純文字）、下方一句 summary、課程/類型/時間，頁面項目最後一行為 `(source: <課程頁面>)`。
 - `first_seen` 在 24 小時內顯示 NEW。
 - 圖示：`icons/`（favicon 32、apple-touch-icon 180、manifest 用 512），由 ICS logo 補白成正方形後以 `sips` 產生；`manifest.webmanifest` 供 Android 加到主畫面。

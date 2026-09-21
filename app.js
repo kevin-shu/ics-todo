@@ -1,7 +1,5 @@
-// 讀取 data.json，依現在時間把項目分成「To do / Overdue / Done」三區顯示
+// 讀取 data.json，只依 deadline 是否已過分成「To do / Past」兩區；勾選只改變卡片外觀、不移動位置
 const TYPE_LABEL = { assignment: "Assignment", quiz: "Quiz", discussion_topic: "Discussion", prep: "Prep", exam: "Exam", task: "Task" };
-// 可在 Canvas 繳交的類型，過期未交才列入「Overdue」
-const SUBMITTABLE = new Set(["assignment", "quiz", "discussion_topic"]);
 const HOUR = 3600e3;
 
 // 手動勾選狀態只存在本機瀏覽器；storage 不可用時忽略
@@ -21,17 +19,13 @@ const fmt = (iso, tbd) => {
 const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text) e.textContent = text; return e; };
 const link = (href, text) => { const a = el("a", "", text); a.href = href; a.target = "_blank"; a.rel = "noopener"; return a; };
 
-function section(item, now) {
-  const due = item.due ? new Date(item.due).getTime() : Infinity;
-  if (checked(item.id)) return "done";
-  if (due < now) return SUBMITTABLE.has(item.type) ? "overdue" : "done";
-  return "pending";
-}
+const dueTime = (it) => (it.due ? new Date(it.due).getTime() : Infinity);
 
-function card(it, name, now, data) {
-  const t = it.due ? new Date(it.due).getTime() : Infinity;
+function card(it, now, data) {
   const li = el("li");
-  if (name === "pending" && t - now < 48 * HOUR) li.className = "urgent";
+  // 已勾選：變淡加刪除線；未勾選且 48 小時內到期：標紅
+  if (checked(it.id)) li.className = "checked";
+  else if (dueTime(it) >= now && dueTime(it) - now < 48 * HOUR) li.className = "urgent";
   li.style.borderLeftColor = `var(--${it.course})`;
 
   const box = el("input");
@@ -67,16 +61,14 @@ function card(it, name, now, data) {
 function render(data) {
   const now = Date.now();
   document.getElementById("updated").textContent = "Last updated: " + fmt(data.generated_at);
-  const lists = { pending: [], overdue: [], done: [] };
-  for (const it of data.items) lists[section(it, now)].push(it);
-  const t = (it) => (it.due ? new Date(it.due).getTime() : Infinity);
-  lists.pending.sort((a, b) => t(a) - t(b));
-  lists.overdue.sort((a, b) => t(a) - t(b));
-  lists.done.sort((a, b) => t(b) - t(a));
+  const lists = { todo: [], past: [] };
+  for (const it of data.items) lists[dueTime(it) < now ? "past" : "todo"].push(it);
+  lists.todo.sort((a, b) => dueTime(a) - dueTime(b));
+  lists.past.sort((a, b) => dueTime(b) - dueTime(a)); // 最近才過期的在最上面
 
   for (const [name, items] of Object.entries(lists)) {
     const ul = document.getElementById(name);
-    ul.replaceChildren(...(items.length ? items.map((it) => card(it, name, now, data)) : [el("p", "empty", "Nothing here")]));
+    ul.replaceChildren(...(items.length ? items.map((it) => card(it, now, data)) : [el("p", "empty", "Nothing here")]));
   }
 }
 
