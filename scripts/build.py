@@ -25,7 +25,10 @@ def update_cache():
     current = load(WORK / "current_pages.json", {})
     extracted = load(WORK / "extracted.json", {})
     for p in load(WORK / "pages_to_extract.json", []):
-        cache[p["page_url"]] = {"updated_at": p["updated_at"], "course": p["course"], "items": extracted[p["page_url"]]}
+        # page：{items: [...]}；canvas_item：{summary}
+        out = extracted[p["page_url"]]
+        body = {"items": out} if p["kind"] == "page" else {"summary": out.get("summary", "")}
+        cache[p["page_url"]] = {"updated_at": p["updated_at"], "kind": p["kind"], "course": p["course"], "title": p["title"], **body}
     cache = {url: v for url, v in cache.items() if url in current}
     CACHE.parent.mkdir(exist_ok=True)
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1))
@@ -34,8 +37,12 @@ def update_cache():
 
 def build(cache):
     items = load(WORK / "canvas_items.json", [])
+    for i in items:
+        i["summary"] = cache.get(i["url"], {}).get("summary", "")
     canvas_titles = {(i["course"], norm(i["title"])) for i in items}
-    for url, page in cache.items():
+    for src, page in cache.items():
+        if page["kind"] != "page":
+            continue
         for it in page["items"]:
             # 頁面上的項目若已出現在 Canvas（同課、標題互相包含），以 Canvas 為準（有繳交狀態）
             if any(
@@ -43,12 +50,15 @@ def build(cache):
             ):
                 continue
             items.append({
-                "id": f"page:{url}#{norm(it['title'])}",
+                "id": f"page:{src}#{norm(it['title'])}",
                 "course": page["course"],
                 "title": it["title"],
                 "type": it["type"],
                 "due": it["due"],
-                "url": url,
+                "url": it.get("url"),  # 資源本身的連結，可能為 None
+                "summary": it.get("summary", ""),
+                "source_url": src,  # 出處（課程頁面）
+                "source_title": page["title"],
                 "submitted": False,
                 "note": it.get("note", ""),
                 "source": "page",
