@@ -79,6 +79,10 @@ def fetch_pages(canvas_items):
         modules = get(f"/api/v1/courses/{cid}/modules?include[]=items&per_page=100")
         # 考試常只寫在 Module 名稱（如 ECON 的 Midterm / FINAL EXAM），把整門課的 Module 大綱當成一頁虛擬頁面；以大綱內容本身作為變動判斷依據
         outline = "\n".join(m["name"] for m in modules)
+        # 課程表：所有 Module 名稱與其下 Page 標題（上課日期寫在其中之一），讓 LLM 查「Session N」是哪天，以抽出頁面中交代給之後課堂的預習
+        schedule = "\n".join(
+            "\n".join([m["name"]] + [f"  - {it['title']}" for it in m.get("items", []) if it["type"] == "Page"]) for m in modules
+        )
         check(f"{BASE}/courses/{cid}/modules", outline,
               {"kind": "page", "course": code, "module": "(all module names)", "title": "Module outline", "syllabus": syllabus, "text": outline})
         for m in modules:
@@ -91,7 +95,7 @@ def fetch_pages(canvas_items):
                     print("skip", it["title"], e)
                     continue
                 check(it["html_url"], page["updated_at"],
-                      {"kind": "page", "course": code, "module": m["name"], "title": it["title"], "syllabus": syllabus, "text": to_text(page.get("body"))})
+                      {"kind": "page", "course": code, "module": m["name"], "title": it["title"], "syllabus": syllabus, "schedule": schedule, "text": to_text(page.get("body"))})
     return current, changed
 
 

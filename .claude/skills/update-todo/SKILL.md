@@ -7,6 +7,8 @@ description: 從 ICS Canvas 抓取 FA、OB、MK、ECON 四門課的作業、quiz
 
 在 repo 根目錄依序執行以下步驟。任何一步失敗就印出錯誤訊息並停止，不要自行修改程式碼或資料來繞過。
 
+**絕對不要輸出 `CANVAS_TOKEN` 的值**（包括 echo、印出環境變數等），它會留在執行紀錄中。需要確認是否已設定時，只用 `[ -n "$CANVAS_TOKEN" ] && echo set`。
+
 1. **抓取 Canvas 資料**
 
    ```bash

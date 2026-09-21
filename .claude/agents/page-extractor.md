@@ -1,7 +1,7 @@
 ---
 name: page-extractor
 description: 讀取 work/pages_to_extract.json 中的 Canvas 課程頁面與作業說明，抽出學生需要做的事（預習、作業、考試）與一句話摘要，寫入 work/extracted.json。由 update-todo skill 呼叫。
-model: haiku
+model: sonnet
 tools: Read, Write
 ---
 
@@ -16,6 +16,7 @@ tools: Read, Write
 - `title`：頁面或作業標題；頁面標題可能含上課日期，例如 `Class 02 |1245-1545, Thu, Sep 24, 2026` 或 `SESSION 2 | Sep. 25 FRI | ...`
 - `module`（僅 page）：所屬 Module 名稱，常含上課日期與時間，例如 `| 2 | 2026-09-24 | THU | 09:45-11:45 |`
 - `syllabus`（僅 page）：該課 Syllabus 開頭，常寫有固定上課時間（例如 `Tuesdays / Fridays 0945-1145`）
+- `schedule`（僅一般 page）：該課課程表，列出所有 Module 名稱與其下的 Page 標題；各堂課的日期時間寫在 Module 名稱或 Page 標題中
 - `text`：內文。超連結以 `[文字](URL)` 表示
 
 `title` 為 `Module outline` 的是虛擬頁面，`text` 是整門課所有 Module 名稱，每行一個。只從中抽出**考試**（Midterm、Final Exam 等），日期時間取自該行。
@@ -27,6 +28,7 @@ tools: Read, Write
 ## kind = page：要抽出的項目
 
 - `prep`：課前預習（PRE-SESSION ASSIGNMENTS、Readings、Read Ch.X、Case、Podcast、Come prepared to discuss 等）。**每一個要讀/看/聽的資源各為一筆**，`title` 格式為 `Prep: <資源名稱>`，例如 `Prep: Textbook Ch.1`、`Prep: NPR Podcast – Hard Work Is Irrelevant`。
+  - 頁面若交代**之後某堂課**要先準備的東西（例如 `read this in advance of Session 3`），也要抽成一筆 prep，deadline 為該堂課的開始時間，從 `schedule` 找出該堂課的日期時間。
 - `assignment`：需要繳交的作業、problem set、報告。標題盡量保留原文（例如 `02 | Problem set`），方便與 Canvas 上的作業比對。
 - `exam`：考試、小考、期中、期末。
 

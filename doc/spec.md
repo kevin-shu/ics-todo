@@ -17,7 +17,7 @@
 雲端 routine（每天 19:00 JST，Sonnet 5）
   └─ /update-todo skill
        1. scripts/fetch.py        Canvas API → work/*.json
-       2. page-extractor（Haiku）  頁面文字 → work/extracted.json
+       2. page-extractor（Sonnet）  頁面文字 → work/extracted.json
        3. scripts/build.py        合併 → data.json、data/page_cache.json
        4. git commit + push main  → GitHub Pages 更新
 網頁：index.html + app.js 讀 data.json
@@ -27,11 +27,12 @@
 
 1. **結構化項目**：Planner API `GET /api/v1/planner/items?start_date=<今天-14天>`，只保留上述 4 門課，且 `plannable_type` 為 `assignment` / `quiz` / `discussion_topic`（排除公告）。繳交狀態取自 `submissions.submitted`。
 2. **非結構化項目**：預習、只寫在頁面中的作業與考試。來源為各課 Modules 中的 Page 內文，以及每門課的「Module 大綱」虛擬頁面（所有 Module 名稱，用來抓只寫在 Module 名稱的考試）。
-   - 頁面內文的超連結轉成 `[文字](URL)` 交給 Haiku，用來取得每個待辦資源本身的連結；預習**每個資源各一筆**。
+   - 頁面內文的超連結轉成 `[文字](URL)` 交給 page-extractor，用來取得每個待辦資源本身的連結；預習**每個資源各一筆**。
    - 每頁附上該課 Syllabus 前 1000 字，頁面只有日期沒有時間時（如 OB），由 Syllabus 的固定上課時間補上。
-   - 只有新出現或 `updated_at` 改變的頁面才交給 Haiku 判讀（大綱頁以大綱文字本身當作 `updated_at`）。
+   - 每頁附上該課課程表 `schedule`（所有 Module 名稱與其下 Page 標題），頁面交代「之後某堂課」的預習時（如 ECON Session 1 頁面提到 Session 3 的 reading），由此查出該堂課時間作為 deadline。
+   - 只有新出現或 `updated_at` 改變的頁面才交給 page-extractor 判讀（大綱頁以大綱文字本身當作 `updated_at`）。
    - 判讀結果存在 `data/page_cache.json`，未變動的頁面沿用快取。
-3. **Canvas 作業說明**：對每個結構化項目呼叫 Assignment / Quiz / Discussion API 取得說明，交給 Haiku 產生一句話摘要（同樣以 `updated_at` 快取）。
+3. **Canvas 作業說明**：對每個結構化項目呼叫 Assignment / Quiz / Discussion API 取得說明，交給 page-extractor 產生一句話摘要（同樣以 `updated_at` 快取）。
 
 ## 檔案
 
