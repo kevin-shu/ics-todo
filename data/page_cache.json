@@ -388,7 +388,7 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27852": {
-  "updated_at": "2026-08-20T14:50:34Z",
+  "updated_at": "2026-09-22T04:35:25Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 1-1 | Sep. 22 TUE | Course Introduction",
@@ -398,13 +398,13 @@
     "type": "prep",
     "due": "2026-09-22T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/syllabus",
-    "summary": "Read the course syllabus.",
+    "summary": "Read the course syllabus before the first session.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27853": {
-  "updated_at": "2026-08-20T14:50:41Z",
+  "updated_at": "2026-09-22T04:36:00Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 1-2 |  Sep. 22 TUE | Introduction to OB",
@@ -422,7 +422,7 @@
     "type": "prep",
     "due": "2026-09-22T09:45:00+09:00",
     "url": "https://www.npr.org/sections/money/2017/09/13/550793717/episode-647-hard-work-is-irrelevant",
-    "summary": "Listen to the podcast and be ready to discuss Netflix's culture.",
+    "summary": "Listen to the podcast on Netflix's culture and be ready to discuss it.",
     "note": ""
    }
   ]
@@ -556,7 +556,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27549": {
-  "updated_at": "2026-09-21T10:19:31Z",
+  "updated_at": "2026-09-22T06:58:05Z",
   "kind": "page",
   "course": "ECON",
   "title": "Porter's Five Forces Analysis as Introduction/Characteristics of Consumer Demand",
@@ -570,5 +570,12 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
+  "updated_at": "2026-09-22T06:56:11Z",
+  "kind": "page",
+  "course": "ECON",
+  "title": "Production Costs",
+  "items": []
  }
 }

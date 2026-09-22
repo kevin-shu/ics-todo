@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T11:21:54+00:00",
+ "generated_at": "2026-09-22T10:10:53+00:00",
  "items": [
   {
    "id": "canvas:assignment:9636",
@@ -401,7 +401,7 @@
    "type": "prep",
    "due": "2026-09-22T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/syllabus",
-   "summary": "Read the course syllabus.",
+   "summary": "Read the course syllabus before the first session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27852",
    "source_title": "SESSION 1-1 | Sep. 22 TUE | Course Introduction",
    "note": "",
@@ -429,7 +429,7 @@
    "type": "prep",
    "due": "2026-09-22T09:45:00+09:00",
    "url": "https://www.npr.org/sections/money/2017/09/13/550793717/episode-647-hard-work-is-irrelevant",
-   "summary": "Listen to the podcast and be ready to discuss Netflix's culture.",
+   "summary": "Listen to the podcast on Netflix's culture and be ready to discuss it.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27853",
    "source_title": "SESSION 1-2 |  Sep. 22 TUE | Introduction to OB",
    "note": "",
