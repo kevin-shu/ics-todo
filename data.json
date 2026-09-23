@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T10:10:53+00:00",
+ "generated_at": "2026-09-23T10:14:14+00:00",
  "items": [
   {
    "id": "canvas:assignment:9636",
@@ -521,27 +521,41 @@
    "first_seen": "2026-09-21T11:21:54+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#preptextbookchapter4",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#preptextbookch4",
    "course": "OB",
-   "title": "Prep: Textbook Chapter 4",
+   "title": "Prep: Textbook Ch.4",
    "type": "prep",
    "due": "2026-10-02T09:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 4 of the textbook.",
+   "summary": "Optionally read Chapter 4 of the textbook before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856",
    "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
    "note": "optional",
    "source": "page",
-   "first_seen": "2026-09-21T11:21:54+00:00"
+   "first_seen": "2026-09-23T10:14:14+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepvideoclipmcdonaldsjapancampaignnosmilestoday",
+   "course": "OB",
+   "title": "Prep: Video Clip – McDonald's Japan Campaign (No Smiles Today)",
+   "type": "prep",
+   "due": "2026-10-02T09:45:00+09:00",
+   "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
+   "summary": "Watch the McDonald's Japan campaign video clip before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856",
+   "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-23T10:14:14+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepagrant2014thedarksideofemotionalintelligence",
    "course": "OB",
-   "title": "Prep: A. Grant (2014) - The Dark Side of Emotional Intelligence",
+   "title": "Prep: A. Grant (2014) – The Dark Side of Emotional Intelligence",
    "type": "prep",
    "due": "2026-10-02T09:45:00+09:00",
-   "url": null,
-   "summary": "Read the article on the dark side of emotional intelligence.",
+   "url": "https://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/",
+   "summary": "Optionally read this article on the dark side of emotional intelligence.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856",
    "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
    "note": "optional",
@@ -549,18 +563,18 @@
    "first_seen": "2026-09-21T11:21:54+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepfurnhametal2013thedarktriadofpersonalitya10yearreview",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepfurnhametal2013thedarktriadofpersonality",
    "course": "OB",
-   "title": "Prep: Furnham et al. (2013) - The Dark Triad of Personality: A 10 Year Review",
+   "title": "Prep: Furnham et al. (2013) – The Dark Triad of Personality",
    "type": "prep",
    "due": "2026-10-02T09:45:00+09:00",
    "url": null,
-   "summary": "Read the review on the Dark Triad of personality.",
+   "summary": "Optionally read this academic review on the Dark Triad of personality.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856",
    "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
    "note": "optional",
    "source": "page",
-   "first_seen": "2026-09-21T11:21:54+00:00"
+   "first_seen": "2026-09-23T10:14:14+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midterm",
@@ -603,6 +617,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-09-21T10:54:47+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550#groupassignment",
+   "course": "ECON",
+   "title": "Group Assignment",
+   "type": "task",
+   "due": "2026-09-29T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/136661",
+   "summary": "Prepare answers to the study group assignment and bring them to class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550",
+   "source_title": "Profit Maximization",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-23T10:14:14+00:00"
   }
  ]
 }

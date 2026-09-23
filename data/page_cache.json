@@ -317,7 +317,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529": {
-  "updated_at": "2026-09-20T14:09:56Z",
+  "updated_at": "2026-09-23T08:52:14Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
@@ -335,7 +335,7 @@
     "type": "assignment",
     "due": "2026-10-01T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
-    "summary": "Complete and submit the problem set assignment.",
+    "summary": "Complete and submit problem set 3 by the deadline.",
     "note": ""
    }
   ]
@@ -500,33 +500,41 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856": {
-  "updated_at": "2026-09-21T05:40:31Z",
+  "updated_at": "2026-09-23T05:42:02Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
   "items": [
    {
-    "title": "Prep: Textbook Chapter 4",
+    "title": "Prep: Textbook Ch.4",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 4 of the textbook.",
+    "summary": "Optionally read Chapter 4 of the textbook before class.",
     "note": "optional"
    },
    {
-    "title": "Prep: A. Grant (2014) - The Dark Side of Emotional Intelligence",
+    "title": "Prep: Video Clip – McDonald's Japan Campaign (No Smiles Today)",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the article on the dark side of emotional intelligence.",
+    "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
+    "summary": "Watch the McDonald's Japan campaign video clip before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: A. Grant (2014) – The Dark Side of Emotional Intelligence",
+    "type": "prep",
+    "due": "2026-10-02T09:45:00+09:00",
+    "url": "https://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/",
+    "summary": "Optionally read this article on the dark side of emotional intelligence.",
     "note": "optional"
    },
    {
-    "title": "Prep: Furnham et al. (2013) - The Dark Triad of Personality: A 10 Year Review",
+    "title": "Prep: Furnham et al. (2013) – The Dark Triad of Personality",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": null,
-    "summary": "Read the review on the Dark Triad of personality.",
+    "summary": "Optionally read this academic review on the Dark Triad of personality.",
     "note": "optional"
    }
   ]
@@ -577,5 +585,21 @@
   "course": "ECON",
   "title": "Production Costs",
   "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550": {
+  "updated_at": "2026-09-23T05:55:16Z",
+  "kind": "page",
+  "course": "ECON",
+  "title": "Profit Maximization",
+  "items": [
+   {
+    "title": "Group Assignment",
+    "type": "task",
+    "due": "2026-09-29T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/136661",
+    "summary": "Prepare answers to the study group assignment and bring them to class.",
+    "note": ""
+   }
+  ]
  }
 }
