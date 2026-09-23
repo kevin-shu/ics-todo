@@ -1,6 +1,6 @@
 ---
 name: update-todo
-description: 從 ICS Canvas 抓取 FA、OB、MK、ECON 四門課的作業、quiz、考試與預習，更新 data.json 並 push 到 main，讓 GitHub Pages 上的待辦網頁同步更新。每日排程或手動更新待辦時使用。
+description: 從 ICS Canvas 抓取 MK、FA、OB、ECON、LD、MBAE、IW 七門課的作業、quiz、考試與預習，更新 data.json 並 push 到 main，讓 GitHub Pages 上的待辦網頁同步更新。每日排程或手動更新待辦時使用。
 ---
 
 # 更新 ICS 課程待辦

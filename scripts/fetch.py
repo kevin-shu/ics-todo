@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 BASE = "https://canvas.ics.hit-u.ac.jp"
-COURSES = {1371: "MK", 1372: "FA", 1373: "OB", 1374: "ECON"}
+COURSES = {1371: "MK", 1372: "FA", 1373: "OB", 1374: "ECON", 1387: "LD", 1267: "MBAE", 1377: "IW"}
 # Planner 中屬於「學生要做的事」的類型（排除 announcement 等），對應取得說明文字的 API 路徑與欄位
 TODO_TYPES = {
     "assignment": ("assignments", "description"),

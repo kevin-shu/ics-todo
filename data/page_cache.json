@@ -327,7 +327,7 @@
     "type": "prep",
     "due": "2026-09-28T12:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 3 of the LLH textbook before class.",
+    "summary": "Read Chapter 3 of the LLH textbook.",
     "note": ""
    },
    {
@@ -335,7 +335,7 @@
     "type": "assignment",
     "due": "2026-10-01T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
-    "summary": "Complete and submit problem set 3 by the deadline.",
+    "summary": "Complete and submit Problem Set 03.",
     "note": ""
    }
   ]
@@ -414,11 +414,11 @@
     "type": "prep",
     "due": "2026-09-22T09:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 1 of the textbook.",
+    "summary": "Read Chapter 1 of the OB textbook.",
     "note": ""
    },
    {
-    "title": "Prep: NPR Podcast – Hard Work Is Irrelevant (Episode 647)",
+    "title": "Prep: NPR Podcast – Hard Work Is Irrelevant",
     "type": "prep",
     "due": "2026-09-22T09:45:00+09:00",
     "url": "https://www.npr.org/sections/money/2017/09/13/550793717/episode-647-hard-work-is-irrelevant",
@@ -510,32 +510,16 @@
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": null,
-    "summary": "Optionally read Chapter 4 of the textbook before class.",
+    "summary": "Read the optional chapter on emotional intelligence.",
     "note": "optional"
    },
    {
-    "title": "Prep: Video Clip – McDonald's Japan Campaign (No Smiles Today)",
+    "title": "Prep: McDonald's Japan Campaign Video",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
-    "summary": "Watch the McDonald's Japan campaign video clip before class.",
+    "summary": "Watch the McDonald's Japan campaign video clip.",
     "note": ""
-   },
-   {
-    "title": "Prep: A. Grant (2014) – The Dark Side of Emotional Intelligence",
-    "type": "prep",
-    "due": "2026-10-02T09:45:00+09:00",
-    "url": "https://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/",
-    "summary": "Optionally read this article on the dark side of emotional intelligence.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Furnham et al. (2013) – The Dark Triad of Personality",
-    "type": "prep",
-    "due": "2026-10-02T09:45:00+09:00",
-    "url": null,
-    "summary": "Optionally read this academic review on the Dark Triad of personality.",
-    "note": "optional"
    }
   ]
  },
@@ -579,6 +563,55 @@
    }
   ]
  },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5953": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "MBAE",
+  "title": "ICS Academic Policy Mini Quiz",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5954": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "MBAE",
+  "title": "MBA in Jeopardy | DUE 2026-09-18 (FRI) | 08:00 AM",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6255": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW Session 1 Pre-session survey",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9798": {
+  "updated_at": "2026-09-23T22:45:55Z",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F26-27] IW 1 Post-session assignment",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5952": {
+  "updated_at": "a1034d945d1fe33c62bfed17493ccbf1",
+  "kind": "canvas_item",
+  "course": "MBAE",
+  "title": "Term 1 (0) | MBA ESSENTIALS | Seminar Selection | Survey",
+  "summary": "Submit your seminar preferences ranked from #1 to #11."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6256": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW Session 2 Pre-session survey",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401": {
+  "updated_at": "2026-09-19T04:16:32Z",
+  "kind": "canvas_item",
+  "course": "MBAE",
+  "title": "INDIVIDUAL REFLECTION MEMO",
+  "summary": "Write and submit an individual reflection memo on your MBA Essentials experience."
+ },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
   "updated_at": "2026-09-22T06:56:11Z",
   "kind": "page",
@@ -593,11 +626,450 @@
   "title": "Profit Maximization",
   "items": [
    {
-    "title": "Group Assignment",
+    "title": "Prepare study group assignment answers",
     "type": "task",
     "due": "2026-09-29T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/136661",
-    "summary": "Prepare answers to the study group assignment and bring them to class.",
+    "summary": "Prepare study group answers to this assignment and bring them to class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/modules": {
+  "updated_at": "MODULE 1:LEADERSHIP DEVELOPMENT ",
+  "kind": "page",
+  "course": "LD",
+  "title": "Module outline",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27863": {
+  "updated_at": "2026-09-21T12:49:27Z",
+  "kind": "page",
+  "course": "LD",
+  "title": "SESSION 1 | From Intentions to Behavior: Examining Assumptions and Leadership Patterns",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules": {
+  "updated_at": "DAY 1-2 | SEP 14-15 (MON-TUE) | TEAM BUILDING@KARUIZAWA RISING FIELD\nDAY 3 | SEP 16 (WED) | @ICS\nDAY 4 | SEP 17 (THU) | @ICS\nDAY 5 | SEP 18 (FRI) | @ICS\nJAPANESE CULTURAL MINDSET AND TEAM BUILDING\nINTERCULTURAL COMMUNICATIONS\nPRESENTATION SKILLS\nINDIVIDUAL REFLECTION MEMO",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "Module outline",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27930": {
+  "updated_at": "2026-09-09T11:57:30Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "0700 | WELCOME",
+  "items": [
+   {
+    "title": "Pack winter clothing and bring towels for the Karuizawa retreat",
+    "type": "task",
+    "due": "2026-09-14T07:00:00+09:00",
+    "url": "https://false-waterfall-52c.notion.site/Winter-Clothing-Rising-Field-Karuizawa-397d374796ea801991f4da52ce985a09?source=copy_link",
+    "summary": "Pack winter clothing and bring your own towels and toiletries.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27931": {
+  "updated_at": "2026-09-13T00:54:11Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "DAY 1-2 | SCHEDULE",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27897": {
+  "updated_at": "2026-09-13T13:42:51Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "0830-0900 | ICS TOUR & RULES",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27898": {
+  "updated_at": "2026-09-16T00:37:39Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "900-930 | PREPARING FOR EMERGENCIES ",
+  "items": [
+   {
+    "title": "Register for the ANPIC emergency safety system",
+    "type": "task",
+    "due": "2026-09-16T09:00:00+09:00",
+    "url": "https://anpic-v8.jecc.jp/hit-u/regist/",
+    "summary": "Register for the ANPIC emergency safety confirmation system.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27873": {
+  "updated_at": "2026-09-16T00:01:42Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "930-1015 | DIGITAL SETUP ",
+  "items": [
+   {
+    "title": "Bring your own device to the Digital Setup session",
+    "type": "task",
+    "due": "2026-09-16T09:30:00+09:00",
+    "url": null,
+    "summary": "Bring your own laptop or device to the session.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27874": {
+  "updated_at": "2026-09-10T02:44:47Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1030-1200 | HEALTH CHECK",
+  "items": [
+   {
+    "title": "Complete and bring health check documents",
+    "type": "task",
+    "due": "2026-09-16T10:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135646",
+    "summary": "Complete the Health Questionnaire and Registration Form, and bring a urine sample.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27875": {
+  "updated_at": "2026-09-18T04:57:12Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1300-1415 | ICS ACADEMIC POLICY",
+  "items": [
+   {
+    "title": "Prep: ICSAP for AY 2026-2027",
+    "type": "prep",
+    "due": "2026-09-16T13:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135649",
+    "summary": "Read the ICS Academic Policy document (ICSAP).",
+    "note": ""
+   },
+   {
+    "title": "ICS Academic Policy Mini Quiz",
+    "type": "assignment",
+    "due": "2026-09-16T07:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5953",
+    "summary": "Complete and submit the ICS Academic Policy Mini Quiz.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27876": {
+  "updated_at": "2026-09-18T04:52:51Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1425-1455 | IW PLACEMENT TEST",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27877": {
+  "updated_at": "2026-09-07T10:10:02Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1500-1700 | JL PLACEMENT TEST",
+  "items": [
+   {
+    "title": "Fill in the Japanese Language placement test registration form",
+    "type": "task",
+    "due": "2026-09-14T12:00:00+09:00",
+    "url": "https://forms.gle/MTrzZGvKM4KpWSeG6",
+    "summary": "Fill in the form to register for the Japanese Language placement test.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27880": {
+  "updated_at": "2026-09-17T01:42:51Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "830-1030 | DIVERSITY & INCLUSION ",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27881": {
+  "updated_at": "2026-09-16T10:59:00Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1045-1130 | STUDENT AFFAIRS",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/28089": {
+  "updated_at": "2026-09-16T11:50:38Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1130-1300 | PHOTO TAKING SESSION (during lunchtime)",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27882": {
+  "updated_at": "2026-09-22T15:47:06Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1300-1530 | SEMINAR INTRODUCTIONS ",
+  "items": [
+   {
+    "title": "Seminar Selection Survey",
+    "type": "assignment",
+    "due": "2026-09-28T12:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5952",
+    "summary": "Submit your seminar preference ranking by the deadline.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27883": {
+  "updated_at": "2026-09-08T13:18:05Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1540-1620 | SCHOLARSHIP INFORMATION SESSION (scholarship recipients only; mandatory for recipients)",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27884": {
+  "updated_at": "2026-09-17T05:52:16Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1620-1700 | CAREER SERVICE",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27886": {
+  "updated_at": "2026-09-18T01:11:19Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "830-930 | CURRICULUM PRESENTATION",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27887": {
+  "updated_at": "2026-09-18T05:47:04Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "945-1115 | LOGICAL THINKING",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27888": {
+  "updated_at": "2026-09-18T04:59:08Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1130-1230 | LEVERAGING AI FOR EFFECTIVE LEARNING",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27889": {
+  "updated_at": "2026-09-18T05:44:56Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1330-1430 | ACADEMIC INTEGRITY",
+  "items": [
+   {
+    "title": "Prep: MBA in Jeopardy (A) (HBS 9-301-033)",
+    "type": "prep",
+    "due": "2026-09-18T13:30:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1452616",
+    "summary": "Purchase and read the HBS case before the session.",
+    "note": ""
+   },
+   {
+    "title": "MBA in Jeopardy Online Poll",
+    "type": "assignment",
+    "due": "2026-09-18T08:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5954",
+    "summary": "Submit your response to the online poll about the case.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27892": {
+  "updated_at": "2026-09-18T08:08:26Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1440-1540 | LEARNING BY THE CASE METHOD",
+  "items": [
+   {
+    "title": "Prep: Learning by the Case Method (HBS 9-376-241)",
+    "type": "prep",
+    "due": "2026-09-18T14:40:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1451986",
+    "summary": "Read the HBS article on the case method before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27891": {
+  "updated_at": "2026-09-08T21:24:20Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1550-1620 | ALUMNI ASSOCIATION",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27890": {
+  "updated_at": "2026-09-08T13:18:50Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "1700-1800 | TGIF",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27081": {
+  "updated_at": "2026-09-22T07:51:40Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "SEP 23 (WED) | 0830-1145 | IKEBANA TEAM BUILDING",
+  "items": [
+   {
+    "title": "Check your Ikebana team building group assignment",
+    "type": "task",
+    "due": "2026-09-23T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/136654",
+    "summary": "Check your assigned team members for the Ikebana session.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27080": {
+  "updated_at": "2026-09-08T13:19:15Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "SEP 30 (WED) | 830-1145 | INTERCULTURAL COMMUNICATIONS 1",
+  "items": [
+   {
+    "title": "Prep: Cultural Problems Encountered by an American Technology Firm",
+    "type": "prep",
+    "due": "2026-09-30T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135622",
+    "summary": "Read the case on cultural problems at an American technology firm.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Hitotsubashi ICS Text Autumn 2026",
+    "type": "prep",
+    "due": "2026-09-30T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135623",
+    "summary": "Read the intercultural communications textbook material.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Hitotsubashi ICS Text Autumn 2026",
+    "type": "prep",
+    "due": "2026-09-30T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135619",
+    "summary": "Read the intercultural communications textbook material.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27879": {
+  "updated_at": "2026-09-08T13:19:21Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "OCT 7 (WED) | 830-1145 | INTERCULTURAL COMMUNICATIONS 2",
+  "items": [
+   {
+    "title": "Prep: Hitotsubashi ICS Text Autumn 2026",
+    "type": "prep",
+    "due": "2026-10-07T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135624",
+    "summary": "Read the intercultural communications textbook material.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Cultural Problems Encountered by an American Technology Firm",
+    "type": "prep",
+    "due": "2026-10-07T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135625",
+    "summary": "Read the case on cultural problems at an American technology firm.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27878": {
+  "updated_at": "2026-09-08T13:19:26Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "NOV 25 (WED) | 830-1145 | PRESENTATION SKILLS 1",
+  "items": [
+   {
+    "title": "Prep: Presentations Text Autumn 2026",
+    "type": "prep",
+    "due": "2026-11-25T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135626",
+    "summary": "Read the presentation skills textbook material.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27885": {
+  "updated_at": "2026-09-08T13:19:35Z",
+  "kind": "page",
+  "course": "MBAE",
+  "title": "DEC 2 (WED) | 830-1145 | PRESENTATION SKILLS 2",
+  "items": [
+   {
+    "title": "Prep: Presentations Text Autumn 2026",
+    "type": "prep",
+    "due": "2026-12-02T08:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135627",
+    "summary": "Read the presentation skills textbook material.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules": {
+  "updated_at": "| 1 | 2026-09-23 | WED | 1245-1445\n| 2 | 2026-09-30 | WED | 1245-1445\n| 3 | 2026-10-07 | WED | 1245-1445\n| 4 | 2026-10-14 | WED | 1245-1445\n| 5 | 2026-10-21 | WED | 1245-1445\n| 6 | 2026-10-28 | WED | 0900-1200\n| 7 | 2026-11-04 | WED | 1245-1445\n| 8 | 2026-11-11 | WED | 1245-1445\n| 9 | 2026-11-18 | WED | 1500-1700\n| 10 | 2026-11-25 | WED | 1245-1445\n|11 | 2026-12-02 | WED | 1245-1445\n| 12 | 2026-12-15 | TUE | 1400-1700",
+  "kind": "page",
+  "course": "IW",
+  "title": "Module outline",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27594": {
+  "updated_at": "2026-09-23T07:26:32Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 23 SEPTEMBER 2026 | SESSION 1 | THE BUSINESS CASE FOR EFFECTIVE WRITING",
+  "items": [
+   {
+    "title": "Prep: Gizmodo – This Is Why You Should Always Properly Punctuate Your Social Media Posts",
+    "type": "prep",
+    "due": "2026-09-23T12:45:00+09:00",
+    "url": "https://gizmodo.com/this-is-why-you-should-always-properly-punctuate-your-1847841745",
+    "summary": "Read the article on the importance of punctuation in writing.",
+    "note": ""
+   },
+   {
+    "title": "Pre-session survey",
+    "type": "assignment",
+    "due": "2026-09-23T08:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6255",
+    "summary": "Complete the pre-session survey before the deadline.",
+    "note": ""
+   },
+   {
+    "title": "Post-session assignment (The Business Case for Effective Writing)",
+    "type": "assignment",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9798",
+    "summary": "Submit the post-session assignment for this session.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27595": {
+  "updated_at": "2026-09-23T07:36:53Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 30 SEPTEMBER 2026 | SESSION 2 | FRAMEWORKS AND FOUNDATIONS: ARGUING THE POINT",
+  "items": [
+   {
+    "title": "Prep: Financial Times – Free Speech Is About Listening As Well As Talking",
+    "type": "prep",
+    "due": "2026-09-30T12:45:00+09:00",
+    "url": "https://www.ft.com/content/e31003e4-c241-4c6e-aaa5-bfa6229fde5f",
+    "summary": "Read the article on free speech and listening.",
+    "note": ""
+   },
+   {
+    "title": "Session 2 Pre-session Survey",
+    "type": "assignment",
+    "due": "2026-09-30T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6256",
+    "summary": "Complete and submit the pre-session survey before class.",
     "note": ""
    }
   ]

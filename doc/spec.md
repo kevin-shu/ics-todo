@@ -2,7 +2,7 @@
 
 ## 目的
 
-每天自動從 ICS Canvas（`https://canvas.ics.hit-u.ac.jp`）抓取 MK、FA、OB、ECON 四門課中「學生需要做的事」（作業、quiz、考試、預習），連同 deadline 顯示在 GitHub Pages 網頁上。
+每天自動從 ICS Canvas（`https://canvas.ics.hit-u.ac.jp`）抓取 MK、FA、OB、ECON、LD、MBAE、IW 七門課中「學生需要做的事」（作業、quiz、考試、預習），連同 deadline 顯示在 GitHub Pages 網頁上。
 
 | 代號 | Course ID |
 |---|---|
@@ -10,6 +10,9 @@
 | FA | 1372 |
 | OB | 1373 |
 | ECON | 1374 |
+| LD | 1387 |
+| MBAE | 1267 |
+| IW | 1377 |
 
 ## 架構
 

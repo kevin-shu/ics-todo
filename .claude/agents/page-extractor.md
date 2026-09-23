@@ -12,7 +12,7 @@ tools: Read, Write
 `work/pages_to_extract.json`：陣列，每筆的 `kind` 為 `page` 或 `canvas_item`：
 - `page_url`：網址（輸出時的 key）
 - `kind`：`page`（課程頁面）或 `canvas_item`（Canvas 上的作業/quiz 說明）
-- `course`：課程代號（MK / FA / OB / ECON）
+- `course`：課程代號（MK / FA / OB / ECON / LD / MBAE / IW）
 - `title`：頁面或作業標題；頁面標題可能含上課日期，例如 `Class 02 |1245-1545, Thu, Sep 24, 2026` 或 `SESSION 2 | Sep. 25 FRI | ...`
 - `module`（僅 page）：所屬 Module 名稱，常含上課日期與時間，例如 `| 2 | 2026-09-24 | THU | 09:45-11:45 |`
 - `syllabus`（僅 page）：該課 Syllabus 開頭，常寫有固定上課時間（例如 `Tuesdays / Fridays 0945-1145`）

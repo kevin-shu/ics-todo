@@ -5,6 +5,7 @@
 - 雲端排程：routine「ICS 課程待辦每日更新」（https://claude.ai/code/routines/trig_01FBGyPmMuY8DtfWaVKAYnEh），每天 19:00 JST（cron `0 10 * * *` UTC），環境 `ics-todo`（放 `CANVAS_TOKEN`、網路 Custom 允許 `canvas.ics.hit-u.ac.jp`）。
 - 網頁：https://kevin-shu.github.io/ics-todo/（GitHub Pages，main 根目錄）。
 - 本機預覽：`python3 -m http.server` 後開 `http://localhost:8000/`。
+- 新增課程：改 `scripts/fetch.py` 的 `COURSES`，並同步 `index.html` 的 `--<代號>` 顏色變數（缺了會白底白字）、`page-extractor.md` 與 `SKILL.md` 的課程名單、雲端 routine 的 prompt。
 
 ## 遇到的問題
 - 課程頁面沒有 Canvas 的 to-do date，預習只寫在 Page 內文 → 交給 page-extractor（page-extractor）判讀，並以 `updated_at` 快取，只讀有變動的頁面。
