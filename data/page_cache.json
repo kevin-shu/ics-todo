@@ -70,7 +70,7 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27900": {
-  "updated_at": "2026-09-21T03:25:29Z",
+  "updated_at": "2026-09-24T04:59:23Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 1 | Why Marketing Matters: Customer Value and Growth",
@@ -80,7 +80,7 @@
     "type": "prep",
     "due": "2026-09-21T09:45:00+09:00",
     "url": null,
-    "summary": "Read the HBS note on the framework for marketing strategy formation.",
+    "summary": "Read this overview note on major marketing concepts and frameworks as a course roadmap.",
     "note": ""
    },
    {
@@ -88,13 +88,13 @@
     "type": "prep",
     "due": "2026-09-21T09:45:00+09:00",
     "url": null,
-    "summary": "Read the HBS note on low-tech marketing math.",
+    "summary": "Read the assigned note on low-tech marketing math.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27913": {
-  "updated_at": "2026-09-16T10:28:27Z",
+  "updated_at": "2026-09-24T05:02:17Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 2 | Customer Value | Starbucks",
@@ -104,7 +104,7 @@
     "type": "prep",
     "due": "2026-09-24T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Starbucks case on delivering customer service.",
+    "summary": "Read the Starbucks case on customer value, satisfaction, and business performance.",
     "note": ""
    },
    {
@@ -118,7 +118,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27902": {
-  "updated_at": "2026-09-16T10:28:36Z",
+  "updated_at": "2026-09-24T05:03:50Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 3 | Segmentation, Targeting & Positioning | Product Team Cialis",
@@ -144,7 +144,7 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Product Team Cialis case.",
+    "summary": "Read the case on segmenting, targeting, and positioning Cialis in the ED market.",
     "note": ""
    }
   ]
