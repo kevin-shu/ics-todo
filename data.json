@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T10:13:52+00:00",
+ "generated_at": "2026-09-25T10:19:52+00:00",
  "items": [
   {
    "id": "canvas:quiz:5953",
@@ -44,6 +44,17 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-09-23T23:56:12+00:00"
+  },
+  {
+   "id": "canvas:discussion_topic:6364",
+   "course": "OB",
+   "title": "Post-Class Discussion for Session #2 (Sept. 25) ",
+   "type": "discussion_topic",
+   "due": "2026-09-24T15:03:44Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/discussion_topics/6364",
+   "source": "canvas",
+   "summary": "Optionally post questions from Session 2 you didn't get to raise, for extra credit.",
+   "first_seen": "2026-09-25T10:19:52+00:00"
   },
   {
    "id": "canvas:assignment:9798",
@@ -514,32 +525,32 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854#preptextbookchap9foundationsofgroupbehavior",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854#preptextbookch9",
    "course": "OB",
-   "title": "Prep: Textbook Chap 9. Foundations of Group Behavior",
+   "title": "Prep: Textbook Ch.9",
    "type": "prep",
    "due": "2026-09-25T09:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 9 on foundations of group behavior.",
+   "summary": "Read the chapter on foundations of group behavior (optional).",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854",
    "source_title": "SESSION 2 | Sep. 25 FRI | Intragroup dynamics",
    "note": "optional",
    "source": "page",
-   "first_seen": "2026-09-21T11:21:54+00:00"
+   "first_seen": "2026-09-25T10:19:52+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854#prepblogpostingonnemawashi",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854#prepblogpostingnemawashi",
    "course": "OB",
-   "title": "Prep: Blog posting on Nemawashi",
+   "title": "Prep: Blog Posting – Nemawashi",
    "type": "prep",
    "due": "2026-09-25T09:45:00+09:00",
    "url": "https://note.com/fukuharatamanegi/n/nc59dfba301c1",
-   "summary": "Read the Japanese blog post to explore the concept of Nemawashi.",
+   "summary": "Read the blog post to explore the concept of Nemawashi.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854",
    "source_title": "SESSION 2 | Sep. 25 FRI | Intragroup dynamics",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-21T11:01:11+00:00"
+   "first_seen": "2026-09-25T10:19:52+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854#signupforteamprojectmeetingtimeslot",
@@ -558,11 +569,11 @@
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855#prepcase2managingaglobalteamgregjamesatsunmicrosystemsinca",
    "course": "OB",
-   "title": "Prep: Case #2 - Managing a Global Team: Greg James at Sun Microsystems, Inc. (A)",
+   "title": "Prep: Case #2 – Managing a Global Team: Greg James at Sun Microsystems, Inc. (A)",
    "type": "prep",
    "due": "2026-09-29T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case on managing a global team at Sun Microsystems.",
+   "summary": "Read the case on managing a global team before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855",
    "source_title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
    "note": "",
@@ -570,32 +581,32 @@
    "first_seen": "2026-09-21T10:54:47+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855#preptextbookchapter6",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855#preptextbookch6",
    "course": "OB",
-   "title": "Prep: Textbook Chapter 6",
+   "title": "Prep: Textbook Ch.6",
    "type": "prep",
    "due": "2026-09-29T09:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 6 of the textbook.",
+   "summary": "Read Chapter 6 of the textbook (optional).",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855",
    "source_title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
-   "note": "",
+   "note": "optional",
    "source": "page",
-   "first_seen": "2026-09-21T11:21:54+00:00"
+   "first_seen": "2026-09-25T10:19:52+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855#preptheblueeyesbrowneyesexperimentvideo",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855#prepvideotheblueeyesbrowneyesexperiment",
    "course": "OB",
-   "title": "Prep: The Blue Eyes, Brown Eyes Experiment (video)",
+   "title": "Prep: Video – The Blue Eyes, Brown Eyes Experiment",
    "type": "prep",
    "due": "2026-09-29T09:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=dLAi78hluFc&ab_channel=chel.by.the.seas",
-   "summary": "Watch the clip and reflect on the discussion questions.",
+   "summary": "Watch the video clip and reflect on questions about its influence on perceptions.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855",
    "source_title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-21T11:21:54+00:00"
+   "first_seen": "2026-09-25T10:19:52+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#preptextbookch4",
@@ -680,6 +691,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-09-23T23:56:12+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27863#submitweeklyreportusingprovidedtemplate",
+   "course": "LD",
+   "title": "Submit weekly report using provided template",
+   "type": "task",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136636",
+   "summary": "Fill out the weekly report template with your name and date and submit it.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27863",
+   "source_title": "SESSION 1 | From Intentions to Behavior: Examining Assumptions and Leadership Patterns",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-25T10:19:52+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27930#packwinterclothingandbringtowelsforthekaruizawaretreat",

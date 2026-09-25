@@ -428,25 +428,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854": {
-  "updated_at": "2026-09-19T10:00:53Z",
+  "updated_at": "2026-09-25T03:11:28Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 2 | Sep. 25 FRI | Intragroup dynamics",
   "items": [
    {
-    "title": "Prep: Textbook Chap 9. Foundations of Group Behavior",
+    "title": "Prep: Textbook Ch.9",
     "type": "prep",
     "due": "2026-09-25T09:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 9 on foundations of group behavior.",
+    "summary": "Read the chapter on foundations of group behavior (optional).",
     "note": "optional"
    },
    {
-    "title": "Prep: Blog posting on Nemawashi",
+    "title": "Prep: Blog Posting – Nemawashi",
     "type": "prep",
     "due": "2026-09-25T09:45:00+09:00",
     "url": "https://note.com/fukuharatamanegi/n/nc59dfba301c1",
-    "summary": "Read the Japanese blog post to explore the concept of Nemawashi.",
+    "summary": "Read the blog post to explore the concept of Nemawashi.",
     "note": ""
    },
    {
@@ -460,33 +460,33 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855": {
-  "updated_at": "2026-09-21T05:36:41Z",
+  "updated_at": "2026-09-25T03:12:30Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
   "items": [
    {
-    "title": "Prep: Case #2 - Managing a Global Team: Greg James at Sun Microsystems, Inc. (A)",
+    "title": "Prep: Case #2 – Managing a Global Team: Greg James at Sun Microsystems, Inc. (A)",
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on managing a global team at Sun Microsystems.",
+    "summary": "Read the case on managing a global team before class.",
     "note": ""
    },
    {
-    "title": "Prep: Textbook Chapter 6",
+    "title": "Prep: Textbook Ch.6",
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 6 of the textbook.",
-    "note": ""
+    "summary": "Read Chapter 6 of the textbook (optional).",
+    "note": "optional"
    },
    {
-    "title": "Prep: The Blue Eyes, Brown Eyes Experiment (video)",
+    "title": "Prep: Video – The Blue Eyes, Brown Eyes Experiment",
     "type": "prep",
     "due": "2026-09-29T09:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=dLAi78hluFc&ab_channel=chel.by.the.seas",
-    "summary": "Watch the clip and reflect on the discussion questions.",
+    "summary": "Watch the video clip and reflect on questions about its influence on perceptions.",
     "note": ""
    },
    {
@@ -613,7 +613,7 @@
   "summary": "Write and submit an individual reflection memo on your MBA Essentials experience."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
-  "updated_at": "2026-09-22T06:56:11Z",
+  "updated_at": "2026-09-25T08:23:21Z",
   "kind": "page",
   "course": "ECON",
   "title": "Production Costs",
@@ -643,11 +643,20 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27863": {
-  "updated_at": "2026-09-21T12:49:27Z",
+  "updated_at": "2026-09-24T13:37:40Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 1 | From Intentions to Behavior: Examining Assumptions and Leadership Patterns",
-  "items": []
+  "items": [
+   {
+    "title": "Submit weekly report using provided template",
+    "type": "task",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136636",
+    "summary": "Fill out the weekly report template with your name and date and submit it.",
+    "note": ""
+   }
+  ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/modules": {
   "updated_at": "DAY 1-2 | SEP 14-15 (MON-TUE) | TEAM BUILDING@KARUIZAWA RISING FIELD\nDAY 3 | SEP 16 (WED) | @ICS\nDAY 4 | SEP 17 (THU) | @ICS\nDAY 5 | SEP 18 (FRI) | @ICS\nJAPANESE CULTURAL MINDSET AND TEAM BUILDING\nINTERCULTURAL COMMUNICATIONS\nPRESENTATION SKILLS\nINDIVIDUAL REFLECTION MEMO",
@@ -1073,5 +1082,12 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/discussion_topics/6364": {
+  "updated_at": "72636ae9f72207e8ead01464679ed3f1",
+  "kind": "canvas_item",
+  "course": "OB",
+  "title": "Post-Class Discussion for Session #2 (Sept. 25) ",
+  "summary": "Optionally post questions from Session 2 you didn't get to raise, for extra credit."
  }
 }
