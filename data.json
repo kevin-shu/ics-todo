@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T10:19:52+00:00",
+ "generated_at": "2026-09-26T10:18:50+00:00",
  "items": [
   {
    "id": "canvas:quiz:5953",
@@ -101,6 +101,17 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
+   "id": "canvas:assignment:9800",
+   "course": "LD",
+   "title": "Session 1 Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-09-29T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9800",
+   "source": "canvas",
+   "summary": "Submit a one-page weekly reflection using the provided template, due Tuesday.",
+   "first_seen": "2026-09-26T10:18:50+00:00"
+  },
+  {
    "id": "canvas:quiz:6256",
    "course": "IW",
    "title": "[F 26-27] IW Session 2 Pre-session survey",
@@ -112,17 +123,6 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
-   "id": "canvas:quiz:6103",
-   "course": "FA",
-   "title": "03 | Problem set",
-   "type": "quiz",
-   "due": "2026-10-01T00:30:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6103",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-09-21T11:21:54+00:00"
-  },
-  {
    "id": "canvas:assignment:9638",
    "course": "OB",
    "title": "1. Team Project Proposal",
@@ -132,17 +132,6 @@
    "source": "canvas",
    "summary": "Submit the team project proposal as a Word document",
    "first_seen": "2026-09-21T09:48:55+00:00"
-  },
-  {
-   "id": "canvas:quiz:6102",
-   "course": "FA",
-   "title": "04 | Problem set",
-   "type": "quiz",
-   "due": "2026-10-05T00:30:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6102",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-09-21T11:21:54+00:00"
   },
   {
    "id": "canvas:assignment:9401",
@@ -447,12 +436,40 @@
    "type": "prep",
    "due": "2026-09-28T12:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 3 of the LLH textbook.",
+   "summary": "Read LLH Chapter 3 before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
    "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
    "note": "",
    "source": "page",
    "first_seen": "2026-09-21T10:54:47+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#03problemset",
+   "course": "FA",
+   "title": "03 | Problem set",
+   "type": "assignment",
+   "due": "2026-10-01T09:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
+   "summary": "Complete and submit Problem Set 3.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
+   "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-26T10:18:50+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#prepchipotleratioanalysisexercise",
+   "course": "FA",
+   "title": "Prep: Chipotle Ratio Analysis Exercise",
+   "type": "prep",
+   "due": "2026-10-01T12:45:00+09:00",
+   "url": null,
+   "summary": "Complete the Chipotle ratio analysis exercise for the Class 4 discussion.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
+   "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-26T10:18:50+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530#prepllhch4",
@@ -461,12 +478,26 @@
    "type": "prep",
    "due": "2026-10-01T12:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 4 of the LLH textbook before class.",
+   "summary": "Read LLH Chapter 4 before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530",
    "source_title": "Class 04 |1245-1445, Thu, Oct 1, 2026",
    "note": "",
    "source": "page",
    "first_seen": "2026-09-21T10:54:47+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530#04problemset",
+   "course": "FA",
+   "title": "04 | Problem set",
+   "type": "assignment",
+   "due": "2026-10-05T09:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9633",
+   "summary": "Complete and submit Problem Set 4.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530",
+   "source_title": "Class 04 |1245-1445, Thu, Oct 1, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-26T10:18:50+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28092#finalexam",
@@ -615,7 +646,7 @@
    "type": "prep",
    "due": "2026-10-02T09:45:00+09:00",
    "url": null,
-   "summary": "Read the optional chapter on emotional intelligence.",
+   "summary": "Read the optional textbook chapter for this session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856",
    "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
    "note": "optional",
@@ -625,11 +656,11 @@
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepmcdonaldsjapancampaignvideo",
    "course": "OB",
-   "title": "Prep: McDonald's Japan Campaign Video",
+   "title": "Prep: McDonald's Japan Campaign Video – 「スマイルあげない」",
    "type": "prep",
    "due": "2026-10-02T09:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
-   "summary": "Watch the McDonald's Japan campaign video clip.",
+   "summary": "Watch the McDonald's Japan video clip 「スマイルあげない」.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856",
    "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
    "note": "",
@@ -929,6 +960,34 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-09-23T23:56:12+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866#prepsession2prereading",
+   "course": "LD",
+   "title": "Prep: Session 2 Pre-reading",
+   "type": "prep",
+   "due": "2026-10-02T00:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136708",
+   "summary": "Review the pre-session reading material for Session 2.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866",
+   "source_title": "SESSION 2 | Judgment Under Uncertainty: How Leaders Think, Interpret, and Decide",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-09-26T10:18:50+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866#prepgoogleslidefordiscussion",
+   "course": "LD",
+   "title": "Prep: Google Slide for Discussion",
+   "type": "prep",
+   "due": "2026-10-02T00:00:00+09:00",
+   "url": "https://docs.google.com/presentation/d/1WZQCDa9f6zTAzr71wddADJMokLyS4_Vuspy9-s5XUWQ/edit?usp=sharing",
+   "summary": "Review the Google slide for the Session 2 discussion.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866",
+   "source_title": "SESSION 2 | Judgment Under Uncertainty: How Leaders Think, Interpret, and Decide",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-09-26T10:18:50+00:00"
   }
  ]
 }
