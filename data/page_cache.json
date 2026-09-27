@@ -494,7 +494,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856": {
-  "updated_at": "2026-09-25T10:55:35Z",
+  "updated_at": "2026-09-27T05:14:54Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
@@ -504,7 +504,7 @@
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": null,
-    "summary": "Read the optional textbook chapter for this session.",
+    "summary": "Read the optional textbook chapter before class.",
     "note": "optional"
    },
    {
@@ -512,7 +512,7 @@
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
-    "summary": "Watch the McDonald's Japan video clip 「スマイルあげない」.",
+    "summary": "Watch the McDonald's Japan campaign video clip before class.",
     "note": ""
    }
   ]
@@ -579,7 +579,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9798": {
-  "updated_at": "2026-09-26T09:42:13Z",
+  "updated_at": "2026-09-27T04:36:42Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F26-27] IW 1 Post-session assignment",
@@ -600,11 +600,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401": {
-  "updated_at": "2026-09-19T04:16:32Z",
+  "updated_at": "2026-09-27T07:07:08Z",
   "kind": "canvas_item",
   "course": "MBAE",
   "title": "INDIVIDUAL REFLECTION MEMO",
-  "summary": "Write and submit an individual reflection memo on your MBA Essentials experience."
+  "summary": "Write a reflection memo on MBA Essentials learning and diverse team dynamics."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
   "updated_at": "2026-09-25T08:23:21Z",
