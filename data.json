@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T10:18:19+00:00",
+ "generated_at": "2026-09-28T10:19:08+00:00",
  "items": [
   {
    "id": "canvas:quiz:5953",
@@ -97,7 +97,7 @@
    "due": "2026-09-28T03:30:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5952",
    "source": "canvas",
-   "summary": "Submit your seminar preferences ranked from #1 to #11.",
+   "summary": "",
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
@@ -240,7 +240,7 @@
    "type": "prep",
    "due": "2026-09-28T09:45:00+09:00",
    "url": null,
-   "summary": "Read the toolkit note on market size and market share analysis.",
+   "summary": "Read the toolkit on market size and market share analysis.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27902",
    "source_title": "SESSION 3 | Segmentation, Targeting & Positioning | Product Team Cialis",
    "note": "",
@@ -268,7 +268,7 @@
    "type": "prep",
    "due": "2026-09-28T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case on segmenting, targeting, and positioning Cialis in the ED market.",
+   "summary": "Read the case on positioning Cialis in the ED market.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27902",
    "source_title": "SESSION 3 | Segmentation, Targeting & Positioning | Product Team Cialis",
    "note": "",
@@ -296,7 +296,7 @@
    "type": "prep",
    "due": "2026-10-01T09:45:00+09:00",
    "url": null,
-   "summary": "Read the Aqualisa Quartz case.",
+   "summary": "Read the case on why Aqualisa's Quartz shower isn't selling.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903",
    "source_title": "SESSION 4 | Product | Aqualisa",
    "note": "",
@@ -436,7 +436,7 @@
    "type": "prep",
    "due": "2026-09-28T12:45:00+09:00",
    "url": null,
-   "summary": "Read LLH Chapter 3 before class.",
+   "summary": "Read chapter 3 of the LLH textbook.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
    "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
    "note": "",
@@ -450,7 +450,7 @@
    "type": "assignment",
    "due": "2026-10-01T09:30:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
-   "summary": "Complete and submit Problem Set 3.",
+   "summary": "Complete and submit the problem set homework.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
    "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
    "note": "",
@@ -458,18 +458,18 @@
    "first_seen": "2026-09-26T10:18:50+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#prepchipotleratioanalysisexercise",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#completechipotleratioanalysisexerciseforclass4discussion",
    "course": "FA",
-   "title": "Prep: Chipotle Ratio Analysis Exercise",
-   "type": "prep",
+   "title": "Complete Chipotle ratio analysis exercise for Class 4 discussion",
+   "type": "task",
    "due": "2026-10-01T12:45:00+09:00",
    "url": null,
-   "summary": "Complete the Chipotle ratio analysis exercise for the Class 4 discussion.",
+   "summary": "Compute and interpret Chipotle's liquidity, profitability, and efficiency ratios.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
    "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-26T10:18:50+00:00"
+   "first_seen": "2026-09-28T10:19:08+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530#prepllhch4",

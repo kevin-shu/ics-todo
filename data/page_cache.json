@@ -104,7 +104,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27902": {
-  "updated_at": "2026-09-24T05:03:50Z",
+  "updated_at": "2026-09-28T07:29:06Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 3 | Segmentation, Targeting & Positioning | Product Team Cialis",
@@ -114,7 +114,7 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the toolkit note on market size and market share analysis.",
+    "summary": "Read the toolkit on market size and market share analysis.",
     "note": ""
    },
    {
@@ -130,13 +130,13 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on segmenting, targeting, and positioning Cialis in the ED market.",
+    "summary": "Read the case on positioning Cialis in the ED market.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903": {
-  "updated_at": "2026-09-16T10:28:42Z",
+  "updated_at": "2026-09-28T07:29:38Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 4 | Product | Aqualisa",
@@ -154,7 +154,7 @@
     "type": "prep",
     "due": "2026-10-01T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Aqualisa Quartz case.",
+    "summary": "Read the case on why Aqualisa's Quartz shower isn't selling.",
     "note": ""
    }
   ]
@@ -303,7 +303,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529": {
-  "updated_at": "2026-09-26T09:10:56Z",
+  "updated_at": "2026-09-28T03:11:25Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
@@ -313,7 +313,7 @@
     "type": "prep",
     "due": "2026-09-28T12:45:00+09:00",
     "url": null,
-    "summary": "Read LLH Chapter 3 before class.",
+    "summary": "Read chapter 3 of the LLH textbook.",
     "note": ""
    },
    {
@@ -321,15 +321,15 @@
     "type": "assignment",
     "due": "2026-10-01T09:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
-    "summary": "Complete and submit Problem Set 3.",
+    "summary": "Complete and submit the problem set homework.",
     "note": ""
    },
    {
-    "title": "Prep: Chipotle Ratio Analysis Exercise",
-    "type": "prep",
+    "title": "Complete Chipotle ratio analysis exercise for Class 4 discussion",
+    "type": "task",
     "due": "2026-10-01T12:45:00+09:00",
     "url": null,
-    "summary": "Complete the Chipotle ratio analysis exercise for the Class 4 discussion.",
+    "summary": "Compute and interpret Chipotle's liquidity, profitability, and efficiency ratios.",
     "note": ""
    }
   ]
@@ -579,18 +579,18 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9798": {
-  "updated_at": "2026-09-27T04:36:42Z",
+  "updated_at": "2026-09-27T14:55:30Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F26-27] IW 1 Post-session assignment",
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5952": {
-  "updated_at": "a1034d945d1fe33c62bfed17493ccbf1",
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
   "kind": "canvas_item",
   "course": "MBAE",
   "title": "Term 1 (0) | MBA ESSENTIALS | Seminar Selection | Survey",
-  "summary": "Submit your seminar preferences ranked from #1 to #11."
+  "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6256": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1114,5 +1114,12 @@
     "note": "time TBD"
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27552": {
+  "updated_at": "2026-09-27T13:57:33Z",
+  "kind": "page",
+  "course": "ECON",
+  "title": "Externalities/Game Theory (1)",
+  "items": []
  }
 }
