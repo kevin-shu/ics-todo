@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T10:19:08+00:00",
+ "generated_at": "2026-09-29T10:19:58+00:00",
  "items": [
   {
    "id": "canvas:quiz:5953",
@@ -101,6 +101,17 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
+   "id": "canvas:discussion_topic:6367",
+   "course": "OB",
+   "title": "Post-Class Discussion for Session #3 (Sept. 29)",
+   "type": "discussion_topic",
+   "due": "2026-09-29T07:15:23Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/discussion_topics/6367",
+   "source": "canvas",
+   "summary": "Share any leftover questions or thoughts from Session #3 for optional extra credit.",
+   "first_seen": "2026-09-29T10:19:58+00:00"
+  },
+  {
    "id": "canvas:assignment:9800",
    "course": "LD",
    "title": "Session 1 Weekly Reflection",
@@ -123,15 +134,37 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
+   "id": "canvas:quiz:6103",
+   "course": "FA",
+   "title": "03 | Problem set",
+   "type": "quiz",
+   "due": "2026-10-01T00:30:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6103",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-09-29T10:19:58+00:00"
+  },
+  {
    "id": "canvas:assignment:9638",
    "course": "OB",
    "title": "1. Team Project Proposal",
    "type": "assignment",
-   "due": "2026-10-02T14:59:59Z",
+   "due": "2026-10-04T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9638",
    "source": "canvas",
-   "summary": "Submit the team project proposal as a Word document",
+   "summary": "Submit the Team Project Proposal as a Word document following the provided guideline.",
    "first_seen": "2026-09-21T09:48:55+00:00"
+  },
+  {
+   "id": "canvas:quiz:6102",
+   "course": "FA",
+   "title": "04 | Problem set",
+   "type": "quiz",
+   "due": "2026-10-05T00:30:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6102",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-09-29T10:19:58+00:00"
   },
   {
    "id": "canvas:assignment:9401",
@@ -444,20 +477,6 @@
    "first_seen": "2026-09-21T10:54:47+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#03problemset",
-   "course": "FA",
-   "title": "03 | Problem set",
-   "type": "assignment",
-   "due": "2026-10-01T09:30:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
-   "summary": "Complete and submit the problem set homework.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
-   "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-09-26T10:18:50+00:00"
-  },
-  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#completechipotleratioanalysisexerciseforclass4discussion",
    "course": "FA",
    "title": "Complete Chipotle ratio analysis exercise for Class 4 discussion",
@@ -484,20 +503,6 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-09-21T10:54:47+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530#04problemset",
-   "course": "FA",
-   "title": "04 | Problem set",
-   "type": "assignment",
-   "due": "2026-10-05T09:30:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9633",
-   "summary": "Complete and submit Problem Set 4.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530",
-   "source_title": "Class 04 |1245-1445, Thu, Oct 1, 2026",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-09-26T10:18:50+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28092#finalexam",
@@ -604,7 +609,7 @@
    "type": "prep",
    "due": "2026-09-29T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case on managing a global team before class.",
+   "summary": "Read Case #2 on Greg James's global team at Sun Microsystems.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855",
    "source_title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
    "note": "",
@@ -618,7 +623,7 @@
    "type": "prep",
    "due": "2026-09-29T09:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 6 of the textbook (optional).",
+   "summary": "Read the optional textbook chapter before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855",
    "source_title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
    "note": "optional",
@@ -632,7 +637,7 @@
    "type": "prep",
    "due": "2026-09-29T09:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=dLAi78hluFc&ab_channel=chel.by.the.seas",
-   "summary": "Watch the video clip and reflect on questions about its influence on perceptions.",
+   "summary": "Watch the video and reflect on Jane Elliot's influence and its implications.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855",
    "source_title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
    "note": "",
@@ -654,9 +659,9 @@
    "first_seen": "2026-09-23T10:14:14+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepmcdonaldsjapancampaignvideo",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepvideomcdonaldsjapancampaign",
    "course": "OB",
-   "title": "Prep: McDonald's Japan Campaign Video – 「スマイルあげない」",
+   "title": "Prep: Video – McDonald's Japan Campaign 「スマイルあげない」",
    "type": "prep",
    "due": "2026-10-02T09:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
@@ -665,7 +670,7 @@
    "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-23T23:56:12+00:00"
+   "first_seen": "2026-09-29T10:19:58+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midterm",
@@ -710,18 +715,18 @@
    "first_seen": "2026-09-21T10:54:47+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550#preparestudygroupassignmentanswers",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550#groupassignmentstudygroupanswers",
    "course": "ECON",
-   "title": "Prepare study group assignment answers",
-   "type": "task",
+   "title": "Group Assignment: Study Group Answers",
+   "type": "assignment",
    "due": "2026-09-29T12:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/136661",
-   "summary": "Prepare study group answers to this assignment and bring them to class.",
+   "summary": "Prepare answers to the study group assignment and bring them to class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550",
    "source_title": "Profit Maximization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-23T23:56:12+00:00"
+   "first_seen": "2026-09-29T10:19:58+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27863#submitweeklyreportusingprovidedtemplate",
