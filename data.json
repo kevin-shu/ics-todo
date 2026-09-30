@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T10:19:58+00:00",
+ "generated_at": "2026-09-30T10:20:06+00:00",
  "items": [
   {
    "id": "canvas:quiz:5953",
@@ -497,12 +497,26 @@
    "type": "prep",
    "due": "2026-10-01T12:45:00+09:00",
    "url": null,
-   "summary": "Read LLH Chapter 4 before class.",
+   "summary": "Read Chapter 4 of the LLH textbook.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530",
    "source_title": "Class 04 |1245-1445, Thu, Oct 1, 2026",
    "note": "",
    "source": "page",
    "first_seen": "2026-09-21T10:54:47+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530#reviewsmalldiscussionnotesonclass03page",
+   "course": "FA",
+   "title": "Review small discussion notes on Class 03 page",
+   "type": "task",
+   "due": "2026-10-01T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/pages/class-03-%7C1245-1445-mon-sep-28-2026",
+   "summary": "Check the Class 03 page for the small discussion topic for this class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530",
+   "source_title": "Class 04 |1245-1445, Thu, Oct 1, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-30T10:20:06+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28092#finalexam",
@@ -715,18 +729,18 @@
    "first_seen": "2026-09-21T10:54:47+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550#groupassignmentstudygroupanswers",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550#preparestudygroupassignmentforclass",
    "course": "ECON",
-   "title": "Group Assignment: Study Group Answers",
-   "type": "assignment",
+   "title": "Prepare study group assignment for class",
+   "type": "task",
    "due": "2026-09-29T12:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/136661",
-   "summary": "Prepare answers to the study group assignment and bring them to class.",
+   "summary": "Prepare answers to the study group assignment with your group and bring them to class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550",
    "source_title": "Profit Maximization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-29T10:19:58+00:00"
+   "first_seen": "2026-09-30T10:20:06+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27863#submitweeklyreportusingprovidedtemplate",
@@ -883,32 +897,60 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27080#prepculturalproblemsencounteredbyanamericantechnologyfirm",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27080#prepculturalproblemsencounteredbyanamericantechnologyfirm1docx",
    "course": "MBAE",
-   "title": "Prep: Cultural Problems Encountered by an American Technology Firm",
+   "title": "Prep: Cultural Problems Encountered by an American Technology Firm-1.docx",
    "type": "prep",
    "due": "2026-09-30T08:30:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135622",
-   "summary": "Read the case on cultural problems at an American technology firm.",
+   "summary": "Read the case on cultural problems encountered by an American technology firm.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27080",
    "source_title": "SEP 30 (WED) | 830-1145 | INTERCULTURAL COMMUNICATIONS 1",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-23T23:56:12+00:00"
+   "first_seen": "2026-09-30T10:20:06+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27080#prephitotsubashiicstextautumn2026",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27080#prephitotsubashiicstextautumn2026pdf",
    "course": "MBAE",
-   "title": "Prep: Hitotsubashi ICS Text Autumn 2026",
+   "title": "Prep: Hitotsubashi ICS Text Autumn 2026.pdf",
    "type": "prep",
    "due": "2026-09-30T08:30:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135623",
-   "summary": "Read the intercultural communications textbook material.",
+   "summary": "Read the assigned text material for the intercultural communications session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27080",
    "source_title": "SEP 30 (WED) | 830-1145 | INTERCULTURAL COMMUNICATIONS 1",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-23T23:56:12+00:00"
+   "first_seen": "2026-09-30T10:20:06+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27879#prephitotsubashiicstextautumn2026",
+   "course": "MBAE",
+   "title": "Prep: Hitotsubashi ICS Text Autumn 2026",
+   "type": "prep",
+   "due": "2026-10-07T08:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135624",
+   "summary": "Read the intercultural communications textbook material.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27879",
+   "source_title": "OCT 7 (WED) | 830-1145 | INTERCULTURAL COMMUNICATIONS 2",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-30T10:20:06+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27879#prepculturalproblemsencounteredbyanamericantechnologyfirm",
+   "course": "MBAE",
+   "title": "Prep: Cultural Problems Encountered by an American Technology Firm",
+   "type": "prep",
+   "due": "2026-10-07T08:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135625",
+   "summary": "Read the case on cultural problems at an American technology firm.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27879",
+   "source_title": "OCT 7 (WED) | 830-1145 | INTERCULTURAL COMMUNICATIONS 2",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-30T10:20:06+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27878#preppresentationstextautumn2026",
@@ -993,6 +1035,48 @@
    "note": "time TBD",
    "source": "page",
    "first_seen": "2026-09-26T10:18:50+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531#prepllhch67",
+   "course": "FA",
+   "title": "Prep: LLH Ch.6 + 7",
+   "type": "prep",
+   "due": "2026-10-05T12:45:00+09:00",
+   "url": null,
+   "summary": "Read Chapters 6 and 7 of the LLH textbook.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531",
+   "source_title": "Class 05 |1245-1445, Mon, Oct 5, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-30T10:20:06+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531#homeworktba",
+   "course": "FA",
+   "title": "Homework (TBA)",
+   "type": "assignment",
+   "due": "2026-10-08T09:30:00+09:00",
+   "url": null,
+   "summary": "Complete the homework assignment (details to be announced).",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531",
+   "source_title": "Class 05 |1245-1445, Mon, Oct 5, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-30T10:20:06+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531#prepcasereadingseeclass06page",
+   "course": "FA",
+   "title": "Prep: Case reading (see Class 06 page)",
+   "type": "prep",
+   "due": "2026-10-08T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/pages/class-06-%7C1245-1445-thu-oct-8-2026",
+   "summary": "Read the case reading detailed on the Class 06 page in advance.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531",
+   "source_title": "Class 05 |1245-1445, Mon, Oct 5, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-09-30T10:20:06+00:00"
   }
  ]
 }
