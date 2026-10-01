@@ -49,7 +49,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules": {
-  "updated_at": "MODULE 1 | Marketing, Customer Value, and Growth\n| 1 | 2026-09-21 | MON | 09:45-11:45 |\nMODULE 2 | Building the Marketing Toolbox\n| 2 | 2026-09-24 | THU | 09:45-11:45 |\n| 3 | 2026-09-28 | MON | 09:45-11:45 |\n| 4 | 2026-10-01 | THU | 09:45-11:45 |\n| 5 | 2026-10-05 | MON | 09:45-11:45 |\n| 6 | 2026-10-08 | THU | 09:45-11:45 |\n| 7 | 2026-10-12 | MON | 09:45-11:45 |\nMODULE 3 | From Analysis to Marketing Strategy\n| 8 | 2026-10-15 | THU | 09:45-11:45 |\n| 9 | 2026-10-19 | MON | 09:45-11:45 |\n| 10 | 2026-10-22 | THU | 09:45-11:45 |\n| 11 | 2026-10-26 | MON | 09:45-11:45 |\n| 12 | 2026-11-02 | MON | 9:00-13:00 |",
+  "updated_at": "MODULE 1 | Marketing, Customer Value, and Growth\n| 1 | 2026-09-21 | MON | 09:45-11:45 |\nMODULE 2 | Building the Marketing Toolbox\n| 2 | 2026-09-24 | THU | 09:45-11:45 |\n| 3 | 2026-09-28 | MON | 09:45-11:45 |\n| 4 | 2026-10-01 | THU | 09:45-11:45 |\n| 5 | 2026-10-05 | MON | 09:45-11:45 |\n| 6 | 2026-10-08 | THU | 09:45-11:45 |\n| 7 | 2026-10-12 | MON | 09:45-11:45 |\nMODULE 3 | From Analysis to Formulating Marketing Strategy and Plan\n| 8 | 2026-10-15 | THU | 09:45-11:45 |\n| 9 | 2026-10-19 | MON | 09:45-11:45 |\n| 10 | 2026-10-22 | THU | 09:45-11:45 |\n| 11 | 2026-10-26 | MON | 09:45-11:45 |\n| 12 | 2026-11-02 | MON | 9:00-13:00 |",
   "kind": "page",
   "course": "MK",
   "title": "Module outline",
@@ -104,7 +104,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27902": {
-  "updated_at": "2026-09-28T07:29:06Z",
+  "updated_at": "2026-10-01T04:41:37Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 3 | Segmentation, Targeting & Positioning | Product Team Cialis",
@@ -130,13 +130,13 @@
     "type": "prep",
     "due": "2026-09-28T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on positioning Cialis in the ED market.",
+    "summary": "Read the case on launching Cialis into the ED market.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903": {
-  "updated_at": "2026-09-28T07:29:38Z",
+  "updated_at": "2026-10-01T04:41:01Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 4 | Product | Aqualisa",
@@ -154,13 +154,13 @@
     "type": "prep",
     "due": "2026-10-01T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on why Aqualisa's Quartz shower isn't selling.",
+    "summary": "Read the case on why the Quartz shower is underselling.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27904": {
-  "updated_at": "2026-09-16T10:29:12Z",
+  "updated_at": "2026-10-01T04:44:05Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 5 | Place / Distribution Channels | Chateau Margaux",
@@ -178,7 +178,7 @@
     "type": "prep",
     "due": "2026-10-05T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Château Margaux case.",
+    "summary": "Read the case on launching Château Margaux's third wine.",
     "note": ""
    }
   ]
@@ -565,13 +565,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5953": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "MBAE",
-  "title": "ICS Academic Policy Mini Quiz",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5954": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
   "kind": "canvas_item",
@@ -587,7 +580,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9798": {
-  "updated_at": "2026-09-29T07:43:22Z",
+  "updated_at": "2026-09-30T13:55:35Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F26-27] IW 1 Post-session assignment",
@@ -1054,25 +1047,33 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27595": {
-  "updated_at": "2026-09-23T07:36:53Z",
+  "updated_at": "2026-09-30T14:53:35Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 30 SEPTEMBER 2026 | SESSION 2 | FRAMEWORKS AND FOUNDATIONS: ARGUING THE POINT",
   "items": [
    {
-    "title": "Prep: Financial Times – Free Speech Is About Listening As Well As Talking",
+    "title": "Prep: Free speech is about listening as well as talking (Financial Times)",
     "type": "prep",
     "due": "2026-09-30T12:45:00+09:00",
     "url": "https://www.ft.com/content/e31003e4-c241-4c6e-aaa5-bfa6229fde5f",
-    "summary": "Read the article on free speech and listening.",
+    "summary": "Read the Financial Times article on free speech and listening.",
     "note": ""
    },
    {
-    "title": "Session 2 Pre-session Survey",
-    "type": "assignment",
+    "title": "Complete and submit pre-session survey",
+    "type": "task",
     "due": "2026-09-30T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6256",
     "summary": "Complete and submit the pre-session survey before class.",
+    "note": ""
+   },
+   {
+    "title": "[F26-27] IW Session 2 Post-session assignment",
+    "type": "assignment",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813",
+    "summary": "Complete the post-session assignment on frameworks and arguing the point.",
     "note": ""
    }
   ]
@@ -1144,7 +1145,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531": {
-  "updated_at": "2026-09-30T07:12:49Z",
+  "updated_at": "2026-10-01T06:54:55Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 05 |1245-1445, Mon, Oct 5, 2026",
@@ -1154,23 +1155,255 @@
     "type": "prep",
     "due": "2026-10-05T12:45:00+09:00",
     "url": null,
-    "summary": "Read Chapters 6 and 7 of the LLH textbook.",
+    "summary": "Read chapters 6 and 7 of LLH.",
     "note": ""
    },
    {
-    "title": "Homework (TBA)",
+    "title": "05 | Homework",
     "type": "assignment",
     "due": "2026-10-08T09:30:00+09:00",
     "url": null,
-    "summary": "Complete the homework assignment (details to be announced).",
+    "summary": "Complete the homework assignment (access details TBA).",
     "note": ""
    },
    {
-    "title": "Prep: Case reading (see Class 06 page)",
+    "title": "Prep: Case reading for Class 06",
     "type": "prep",
     "due": "2026-10-08T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/pages/class-06-%7C1245-1445-thu-oct-8-2026",
-    "summary": "Read the case reading detailed on the Class 06 page in advance.",
+    "url": null,
+    "summary": "Read the case assigned for discussion in Class 6.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/discussion_topics/6369": {
+  "updated_at": "c35ba4396b7300f82cb04ca84ef1b052",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "Problem Set 3 - Question #17",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/discussion_topics/6223": {
+  "updated_at": "a14d27d1987449cb8bc5511b8b1fef4d",
+  "kind": "canvas_item",
+  "course": "MK",
+  "title": "DISCUSSION BOARD | Aleph Farms: A New Culture of Meat",
+  "summary": "Discussion board opens for posting on Oct 12 at 9:30am."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/discussion_topics/6221": {
+  "updated_at": "a14d27d1987449cb8bc5511b8b1fef4d",
+  "kind": "canvas_item",
+  "course": "MK",
+  "title": "DISCUSSION BOARD | Hot Wheels: Launching The Mixed Play Experience",
+  "summary": "Discussion board opens for posting on Oct 12 at 9:30am."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813": {
+  "updated_at": "2026-10-01T08:40:51Z",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F26-27] IW Session 2 Post-session assignment",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6257": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW Session 3 Pre-session quiz",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815": {
+  "updated_at": "2026-10-01T05:15:00Z",
+  "kind": "canvas_item",
+  "course": "MK",
+  "title": "POA MEMO SUBMISSION | Aleph Farms: A New Culture of Meat",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816": {
+  "updated_at": "2026-10-01T05:56:40Z",
+  "kind": "canvas_item",
+  "course": "MK",
+  "title": "POA MEMO SUBMISSION | Michelin: Building a Digital Service Platform",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817": {
+  "updated_at": "2026-10-01T07:11:19Z",
+  "kind": "canvas_item",
+  "course": "MK",
+  "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907": {
+  "updated_at": "2026-10-01T07:15:53Z",
+  "kind": "page",
+  "course": "MK",
+  "title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
+  "items": [
+   {
+    "title": "Prep: Aleph Farms: A New Culture of Meat (HBS 9-522-071)",
+    "type": "prep",
+    "due": "2026-10-15T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the case on Aleph Farms' launch of cultured meat.",
+    "note": ""
+   },
+   {
+    "title": "Prep: POA Memo Instruction",
+    "type": "prep",
+    "due": "2026-10-15T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136881",
+    "summary": "Read the POA Memo instructions for the Final Exam.",
+    "note": ""
+   },
+   {
+    "title": "POA MEMO SUBMISSION | Aleph Farms: A New Culture of Meat",
+    "type": "assignment",
+    "due": "2026-10-14T20:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815",
+    "summary": "Write and submit a POA Memo (max 5 pages) for Aleph Farms via Turnitin.",
+    "note": ""
+   },
+   {
+    "title": "Evaluate a Classmate's POA Memo",
+    "type": "assignment",
+    "due": "2026-11-01T20:00:00+09:00",
+    "url": null,
+    "summary": "Write a 300-400 word evaluation of a classmate's POA Memo and post it.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923": {
+  "updated_at": "2026-10-01T07:16:27Z",
+  "kind": "page",
+  "course": "MK",
+  "title": "SESSION 9 | Growth (1 → N) | Michelin",
+  "items": [
+   {
+    "title": "Prep: Michelin: Building a Digital Service Platform",
+    "type": "prep",
+    "due": "2026-10-19T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the case on Michelin's Digital Service Platform.",
+    "note": ""
+   },
+   {
+    "title": "Prep: POA Memo Instruction",
+    "type": "prep",
+    "due": "2026-10-19T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136884",
+    "summary": "Read the POA Memo instructions for the Final Exam.",
+    "note": ""
+   },
+   {
+    "title": "POA MEMO SUBMISSION | Michelin: Building a Digital Service Platform",
+    "type": "assignment",
+    "due": "2026-10-18T20:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816",
+    "summary": "Write and submit a POA Memo (max 5 pages) for Michelin via Turnitin.",
+    "note": ""
+   },
+   {
+    "title": "Evaluate a Classmate's POA Memo",
+    "type": "assignment",
+    "due": "2026-11-01T20:00:00+09:00",
+    "url": null,
+    "summary": "Write a 300-400 word evaluation of a classmate's POA Memo and post it.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914": {
+  "updated_at": "2026-10-01T07:16:47Z",
+  "kind": "page",
+  "course": "MK",
+  "title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
+  "items": [
+   {
+    "title": "Prep: Hot Wheels: Launching The Mixed Play Experience",
+    "type": "prep",
+    "due": "2026-10-26T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the case on relaunching Hot Wheels with mixed play.",
+    "note": ""
+   },
+   {
+    "title": "Prep: POA Memo Instruction",
+    "type": "prep",
+    "due": "2026-10-26T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136885",
+    "summary": "Read the POA Memo instructions for the Final Exam.",
+    "note": ""
+   },
+   {
+    "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
+    "type": "assignment",
+    "due": "2026-10-25T20:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
+    "summary": "Write and submit a POA Memo (max 5 pages) for Hot Wheels via Turnitin.",
+    "note": ""
+   },
+   {
+    "title": "Evaluate a Classmate's POA Memo",
+    "type": "assignment",
+    "due": "2026-11-01T20:00:00+09:00",
+    "url": null,
+    "summary": "Write a 300-400 word evaluation of a classmate's POA Memo and post it.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857": {
+  "updated_at": "2026-09-30T13:13:39Z",
+  "kind": "page",
+  "course": "OB",
+  "title": "SESSION 5 | Oct. 6 TUE | Personality and Self-Concepts",
+  "items": [
+   {
+    "title": "Prep: Case #3. Social Salary Setting at Spiber",
+    "type": "prep",
+    "due": "2026-10-06T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the required case on Spiber's self-set salary system.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Textbook Ch. 5",
+    "type": "prep",
+    "due": "2026-10-06T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the optional textbook chapter on personality.",
+    "note": "optional"
+   },
+   {
+    "title": "Take Big Five personality test and report result",
+    "type": "task",
+    "due": "2026-10-04T00:00:00+09:00",
+    "url": "https://forms.gle/LH39ZSQhc1T3GPym7",
+    "summary": "Take the Big Five personality test and submit your result via Google Form.",
+    "note": "time TBD"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27596": {
+  "updated_at": "2026-09-30T14:44:01Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 7 OCTOBER 2026 | SESSION 3 | WHEN IN DOUBT, CITE!",
+  "items": [
+   {
+    "title": "Complete the pre-session quiz",
+    "type": "task",
+    "due": "2026-10-07T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6257",
+    "summary": "Complete and submit the pre-session quiz on citation before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: HBS Citation Guide 2025-26",
+    "type": "prep",
+    "due": "2026-10-07T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/134041?wrap=1",
+    "summary": "Read the HBS Citation Guide.",
     "note": ""
    }
   ]
