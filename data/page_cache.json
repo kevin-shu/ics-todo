@@ -502,7 +502,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856": {
-  "updated_at": "2026-09-29T03:09:15Z",
+  "updated_at": "2026-10-02T03:13:55Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
@@ -516,11 +516,11 @@
     "note": "optional"
    },
    {
-    "title": "Prep: Video – McDonald's Japan Campaign 「スマイルあげない」",
+    "title": "Prep: McDonald's Japan Campaign Video – 「スマイルあげない」",
     "type": "prep",
     "due": "2026-10-02T09:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
-    "summary": "Watch the McDonald's Japan campaign video clip before class.",
+    "summary": "Watch the McDonald's Japan video campaign clip before class.",
     "note": ""
    }
   ]
@@ -1078,13 +1078,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/discussion_topics/6364": {
-  "updated_at": "72636ae9f72207e8ead01464679ed3f1",
-  "kind": "canvas_item",
-  "course": "OB",
-  "title": "Post-Class Discussion for Session #2 (Sept. 25) ",
-  "summary": "Optionally post questions from Session 2 you didn't get to raise, for extra credit."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9800": {
   "updated_at": "2026-09-25T11:28:13Z",
   "kind": "canvas_item",
@@ -1093,17 +1086,17 @@
   "summary": "Submit a one-page weekly reflection using the provided template, due Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866": {
-  "updated_at": "2026-09-25T12:53:41Z",
+  "updated_at": "2026-10-02T08:24:38Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 2 | Judgment Under Uncertainty: How Leaders Think, Interpret, and Decide",
   "items": [
    {
-    "title": "Prep: Session 2 Pre-reading",
+    "title": "Prep: Pre-Session Material (Session 2 1002 pre-2.pdf)",
     "type": "prep",
     "due": "2026-10-02T00:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136708",
-    "summary": "Review the pre-session reading material for Session 2.",
+    "summary": "Review the pre-session PDF material before this session.",
     "note": "time TBD"
    },
    {
@@ -1111,7 +1104,7 @@
     "type": "prep",
     "due": "2026-10-02T00:00:00+09:00",
     "url": "https://docs.google.com/presentation/d/1WZQCDa9f6zTAzr71wddADJMokLyS4_Vuspy9-s5XUWQ/edit?usp=sharing",
-    "summary": "Review the Google slide for the Session 2 discussion.",
+    "summary": "Review the Google slide for in-class discussion.",
     "note": "time TBD"
    }
   ]
@@ -1122,13 +1115,6 @@
   "course": "ECON",
   "title": "Externalities/Game Theory (1)",
   "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/discussion_topics/6367": {
-  "updated_at": "a8606f45d9bdc56b9431cb494361482a",
-  "kind": "canvas_item",
-  "course": "OB",
-  "title": "Post-Class Discussion for Session #3 (Sept. 29)",
-  "summary": "Share any leftover questions or thoughts from Session #3 for optional extra credit."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6103": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1176,29 +1162,8 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/discussion_topics/6369": {
-  "updated_at": "c35ba4396b7300f82cb04ca84ef1b052",
-  "kind": "canvas_item",
-  "course": "FA",
-  "title": "Problem Set 3 - Question #17",
-  "summary": ""
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/discussion_topics/6223": {
-  "updated_at": "a14d27d1987449cb8bc5511b8b1fef4d",
-  "kind": "canvas_item",
-  "course": "MK",
-  "title": "DISCUSSION BOARD | Aleph Farms: A New Culture of Meat",
-  "summary": "Discussion board opens for posting on Oct 12 at 9:30am."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/discussion_topics/6221": {
-  "updated_at": "a14d27d1987449cb8bc5511b8b1fef4d",
-  "kind": "canvas_item",
-  "course": "MK",
-  "title": "DISCUSSION BOARD | Hot Wheels: Launching The Mixed Play Experience",
-  "summary": "Discussion board opens for posting on Oct 12 at 9:30am."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813": {
-  "updated_at": "2026-10-01T08:40:51Z",
+  "updated_at": "2026-10-01T14:09:23Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F26-27] IW Session 2 Post-session assignment",
@@ -1407,5 +1372,12 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9818": {
+  "updated_at": "2026-10-01T13:12:42Z",
+  "kind": "canvas_item",
+  "course": "LD",
+  "title": "Session 2  Weekly Reflection",
+  "summary": "Submit a one-page weekly reflection using the provided template by Tuesday."
  }
 }

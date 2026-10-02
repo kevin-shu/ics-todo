@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T10:21:07+00:00",
+ "generated_at": "2026-10-02T10:19:09+00:00",
  "items": [
   {
    "id": "canvas:quiz:5954",
@@ -33,17 +33,6 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-09-23T23:56:12+00:00"
-  },
-  {
-   "id": "canvas:discussion_topic:6364",
-   "course": "OB",
-   "title": "Post-Class Discussion for Session #2 (Sept. 25) ",
-   "type": "discussion_topic",
-   "due": "2026-09-24T15:03:44Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/discussion_topics/6364",
-   "source": "canvas",
-   "summary": "Optionally post questions from Session 2 you didn't get to raise, for extra credit.",
-   "first_seen": "2026-09-25T10:19:52+00:00"
   },
   {
    "id": "canvas:assignment:9798",
@@ -90,17 +79,6 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
-   "id": "canvas:discussion_topic:6367",
-   "course": "OB",
-   "title": "Post-Class Discussion for Session #3 (Sept. 29)",
-   "type": "discussion_topic",
-   "due": "2026-09-29T07:15:23Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/discussion_topics/6367",
-   "source": "canvas",
-   "summary": "Share any leftover questions or thoughts from Session #3 for optional extra credit.",
-   "first_seen": "2026-09-29T10:19:58+00:00"
-  },
-  {
    "id": "canvas:assignment:9800",
    "course": "LD",
    "title": "Session 1 Weekly Reflection",
@@ -123,17 +101,6 @@
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
-   "id": "canvas:discussion_topic:6369",
-   "course": "FA",
-   "title": "Problem Set 3 - Question #17",
-   "type": "discussion_topic",
-   "due": "2026-09-30T21:27:36Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/discussion_topics/6369",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-01T10:21:07+00:00"
-  },
-  {
    "id": "canvas:quiz:6103",
    "course": "FA",
    "title": "03 | Problem set",
@@ -143,28 +110,6 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-09-29T10:19:58+00:00"
-  },
-  {
-   "id": "canvas:discussion_topic:6223",
-   "course": "MK",
-   "title": "DISCUSSION BOARD | Aleph Farms: A New Culture of Meat",
-   "type": "discussion_topic",
-   "due": "2026-10-01T05:40:53Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/discussion_topics/6223",
-   "source": "canvas",
-   "summary": "Discussion board opens for posting on Oct 12 at 9:30am.",
-   "first_seen": "2026-10-01T10:21:07+00:00"
-  },
-  {
-   "id": "canvas:discussion_topic:6221",
-   "course": "MK",
-   "title": "DISCUSSION BOARD | Hot Wheels: Launching The Mixed Play Experience",
-   "type": "discussion_topic",
-   "due": "2026-10-01T07:13:12Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/discussion_topics/6221",
-   "source": "canvas",
-   "summary": "Discussion board opens for posting on Oct 12 at 9:30am.",
-   "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
    "id": "canvas:assignment:9638",
@@ -198,6 +143,17 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-09-29T10:19:58+00:00"
+  },
+  {
+   "id": "canvas:assignment:9818",
+   "course": "LD",
+   "title": "Session 2  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-10-06T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9818",
+   "source": "canvas",
+   "summary": "Submit a one-page weekly reflection using the provided template by Tuesday.",
+   "first_seen": "2026-10-02T10:19:09+00:00"
   },
   {
    "id": "canvas:quiz:6257",
@@ -750,18 +706,18 @@
    "first_seen": "2026-09-23T10:14:14+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepvideomcdonaldsjapancampaign",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856#prepmcdonaldsjapancampaignvideo",
    "course": "OB",
-   "title": "Prep: Video – McDonald's Japan Campaign 「スマイルあげない」",
+   "title": "Prep: McDonald's Japan Campaign Video – 「スマイルあげない」",
    "type": "prep",
    "due": "2026-10-02T09:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
-   "summary": "Watch the McDonald's Japan campaign video clip before class.",
+   "summary": "Watch the McDonald's Japan video campaign clip before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856",
    "source_title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-29T10:19:58+00:00"
+   "first_seen": "2026-10-02T10:19:09+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midterm",
@@ -1114,18 +1070,18 @@
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866#prepsession2prereading",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866#preppresessionmaterialsession21002pre2pdf",
    "course": "LD",
-   "title": "Prep: Session 2 Pre-reading",
+   "title": "Prep: Pre-Session Material (Session 2 1002 pre-2.pdf)",
    "type": "prep",
    "due": "2026-10-02T00:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136708",
-   "summary": "Review the pre-session reading material for Session 2.",
+   "summary": "Review the pre-session PDF material before this session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866",
    "source_title": "SESSION 2 | Judgment Under Uncertainty: How Leaders Think, Interpret, and Decide",
    "note": "time TBD",
    "source": "page",
-   "first_seen": "2026-09-26T10:18:50+00:00"
+   "first_seen": "2026-10-02T10:19:09+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866#prepgoogleslidefordiscussion",
@@ -1134,7 +1090,7 @@
    "type": "prep",
    "due": "2026-10-02T00:00:00+09:00",
    "url": "https://docs.google.com/presentation/d/1WZQCDa9f6zTAzr71wddADJMokLyS4_Vuspy9-s5XUWQ/edit?usp=sharing",
-   "summary": "Review the Google slide for the Session 2 discussion.",
+   "summary": "Review the Google slide for in-class discussion.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866",
    "source_title": "SESSION 2 | Judgment Under Uncertainty: How Leaders Think, Interpret, and Decide",
    "note": "time TBD",
