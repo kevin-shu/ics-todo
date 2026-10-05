@@ -160,17 +160,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27904": {
-  "updated_at": "2026-10-01T04:44:05Z",
+  "updated_at": "2026-10-05T04:13:46Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 5 | Place / Distribution Channels | Chateau Margaux",
   "items": [
    {
-    "title": "Prep: Marketing Reading: Developing and Managing Channels of Distribution (HBS 8149)",
+    "title": "Prep: Marketing Reading – Developing and Managing Channels of Distribution (HBS 8149)",
     "type": "prep",
     "due": "2026-10-05T09:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended reading on managing distribution channels.",
+    "summary": "Read the recommended marketing reading on distribution channels.",
     "note": "optional"
    },
    {
@@ -178,23 +178,23 @@
     "type": "prep",
     "due": "2026-10-05T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on launching Château Margaux's third wine.",
+    "summary": "Read the case on Château Margaux's distribution channel decisions.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27905": {
-  "updated_at": "2026-09-16T10:29:18Z",
+  "updated_at": "2026-10-05T04:14:25Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 6 | Pricing | Medicines Company",
   "items": [
    {
-    "title": "Prep: Marketing Reading: Pricing Strategy (HBS 8203)",
+    "title": "Prep: Marketing Reading – Pricing Strategy (HBS 8203)",
     "type": "prep",
     "due": "2026-10-08T09:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended reading on pricing strategy.",
+    "summary": "Read the recommended marketing reading on pricing strategy.",
     "note": "optional"
    },
    {
@@ -202,7 +202,7 @@
     "type": "prep",
     "due": "2026-10-08T09:45:00+09:00",
     "url": null,
-    "summary": "Read The Medicines Company case.",
+    "summary": "Read the case on pricing decisions for Angiomax.",
     "note": ""
    }
   ]
@@ -594,11 +594,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401": {
-  "updated_at": "2026-10-03T17:58:05Z",
+  "updated_at": "2026-10-05T09:17:54Z",
   "kind": "canvas_item",
   "course": "MBAE",
   "title": "INDIVIDUAL REFLECTION MEMO",
-  "summary": "Write and submit an individual reflection memo answering two prompts."
+  "summary": "Write and submit a reflection memo on MBA Essentials and teamwork by Oct 14 2359 JST."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
   "updated_at": "2026-09-25T08:23:21Z",
@@ -1132,39 +1132,31 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531": {
-  "updated_at": "2026-10-01T06:54:55Z",
+  "updated_at": "2026-10-04T14:13:24Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 05 |1245-1445, Mon, Oct 5, 2026",
   "items": [
    {
-    "title": "Prep: LLH Ch.6 + 7",
+    "title": "Prep: LLH Textbook Ch.6-7",
     "type": "prep",
     "due": "2026-10-05T12:45:00+09:00",
     "url": null,
-    "summary": "Read chapters 6 and 7 of LLH.",
+    "summary": "Read chapters 6 and 7 of the LLH textbook.",
     "note": ""
    },
    {
-    "title": "05 | Homework",
+    "title": "05 | Problem set",
     "type": "assignment",
     "due": "2026-10-08T09:30:00+09:00",
-    "url": null,
-    "summary": "Complete the homework assignment (access details TBA).",
-    "note": ""
-   },
-   {
-    "title": "Prep: Case reading for Class 06",
-    "type": "prep",
-    "due": "2026-10-08T12:45:00+09:00",
-    "url": null,
-    "summary": "Read the case assigned for discussion in Class 6.",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097",
+    "summary": "Complete and submit the problem set via Canvas.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813": {
-  "updated_at": "2026-10-04T07:43:20Z",
+  "updated_at": "2026-10-04T14:50:27Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F26-27] IW Session 2 Post-session assignment",
@@ -1432,6 +1424,337 @@
     "due": "2026-10-12T09:30:00+09:00",
     "url": null,
     "summary": "Complete and submit the homework assignment by the deadline.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9801": {
+  "updated_at": "2026-10-03T02:12:29Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Class 1 TA Memo",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9808": {
+  "updated_at": "2026-09-29T00:43:53Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Option A （YKK）",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9802": {
+  "updated_at": "2026-09-29T00:33:21Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Class 2 TA Memo",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "05 | Problem set",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9803": {
+  "updated_at": "2026-09-29T00:36:02Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Class 3 TA Memo",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9809": {
+  "updated_at": "2026-09-29T00:45:27Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Option B (Daikin)",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9810": {
+  "updated_at": "2026-09-29T00:46:46Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Option C (Recruit)",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9804": {
+  "updated_at": "2026-09-29T00:37:47Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Class 4 TA Memo",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9805": {
+  "updated_at": "2026-09-29T00:39:07Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Class 5 TA Memo",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9811": {
+  "updated_at": "2026-09-29T00:47:55Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Final Paper",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9806": {
+  "updated_at": "2026-09-29T00:40:03Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Class 6 TA Memo",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9807": {
+  "updated_at": "2026-09-29T00:40:59Z",
+  "kind": "canvas_item",
+  "course": "NJM",
+  "title": "Class 7 TA Memo",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27533": {
+  "updated_at": "2026-10-04T14:28:35Z",
+  "kind": "page",
+  "course": "FA",
+  "title": "Class 07 |1245-1445, Mon, Oct 12, 2026",
+  "items": [
+   {
+    "title": "Prep: LLH Textbook Ch.8",
+    "type": "prep",
+    "due": "2026-10-12T12:45:00+09:00",
+    "url": null,
+    "summary": "Read chapter 8 of the LLH textbook.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Capitalizing Development Costs at Fiat Chrysler Automobiles and Volkswagen",
+    "type": "prep",
+    "due": "2026-10-15T12:45:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1457915",
+    "summary": "Read the case and prepare the assigned questions for Class 8.",
+    "note": ""
+   },
+   {
+    "title": "Problem set (TBA)",
+    "type": "assignment",
+    "due": "2026-10-15T00:00:00+09:00",
+    "url": null,
+    "summary": "Complete and submit the problem set (details TBA).",
+    "note": "time TBD"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27859": {
+  "updated_at": "2026-10-04T20:51:35Z",
+  "kind": "page",
+  "course": "OB",
+  "title": "SESSION 6 | Oct. 9 FRI | Motivation",
+  "items": [
+   {
+    "title": "Prep: Case #4 – Trouble at Tessei",
+    "type": "prep",
+    "due": "2026-10-09T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the case and prepare to discuss the operational challenges at Tessei.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Textbook Ch.7",
+    "type": "prep",
+    "due": "2026-10-09T09:45:00+09:00",
+    "url": null,
+    "summary": "Read chapter 7 of the textbook on motivation.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules": {
+  "updated_at": "| 1 | 2026-10-01 | THU | 15:00-17:00 |\n| 2 | 2026-10-06 | TUE | 15:00-17:00 |\n| 3 | 2026-10-08 | THU | 15:00-17:00 |\n| 4 | 2026-10-13 | TUE | 15:00-17:00 | \n| 5 | 2026-10-15 | THU | 15:00-17:00 |\n| 6 | 2026-10-20 | TUE | 15:00-17:00 |\n| FINAL | 2026-10-22 | THU | 15:00-17:00 |",
+  "kind": "page",
+  "course": "NJM",
+  "title": "Module outline",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27606": {
+  "updated_at": "2026-09-28T23:50:24Z",
+  "kind": "page",
+  "course": "NJM",
+  "title": "SESSION 1 | Introduction",
+  "items": [
+   {
+    "title": "Prep: Purposism Interview",
+    "type": "prep",
+    "due": "2026-10-01T15:00:00+09:00",
+    "url": "https://thebeautifultruth.org/work/purpose/in-conversation-with-takashi-nawa/",
+    "summary": "Read the interview on purpose in Western and Japanese management.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27607": {
+  "updated_at": "2026-09-29T00:17:41Z",
+  "kind": "page",
+  "course": "NJM",
+  "title": "SESSION 2 | Inamori",
+  "items": [
+   {
+    "title": "Prep: Case – Kazuo Inamori: A Japanese Entrepreneur (9-408-039)",
+    "type": "prep",
+    "due": "2026-10-06T15:00:00+09:00",
+    "url": null,
+    "summary": "Read the case on Inamori's Philosophy Management at Kyocera and KDDI.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27608": {
+  "updated_at": "2026-09-29T00:18:08Z",
+  "kind": "page",
+  "course": "NJM",
+  "title": "SESSION 3 | YKK",
+  "items": [
+   {
+    "title": "Prep: HBR Article – Lessons in Longevity from an 88-year-old Zipper Company",
+    "type": "prep",
+    "due": "2026-10-08T15:00:00+09:00",
+    "url": null,
+    "summary": "Read the article on YKK's Cycle of Goodness philosophy.",
+    "note": ""
+   },
+   {
+    "title": "Prep: YKK Annual Report 2022",
+    "type": "prep",
+    "due": "2026-10-08T15:00:00+09:00",
+    "url": "https://www.ykk.com/english/csr/eco/report/pdf/2022/This_is_YKK_2022_dialogue.pdf",
+    "summary": "Read YKK's 2022 report on its Cycle of Goodness purpose.",
+    "note": ""
+   },
+   {
+    "title": "Option A (YKK)",
+    "type": "assignment",
+    "due": "2026-10-07T20:00:00+09:00",
+    "url": null,
+    "summary": "If choosing YKK, write a one-page PPT answer to Q3 and submit it.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27609": {
+  "updated_at": "2026-09-29T00:16:49Z",
+  "kind": "page",
+  "course": "NJM",
+  "title": "SESSION 4  | Daikin",
+  "items": [
+   {
+    "title": "Prep: Case – Daikin (IMD 7-2618)",
+    "type": "prep",
+    "due": "2026-10-13T15:00:00+09:00",
+    "url": null,
+    "summary": "Read the Daikin case on people-centered management over 100 years.",
+    "note": ""
+   },
+   {
+    "title": "Option B (Daikin)",
+    "type": "assignment",
+    "due": "2026-10-12T20:00:00+09:00",
+    "url": null,
+    "summary": "If choosing Daikin, write a one-page PPT answer to Q3 and submit it.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27610": {
+  "updated_at": "2026-09-29T00:19:30Z",
+  "kind": "page",
+  "course": "NJM",
+  "title": "SESSION 5| Recruit",
+  "items": [
+   {
+    "title": "Prep: Case – Recruit (318130-PDF-ENG)",
+    "type": "prep",
+    "due": "2026-10-15T15:00:00+09:00",
+    "url": null,
+    "summary": "Read the Recruit case on globalizing Japan's dream machine.",
+    "note": ""
+   },
+   {
+    "title": "Option C (Recruit)",
+    "type": "assignment",
+    "due": "2026-10-14T20:00:00+09:00",
+    "url": null,
+    "summary": "If choosing Recruit, write a one-page PPT answer to Q3 and submit it.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611": {
+  "updated_at": "2026-09-29T00:20:41Z",
+  "kind": "page",
+  "course": "NJM",
+  "title": "SESSION 6 | GPIF",
+  "items": [
+   {
+    "title": "Prep: Case – Should a Pension Fund Try to Change the World? Inside GPIF's Embrace of ESG (9-319-067)",
+    "type": "prep",
+    "due": "2026-10-20T15:00:00+09:00",
+    "url": null,
+    "summary": "Read the case on GPIF's embrace of ESG investing.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Larry Fink's 2020 Letter to CEOs",
+    "type": "prep",
+    "due": "2026-10-20T15:00:00+09:00",
+    "url": "https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter",
+    "summary": "Read Larry Fink's 2020 letter to CEOs.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Where ESG Fails (Article)",
+    "type": "prep",
+    "due": "2026-10-20T15:00:00+09:00",
+    "url": "https://www.institutionalinvestor.com/article/b1hm5ghqtxj9s7/Where-ESG-Fails",
+    "summary": "Read the article on where ESG investing fails.",
+    "note": ""
+   },
+   {
+    "title": "Prep: GPIF Video",
+    "type": "prep",
+    "due": "2026-10-20T15:00:00+09:00",
+    "url": "https://www.youtube.com/watch?v=jpPmueiZivk",
+    "summary": "Watch the video on GPIF's role in driving ESG in Japan.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612": {
+  "updated_at": "2026-09-29T00:29:22Z",
+  "kind": "page",
+  "course": "NJM",
+  "title": "SESSION 7 | Honda or Preferred Networks",
+  "items": [
+   {
+    "title": "Prep: Case – HondaJet (618012-PDF-ENG)",
+    "type": "prep",
+    "due": "2026-10-22T15:00:00+09:00",
+    "url": null,
+    "summary": "If choosing Honda, read the HondaJet case.",
+    "note": "optional"
+   },
+   {
+    "title": "Prep: Case – Preferred Networks (IN1632-PDF-ENG)",
+    "type": "prep",
+    "due": "2026-10-22T15:00:00+09:00",
+    "url": null,
+    "summary": "If choosing Preferred Networks, read its case on deep learning.",
+    "note": "optional"
+   },
+   {
+    "title": "Final Paper",
+    "type": "assignment",
+    "due": "2026-10-21T20:00:00+09:00",
+    "url": null,
+    "summary": "Write a one-page PPT answer to the case question and submit it.",
     "note": ""
    }
   ]
