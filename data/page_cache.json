@@ -1,17 +1,10 @@
 {
- "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9636": {
-  "updated_at": "2026-09-17T08:08:34Z",
-  "kind": "canvas_item",
-  "course": "FA",
-  "title": "01 | Before Class Quiz",
-  "summary": "Complete the before-class quiz"
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9638": {
-  "updated_at": "2026-10-04T02:22:02Z",
+  "updated_at": "2026-10-06T03:57:45Z",
   "kind": "canvas_item",
   "course": "OB",
   "title": "1. Team Project Proposal",
-  "summary": "Submit the completed Team Project Proposal as a Word document."
+  "summary": "Submit the team project proposal as a Word document."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9639": {
   "updated_at": "2026-08-20T09:17:51Z",
@@ -1311,17 +1304,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857": {
-  "updated_at": "2026-09-30T13:13:39Z",
+  "updated_at": "2026-10-06T03:35:32Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 5 | Oct. 6 TUE | Personality and Self-Concepts",
   "items": [
    {
-    "title": "Prep: Case #3. Social Salary Setting at Spiber",
+    "title": "Prep: Case #3 – Social Salary Setting at Spiber",
     "type": "prep",
     "due": "2026-10-06T09:45:00+09:00",
     "url": null,
-    "summary": "Read the required case on Spiber's self-set salary system.",
+    "summary": "Read the required case on Spiber's set-your-own-salary system.",
     "note": ""
    },
    {
@@ -1333,11 +1326,11 @@
     "note": "optional"
    },
    {
-    "title": "Take Big Five personality test and report result",
+    "title": "Take Big Five personality test and submit result",
     "type": "task",
     "due": "2026-10-04T00:00:00+09:00",
     "url": "https://forms.gle/LH39ZSQhc1T3GPym7",
-    "summary": "Take the Big Five personality test and submit your result via Google Form.",
+    "summary": "Take the Big Five personality test and report your result via the form.",
     "note": "time TBD"
    }
   ]

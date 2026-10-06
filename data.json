@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-05T10:21:12+00:00",
+ "generated_at": "2026-10-06T10:20:45+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9636",
-   "course": "FA",
-   "title": "01 | Before Class Quiz",
-   "type": "assignment",
-   "due": "2026-09-21T00:30:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9636",
-   "source": "canvas",
-   "summary": "Complete the before-class quiz",
-   "first_seen": "2026-09-21T09:48:55+00:00"
-  },
   {
    "id": "canvas:quiz:6255",
    "course": "IW",
@@ -119,7 +108,7 @@
    "due": "2026-10-04T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9638",
    "source": "canvas",
-   "summary": "Submit the completed Team Project Proposal as a Word document.",
+   "summary": "Submit the team project proposal as a Word document.",
    "first_seen": "2026-09-21T09:48:55+00:00"
   },
   {
@@ -601,6 +590,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-09-21T11:21:54+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27527#01beforeclassquiz",
+   "course": "FA",
+   "title": "01 | Before Class Quiz",
+   "type": "exam",
+   "due": "2026-09-21T09:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9636",
+   "summary": "Complete the quiz before class begins.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27527",
+   "source_title": "Class 01 |1245-1445, Mon, Sep 21, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-06T10:20:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27528#prepllhch2",
@@ -1319,11 +1322,11 @@
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857#prepcase3socialsalarysettingatspiber",
    "course": "OB",
-   "title": "Prep: Case #3. Social Salary Setting at Spiber",
+   "title": "Prep: Case #3 – Social Salary Setting at Spiber",
    "type": "prep",
    "due": "2026-10-06T09:45:00+09:00",
    "url": null,
-   "summary": "Read the required case on Spiber's self-set salary system.",
+   "summary": "Read the required case on Spiber's set-your-own-salary system.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857",
    "source_title": "SESSION 5 | Oct. 6 TUE | Personality and Self-Concepts",
    "note": "",
@@ -1345,18 +1348,18 @@
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857#takebigfivepersonalitytestandreportresult",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857#takebigfivepersonalitytestandsubmitresult",
    "course": "OB",
-   "title": "Take Big Five personality test and report result",
+   "title": "Take Big Five personality test and submit result",
    "type": "task",
    "due": "2026-10-04T00:00:00+09:00",
    "url": "https://forms.gle/LH39ZSQhc1T3GPym7",
-   "summary": "Take the Big Five personality test and submit your result via Google Form.",
+   "summary": "Take the Big Five personality test and report your result via the form.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857",
    "source_title": "SESSION 5 | Oct. 6 TUE | Personality and Self-Concepts",
    "note": "time TBD",
    "source": "page",
-   "first_seen": "2026-10-01T10:21:07+00:00"
+   "first_seen": "2026-10-06T10:20:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27596#prephbscitationguide202526",
