@@ -1336,25 +1336,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27596": {
-  "updated_at": "2026-10-03T05:17:55Z",
+  "updated_at": "2026-10-06T15:03:00Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 7 OCTOBER 2026 | SESSION 3 | WHEN IN DOUBT, CITE!",
   "items": [
    {
-    "title": "[F 26-27] IW Session 3 Pre-session quiz",
+    "title": "IW Session 3 Pre-session quiz",
     "type": "assignment",
     "due": "2026-10-07T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6257",
-    "summary": "Complete and submit the pre-session quiz before class.",
+    "summary": "Complete and submit the pre-session quiz before the session.",
     "note": ""
    },
    {
-    "title": "Prep: HBS Citation Guide 2025-26",
+    "title": "Prep: HBS Citation Guide 2026-27",
     "type": "prep",
     "due": "2026-10-07T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/136950",
-    "summary": "Read the HBS citation guide on proper citation before class.",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/137120",
+    "summary": "Read the HBS Citation Guide before the session.",
     "note": ""
    }
   ]
@@ -1585,17 +1585,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27607": {
-  "updated_at": "2026-09-29T00:17:41Z",
+  "updated_at": "2026-10-06T23:01:54Z",
   "kind": "page",
   "course": "NJM",
   "title": "SESSION 2 | Inamori",
   "items": [
    {
-    "title": "Prep: Case – Kazuo Inamori: A Japanese Entrepreneur (9-408-039)",
+    "title": "Prep: Case – Kazuo Inamori – A Japanese Entrepreneur",
     "type": "prep",
     "due": "2026-10-06T15:00:00+09:00",
     "url": null,
-    "summary": "Read the case on Inamori's Philosophy Management at Kyocera and KDDI.",
+    "summary": "Read the Inamori case and prepare to discuss the assigned questions.",
     "note": ""
    }
   ]
