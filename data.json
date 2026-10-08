@@ -1,21 +1,10 @@
 {
- "generated_at": "2026-10-07T10:18:31+00:00",
+ "generated_at": "2026-10-08T10:19:43+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6255",
-   "course": "IW",
-   "title": "[F 26-27] IW Session 1 Pre-session survey",
-   "type": "quiz",
-   "due": "2026-09-22T23:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6255",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-09-23T23:56:12+00:00"
-  },
   {
    "id": "canvas:assignment:9798",
    "course": "IW",
-   "title": "[F26-27] IW 1 Post-session assignment",
+   "title": "[F 26-27] IW 1 Post-session assignment",
    "type": "assignment",
    "due": "2026-09-27T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9798",
@@ -114,7 +103,7 @@
   {
    "id": "canvas:assignment:9813",
    "course": "IW",
-   "title": "[F26-27] IW Session 2 Post-session assignment",
+   "title": "[F 26-27] IW Session 2 Post-session assignment",
    "type": "assignment",
    "due": "2026-10-04T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813",
@@ -163,7 +152,7 @@
    "due": "2026-10-07T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9808",
    "source": "canvas",
-   "summary": "",
+   "summary": "Complete the POA submission for Option A (YKK).",
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
@@ -174,7 +163,7 @@
    "due": "2026-10-07T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9802",
    "source": "canvas",
-   "summary": "",
+   "summary": "Complete the TA feedback memo using the provided Excel template.",
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
@@ -200,6 +189,17 @@
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
+   "id": "canvas:assignment:9820",
+   "course": "IW",
+   "title": "[F 26-27] IW Session 3 Post-session assignment",
+   "type": "assignment",
+   "due": "2026-10-11T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9820",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-10-08T10:19:43+00:00"
+  },
+  {
    "id": "canvas:assignment:9809",
    "course": "NJM",
    "title": "Option B (Daikin)",
@@ -209,6 +209,17 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-10-05T10:21:12+00:00"
+  },
+  {
+   "id": "canvas:quiz:6258",
+   "course": "IW",
+   "title": "[F 26-27] IW Session 4 Pre-session quiz ",
+   "type": "quiz",
+   "due": "2026-10-13T23:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6258",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-10-08T10:19:43+00:00"
   },
   {
    "id": "canvas:assignment:9810",
@@ -240,7 +251,7 @@
    "due": "2026-10-14T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401",
    "source": "canvas",
-   "summary": "Write and submit a reflection memo on MBA Essentials and teamwork by Oct 14 2359 JST.",
+   "summary": "Write and submit a reflection memo on MBA Essentials learning and teamwork by Oct 14 2359 JST.",
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
@@ -1368,7 +1379,7 @@
    "type": "prep",
    "due": "2026-10-07T12:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/137120",
-   "summary": "Read the HBS Citation Guide before the session.",
+   "summary": "Read the HBS Citation Guide covering proper citation practices.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27596",
    "source_title": "WEDNESDAY 7 OCTOBER 2026 | SESSION 3 | WHEN IN DOUBT, CITE!",
    "note": "",
@@ -1668,6 +1679,76 @@
    "note": "optional",
    "source": "page",
    "first_seen": "2026-10-05T10:21:12+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858#prepcase5thomasgreenpowerofficepoliticsandacareerincrisis",
+   "course": "OB",
+   "title": "Prep: Case #5 – Thomas Green: Power, Office Politics, and a Career in Crisis",
+   "type": "prep",
+   "due": "2026-10-13T09:45:00+09:00",
+   "url": null,
+   "summary": "Read the required case on Thomas Green's office politics and career crisis.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858",
+   "source_title": "SESSION 7 | Oct. 13 TUE | Perception, Power and Influence",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-08T10:19:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858#prepchapter6",
+   "course": "OB",
+   "title": "Prep: Chapter 6",
+   "type": "prep",
+   "due": "2026-10-13T09:45:00+09:00",
+   "url": null,
+   "summary": "Read the optional Chapter 6 for additional background.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858",
+   "source_title": "SESSION 7 | Oct. 13 TUE | Perception, Power and Influence",
+   "note": "optional",
+   "source": "page",
+   "first_seen": "2026-10-08T10:19:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858#prepnewspaperarticleimdonebeingyourmodelminority",
+   "course": "OB",
+   "title": "Prep: Newspaper Article – I'm Done Being Your Model Minority",
+   "type": "prep",
+   "due": "2026-10-13T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137200",
+   "summary": "Skim the optional newspaper article on racial stereotyping before the discussion.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858",
+   "source_title": "SESSION 7 | Oct. 13 TUE | Perception, Power and Influence",
+   "note": "optional",
+   "source": "page",
+   "first_seen": "2026-10-08T10:19:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858#prepnewspaperarticleatitanshowtoonbreakingtheglassceiling",
+   "course": "OB",
+   "title": "Prep: Newspaper Article – A Titan's How-To on Breaking the Glass Ceiling",
+   "type": "prep",
+   "due": "2026-10-13T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137199",
+   "summary": "Skim the optional newspaper article giving one perspective on overcoming gender inequality.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858",
+   "source_title": "SESSION 7 | Oct. 13 TUE | Perception, Power and Influence",
+   "note": "optional",
+   "source": "page",
+   "first_seen": "2026-10-08T10:19:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858#prepnewspaperarticleyesyoucan",
+   "course": "OB",
+   "title": "Prep: Newspaper Article – Yes, You Can",
+   "type": "prep",
+   "due": "2026-10-13T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137198",
+   "summary": "Skim the optional newspaper article giving another perspective on overcoming gender inequality.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858",
+   "source_title": "SESSION 7 | Oct. 13 TUE | Perception, Power and Influence",
+   "note": "optional",
+   "source": "page",
+   "first_seen": "2026-10-08T10:19:43+00:00"
   }
  ]
 }
