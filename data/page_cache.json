@@ -617,20 +617,11 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27863": {
-  "updated_at": "2026-10-03T04:22:03Z",
+  "updated_at": "2026-10-09T03:32:59Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 1 | From Intentions to Behavior: Examining Assumptions and Leadership Patterns",
-  "items": [
-   {
-    "title": "Submit weekly report (Session 1)",
-    "type": "task",
-    "due": "2026-09-25T00:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136944",
-    "summary": "Complete and submit the weekly report for this session.",
-    "note": "time TBD"
-   }
-  ]
+  "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/modules": {
   "updated_at": "DAY 1-2 | SEP 14-15 (MON-TUE) | TEAM BUILDING@KARUIZAWA RISING FIELD\nDAY 3 | SEP 16 (WED) | @ICS\nDAY 4 | SEP 17 (THU) | @ICS\nDAY 5 | SEP 18 (FRI) | @ICS\nJAPANESE CULTURAL MINDSET AND TEAM BUILDING\nINTERCULTURAL COMMUNICATIONS\nPRESENTATION SKILLS\nINDIVIDUAL REFLECTION MEMO",
@@ -1531,25 +1522,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27859": {
-  "updated_at": "2026-10-04T20:51:35Z",
+  "updated_at": "2026-10-09T03:23:33Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 6 | Oct. 9 FRI | Motivation",
   "items": [
    {
-    "title": "Prep: Case #4 – Trouble at Tessei",
+    "title": "Prep: Case #4. Trouble at Tessei",
     "type": "prep",
     "due": "2026-10-09T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case and prepare to discuss the operational challenges at Tessei.",
+    "summary": "Read the required case on Tessei's operational challenges before class.",
     "note": ""
    },
    {
-    "title": "Prep: Textbook Ch.7",
+    "title": "Prep: Textbook Ch. 7",
     "type": "prep",
     "due": "2026-10-09T09:45:00+09:00",
     "url": null,
-    "summary": "Read chapter 7 of the textbook on motivation.",
+    "summary": "Read the optional textbook chapter on motivation theories.",
     "note": "optional"
    }
   ]
@@ -1594,17 +1585,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27608": {
-  "updated_at": "2026-09-29T00:18:08Z",
+  "updated_at": "2026-10-08T12:05:57Z",
   "kind": "page",
   "course": "NJM",
   "title": "SESSION 3 | YKK",
   "items": [
    {
-    "title": "Prep: HBR Article – Lessons in Longevity from an 88-year-old Zipper Company",
+    "title": "Prep: HBR Article – YKK (Lessons in Longevity from an 88-year-old Zipper Company)",
     "type": "prep",
     "due": "2026-10-08T15:00:00+09:00",
     "url": null,
-    "summary": "Read the article on YKK's Cycle of Goodness philosophy.",
+    "summary": "Read the HBR article on YKK's 88 years of longevity as a zipper company.",
     "note": ""
    },
    {
@@ -1612,40 +1603,40 @@
     "type": "prep",
     "due": "2026-10-08T15:00:00+09:00",
     "url": "https://www.ykk.com/english/csr/eco/report/pdf/2022/This_is_YKK_2022_dialogue.pdf",
-    "summary": "Read YKK's 2022 report on its Cycle of Goodness purpose.",
+    "summary": "Read YKK's 2022 annual report on its Cycle of Goodness purpose.",
     "note": ""
    },
    {
-    "title": "Option A (YKK)",
+    "title": "Homework: One-page PPT answering Q3 on YKK case",
     "type": "assignment",
     "due": "2026-10-07T20:00:00+09:00",
     "url": null,
-    "summary": "If choosing YKK, write a one-page PPT answer to Q3 and submit it.",
-    "note": "optional"
+    "summary": "If you choose the YKK case, write a one-page PPT answering Q3 and submit it.",
+    "note": "optional (only if this case is chosen)"
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27609": {
-  "updated_at": "2026-09-29T00:16:49Z",
+  "updated_at": "2026-10-08T22:53:23Z",
   "kind": "page",
   "course": "NJM",
   "title": "SESSION 4  | Daikin",
   "items": [
    {
-    "title": "Prep: Case – Daikin (IMD 7-2618)",
+    "title": "Prep: IMD Case – Daikin (Overcoming Diversity through Innovation – Daikin at 100)",
     "type": "prep",
     "due": "2026-10-13T15:00:00+09:00",
     "url": null,
-    "summary": "Read the Daikin case on people-centered management over 100 years.",
+    "summary": "Read the Daikin case on overcoming diversity through innovation.",
     "note": ""
    },
    {
-    "title": "Option B (Daikin)",
+    "title": "Homework: One-page PPT answering Q3 on Daikin case",
     "type": "assignment",
     "due": "2026-10-12T20:00:00+09:00",
     "url": null,
-    "summary": "If choosing Daikin, write a one-page PPT answer to Q3 and submit it.",
-    "note": "optional"
+    "summary": "If you choose the Daikin case, write a one-page PPT answering Q3 and submit it.",
+    "note": "optional (only if this case is chosen)"
    }
   ]
  },
@@ -1746,7 +1737,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9820": {
-  "updated_at": "2026-10-07T22:59:38Z",
+  "updated_at": "2026-10-09T09:18:07Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 3 Post-session assignment",
@@ -1808,7 +1799,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27554": {
-  "updated_at": "2026-10-07T21:29:17Z",
+  "updated_at": "2026-10-08T16:28:25Z",
   "kind": "page",
   "course": "ECON",
   "title": "Economics of Information",
@@ -1826,6 +1817,22 @@
     "due": "2026-10-14T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6258",
     "summary": "Complete and submit the pre-session quiz before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555": {
+  "updated_at": "2026-10-08T16:06:14Z",
+  "kind": "page",
+  "course": "ECON",
+  "title": "PS vs Xbox Case/Shutdown and Exit Decisions/Macroeconomic Statistics",
+  "items": [
+   {
+    "title": "Study Group Assignment 2 on Pricing Games",
+    "type": "assignment",
+    "due": "2026-10-13T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/137221",
+    "summary": "Complete the group assignment on pricing games with your study group before class.",
     "note": ""
    }
   ]
