@@ -45,6 +45,11 @@
   li.checked { opacity: .5; }
   li.checked .title { text-decoration: line-through; }
   .empty { color: var(--muted); font-size: 14px; }
+  /* 篩選列：課程 chip（未選中變灰）與 optional 開關 */
+  #filters { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 13px; }
+  .chip { font: inherit; font-weight: 700; font-size: 12px; color: #fff; border: 1px solid transparent; border-radius: 4px; padding: 1px 8px; cursor: pointer; }
+  .chip.off { background: #fff !important; color: var(--muted); border-color: var(--line); font-weight: 400; }
+  #filters button.link { font: inherit; background: none; border: 0; color: var(--brand); cursor: pointer; padding: 0 2px; }
   #stale { margin-top: 16px; padding: 10px 12px; border-radius: 8px; background: #fff4e5; color: #8a4b00; border: 1px solid #f5c27a; font-size: 14px; }
 </style>
 </head>
@@ -55,6 +60,7 @@
 </div></header>
 <main>
   <div id="stale" hidden></div>
+  <div id="filters"></div>
   <h2>To do</h2>
   <ul id="todo"></ul>
   <details>

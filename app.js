@@ -6,6 +6,12 @@ const HOUR = 3600e3;
 const checked = (id) => { try { return localStorage.getItem("done:" + id) === "1"; } catch { return false; } };
 const setChecked = (id, v) => { try { v ? localStorage.setItem("done:" + id, "1") : localStorage.removeItem("done:" + id); } catch {} };
 
+// 篩選狀態：hidden = 被隱藏的課程代碼、optional = 是否顯示 optional 項目；存在本機瀏覽器，預設全顯示
+const COURSES = ["MK", "FA", "OB", "ECON", "LD", "MBAE", "IW", "NJM"];
+let filter = { hidden: [], optional: true };
+try { filter = { ...filter, ...JSON.parse(localStorage.getItem("filter")) }; } catch {}
+const saveFilter = () => { try { localStorage.setItem("filter", JSON.stringify(filter)); } catch {} };
+
 // 一律以 JST 顯示，例如「Tue 9/22 09:45」；時間未定則顯示「Tue 9/22 · before class」
 const fmt = (iso, tbd) => {
   if (!iso) return "TBD";
@@ -66,7 +72,8 @@ function render(data) {
   stale.hidden = now - new Date(data.generated_at).getTime() < 36 * HOUR;
   stale.textContent = `⚠️ Data not updated since ${fmt(data.generated_at)} — may be outdated.`;
   const lists = { todo: [], past: [] };
-  for (const it of data.items) lists[dueTime(it) < now ? "past" : "todo"].push(it);
+  const visible = data.items.filter((it) => !filter.hidden.includes(it.course) && (filter.optional || it.note !== "optional"));
+  for (const it of visible) lists[dueTime(it) < now ? "past" : "todo"].push(it);
   lists.todo.sort((a, b) => dueTime(a) - dueTime(b));
   lists.past.sort((a, b) => dueTime(b) - dueTime(a)); // 最近才過期的在最上面
 
@@ -76,4 +83,32 @@ function render(data) {
   }
 }
 
-fetch("data.json", { cache: "no-store" }).then((r) => r.json()).then(render);
+// 產生篩選列（只在載入時建立一次）；變更後存檔並重繪清單
+function renderFilters(data) {
+  const box = document.getElementById("filters");
+  const chips = COURSES.map((c) => {
+    const b = el("button", "chip", c);
+    b.style.background = `var(--${c})`;
+    b.classList.toggle("off", filter.hidden.includes(c));
+    b.onclick = () => {
+      filter.hidden = filter.hidden.includes(c) ? filter.hidden.filter((x) => x !== c) : [...filter.hidden, c];
+      b.classList.toggle("off");
+      saveFilter(); render(data);
+    };
+    return b;
+  });
+  // All / None：一次全開或全關所有課程
+  const setAll = (hidden) => () => {
+    filter.hidden = hidden; chips.forEach((b) => b.classList.toggle("off", hidden.length > 0));
+    saveFilter(); render(data);
+  };
+  const all = el("button", "link", "All"), none = el("button", "link", "None");
+  all.onclick = setAll([]); none.onclick = setAll([...COURSES]);
+  const label = el("label"), opt = el("input");
+  opt.type = "checkbox"; opt.checked = filter.optional;
+  opt.onchange = () => { filter.optional = opt.checked; saveFilter(); render(data); };
+  label.append(opt, " Show optional");
+  box.append(...chips, all, none, label);
+}
+
+fetch("data.json", { cache: "no-store" }).then((r) => r.json()).then((data) => { renderFilters(data); render(data); });
