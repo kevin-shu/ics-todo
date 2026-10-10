@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T10:19:58+00:00",
+ "generated_at": "2026-10-10T10:20:24+00:00",
  "items": [
   {
    "id": "canvas:assignment:9798",
@@ -211,6 +211,17 @@
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
+   "id": "canvas:assignment:9822",
+   "course": "LD",
+   "title": "Session 3  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-10-13T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9822",
+   "source": "canvas",
+   "summary": "Submit a one-page weekly reflection report using the provided template, due Tuesday.",
+   "first_seen": "2026-10-10T10:20:24+00:00"
+  },
+  {
    "id": "canvas:quiz:6258",
    "course": "IW",
    "title": "[F 26-27] IW Session 4 Pre-session quiz ",
@@ -251,7 +262,7 @@
    "due": "2026-10-14T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401",
    "source": "canvas",
-   "summary": "Write and submit a reflection memo on MBA Essentials learning and teamwork by Oct 14 2359 JST.",
+   "summary": "Write a reflection memo answering two questions about MBA Essentials and teamwork.",
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
@@ -1379,7 +1390,7 @@
    "type": "prep",
    "due": "2026-10-09T00:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136922",
-   "summary": "Read the pre-session material before class.",
+   "summary": "Review the pre-session material for Session 3 before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
    "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
    "note": "time TBD",
@@ -1393,7 +1404,7 @@
    "type": "prep",
    "due": "2026-10-09T00:00:00+09:00",
    "url": "https://docs.google.com/presentation/d/1r9iGjJte7nrXPqzwlnaLqxQybBSm6sNpflrohbxKVlc/edit?usp=sharing",
-   "summary": "Review the discussion slide for session 3 before class.",
+   "summary": "Review the pre-session Google Slides for Session 3 before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
    "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
    "note": "time TBD",
@@ -1777,6 +1788,34 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-09T10:19:58+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4prepdf",
+   "course": "LD",
+   "title": "Prep: Session 4 pre.pdf",
+   "type": "prep",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/137302",
+   "summary": "Review the pre-session material for Session 4 before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
+   "source_title": "SESSION 4 | Psychological Safety, Incivility, and Speaking Up",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-10T10:20:24+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepgoogleslidesforgroupdiscussion",
+   "course": "LD",
+   "title": "Prep: Google Slides for Group Discussion",
+   "type": "prep",
+   "due": null,
+   "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
+   "summary": "Review the pre-session Google Slides for Session 4 before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
+   "source_title": "SESSION 4 | Psychological Safety, Incivility, and Speaking Up",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-10T10:20:24+00:00"
   }
  ]
 }
