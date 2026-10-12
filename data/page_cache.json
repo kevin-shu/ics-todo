@@ -177,13 +177,13 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27905": {
-  "updated_at": "2026-10-05T04:14:25Z",
+  "updated_at": "2026-10-10T15:03:20Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 6 | Pricing | Medicines Company",
   "items": [
    {
-    "title": "Prep: Marketing Reading – Pricing Strategy (HBS 8203)",
+    "title": "Prep: Marketing Reading: Pricing Strategy (HBS 8203)",
     "type": "prep",
     "due": "2026-10-08T09:45:00+09:00",
     "url": null,
@@ -195,13 +195,13 @@
     "type": "prep",
     "due": "2026-10-08T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on pricing decisions for Angiomax.",
+    "summary": "Read and prepare the Medicines Company case for class discussion.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27906": {
-  "updated_at": "2026-09-16T10:29:23Z",
+  "updated_at": "2026-10-10T15:04:03Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 7 | Promotions / Marketing Communications | Casper Sleep",
@@ -211,7 +211,7 @@
     "type": "prep",
     "due": "2026-10-12T09:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended reading on marketing communications.",
+    "summary": "Read the recommended marketing reading on marketing communications.",
     "note": "optional"
    },
    {
@@ -219,7 +219,7 @@
     "type": "prep",
     "due": "2026-10-12T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Casper Sleep case.",
+    "summary": "Read and prepare the Casper Sleep case for class discussion.",
     "note": ""
    }
   ]
@@ -558,13 +558,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9798": {
-  "updated_at": "2026-10-07T15:03:19Z",
-  "kind": "canvas_item",
-  "course": "IW",
-  "title": "[F 26-27] IW 1 Post-session assignment",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5952": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
   "kind": "canvas_item",
@@ -580,11 +573,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401": {
-  "updated_at": "2026-10-10T08:11:39Z",
+  "updated_at": "2026-10-12T08:54:30Z",
   "kind": "canvas_item",
   "course": "MBAE",
   "title": "INDIVIDUAL REFLECTION MEMO",
-  "summary": "Write a reflection memo answering two questions about MBA Essentials and teamwork."
+  "summary": "Write and submit an individual reflection memo on MBA Essentials and teamwork."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
   "updated_at": "2026-09-25T08:23:21Z",
@@ -1147,28 +1140,28 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815": {
-  "updated_at": "2026-10-01T05:15:00Z",
+  "updated_at": "2026-10-12T00:30:01Z",
   "kind": "canvas_item",
   "course": "MK",
   "title": "POA MEMO SUBMISSION | Aleph Farms: A New Culture of Meat",
-  "summary": ""
+  "summary": "Submit your POA Memo for Aleph Farms here."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816": {
-  "updated_at": "2026-10-01T05:56:40Z",
+  "updated_at": "2026-10-12T00:30:01Z",
   "kind": "canvas_item",
   "course": "MK",
   "title": "POA MEMO SUBMISSION | Michelin: Building a Digital Service Platform",
-  "summary": ""
+  "summary": "Submit your POA Memo for Michelin here."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817": {
-  "updated_at": "2026-10-01T07:11:19Z",
+  "updated_at": "2026-10-12T00:30:01Z",
   "kind": "canvas_item",
   "course": "MK",
   "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
-  "summary": ""
+  "summary": "Submit your POA Memo for Hot Wheels here."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907": {
-  "updated_at": "2026-10-01T07:15:53Z",
+  "updated_at": "2026-10-12T05:18:09Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
@@ -1178,37 +1171,29 @@
     "type": "prep",
     "due": "2026-10-15T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on Aleph Farms' launch of cultured meat.",
+    "summary": "Read and prepare the Aleph Farms case for class discussion.",
     "note": ""
    },
    {
-    "title": "Prep: POA Memo Instruction",
-    "type": "prep",
-    "due": "2026-10-15T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136881",
-    "summary": "Read the POA Memo instructions for the Final Exam.",
-    "note": ""
-   },
-   {
-    "title": "POA MEMO SUBMISSION | Aleph Farms: A New Culture of Meat",
+    "title": "POA Memo - Aleph Farms: A New Culture of Meat",
     "type": "assignment",
     "due": "2026-10-14T20:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815",
-    "summary": "Write and submit a POA Memo (max 5 pages) for Aleph Farms via Turnitin.",
+    "summary": "Write and submit the POA Memo for Aleph Farms via Turnitin.",
     "note": ""
    },
    {
-    "title": "Evaluate a Classmate's POA Memo",
+    "title": "POA Memo Evaluation - Module 3 case",
     "type": "assignment",
     "due": "2026-11-01T20:00:00+09:00",
     "url": null,
-    "summary": "Write a 300-400 word evaluation of a classmate's POA Memo and post it.",
+    "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923": {
-  "updated_at": "2026-10-01T07:16:27Z",
+  "updated_at": "2026-10-10T15:13:02Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 9 | Growth (1 → N) | Michelin",
@@ -1218,37 +1203,29 @@
     "type": "prep",
     "due": "2026-10-19T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on Michelin's Digital Service Platform.",
+    "summary": "Read and prepare the Michelin case for class discussion.",
     "note": ""
    },
    {
-    "title": "Prep: POA Memo Instruction",
-    "type": "prep",
-    "due": "2026-10-19T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136884",
-    "summary": "Read the POA Memo instructions for the Final Exam.",
-    "note": ""
-   },
-   {
-    "title": "POA MEMO SUBMISSION | Michelin: Building a Digital Service Platform",
+    "title": "POA Memo - Michelin: Building a Digital Service Platform",
     "type": "assignment",
     "due": "2026-10-18T20:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816",
-    "summary": "Write and submit a POA Memo (max 5 pages) for Michelin via Turnitin.",
+    "summary": "Write and submit the POA Memo for Michelin via Turnitin.",
     "note": ""
    },
    {
-    "title": "Evaluate a Classmate's POA Memo",
+    "title": "POA Memo Evaluation - Module 3 case",
     "type": "assignment",
     "due": "2026-11-01T20:00:00+09:00",
     "url": null,
-    "summary": "Write a 300-400 word evaluation of a classmate's POA Memo and post it.",
+    "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914": {
-  "updated_at": "2026-10-01T07:16:47Z",
+  "updated_at": "2026-10-12T07:41:24Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
@@ -1258,31 +1235,23 @@
     "type": "prep",
     "due": "2026-10-26T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case on relaunching Hot Wheels with mixed play.",
+    "summary": "Read and prepare the Hot Wheels case for class discussion.",
     "note": ""
    },
    {
-    "title": "Prep: POA Memo Instruction",
-    "type": "prep",
-    "due": "2026-10-26T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136885",
-    "summary": "Read the POA Memo instructions for the Final Exam.",
-    "note": ""
-   },
-   {
-    "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
+    "title": "POA Memo - Hot Wheels: Launching The Mixed Play Experience",
     "type": "assignment",
     "due": "2026-10-25T20:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
-    "summary": "Write and submit a POA Memo (max 5 pages) for Hot Wheels via Turnitin.",
+    "summary": "Write and submit the POA Memo for Hot Wheels via Turnitin.",
     "note": ""
    },
    {
-    "title": "Evaluate a Classmate's POA Memo",
+    "title": "POA Memo Evaluation - Module 3 case",
     "type": "assignment",
     "due": "2026-11-01T20:00:00+09:00",
     "url": null,
-    "summary": "Write a 300-400 word evaluation of a classmate's POA Memo and post it.",
+    "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
     "note": ""
    }
   ]
@@ -1358,7 +1327,7 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867": {
-  "updated_at": "2026-10-09T11:00:15Z",
+  "updated_at": "2026-10-12T06:31:13Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
@@ -1366,41 +1335,25 @@
    {
     "title": "Prep: Session 3 1009 pre.pdf",
     "type": "prep",
-    "due": "2026-10-09T00:00:00+09:00",
+    "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136922",
-    "summary": "Review the pre-session material for Session 3 before class.",
-    "note": "time TBD"
-   },
-   {
-    "title": "Prep: Google Slides for LD session 3",
-    "type": "prep",
-    "due": "2026-10-09T00:00:00+09:00",
-    "url": "https://docs.google.com/presentation/d/1r9iGjJte7nrXPqzwlnaLqxQybBSm6sNpflrohbxKVlc/edit?usp=sharing",
-    "summary": "Review the pre-session Google Slides for Session 3 before class.",
-    "note": "time TBD"
+    "summary": "Review the pre-session material before Session 3.",
+    "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27532": {
-  "updated_at": "2026-10-03T15:00:00Z",
+  "updated_at": "2026-10-11T08:33:19Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 06 |1245-1445, Thu, Oct 8, 2026",
   "items": [
    {
-    "title": "Prep: HBS Case – Accounting for the iPhone at Apple Inc",
+    "title": "Prep: Accounting for the iPhone at Apple Inc",
     "type": "prep",
     "due": "2026-10-08T12:45:00+09:00",
     "url": "https://hbsp.harvard.edu/import/1457915",
-    "summary": "Read the case on Apple's iPhone accounting and prepare answers to the assigned questions.",
-    "note": ""
-   },
-   {
-    "title": "Homework",
-    "type": "assignment",
-    "due": "2026-10-12T09:30:00+09:00",
-    "url": null,
-    "summary": "Complete and submit the homework assignment by the deadline.",
+    "summary": "Read the Accounting for the iPhone at Apple Inc case and prepare the assigned questions.",
     "note": ""
    }
   ]
@@ -1420,11 +1373,11 @@
   "summary": "Complete the POA submission for Option A (YKK)."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9802": {
-  "updated_at": "2026-10-07T23:34:05Z",
+  "updated_at": "2026-10-11T00:24:09Z",
   "kind": "canvas_item",
   "course": "NJM",
   "title": "Class 2 TA Memo",
-  "summary": "Complete the TA feedback memo using the provided Excel template."
+  "summary": "Fill out and submit the Class 2 TA feedback memo using the template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1434,11 +1387,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9803": {
-  "updated_at": "2026-09-29T00:36:02Z",
+  "updated_at": "2026-10-11T00:14:47Z",
   "kind": "canvas_item",
   "course": "NJM",
   "title": "Class 3 TA Memo",
-  "summary": ""
+  "summary": "Fill out and submit the Class 3 TA feedback memo using the template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9809": {
   "updated_at": "2026-09-29T00:45:27Z",
@@ -1490,17 +1443,25 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27533": {
-  "updated_at": "2026-10-04T14:28:35Z",
+  "updated_at": "2026-10-11T08:33:42Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 07 |1245-1445, Mon, Oct 12, 2026",
   "items": [
    {
-    "title": "Prep: LLH Textbook Ch.8",
+    "title": "Prep: LLH Ch.8",
     "type": "prep",
     "due": "2026-10-12T12:45:00+09:00",
     "url": null,
-    "summary": "Read chapter 8 of the LLH textbook.",
+    "summary": "Read Chapter 8 of the LLH textbook before class.",
+    "note": ""
+   },
+   {
+    "title": "07 | Problem set",
+    "type": "assignment",
+    "due": "2026-10-15T12:45:00+09:00",
+    "url": null,
+    "summary": "Complete and submit Problem Set 07 by the deadline.",
     "note": ""
    },
    {
@@ -1508,16 +1469,8 @@
     "type": "prep",
     "due": "2026-10-15T12:45:00+09:00",
     "url": "https://hbsp.harvard.edu/import/1457915",
-    "summary": "Read the case and prepare the assigned questions for Class 8.",
+    "summary": "Read the Fiat Chrysler and Volkswagen case before Class 08.",
     "note": ""
-   },
-   {
-    "title": "Problem set (TBA)",
-    "type": "assignment",
-    "due": "2026-10-15T00:00:00+09:00",
-    "url": null,
-    "summary": "Complete and submit the problem set (details TBA).",
-    "note": "time TBD"
    }
   ]
  },
@@ -1737,7 +1690,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9820": {
-  "updated_at": "2026-10-10T09:24:32Z",
+  "updated_at": "2026-10-11T14:56:16Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 3 Post-session assignment",
@@ -1822,7 +1775,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555": {
-  "updated_at": "2026-10-08T16:06:14Z",
+  "updated_at": "2026-10-11T15:01:04Z",
   "kind": "page",
   "course": "ECON",
   "title": "PS vs Xbox Case/Shutdown and Exit Decisions/Macroeconomic Statistics",
@@ -1832,7 +1785,7 @@
     "type": "assignment",
     "due": "2026-10-13T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/137221",
-    "summary": "Complete the group assignment on pricing games with your study group before class.",
+    "summary": "Complete Study Group Assignment 2 on pricing games with your group.",
     "note": ""
    }
   ]
@@ -1845,26 +1798,105 @@
   "summary": "Submit a one-page weekly reflection report using the provided template, due Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868": {
-  "updated_at": "2026-10-10T10:04:24Z",
+  "updated_at": "2026-10-10T10:20:52Z",
   "kind": "page",
   "course": "LD",
-  "title": "SESSION 4 | Psychological Safety, Incivility, and Speaking Up",
+  "title": "SESSION 4 | Psychological Safety and Incivility",
   "items": [
    {
     "title": "Prep: Session 4 pre.pdf",
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/137302",
-    "summary": "Review the pre-session material for Session 4 before class.",
+    "summary": "Review the pre-session material before Session 4.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6096": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "07 | Problem set",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131": {
+  "updated_at": "2026-10-12T10:01:33Z",
+  "kind": "page",
+  "course": "FA",
+  "title": "Optional | Midterm Feedback",
+  "items": [
+   {
+    "title": "Sign up for midterm feedback meeting timeslot",
+    "type": "task",
+    "due": "2026-10-13T14:45:00+09:00",
+    "url": null,
+    "summary": "Sign up for an optional one-on-one midterm feedback meeting slot.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534": {
+  "updated_at": "2026-10-11T08:35:14Z",
+  "kind": "page",
+  "course": "FA",
+  "title": " Class 08 |1245-1445, Thu, Oct 15, 2026",
+  "items": [
+   {
+    "title": "Prep: Appendix A",
+    "type": "prep",
+    "due": "2026-10-15T12:45:00+09:00",
+    "url": null,
+    "summary": "Read Appendix A before class.",
     "note": ""
    },
    {
-    "title": "Prep: Google Slides for Group Discussion",
+    "title": "Prep: Capitalizing Development Costs at Fiat Chrysler Automobiles and Volkswagen",
     "type": "prep",
-    "due": null,
-    "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
-    "summary": "Review the pre-session Google Slides for Session 4 before class.",
+    "due": "2026-10-15T12:45:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1457915",
+    "summary": "Read and discuss the Fiat Chrysler and Volkswagen case in class.",
     "note": ""
+   },
+   {
+    "title": "Prep: 09_Tesla Background.pdf",
+    "type": "prep",
+    "due": "2026-10-19T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/files/133830",
+    "summary": "Read the Tesla background article before Class 09.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Accounting for Bitcoin at Tesla",
+    "type": "prep",
+    "due": "2026-10-19T12:45:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1457915",
+    "summary": "Read and prepare the Accounting for Bitcoin at Tesla case for Class 09.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861": {
+  "updated_at": "2026-10-12T05:46:07Z",
+  "kind": "page",
+  "course": "OB",
+  "title": "SESSION 8 | Oct. 16 FRI | Organizational Culture and Change",
+  "items": [
+   {
+    "title": "Prep: Case #6. Language and Globalization: \"Englishnization\" at Rakuten",
+    "type": "prep",
+    "due": "2026-10-16T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Rakuten Englishnization case and prepare the discussion questions.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Textbook Chapter 16",
+    "type": "prep",
+    "due": "2026-10-16T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the optional textbook chapter on language and globalization.",
+    "note": "optional"
    }
   ]
  }
