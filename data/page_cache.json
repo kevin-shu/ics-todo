@@ -27,20 +27,6 @@
   "title": "3. Peer Evaluation (Team Members)",
   "summary": "Evaluate team members' contributions and provide feedback"
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6099": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "FA",
-  "title": "01 | Problem set",
-  "summary": ""
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6101": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "FA",
-  "title": "02 | Problem set",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules": {
   "updated_at": "MODULE 1 | Marketing, Customer Value, and Growth\n| 1 | 2026-09-21 | MON | 09:45-11:45 |\nMODULE 2 | Building the Marketing Toolbox\n| 2 | 2026-09-24 | THU | 09:45-11:45 |\n| 3 | 2026-09-28 | MON | 09:45-11:45 |\n| 4 | 2026-10-01 | THU | 09:45-11:45 |\n| 5 | 2026-10-05 | MON | 09:45-11:45 |\n| 6 | 2026-10-08 | THU | 09:45-11:45 |\n| 7 | 2026-10-12 | MON | 09:45-11:45 |\nMODULE 3 | From Analysis to Formulating Marketing Strategy and Plan\n| 8 | 2026-10-15 | THU | 09:45-11:45 |\n| 9 | 2026-10-19 | MON | 09:45-11:45 |\n| 10 | 2026-10-22 | THU | 09:45-11:45 |\n| 11 | 2026-10-26 | MON | 09:45-11:45 |\n| 12 | 2026-11-02 | MON | 9:00-13:00 |",
   "kind": "page",
@@ -558,13 +544,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1267/quizzes/5952": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "MBAE",
-  "title": "Term 1 (0) | MBA ESSENTIALS | Seminar Selection | Survey",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6256": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
   "kind": "canvas_item",
@@ -573,11 +552,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401": {
-  "updated_at": "2026-10-12T08:54:30Z",
+  "updated_at": "2026-10-13T09:40:03Z",
   "kind": "canvas_item",
   "course": "MBAE",
   "title": "INDIVIDUAL REFLECTION MEMO",
-  "summary": "Write and submit an individual reflection memo on MBA Essentials and teamwork."
+  "summary": "Write a reflection memo on MBA Essentials lessons and team-based learning experiences."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
   "updated_at": "2026-09-25T08:23:21Z",
@@ -1394,7 +1373,7 @@
   "summary": "Fill out and submit the Class 3 TA feedback memo using the template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9809": {
-  "updated_at": "2026-09-29T00:45:27Z",
+  "updated_at": "2026-10-12T11:35:11Z",
   "kind": "canvas_item",
   "course": "NJM",
   "title": "Option B (Daikin)",
@@ -1704,7 +1683,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858": {
-  "updated_at": "2026-10-08T03:29:48Z",
+  "updated_at": "2026-10-13T03:19:42Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 7 | Oct. 13 TUE | Perception, Power and Influence",
@@ -1714,15 +1693,15 @@
     "type": "prep",
     "due": "2026-10-13T09:45:00+09:00",
     "url": null,
-    "summary": "Read the required case on Thomas Green's office politics and career crisis.",
+    "summary": "Read the required case and be ready to discuss it in class.",
     "note": ""
    },
    {
-    "title": "Prep: Chapter 6",
+    "title": "Prep: Textbook Chapter 6",
     "type": "prep",
     "due": "2026-10-13T09:45:00+09:00",
     "url": null,
-    "summary": "Read the optional Chapter 6 for additional background.",
+    "summary": "Read the optional chapter 6 of the textbook.",
     "note": "optional"
    },
    {
@@ -1730,7 +1709,7 @@
     "type": "prep",
     "due": "2026-10-13T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137200",
-    "summary": "Skim the optional newspaper article on racial stereotyping before the discussion.",
+    "summary": "Skim the newspaper article on racial stereotyping.",
     "note": "optional"
    },
    {
@@ -1738,7 +1717,7 @@
     "type": "prep",
     "due": "2026-10-13T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137199",
-    "summary": "Skim the optional newspaper article giving one perspective on overcoming gender inequality.",
+    "summary": "Skim the newspaper article on one perspective of overcoming gender inequality.",
     "note": "optional"
    },
    {
@@ -1746,7 +1725,7 @@
     "type": "prep",
     "due": "2026-10-13T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137198",
-    "summary": "Skim the optional newspaper article giving another perspective on overcoming gender inequality.",
+    "summary": "Skim the newspaper article presenting another perspective on gender inequality.",
     "note": "optional"
    }
   ]
@@ -1775,17 +1754,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555": {
-  "updated_at": "2026-10-11T15:01:04Z",
+  "updated_at": "2026-10-12T16:01:27Z",
   "kind": "page",
   "course": "ECON",
   "title": "PS vs Xbox Case/Shutdown and Exit Decisions/Macroeconomic Statistics",
   "items": [
    {
+    "title": "Prep: PS vs Xbox Case",
+    "type": "prep",
+    "due": "2026-10-13T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the PS vs. Xbox case to prepare for in-class discussion.",
+    "note": ""
+   },
+   {
     "title": "Study Group Assignment 2 on Pricing Games",
     "type": "assignment",
     "due": "2026-10-13T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/137221",
-    "summary": "Complete Study Group Assignment 2 on pricing games with your group.",
+    "summary": "Work with your study group on the pricing games assignment before class.",
     "note": ""
    }
   ]
@@ -1821,17 +1808,17 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131": {
-  "updated_at": "2026-10-12T10:01:33Z",
+  "updated_at": "2026-10-13T08:45:24Z",
   "kind": "page",
   "course": "FA",
   "title": "Optional | Midterm Feedback",
   "items": [
    {
-    "title": "Sign up for midterm feedback meeting timeslot",
+    "title": "Sign up for a midterm feedback timeslot",
     "type": "task",
-    "due": "2026-10-13T14:45:00+09:00",
+    "due": "2026-10-19T15:30:00+09:00",
     "url": null,
-    "summary": "Sign up for an optional one-on-one midterm feedback meeting slot.",
+    "summary": "Add your name to an open 3-minute midterm feedback slot on this page.",
     "note": "optional"
    }
   ]
@@ -1877,17 +1864,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861": {
-  "updated_at": "2026-10-12T05:46:07Z",
+  "updated_at": "2026-10-12T23:17:45Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 8 | Oct. 16 FRI | Organizational Culture and Change",
   "items": [
    {
-    "title": "Prep: Case #6. Language and Globalization: \"Englishnization\" at Rakuten",
+    "title": "Prep: Case #6 – Language and Globalization: \"Englishnization\" at Rakuten",
     "type": "prep",
     "due": "2026-10-16T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Rakuten Englishnization case and prepare the discussion questions.",
+    "summary": "Read the required coursepack case on Rakuten's Englishnization policy.",
     "note": ""
    },
    {
@@ -1895,7 +1882,7 @@
     "type": "prep",
     "due": "2026-10-16T09:45:00+09:00",
     "url": null,
-    "summary": "Read the optional textbook chapter on language and globalization.",
+    "summary": "Read the optional chapter 16 of the textbook.",
     "note": "optional"
    }
   ]
