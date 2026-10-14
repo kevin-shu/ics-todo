@@ -552,11 +552,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401": {
-  "updated_at": "2026-10-13T09:40:03Z",
+  "updated_at": "2026-10-14T09:48:58Z",
   "kind": "canvas_item",
   "course": "MBAE",
   "title": "INDIVIDUAL REFLECTION MEMO",
-  "summary": "Write a reflection memo on MBA Essentials lessons and team-based learning experiences."
+  "summary": "Submit a reflection memo on your MBA Essentials learning, teamwork, and leadership development, due 2359 JST today."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
   "updated_at": "2026-09-25T08:23:21Z",
@@ -1020,13 +1020,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9800": {
-  "updated_at": "2026-09-25T11:28:13Z",
-  "kind": "canvas_item",
-  "course": "LD",
-  "title": "Session 1 Weekly Reflection",
-  "summary": "Submit a one-page weekly reflection using the provided template, due Tuesday."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866": {
   "updated_at": "2026-10-03T04:10:03Z",
   "kind": "page",
@@ -1105,7 +1098,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813": {
-  "updated_at": "2026-10-07T15:03:11Z",
+  "updated_at": "2026-10-13T10:42:28Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 2 Post-session assignment",
@@ -1119,11 +1112,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815": {
-  "updated_at": "2026-10-12T00:30:01Z",
+  "updated_at": "2026-10-14T09:49:28Z",
   "kind": "canvas_item",
   "course": "MK",
   "title": "POA MEMO SUBMISSION | Aleph Farms: A New Culture of Meat",
-  "summary": "Submit your POA Memo for Aleph Farms here."
+  "summary": "Submit your POA Memo for the Aleph Farms case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816": {
   "updated_at": "2026-10-12T00:30:01Z",
@@ -1236,17 +1229,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857": {
-  "updated_at": "2026-10-06T03:35:32Z",
+  "updated_at": "2026-10-14T01:50:27Z",
   "kind": "page",
   "course": "OB",
-  "title": "SESSION 5 | Oct. 6 TUE | Personality and Self-Concepts",
+  "title": "SESSION 5 | Oct. 6 TUE | Personality and Individual Differences",
   "items": [
    {
-    "title": "Prep: Case #3 – Social Salary Setting at Spiber",
+    "title": "Prep: Case #3. Social Salary Setting at Spiber",
     "type": "prep",
     "due": "2026-10-06T09:45:00+09:00",
     "url": null,
-    "summary": "Read the required case on Spiber's set-your-own-salary system.",
+    "summary": "Read the case about Spiber's set-your-own-salary system before class.",
     "note": ""
    },
    {
@@ -1254,15 +1247,23 @@
     "type": "prep",
     "due": "2026-10-06T09:45:00+09:00",
     "url": null,
-    "summary": "Read the optional textbook chapter on personality.",
+    "summary": "Optionally read Chapter 5 of the textbook before class.",
     "note": "optional"
    },
    {
-    "title": "Take Big Five personality test and submit result",
+    "title": "Take the Big Five personality test",
+    "type": "task",
+    "due": "2026-10-04T00:00:00+09:00",
+    "url": "https://bigfive-test.com/",
+    "summary": "Take the Big Five personality test before reporting your results.",
+    "note": "time TBD"
+   },
+   {
+    "title": "Submit Big Five test result",
     "type": "task",
     "due": "2026-10-04T00:00:00+09:00",
     "url": "https://forms.gle/LH39ZSQhc1T3GPym7",
-    "summary": "Take the Big Five personality test and report your result via the form.",
+    "summary": "Report your Big Five personality test result via the Google Form.",
     "note": "time TBD"
    }
   ]
@@ -1549,26 +1550,26 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27609": {
-  "updated_at": "2026-10-08T22:53:23Z",
+  "updated_at": "2026-10-13T10:40:49Z",
   "kind": "page",
   "course": "NJM",
   "title": "SESSION 4  | Daikin",
   "items": [
    {
-    "title": "Prep: IMD Case – Daikin (Overcoming Diversity through Innovation – Daikin at 100)",
+    "title": "Prep: Case – Daikin (IMD 7-2618 Overcoming Diversity through Innovation – Daikin at 100)",
     "type": "prep",
     "due": "2026-10-13T15:00:00+09:00",
     "url": null,
-    "summary": "Read the Daikin case on overcoming diversity through innovation.",
+    "summary": "Read the Daikin case before class to discuss the questions.",
     "note": ""
    },
    {
-    "title": "Homework: One-page PPT answering Q3 on Daikin case",
+    "title": "MEMO | Case response PPT (YKK, Daikin, or Recruit)",
     "type": "assignment",
     "due": "2026-10-12T20:00:00+09:00",
     "url": null,
-    "summary": "If you choose the Daikin case, write a one-page PPT answering Q3 and submit it.",
-    "note": "optional (only if this case is chosen)"
+    "summary": "Submit a one-page PPT answering Q3 for your chosen case (YKK, Daikin, or Recruit).",
+    "note": ""
    }
   ]
  },
@@ -1808,17 +1809,17 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131": {
-  "updated_at": "2026-10-13T08:45:24Z",
+  "updated_at": "2026-10-14T06:01:28Z",
   "kind": "page",
   "course": "FA",
   "title": "Optional | Midterm Feedback",
   "items": [
    {
-    "title": "Sign up for a midterm feedback timeslot",
+    "title": "Sign up for a midterm feedback meeting timeslot",
     "type": "task",
     "due": "2026-10-19T15:30:00+09:00",
     "url": null,
-    "summary": "Add your name to an open 3-minute midterm feedback slot on this page.",
+    "summary": "Edit this page to add your name to an open 3-minute midterm feedback timeslot.",
     "note": "optional"
    }
   ]
@@ -1884,6 +1885,70 @@
     "url": null,
     "summary": "Read the optional chapter 16 of the textbook.",
     "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860": {
+  "updated_at": "2026-10-14T04:30:04Z",
+  "kind": "page",
+  "course": "OB",
+  "title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
+  "items": [
+   {
+    "title": "Prep: Team Presentation Guidelines",
+    "type": "prep",
+    "due": "2026-10-20T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137497",
+    "summary": "Review the team presentation guidelines to structure your presentation.",
+    "note": ""
+   },
+   {
+    "title": "Submit team presentation slide deck",
+    "type": "assignment",
+    "due": "2026-10-19T00:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9639",
+    "summary": "Submit your team's slide deck for the presentation (one submission per team).",
+    "note": "time TBD"
+   },
+   {
+    "title": "Bring pen and paper for peer evaluation notes",
+    "type": "task",
+    "due": "2026-10-20T09:45:00+09:00",
+    "url": null,
+    "summary": "Take notes with pen and paper during presentations for the peer evaluation.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862": {
+  "updated_at": "2026-10-14T01:49:42Z",
+  "kind": "page",
+  "course": "OB",
+  "title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
+  "items": [
+   {
+    "title": "Prep: Case #7. Kwame Owusu-Kesse at the Harlem Children Zone",
+    "type": "prep",
+    "due": "2026-10-27T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the case about Kwame Owusu-Kesse and the Harlem Children's Zone.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Textbook Chapter 17",
+    "type": "prep",
+    "due": "2026-10-27T09:45:00+09:00",
+    "url": null,
+    "summary": "Optionally read Chapter 17 of the textbook before class.",
+    "note": "optional"
+   },
+   {
+    "title": "Prep: Podcast – When AI Comes for Your Purpose in Life",
+    "type": "prep",
+    "due": "2026-10-27T09:45:00+09:00",
+    "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
+    "summary": "Listen to the podcast and reflect on what career might mean in the age of AI.",
+    "note": ""
    }
   ]
  }
