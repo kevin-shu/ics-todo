@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-14T10:20:34+00:00",
+ "generated_at": "2026-10-15T10:21:51+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6256",
-   "course": "IW",
-   "title": "[F 26-27] IW Session 2 Pre-session survey",
-   "type": "quiz",
-   "due": "2026-09-29T23:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6256",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-09-23T23:56:12+00:00"
-  },
   {
    "id": "canvas:quiz:6103",
    "course": "FA",
@@ -185,7 +174,7 @@
    "due": "2026-10-14T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9810",
    "source": "canvas",
-   "summary": "",
+   "summary": "Submit the POA memo for Option C (Recruit).",
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
@@ -196,7 +185,7 @@
    "due": "2026-10-14T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815",
    "source": "canvas",
-   "summary": "Submit your POA Memo for the Aleph Farms case.",
+   "summary": "Submit your POA Memo for Aleph Farms here.",
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
@@ -207,7 +196,7 @@
    "due": "2026-10-14T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401",
    "source": "canvas",
-   "summary": "Submit a reflection memo on your MBA Essentials learning, teamwork, and leadership development, due 2359 JST today.",
+   "summary": "Write and submit an individual reflection memo on MBA Essentials and team dynamics.",
    "first_seen": "2026-09-23T23:56:12+00:00"
   },
   {
@@ -218,7 +207,7 @@
    "due": "2026-10-14T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9804",
    "source": "canvas",
-   "summary": "",
+   "summary": "Submit the TA memo for Class 4 using the provided feedback sheet template.",
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
@@ -255,6 +244,17 @@
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
+   "id": "canvas:assignment:9835",
+   "course": "IW",
+   "title": "[F 26-27] IW Session 4 Post-session assignment",
+   "type": "assignment",
+   "due": "2026-10-18T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9835",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
    "id": "canvas:assignment:9639",
    "course": "OB",
    "title": "2. Team Project Presentation",
@@ -264,6 +264,28 @@
    "source": "canvas",
    "summary": "Submit the team project presentation slides",
    "first_seen": "2026-09-21T09:48:55+00:00"
+  },
+  {
+   "id": "canvas:assignment:9823",
+   "course": "LD",
+   "title": "Session 4  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-10-20T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9823",
+   "source": "canvas",
+   "summary": "Submit weekly reflection using the provided template by Tuesday.",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
+   "id": "canvas:quiz:6260",
+   "course": "IW",
+   "title": "[F 26-27] IW Session 5 Pre-session survey",
+   "type": "quiz",
+   "due": "2026-10-20T23:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6260",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
    "id": "canvas:assignment:9811",
@@ -850,18 +872,18 @@
    "first_seen": "2026-10-02T10:19:09+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midterm",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midtermexam",
    "course": "ECON",
-   "title": "Midterm",
+   "title": "Midterm Exam",
    "type": "exam",
    "due": "2026-10-16T12:45:00+09:00",
    "url": null,
-   "summary": "Midterm exam.",
+   "summary": "Take the midterm examination.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules",
    "source_title": "Module outline",
    "note": "",
    "source": "page",
-   "first_seen": "2026-09-21T11:21:54+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#finalexam",
@@ -870,7 +892,7 @@
    "type": "exam",
    "due": "2026-11-03T09:00:00+09:00",
    "url": null,
-   "summary": "Final exam.",
+   "summary": "Take the final examination.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules",
    "source_title": "Module outline",
    "note": "",
@@ -1256,46 +1278,60 @@
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#prepalephfarmsanewcultureofmeathbs9522071",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#prepcasealephfarmsanewcultureofmeathbs9522071",
    "course": "MK",
-   "title": "Prep: Aleph Farms: A New Culture of Meat (HBS 9-522-071)",
+   "title": "Prep: Case – Aleph Farms: A New Culture of Meat (HBS 9-522-071)",
    "type": "prep",
    "due": "2026-10-15T09:45:00+09:00",
    "url": null,
-   "summary": "Read and prepare the Aleph Farms case for class discussion.",
+   "summary": "Read the Aleph Farms case in preparation for class discussion.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
    "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-01T10:21:07+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#poamemoalephfarmsanewcultureofmeat",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#preppoamemoinstructions",
    "course": "MK",
-   "title": "POA Memo - Aleph Farms: A New Culture of Meat",
+   "title": "Prep: POA Memo Instructions",
+   "type": "prep",
+   "due": "2026-10-15T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136881",
+   "summary": "Review the POA memo instructions before writing your memo.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
+   "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#poamemowriteupalephfarms",
+   "course": "MK",
+   "title": "POA Memo Write-up (Aleph Farms)",
    "type": "assignment",
    "due": "2026-10-14T20:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815",
-   "summary": "Write and submit the POA Memo for Aleph Farms via Turnitin.",
+   "summary": "Write and submit an individual POA Memo on Aleph Farms via Turnitin.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
    "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#poamemoevaluationmodule3case",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#evaluationofclassmatespoamemos",
    "course": "MK",
-   "title": "POA Memo Evaluation - Module 3 case",
+   "title": "Evaluation of Classmates' POA Memos",
    "type": "assignment",
    "due": "2026-11-01T20:00:00+09:00",
    "url": null,
-   "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
+   "summary": "Evaluate classmates' POA Memos and post a short essay on the discussion board.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
    "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#prepmichelinbuildingadigitalserviceplatform",
@@ -1324,6 +1360,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-12T10:21:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#poamemoevaluationmodule3case",
+   "course": "MK",
+   "title": "POA Memo Evaluation - Module 3 case",
+   "type": "assignment",
+   "due": "2026-11-01T20:00:00+09:00",
+   "url": null,
+   "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923",
+   "source_title": "SESSION 9 | Growth (1 → N) | Michelin",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#prephotwheelslaunchingthemixedplayexperience",
@@ -1774,6 +1824,34 @@
    "first_seen": "2026-10-08T10:19:43+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27597#completepresessionquiz",
+   "course": "IW",
+   "title": "Complete Pre-session Quiz",
+   "type": "assignment",
+   "due": "2026-10-14T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6258",
+   "summary": "Complete and submit the pre-session quiz before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27597",
+   "source_title": "WEDNESDAY 14 OCTOBER 2026 | SESSION 4 | PLAYING TO THE CROWD: WRITING TO SUIT YOUR AUDIENCE",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27597#postsessionassignmentplayingtothecrowd",
+   "course": "IW",
+   "title": "Post-session Assignment: Playing to the Crowd",
+   "type": "assignment",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9835",
+   "summary": "Complete the post-session writing assignment on writing to suit your audience.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27597",
+   "source_title": "WEDNESDAY 14 OCTOBER 2026 | SESSION 4 | PLAYING TO THE CROWD: WRITING TO SUIT YOUR AUDIENCE",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555#preppsvsxboxcase",
    "course": "ECON",
    "title": "Prep: PS vs Xbox Case",
@@ -1802,32 +1880,46 @@
    "first_seen": "2026-10-09T10:19:58+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4prepdf",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4presessionmaterials",
    "course": "LD",
-   "title": "Prep: Session 4 pre.pdf",
+   "title": "Prep: Session 4 Pre-session Materials",
    "type": "prep",
    "due": null,
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/137302",
-   "summary": "Review the pre-session material before Session 4.",
+   "summary": "Review the pre-session materials on psychological safety and incivility.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
    "source_title": "SESSION 4 | Psychological Safety and Incivility",
-   "note": "",
+   "note": "time TBD",
    "source": "page",
-   "first_seen": "2026-10-10T10:20:24+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131#signupforamidtermfeedbackmeetingtimeslot",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepgoogleslidesforgroupdiscussion",
+   "course": "LD",
+   "title": "Prep: Google Slides for Group Discussion",
+   "type": "prep",
+   "due": null,
+   "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
+   "summary": "Review the group discussion slides before the session.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
+   "source_title": "SESSION 4 | Psychological Safety and Incivility",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131#signupformidtermfeedbackmeetingtimeslot",
    "course": "FA",
-   "title": "Sign up for a midterm feedback meeting timeslot",
+   "title": "Sign up for midterm feedback meeting timeslot",
    "type": "task",
-   "due": "2026-10-19T15:30:00+09:00",
+   "due": "2026-10-19T00:00:00+09:00",
    "url": null,
-   "summary": "Edit this page to add your name to an open 3-minute midterm feedback timeslot.",
+   "summary": "Sign up for a free time slot for an optional midterm feedback meeting.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131",
    "source_title": "Optional | Midterm Feedback",
-   "note": "optional",
+   "note": "optional, time TBD",
    "source": "page",
-   "first_seen": "2026-10-14T10:20:34+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prepappendixa",
@@ -1836,7 +1928,7 @@
    "type": "prep",
    "due": "2026-10-15T12:45:00+09:00",
    "url": null,
-   "summary": "Read Appendix A before class.",
+   "summary": "Read Appendix A on capitalizing development costs.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534",
    "source_title": " Class 08 |1245-1445, Thu, Oct 15, 2026",
    "note": "",
@@ -1844,32 +1936,46 @@
    "first_seen": "2026-10-12T10:21:45+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prep09teslabackgroundpdf",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prepcasecapitalizingdevelopmentcostsatfiatchryslerautomobilesandvolkswagen",
    "course": "FA",
-   "title": "Prep: 09_Tesla Background.pdf",
+   "title": "Prep: Case – Capitalizing Development Costs at Fiat Chrysler Automobiles and Volkswagen",
+   "type": "prep",
+   "due": "2026-10-15T12:45:00+09:00",
+   "url": null,
+   "summary": "Read the FCA/VW case and prepare answers to the case questions for discussion.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534",
+   "source_title": " Class 08 |1245-1445, Thu, Oct 15, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prepteslabackgroundarticle",
+   "course": "FA",
+   "title": "Prep: Tesla Background Article",
    "type": "prep",
    "due": "2026-10-19T12:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/files/133830",
-   "summary": "Read the Tesla background article before Class 09.",
+   "summary": "Read the Tesla background article in advance of Class 9.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534",
    "source_title": " Class 08 |1245-1445, Thu, Oct 15, 2026",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prepaccountingforbitcoinattesla",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prepcaseaccountingforbitcoinattesla",
    "course": "FA",
-   "title": "Prep: Accounting for Bitcoin at Tesla",
+   "title": "Prep: Case – Accounting for Bitcoin at Tesla",
    "type": "prep",
    "due": "2026-10-19T12:45:00+09:00",
    "url": "https://hbsp.harvard.edu/import/1457915",
-   "summary": "Read and prepare the Accounting for Bitcoin at Tesla case for Class 09.",
+   "summary": "Access the coursepack and read the Accounting for Bitcoin at Tesla case for Class 9.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534",
    "source_title": " Class 08 |1245-1445, Thu, Oct 15, 2026",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861#prepcase6languageandglobalizationenglishnizationatrakuten",
@@ -1982,6 +2088,34 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-14T10:20:34+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27556#midtermexamination",
+   "course": "ECON",
+   "title": "Midterm Examination",
+   "type": "exam",
+   "due": "2026-10-16T14:45:00+09:00",
+   "url": null,
+   "summary": "Take a short midterm examination at the end of this session.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27556",
+   "source_title": "Spending and Fiscal Policy",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598#preparticlewhynativeenglishspeakersfailtobeunderstoodinenglishandloseoutinbusiness",
+   "course": "IW",
+   "title": "Prep: Article – Why native English speakers fail to be understood in English and lose out in business",
+   "type": "prep",
+   "due": "2026-10-21T12:45:00+09:00",
+   "url": "https://theconversation.com/why-native-english-speakers-fail-to-be-understood-in-english-and-lose-out-in-global-business-54436",
+   "summary": "Read the article on why native English speakers struggle to be understood internationally.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598",
+   "source_title": "WEDNESDAY 21 OCTOBER 2026 | SESSION 5 | GETTING TO THE POINT - FAST",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-15T10:21:51+00:00"
   }
  ]
 }
