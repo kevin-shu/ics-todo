@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-15T10:21:51+00:00",
+ "generated_at": "2026-10-16T10:21:15+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6103",
-   "course": "FA",
-   "title": "03 | Problem set",
-   "type": "quiz",
-   "due": "2026-10-01T00:30:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6103",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-09-29T10:19:58+00:00"
-  },
   {
    "id": "canvas:assignment:9801",
    "course": "NJM",
@@ -662,6 +651,20 @@
    "first_seen": "2026-09-21T10:54:47+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#03problemset",
+   "course": "FA",
+   "title": "03 | Problem set",
+   "type": "assignment",
+   "due": "2026-10-01T09:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
+   "summary": "Complete and submit the problem set homework.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529",
+   "source_title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-16T10:21:15+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529#completechipotleratioanalysisexerciseforclass4discussion",
    "course": "FA",
    "title": "Complete Chipotle ratio analysis exercise for Class 4 discussion",
@@ -1284,7 +1287,7 @@
    "type": "prep",
    "due": "2026-10-15T09:45:00+09:00",
    "url": null,
-   "summary": "Read the Aleph Farms case in preparation for class discussion.",
+   "summary": "Read the HBS case on Aleph Farms before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
    "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
    "note": "",
@@ -1292,46 +1295,46 @@
    "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#preppoamemoinstructions",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#preppoamemoinstruction",
    "course": "MK",
-   "title": "Prep: POA Memo Instructions",
+   "title": "Prep: POA Memo Instruction",
    "type": "prep",
    "due": "2026-10-15T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136881",
-   "summary": "Review the POA memo instructions before writing your memo.",
+   "summary": "Review the POA memo instructions before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
    "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#poamemowriteupalephfarms",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#poamemowriteup30points",
    "course": "MK",
-   "title": "POA Memo Write-up (Aleph Farms)",
+   "title": "POA Memo Write-up (30 points)",
    "type": "assignment",
    "due": "2026-10-14T20:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815",
-   "summary": "Write and submit an individual POA Memo on Aleph Farms via Turnitin.",
+   "summary": "Write and submit an individual POA memo for a Module 3 case via Turnitin.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
    "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#evaluationofclassmatespoamemos",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#evaluationofotherspoamemo10points",
    "course": "MK",
-   "title": "Evaluation of Classmates' POA Memos",
+   "title": "Evaluation of Others' POA Memo (10 points)",
    "type": "assignment",
    "due": "2026-11-01T20:00:00+09:00",
    "url": null,
-   "summary": "Evaluate classmates' POA Memos and post a short essay on the discussion board.",
+   "summary": "Write a short essay evaluating classmates' POA memos and post it on the discussion board.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907",
    "source_title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#prepmichelinbuildingadigitalserviceplatform",
@@ -1474,18 +1477,32 @@
    "first_seen": "2026-10-07T10:18:31+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867#prepsession31009prepdf",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867#prepsession3presessionslides",
    "course": "LD",
-   "title": "Prep: Session 3 1009 pre.pdf",
+   "title": "Prep: Session 3 Pre-session Slides",
    "type": "prep",
-   "due": null,
+   "due": "2026-10-09T00:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136922",
-   "summary": "Review the pre-session material before Session 3.",
+   "summary": "Review the pre-session slides before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
    "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
-   "note": "",
+   "note": "time TBD",
    "source": "page",
-   "first_seen": "2026-10-03T10:19:39+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867#prepgoogleslidesforldsession3",
+   "course": "LD",
+   "title": "Prep: Google Slides for LD Session 3",
+   "type": "prep",
+   "due": "2026-10-09T00:00:00+09:00",
+   "url": "https://docs.google.com/presentation/d/1r9iGjJte7nrXPqzwlnaLqxQybBSm6sNpflrohbxKVlc/edit?usp=sharing",
+   "summary": "Review the Google Slides before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
+   "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27532#prepaccountingfortheiphoneatappleinc",
@@ -1656,18 +1673,32 @@
    "first_seen": "2026-10-14T10:20:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27610#prepcaserecruit318130pdfeng",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27610#prepcaserecruit318130pdfengglobalizingjapanesedreammachinerecruitholdingcoltd",
    "course": "NJM",
-   "title": "Prep: Case – Recruit (318130-PDF-ENG)",
+   "title": "Prep: Case – \"Recruit\" (318130-PDF-ENG Globalizing Japanese Dream Machine: Recruit Holding Co, Ltd)",
    "type": "prep",
    "due": "2026-10-15T15:00:00+09:00",
    "url": null,
-   "summary": "Read the Recruit case on globalizing Japan's dream machine.",
+   "summary": "Read the case on Recruit's globalization and digital transformation strategy.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27610",
    "source_title": "SESSION 5| Recruit",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-05T10:21:12+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27610#memoonepagepptansweringq3ykkdaikinrecruit",
+   "course": "NJM",
+   "title": "Memo: One-page PPT answering Q3 (YKK / Daikin / Recruit)",
+   "type": "assignment",
+   "due": "2026-10-14T20:00:00+09:00",
+   "url": null,
+   "summary": "Write a one-page PPT answering Q3 for YKK, Daikin, or Recruit and submit it.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27610",
+   "source_title": "SESSION 5| Recruit",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#prepcaseshouldapensionfundtrytochangetheworldinsidegpifsembraceofesg9319067",
@@ -1880,27 +1911,27 @@
    "first_seen": "2026-10-09T10:19:58+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4presessionmaterials",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4presessionslides",
    "course": "LD",
-   "title": "Prep: Session 4 Pre-session Materials",
+   "title": "Prep: Session 4 Pre-session Slides",
    "type": "prep",
-   "due": null,
+   "due": "2026-10-16T00:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/137302",
-   "summary": "Review the pre-session materials on psychological safety and incivility.",
+   "summary": "Review the pre-session slides before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
    "source_title": "SESSION 4 | Psychological Safety and Incivility",
    "note": "time TBD",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepgoogleslidesforgroupdiscussion",
    "course": "LD",
    "title": "Prep: Google Slides for Group Discussion",
    "type": "prep",
-   "due": null,
+   "due": "2026-10-16T00:00:00+09:00",
    "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
-   "summary": "Review the group discussion slides before the session.",
+   "summary": "Review the Google Slides for the group discussion before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
    "source_title": "SESSION 4 | Psychological Safety and Incivility",
    "note": "time TBD",
@@ -1908,18 +1939,18 @@
    "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131#signupformidtermfeedbackmeetingtimeslot",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131#signupforoptionalmidtermfeedbackmeetingtimeslot",
    "course": "FA",
-   "title": "Sign up for midterm feedback meeting timeslot",
+   "title": "Sign up for optional midterm feedback meeting timeslot",
    "type": "task",
-   "due": "2026-10-19T00:00:00+09:00",
+   "due": null,
    "url": null,
-   "summary": "Sign up for a free time slot for an optional midterm feedback meeting.",
+   "summary": "Sign up for a 3-minute one-on-one midterm feedback slot by editing the page.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131",
    "source_title": "Optional | Midterm Feedback",
-   "note": "optional, time TBD",
+   "note": "optional",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prepappendixa",
@@ -1978,32 +2009,32 @@
    "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861#prepcase6languageandglobalizationenglishnizationatrakuten",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861#prepcoursepackcase6languageandglobalizationenglishnizationatrakuten",
    "course": "OB",
-   "title": "Prep: Case #6 – Language and Globalization: \"Englishnization\" at Rakuten",
+   "title": "Prep: Coursepack Case #6 – Language and Globalization: \"Englishnization\" at Rakuten",
    "type": "prep",
    "due": "2026-10-16T09:45:00+09:00",
    "url": null,
-   "summary": "Read the required coursepack case on Rakuten's Englishnization policy.",
+   "summary": "Read the case on language policy and globalization at Rakuten.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861",
    "source_title": "SESSION 8 | Oct. 16 FRI | Organizational Culture and Change",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861#preptextbookchapter16",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861#preptextbookch16",
    "course": "OB",
-   "title": "Prep: Textbook Chapter 16",
+   "title": "Prep: Textbook Ch.16",
    "type": "prep",
    "due": "2026-10-16T09:45:00+09:00",
    "url": null,
-   "summary": "Read the optional chapter 16 of the textbook.",
+   "summary": "Read Chapter 16 of the textbook.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861",
    "source_title": "SESSION 8 | Oct. 16 FRI | Organizational Culture and Change",
    "note": "optional",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860#prepteampresentationguidelines",
@@ -2026,24 +2057,10 @@
    "type": "assignment",
    "due": "2026-10-19T00:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9639",
-   "summary": "Submit your team's slide deck for the presentation (one submission per team).",
+   "summary": "Submit your team's presentation slide deck (one submission per team).",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860",
    "source_title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
    "note": "time TBD",
-   "source": "page",
-   "first_seen": "2026-10-14T10:20:34+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860#bringpenandpaperforpeerevaluationnotes",
-   "course": "OB",
-   "title": "Bring pen and paper for peer evaluation notes",
-   "type": "task",
-   "due": "2026-10-20T09:45:00+09:00",
-   "url": null,
-   "summary": "Take notes with pen and paper during presentations for the peer evaluation.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860",
-   "source_title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
-   "note": "",
    "source": "page",
    "first_seen": "2026-10-14T10:20:34+00:00"
   },
