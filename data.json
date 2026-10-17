@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-16T10:21:15+00:00",
+ "generated_at": "2026-10-17T10:20:07+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9801",
-   "course": "NJM",
-   "title": "Class 1 TA Memo",
-   "type": "assignment",
-   "due": "2026-10-02T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9801",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
   {
    "id": "canvas:assignment:9638",
    "course": "OB",
@@ -218,7 +207,7 @@
    "due": "2026-10-16T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9805",
    "source": "canvas",
-   "summary": "",
+   "summary": "Complete the TA memo using the attached feedback sheet template.",
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
@@ -1911,46 +1900,46 @@
    "first_seen": "2026-10-09T10:19:58+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4presessionslides",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4pre1pdf",
    "course": "LD",
-   "title": "Prep: Session 4 Pre-session Slides",
+   "title": "Prep: Session 4 pre-1.pdf",
    "type": "prep",
-   "due": "2026-10-16T00:00:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/137302",
-   "summary": "Review the pre-session slides before class.",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138190",
+   "summary": "Review the pre-session material for Session 4 before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
    "source_title": "SESSION 4 | Psychological Safety and Incivility",
-   "note": "time TBD",
+   "note": "",
    "source": "page",
-   "first_seen": "2026-10-16T10:21:15+00:00"
+   "first_seen": "2026-10-17T10:20:07+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepgoogleslidesforgroupdiscussion",
    "course": "LD",
    "title": "Prep: Google Slides for Group Discussion",
    "type": "prep",
-   "due": "2026-10-16T00:00:00+09:00",
+   "due": null,
    "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
-   "summary": "Review the Google Slides for the group discussion before class.",
+   "summary": "Review the Google Slides prepared for the group discussion.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
    "source_title": "SESSION 4 | Psychological Safety and Incivility",
-   "note": "time TBD",
+   "note": "",
    "source": "page",
    "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131#signupforoptionalmidtermfeedbackmeetingtimeslot",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131#signupformidtermfeedbackmeetingtimeslot",
    "course": "FA",
-   "title": "Sign up for optional midterm feedback meeting timeslot",
+   "title": "Sign up for midterm feedback meeting timeslot",
    "type": "task",
-   "due": null,
+   "due": "2026-10-19T12:45:00+09:00",
    "url": null,
-   "summary": "Sign up for a 3-minute one-on-one midterm feedback slot by editing the page.",
+   "summary": "Sign up for an optional one-on-one midterm feedback meeting timeslot.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131",
    "source_title": "Optional | Midterm Feedback",
    "note": "optional",
    "source": "page",
-   "first_seen": "2026-10-16T10:21:15+00:00"
+   "first_seen": "2026-10-17T10:20:07+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534#prepappendixa",

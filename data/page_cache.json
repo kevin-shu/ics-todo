@@ -1340,13 +1340,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9801": {
-  "updated_at": "2026-10-03T02:12:29Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Class 1 TA Memo",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9808": {
   "updated_at": "2026-10-07T21:26:16Z",
   "kind": "canvas_item",
@@ -1397,11 +1390,11 @@
   "summary": "Submit the TA memo for Class 4 using the provided feedback sheet template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9805": {
-  "updated_at": "2026-09-29T00:39:07Z",
+  "updated_at": "2026-10-17T01:26:25Z",
   "kind": "canvas_item",
   "course": "NJM",
   "title": "Class 5 TA Memo",
-  "summary": ""
+  "summary": "Complete the TA memo using the attached feedback sheet template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9811": {
   "updated_at": "2026-09-29T00:47:55Z",
@@ -1796,26 +1789,26 @@
   "summary": "Submit a one-page weekly reflection report using the provided template, due Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868": {
-  "updated_at": "2026-10-16T08:17:20Z",
+  "updated_at": "2026-10-17T02:41:17Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 4 | Psychological Safety and Incivility",
   "items": [
    {
-    "title": "Prep: Session 4 Pre-session Slides",
+    "title": "Prep: Session 4 pre-1.pdf",
     "type": "prep",
-    "due": "2026-10-16T00:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/137302",
-    "summary": "Review the pre-session slides before class.",
-    "note": "time TBD"
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138190",
+    "summary": "Review the pre-session material for Session 4 before class.",
+    "note": ""
    },
    {
     "title": "Prep: Google Slides for Group Discussion",
     "type": "prep",
-    "due": "2026-10-16T00:00:00+09:00",
+    "due": null,
     "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
-    "summary": "Review the Google Slides for the group discussion before class.",
-    "note": "time TBD"
+    "summary": "Review the Google Slides prepared for the group discussion.",
+    "note": ""
    }
   ]
  },
@@ -1827,17 +1820,17 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131": {
-  "updated_at": "2026-10-16T00:29:10Z",
+  "updated_at": "2026-10-16T14:33:07Z",
   "kind": "page",
   "course": "FA",
   "title": "Optional | Midterm Feedback",
   "items": [
    {
-    "title": "Sign up for optional midterm feedback meeting timeslot",
+    "title": "Sign up for midterm feedback meeting timeslot",
     "type": "task",
-    "due": null,
+    "due": "2026-10-19T12:45:00+09:00",
     "url": null,
-    "summary": "Sign up for a 3-minute one-on-one midterm feedback slot by editing the page.",
+    "summary": "Sign up for an optional one-on-one midterm feedback meeting timeslot.",
     "note": "optional"
    }
   ]
@@ -1963,7 +1956,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9835": {
-  "updated_at": "2026-10-16T09:20:40Z",
+  "updated_at": "2026-10-17T08:34:30Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 4 Post-session assignment",
