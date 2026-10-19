@@ -1,28 +1,6 @@
 {
- "generated_at": "2026-10-18T10:11:25+00:00",
+ "generated_at": "2026-10-19T10:17:08+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9638",
-   "course": "OB",
-   "title": "1. Team Project Proposal",
-   "type": "assignment",
-   "due": "2026-10-04T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9638",
-   "source": "canvas",
-   "summary": "Submit the team project proposal as a Word document.",
-   "first_seen": "2026-09-21T09:48:55+00:00"
-  },
-  {
-   "id": "canvas:assignment:9813",
-   "course": "IW",
-   "title": "[F 26-27] IW Session 2 Post-session assignment",
-   "type": "assignment",
-   "due": "2026-10-04T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-01T10:21:07+00:00"
-  },
   {
    "id": "canvas:quiz:6102",
    "course": "FA",
@@ -218,7 +196,7 @@
    "due": "2026-10-18T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816",
    "source": "canvas",
-   "summary": "Submit the POA Memo for the Michelin digital service platform case.",
+   "summary": "Submit your POA Memo analyzing the Michelin digital service platform case.",
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
@@ -306,7 +284,7 @@
    "due": "2026-10-25T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
    "source": "canvas",
-   "summary": "Submit your POA Memo for Hot Wheels here.",
+   "summary": "Submit your POA Memo analyzing the Hot Wheels case.",
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
@@ -1214,6 +1192,20 @@
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27595#f2627iwsession2postsessionassignment",
+   "course": "IW",
+   "title": "[F26-27] IW Session 2 Post-session assignment",
+   "type": "assignment",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9813",
+   "summary": "Complete the post-session assignment on frameworks and arguing the point.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27595",
+   "source_title": "WEDNESDAY 30 SEPTEMBER 2026 | SESSION 2 | FRAMEWORKS AND FOUNDATIONS: ARGUING THE POINT",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-19T10:17:08+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27866#prepsession21002pre2pdf",
    "course": "LD",
    "title": "Prep: Session 2 1002 pre-2.pdf",
@@ -1326,46 +1318,46 @@
    "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#prepmichelinbuildingadigitalserviceplatform",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#prepcasemichelinbuildingadigitalserviceplatform",
    "course": "MK",
-   "title": "Prep: Michelin: Building a Digital Service Platform",
+   "title": "Prep: Case – Michelin: Building a Digital Service Platform",
    "type": "prep",
    "due": "2026-10-19T09:45:00+09:00",
    "url": null,
-   "summary": "Read and prepare the Michelin case for class discussion.",
+   "summary": "Read the Michelin digital service platform case before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923",
    "source_title": "SESSION 9 | Growth (1 → N) | Michelin",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-01T10:21:07+00:00"
+   "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#poamemomichelinbuildingadigitalserviceplatform",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#preppoamemoinstructions",
    "course": "MK",
-   "title": "POA Memo - Michelin: Building a Digital Service Platform",
-   "type": "assignment",
-   "due": "2026-10-18T20:00:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816",
-   "summary": "Write and submit the POA Memo for Michelin via Turnitin.",
+   "title": "Prep: POA Memo Instructions",
+   "type": "prep",
+   "due": "2026-10-19T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136884",
+   "summary": "Read the POA Memo instructions for the Final Exam assignment.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923",
    "source_title": "SESSION 9 | Growth (1 → N) | Michelin",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#poamemoevaluationmodule3case",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#poamemoevaluationmodule3",
    "course": "MK",
-   "title": "POA Memo Evaluation - Module 3 case",
+   "title": "POA Memo Evaluation (Module 3)",
    "type": "assignment",
    "due": "2026-11-01T20:00:00+09:00",
    "url": null,
-   "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
+   "summary": "Read classmates' POA Memos and post a short evaluation essay for one case.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923",
    "source_title": "SESSION 9 | Growth (1 → N) | Michelin",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#prephotwheelslaunchingthemixedplayexperience",
@@ -1394,6 +1386,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-12T10:21:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#poamemoevaluationmodule3case",
+   "course": "MK",
+   "title": "POA Memo Evaluation - Module 3 case",
+   "type": "assignment",
+   "due": "2026-11-01T20:00:00+09:00",
+   "url": null,
+   "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914",
+   "source_title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857#prepcase3socialsalarysettingatspiber",
@@ -1464,34 +1470,6 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-07T10:18:31+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867#prepsession3presessionslides",
-   "course": "LD",
-   "title": "Prep: Session 3 Pre-session Slides",
-   "type": "prep",
-   "due": "2026-10-09T00:00:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136922",
-   "summary": "Review the pre-session slides before class.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
-   "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
-   "note": "time TBD",
-   "source": "page",
-   "first_seen": "2026-10-16T10:21:15+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867#prepgoogleslidesforldsession3",
-   "course": "LD",
-   "title": "Prep: Google Slides for LD Session 3",
-   "type": "prep",
-   "due": "2026-10-09T00:00:00+09:00",
-   "url": "https://docs.google.com/presentation/d/1r9iGjJte7nrXPqzwlnaLqxQybBSm6sNpflrohbxKVlc/edit?usp=sharing",
-   "summary": "Review the Google Slides before class.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
-   "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
-   "note": "time TBD",
-   "source": "page",
-   "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27532#prepaccountingfortheiphoneatappleinc",
@@ -1900,32 +1878,18 @@
    "first_seen": "2026-10-09T10:19:58+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4pre1pdf",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepsession4presessionreading",
    "course": "LD",
-   "title": "Prep: Session 4 pre-1.pdf",
+   "title": "Prep: Session 4 Pre-Session Reading",
    "type": "prep",
    "due": null,
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138190",
-   "summary": "Review the pre-session material for Session 4 before class.",
+   "summary": "Review the pre-session material on psychological safety and incivility.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
    "source_title": "SESSION 4 | Psychological Safety and Incivility",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-17T10:20:07+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868#prepgoogleslidesforgroupdiscussion",
-   "course": "LD",
-   "title": "Prep: Google Slides for Group Discussion",
-   "type": "prep",
-   "due": null,
-   "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
-   "summary": "Review the Google Slides prepared for the group discussion.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868",
-   "source_title": "SESSION 4 | Psychological Safety and Incivility",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131#signupformidtermfeedbackmeetingtimeslot",
@@ -2046,7 +2010,7 @@
    "type": "assignment",
    "due": "2026-10-19T00:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9639",
-   "summary": "Submit your team's presentation slide deck (one submission per team).",
+   "summary": "Submit your team's slide deck for the presentation (one per team).",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860",
    "source_title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
    "note": "time TBD",
@@ -2054,32 +2018,74 @@
    "first_seen": "2026-10-14T10:20:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepcase7kwameowusukesseattheharlemchildrenzone",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860#completepeerevaluationgoogleformforpresentationday1",
    "course": "OB",
-   "title": "Prep: Case #7. Kwame Owusu-Kesse at the Harlem Children Zone",
+   "title": "Complete peer evaluation Google Form for Presentation Day 1",
+   "type": "task",
+   "due": "2026-10-20T09:45:00+09:00",
+   "url": "https://forms.gle/ZTAXweiTWRogY67p8",
+   "summary": "Submit peer evaluation of Day 1 team presentations via Google Form.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860",
+   "source_title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-19T10:17:08+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860#completepeerevaluationgoogleformforpresentationday2",
+   "course": "OB",
+   "title": "Complete peer evaluation Google Form for Presentation Day 2",
+   "type": "task",
+   "due": "2026-10-23T09:45:00+09:00",
+   "url": "https://forms.gle/fiiwDdnCnaWhjnNX6",
+   "summary": "Submit peer evaluation of Day 2 team presentations via Google Form.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860",
+   "source_title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-19T10:17:08+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860#postreflectionsorquestionsaboutteampresentationsondiscussionboard",
+   "course": "OB",
+   "title": "Post reflections or questions about team presentations on discussion board",
+   "type": "task",
+   "due": "2026-10-23T09:45:00+09:00",
+   "url": null,
+   "summary": "Post questions or reflections on other teams' presentations on the discussion board.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860",
+   "source_title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
+   "note": "optional",
+   "source": "page",
+   "first_seen": "2026-10-19T10:17:08+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepcasekwameowusukesseattheharlemchildrenszone",
+   "course": "OB",
+   "title": "Prep: Case – Kwame Owusu-Kesse at the Harlem Children's Zone",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case about Kwame Owusu-Kesse and the Harlem Children's Zone.",
+   "summary": "Read the case about Kwame Owusu-Kesse at the Harlem Children's Zone.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-14T10:20:34+00:00"
+   "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#preptextbookchapter17",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#preparticleiteachatabusinessschoolitstimetoshutthemdown",
    "course": "OB",
-   "title": "Prep: Textbook Chapter 17",
+   "title": "Prep: Article – I Teach at a Business School. It's Time to Shut Them Down.",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
-   "url": null,
-   "summary": "Optionally read Chapter 17 of the textbook before class.",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/138269",
+   "summary": "Read the article and reflect on its argument about shutting down business schools.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
-   "note": "optional",
+   "note": "",
    "source": "page",
-   "first_seen": "2026-10-14T10:20:34+00:00"
+   "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#preppodcastwhenaicomesforyourpurposeinlife",
@@ -2088,7 +2094,7 @@
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-   "summary": "Listen to the podcast and reflect on what career might mean in the age of AI.",
+   "summary": "Listen to the podcast and reflect on what work and career mean under AI.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
@@ -2122,6 +2128,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-15T10:21:51+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301#prepsession5presessionreading",
+   "course": "LD",
+   "title": "Prep: Session 5 Pre-Session Reading",
+   "type": "prep",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138239",
+   "summary": "Review the pre-session material on collective blind spots before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301",
+   "source_title": "SESSION 5 | Collective Blind Spots",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-19T10:17:08+00:00"
   }
  ]
 }
