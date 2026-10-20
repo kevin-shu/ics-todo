@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-19T10:17:08+00:00",
+ "generated_at": "2026-10-20T10:13:34+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6102",
-   "course": "FA",
-   "title": "04 | Problem set",
-   "type": "quiz",
-   "due": "2026-10-05T00:30:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6102",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-09-29T10:19:58+00:00"
-  },
   {
    "id": "canvas:assignment:9818",
    "course": "LD",
@@ -218,7 +207,7 @@
    "due": "2026-10-19T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9639",
    "source": "canvas",
-   "summary": "Submit the team project presentation slides",
+   "summary": "Submit team project presentation slides following the attached guideline and naming format.",
    "first_seen": "2026-09-21T09:48:55+00:00"
   },
   {
@@ -674,6 +663,20 @@
    "first_seen": "2026-09-30T10:20:06+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530#04problemset",
+   "course": "FA",
+   "title": "04 | Problem set",
+   "type": "assignment",
+   "due": "2026-10-05T09:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9633",
+   "summary": "Complete and submit Problem set 4.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530",
+   "source_title": "Class 04 |1245-1445, Thu, Oct 1, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-20T10:13:34+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28092#finalexam",
    "course": "FA",
    "title": "Final Exam",
@@ -848,7 +851,7 @@
    "type": "exam",
    "due": "2026-10-16T12:45:00+09:00",
    "url": null,
-   "summary": "Take the midterm examination.",
+   "summary": "Midterm exam held during this class session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules",
    "source_title": "Module outline",
    "note": "",
@@ -862,7 +865,7 @@
    "type": "exam",
    "due": "2026-11-03T09:00:00+09:00",
    "url": null,
-   "summary": "Take the final examination.",
+   "summary": "Final exam for the course.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules",
    "source_title": "Module outline",
    "note": "",
@@ -1668,23 +1671,23 @@
    "first_seen": "2026-10-16T10:21:15+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#prepcaseshouldapensionfundtrytochangetheworldinsidegpifsembraceofesg9319067",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#prepcaseshouldapensionfundtrytochangetheworldinsidegpifsembraceofesg",
    "course": "NJM",
-   "title": "Prep: Case – Should a Pension Fund Try to Change the World? Inside GPIF's Embrace of ESG (9-319-067)",
+   "title": "Prep: Case – Should a Pension Fund Try to Change the World? Inside GPIF's Embrace of ESG",
    "type": "prep",
    "due": "2026-10-20T15:00:00+09:00",
    "url": null,
-   "summary": "Read the case on GPIF's embrace of ESG investing.",
+   "summary": "Read the HBS case on GPIF's embrace of ESG investing.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611",
    "source_title": "SESSION 6 | GPIF",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-05T10:21:12+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#preplarryfinks2020lettertoceos",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#preplarryfinks2020lettertoceo",
    "course": "NJM",
-   "title": "Prep: Larry Fink's 2020 Letter to CEOs",
+   "title": "Prep: Larry Fink's 2020 Letter to CEO",
    "type": "prep",
    "due": "2026-10-20T15:00:00+09:00",
    "url": "https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter",
@@ -1693,35 +1696,35 @@
    "source_title": "SESSION 6 | GPIF",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-05T10:21:12+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#prepwhereesgfailsarticle",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#preparticlewhereesgfails",
    "course": "NJM",
-   "title": "Prep: Where ESG Fails (Article)",
+   "title": "Prep: Article – Where ESG Fails",
    "type": "prep",
    "due": "2026-10-20T15:00:00+09:00",
    "url": "https://www.institutionalinvestor.com/article/b1hm5ghqtxj9s7/Where-ESG-Fails",
-   "summary": "Read the article on where ESG investing fails.",
+   "summary": "Read the article on why ESG investing fails.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611",
    "source_title": "SESSION 6 | GPIF",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-05T10:21:12+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#prepgpifvideo",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611#prepvideo",
    "course": "NJM",
-   "title": "Prep: GPIF Video",
+   "title": "Prep: Video",
    "type": "prep",
    "due": "2026-10-20T15:00:00+09:00",
    "url": "https://www.youtube.com/watch?v=jpPmueiZivk",
-   "summary": "Watch the video on GPIF's role in driving ESG in Japan.",
+   "summary": "Watch the assigned video before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611",
    "source_title": "SESSION 6 | GPIF",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-05T10:21:12+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612#prepcasehondajet618012pdfeng",
@@ -2060,46 +2063,46 @@
    "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepcasekwameowusukesseattheharlemchildrenszone",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepcase7kwameowusukesseattheharlemchildrenzone",
    "course": "OB",
-   "title": "Prep: Case – Kwame Owusu-Kesse at the Harlem Children's Zone",
+   "title": "Prep: Case #7. Kwame Owusu-Kesse at the Harlem Children Zone",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case about Kwame Owusu-Kesse at the Harlem Children's Zone.",
+   "summary": "Read Case #7 on Kwame Owusu-Kesse at the Harlem Children's Zone.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-19T10:17:08+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#preparticleiteachatabusinessschoolitstimetoshutthemdown",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepiteachatabusinessschoolitstimetoshutthemdown",
    "course": "OB",
-   "title": "Prep: Article – I Teach at a Business School. It's Time to Shut Them Down.",
+   "title": "Prep: I Teach at a Business School. It's Time to Shut Them Down.",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/138269",
-   "summary": "Read the article and reflect on its argument about shutting down business schools.",
+   "summary": "Read the article and reflect on the case study method and the author's argument.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-19T10:17:08+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#preppodcastwhenaicomesforyourpurposeinlife",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepnytpodcastwhenaicomesforyourpurposeinlife",
    "course": "OB",
-   "title": "Prep: Podcast – When AI Comes for Your Purpose in Life",
+   "title": "Prep: NYT Podcast – When AI Comes for Your Purpose in Life",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-   "summary": "Listen to the podcast and reflect on what work and career mean under AI.",
+   "summary": "Listen to the podcast and reflect on what your career might mean in the age of AI.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-14T10:20:34+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27556#midtermexamination",
@@ -2130,18 +2133,60 @@
    "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301#prepsession5presessionreading",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301#prepsession5presessionmaterialpdf",
    "course": "LD",
-   "title": "Prep: Session 5 Pre-Session Reading",
+   "title": "Prep: Session 5 Pre-Session Material (PDF)",
    "type": "prep",
-   "due": null,
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138239",
-   "summary": "Review the pre-session material on collective blind spots before class.",
+   "due": "2026-10-23T00:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138348",
+   "summary": "Review the pre-session material before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301",
    "source_title": "SESSION 5 | Collective Blind Spots",
-   "note": "",
+   "note": "time TBD",
    "source": "page",
-   "first_seen": "2026-10-19T10:17:08+00:00"
+   "first_seen": "2026-10-20T10:13:34+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301#prepsession5googleslides",
+   "course": "LD",
+   "title": "Prep: Session 5 Google Slides",
+   "type": "prep",
+   "due": "2026-10-23T00:00:00+09:00",
+   "url": "https://docs.google.com/presentation/d/1Zr9lFqaAxAod8I2dhzExtnvUz1ciwEWGmq6ST1rK5w4/edit?usp=sharing",
+   "summary": "Review the pre-session Google Slides before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301",
+   "source_title": "SESSION 5 | Collective Blind Spots",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-10-20T10:13:34+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867#prepsession3presessionmaterialpdf",
+   "course": "LD",
+   "title": "Prep: Session 3 Pre-Session Material (PDF)",
+   "type": "prep",
+   "due": "2026-10-09T00:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/136922",
+   "summary": "Review the pre-session material before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
+   "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-10-20T10:13:34+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867#prepsession3googleslides",
+   "course": "LD",
+   "title": "Prep: Session 3 Google Slides",
+   "type": "prep",
+   "due": "2026-10-09T00:00:00+09:00",
+   "url": "https://docs.google.com/presentation/d/1r9iGjJte7nrXPqzwlnaLqxQybBSm6sNpflrohbxKVlc/edit?usp=sharing",
+   "summary": "Review the pre-session Google Slides before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867",
+   "source_title": "SESSION 3 | Feedback That Changes Behavior: Developmental Dialogue in Practice",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-10-20T10:13:34+00:00"
   }
  ]
 }
