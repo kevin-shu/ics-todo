@@ -107,30 +107,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903": {
-  "updated_at": "2026-10-01T04:41:01Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 4 | Product | Aqualisa",
-  "items": [
-   {
-    "title": "Prep: Marketing Reading: Product Policy (HBS 8208)",
-    "type": "prep",
-    "due": "2026-10-01T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the recommended reading on product policy.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Aqualisa Quartz: Simply a Better Shower (HBS 502030)",
-    "type": "prep",
-    "due": "2026-10-01T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the case on why the Quartz shower is underselling.",
-    "note": ""
-   }
-  ]
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27904": {
   "updated_at": "2026-10-05T04:13:46Z",
   "kind": "page",
@@ -1266,13 +1242,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9818": {
-  "updated_at": "2026-10-01T13:12:42Z",
-  "kind": "canvas_item",
-  "course": "LD",
-  "title": "Session 2  Weekly Reflection",
-  "summary": "Submit a one-page weekly reflection using the provided template by Tuesday."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27553": {
   "updated_at": "2026-10-10T00:26:08Z",
   "kind": "page",
@@ -1745,18 +1714,26 @@
   "summary": "Submit a one-page weekly reflection report using the provided template, due Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868": {
-  "updated_at": "2026-10-19T09:20:07Z",
+  "updated_at": "2026-10-20T17:11:14Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 4 | Psychological Safety and Incivility",
   "items": [
    {
-    "title": "Prep: Session 4 Pre-Session Reading",
+    "title": "Prep: Session 4 Pre-reading",
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138190",
-    "summary": "Review the pre-session material on psychological safety and incivility.",
-    "note": ""
+    "summary": "Read the pre-session reading material for Session 4.",
+    "note": "time TBD"
+   },
+   {
+    "title": "Prep: Google Slides for Group Discussion",
+    "type": "prep",
+    "due": null,
+    "url": "https://docs.google.com/presentation/d/1gucSviOqZI20kwkJacjEi3PfoEcEJ5i1KPKAL-CWwQo/edit?usp=sharing",
+    "summary": "Review the Google Slides prepared for the group discussion.",
+    "note": "time TBD"
    }
   ]
  },
@@ -1949,25 +1926,25 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27535": {
-  "updated_at": "2026-10-14T15:00:00Z",
+  "updated_at": "2026-10-21T08:02:38Z",
   "kind": "page",
   "course": "FA",
   "title": " Class 09 |1245-1445, Mon, Oct 19, 2026",
   "items": [
    {
-    "title": "Prep: Case – Accounting for Bitcoin at Tesla",
+    "title": "Prep: Accounting for Bitcoin at Tesla",
     "type": "prep",
     "due": "2026-10-19T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Accounting for Bitcoin at Tesla case and prepare the case questions for discussion.",
+    "summary": "Read the case and prepare the case questions on Tesla's Bitcoin investment for discussion.",
     "note": ""
    },
    {
-    "title": "Prep: Tesla Background Article",
+    "title": "Prep: Tesla Background",
     "type": "prep",
     "due": "2026-10-19T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/files/133830",
-    "summary": "Read the Tesla background article before class.",
+    "summary": "Read the Tesla background article for the case discussion.",
     "note": ""
    }
   ]
@@ -2071,6 +2048,53 @@
     "url": "https://docs.google.com/presentation/d/1r9iGjJte7nrXPqzwlnaLqxQybBSm6sNpflrohbxKVlc/edit?usp=sharing",
     "summary": "Review the pre-session Google Slides before class.",
     "note": "time TBD"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6104": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "FA",
+  "title": "10 | Problem set",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27536": {
+  "updated_at": "2026-10-21T08:05:16Z",
+  "kind": "page",
+  "course": "FA",
+  "title": "Class 10 |1245-1445, Thu, Oct 22, 2026",
+  "items": [
+   {
+    "title": "Prep: LLH Ch.9",
+    "type": "prep",
+    "due": "2026-10-22T12:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapter 9 of the LLH textbook.",
+    "note": ""
+   },
+   {
+    "title": "10 | Problem set",
+    "type": "assignment",
+    "due": "2026-10-22T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6104",
+    "summary": "Complete the problem set analyzing Starbucks's financial statements and ratios.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27537": {
+  "updated_at": "2026-10-21T08:09:46Z",
+  "kind": "page",
+  "course": "FA",
+  "title": "Class 11 |1245-1445, Mon, Oct 26, 2026",
+  "items": [
+   {
+    "title": "Prep: LLH Ch.11",
+    "type": "prep",
+    "due": "2026-10-26T12:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapter 11 of the LLH textbook.",
+    "note": ""
    }
   ]
  }
