@@ -474,17 +474,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules": {
-  "updated_at": "MODULE 1 | MICROECONOMICS\n| 1 | 2026-09-22 | TUE | 12:45-14:45 |\n| 2 | 2026-09-25 | FRI | 12:45-14:45 |\n| 3 | 2026-09-29 | TUE | 12:45-14:45 |\n| 4 | 2026-10-02 | FRI | 12:45-14:45 |\n| 5 | 2026-10-06 | TUE | 12:45-14:45 |\n| 6 | 2026-10-09 | FRI | 12:45-14:45 |\n| 7 | 2026-10-13 | TUE | 12:45-14:45 |\nMODULE 2: MACROECONOMICS\n| 8 | 2026-10-16 | FRI | 12:45-14:45 | Midterm\n| 9 | 2026-10-20 | TUE | 12:45-14:45 |\n| FINAL  EXAM | 2026-11-03 | TUE | 09:00-13:00 |",
+  "updated_at": "MODULE 1 | MICROECONOMICS\n| 1 | 2026-09-22 | TUE | 12:45-14:45 |\n| 2 | 2026-09-25 | FRI | 12:45-14:45 |\n| 3 | 2026-09-29 | TUE | 12:45-14:45 |\n| 4 | 2026-10-02 | FRI | 12:45-14:45 |\n| 5 | 2026-10-06 | TUE | 12:45-14:45 |\n| 6 | 2026-10-09 | FRI | 12:45-14:45 |\n| 7 | 2026-10-13 | TUE | 12:45-14:45 |\nMODULE 2: MACROECONOMICS\n| 8 | 2026-10-16 | FRI | 12:45-14:45 | Midterm\n| 9 | 2026-10-20 | TUE | 12:45-14:45 |\n| 10 | 2026-10-23 | FRI | 12:45-14:45 |\n| FINAL  EXAM | 2026-11-03 | TUE | 09:00-13:00 |",
   "kind": "page",
   "course": "ECON",
   "title": "Module outline",
   "items": [
    {
-    "title": "Midterm Exam",
+    "title": "Midterm",
     "type": "exam",
     "due": "2026-10-16T12:45:00+09:00",
     "url": null,
-    "summary": "Midterm exam held during this class session.",
+    "summary": "Midterm exam for the course.",
     "note": ""
    },
    {
@@ -1038,13 +1038,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6257": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "IW",
-  "title": "[F 26-27] IW Session 3 Pre-session quiz",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815": {
   "updated_at": "2026-10-14T10:52:38Z",
   "kind": "canvas_item",
@@ -1060,11 +1053,11 @@
   "summary": "Submit your POA Memo analyzing the Michelin digital service platform case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817": {
-  "updated_at": "2026-10-19T09:10:47Z",
+  "updated_at": "2026-10-21T11:16:13Z",
   "kind": "canvas_item",
   "course": "MK",
   "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
-  "summary": "Submit your POA Memo analyzing the Hot Wheels case."
+  "summary": "Submit your POA Memo for the Hot Wheels case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907": {
   "updated_at": "2026-10-15T10:35:52Z",
@@ -1265,20 +1258,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9808": {
-  "updated_at": "2026-10-07T21:26:16Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Option A （YKK）",
-  "summary": "Complete the POA submission for Option A (YKK)."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9802": {
-  "updated_at": "2026-10-11T00:24:09Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Class 2 TA Memo",
-  "summary": "Fill out and submit the Class 2 TA feedback memo using the template."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
   "kind": "canvas_item",
@@ -1322,18 +1301,18 @@
   "summary": "Complete the TA memo using the attached feedback sheet template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9811": {
-  "updated_at": "2026-09-29T00:47:55Z",
+  "updated_at": "2026-10-21T11:53:51Z",
   "kind": "canvas_item",
   "course": "NJM",
   "title": "Final Paper",
-  "summary": ""
+  "summary": "Complete the POA for the final paper assignment."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9806": {
-  "updated_at": "2026-09-29T00:40:03Z",
+  "updated_at": "2026-10-21T21:37:04Z",
   "kind": "canvas_item",
   "course": "NJM",
   "title": "Class 6 TA Memo",
-  "summary": ""
+  "summary": "Complete the TA feedback sheet template for Class 6."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9807": {
   "updated_at": "2026-09-29T00:40:59Z",
@@ -1558,33 +1537,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612": {
-  "updated_at": "2026-09-29T00:29:22Z",
+  "updated_at": "2026-10-21T21:36:26Z",
   "kind": "page",
   "course": "NJM",
   "title": "SESSION 7 | Honda or Preferred Networks",
   "items": [
    {
-    "title": "Prep: Case – HondaJet (618012-PDF-ENG)",
+    "title": "Prep: Case – Honda (HondaJet) or Preferred Networks",
     "type": "prep",
     "due": "2026-10-22T15:00:00+09:00",
     "url": null,
-    "summary": "If choosing Honda, read the HondaJet case.",
-    "note": "optional"
+    "summary": "Read either the Honda or Preferred Networks case for the final paper.",
+    "note": ""
    },
    {
-    "title": "Prep: Case – Preferred Networks (IN1632-PDF-ENG)",
-    "type": "prep",
-    "due": "2026-10-22T15:00:00+09:00",
-    "url": null,
-    "summary": "If choosing Preferred Networks, read its case on deep learning.",
-    "note": "optional"
-   },
-   {
-    "title": "Final Paper",
+    "title": "Final Paper | Honda or Preferred Networks",
     "type": "assignment",
     "due": "2026-10-21T20:00:00+09:00",
     "url": null,
-    "summary": "Write a one-page PPT answer to the case question and submit it.",
+    "summary": "Write a one-page PPT answering the chosen case's question and submit it.",
     "note": ""
    }
   ]
@@ -1873,7 +1844,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862": {
-  "updated_at": "2026-10-20T08:58:20Z",
+  "updated_at": "2026-10-22T07:39:57Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
@@ -1883,7 +1854,7 @@
     "type": "prep",
     "due": "2026-10-27T09:45:00+09:00",
     "url": null,
-    "summary": "Read Case #7 on Kwame Owusu-Kesse at the Harlem Children's Zone.",
+    "summary": "Read the case about Kwame Owusu-Kesse at the Harlem Children's Zone.",
     "note": ""
    },
    {
@@ -1891,15 +1862,15 @@
     "type": "prep",
     "due": "2026-10-27T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/138269",
-    "summary": "Read the article and reflect on the case study method and the author's argument.",
+    "summary": "Read the article and reflect on the strengths and limitations of the case method.",
     "note": ""
    },
    {
-    "title": "Prep: NYT Podcast – When AI Comes for Your Purpose in Life",
+    "title": "Prep: Podcast – When AI Comes for Your Purpose in Life",
     "type": "prep",
     "due": "2026-10-27T09:45:00+09:00",
     "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-    "summary": "Listen to the podcast and reflect on what your career might mean in the age of AI.",
+    "summary": "Listen to the podcast and reflect on what work and career mean in the age of AI.",
     "note": ""
    }
   ]
@@ -1966,25 +1937,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598": {
-  "updated_at": "2026-10-14T16:41:10Z",
+  "updated_at": "2026-10-21T14:58:13Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 21 OCTOBER 2026 | SESSION 5 | GETTING TO THE POINT - FAST",
   "items": [
    {
-    "title": "Prep: Article – Why native English speakers fail to be understood in English and lose out in business",
+    "title": "Prep: Spencer Hazel – Why native English speakers fail to be understood in English and lose out in business",
     "type": "prep",
     "due": "2026-10-21T12:45:00+09:00",
     "url": "https://theconversation.com/why-native-english-speakers-fail-to-be-understood-in-english-and-lose-out-in-global-business-54436",
-    "summary": "Read the article on why native English speakers struggle to be understood internationally.",
+    "summary": "Read the article about native English speakers failing to be understood in business.",
     "note": ""
    },
    {
-    "title": "Complete Pre-session Quiz",
-    "type": "assignment",
+    "title": "Session 5 Quiz",
+    "type": "exam",
     "due": "2026-10-21T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6260",
-    "summary": "Complete and submit the pre-session quiz before class.",
+    "summary": "Complete and submit the quiz available from Oct 15.",
     "note": ""
    }
   ]
@@ -2094,6 +2065,61 @@
     "due": "2026-10-26T12:45:00+09:00",
     "url": null,
     "summary": "Read Chapter 11 of the LLH textbook.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903": {
+  "updated_at": "2026-10-01T04:41:01Z",
+  "kind": "page",
+  "course": "MK",
+  "title": "SESSION 4 | Product | Aqualisa",
+  "items": [
+   {
+    "title": "Prep: Marketing Reading: Product Policy (HBS 8208)",
+    "type": "prep",
+    "due": "2026-10-01T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the recommended marketing reading on product policy.",
+    "note": "optional"
+   },
+   {
+    "title": "Prep: Aqualisa Quartz: Simply a Better Shower (HBS 502030)",
+    "type": "prep",
+    "due": "2026-10-01T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Aqualisa Quartz case to prepare for the session.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27558": {
+  "updated_at": "2026-10-21T16:40:19Z",
+  "kind": "page",
+  "course": "ECON",
+  "title": "Monetary Policy and Policy Diagnosis",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599": {
+  "updated_at": "2026-10-21T15:41:30Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
+  "items": [
+   {
+    "title": "Mid-term Exam",
+    "type": "exam",
+    "due": "2026-10-28T09:00:00+09:00",
+    "url": null,
+    "summary": "Take the mid-term exam during this session.",
+    "note": ""
+   },
+   {
+    "title": "Sign up for mid-term consultation timeslot",
+    "type": "task",
+    "due": null,
+    "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
+    "summary": "Sign up for a preferred mid-term consultation slot via the Doodle poll.",
     "note": ""
    }
   ]

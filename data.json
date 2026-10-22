@@ -1,39 +1,6 @@
 {
- "generated_at": "2026-10-21T10:14:07+00:00",
+ "generated_at": "2026-10-22T10:12:41+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6257",
-   "course": "IW",
-   "title": "[F 26-27] IW Session 3 Pre-session quiz",
-   "type": "quiz",
-   "due": "2026-10-07T01:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6257",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-01T10:21:07+00:00"
-  },
-  {
-   "id": "canvas:assignment:9808",
-   "course": "NJM",
-   "title": "Option A （YKK）",
-   "type": "assignment",
-   "due": "2026-10-07T11:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9808",
-   "source": "canvas",
-   "summary": "Complete the POA submission for Option A (YKK).",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
-  {
-   "id": "canvas:assignment:9802",
-   "course": "NJM",
-   "title": "Class 2 TA Memo",
-   "type": "assignment",
-   "due": "2026-10-07T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9802",
-   "source": "canvas",
-   "summary": "Fill out and submit the Class 2 TA feedback memo using the template.",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
   {
    "id": "canvas:quiz:6097",
    "course": "FA",
@@ -229,7 +196,7 @@
    "due": "2026-10-21T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9811",
    "source": "canvas",
-   "summary": "",
+   "summary": "Complete the POA for the final paper assignment.",
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
@@ -240,7 +207,7 @@
    "due": "2026-10-21T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9806",
    "source": "canvas",
-   "summary": "",
+   "summary": "Complete the TA feedback sheet template for Class 6.",
    "first_seen": "2026-10-05T10:21:12+00:00"
   },
   {
@@ -262,7 +229,7 @@
    "due": "2026-10-25T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
    "source": "canvas",
-   "summary": "Submit your POA Memo analyzing the Hot Wheels case.",
+   "summary": "Submit your POA Memo for the Hot Wheels case.",
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
@@ -817,18 +784,18 @@
    "first_seen": "2026-10-02T10:19:09+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midtermexam",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midterm",
    "course": "ECON",
-   "title": "Midterm Exam",
+   "title": "Midterm",
    "type": "exam",
    "due": "2026-10-16T12:45:00+09:00",
    "url": null,
-   "summary": "Midterm exam held during this class session.",
+   "summary": "Midterm exam for the course.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules",
    "source_title": "Module outline",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-22T10:12:41+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#finalexam",
@@ -1447,6 +1414,20 @@
    "first_seen": "2026-10-07T10:18:31+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27596#iwsession3presessionquiz",
+   "course": "IW",
+   "title": "IW Session 3 Pre-session quiz",
+   "type": "assignment",
+   "due": "2026-10-07T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6257",
+   "summary": "Complete and submit the pre-session quiz before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27596",
+   "source_title": "WEDNESDAY 7 OCTOBER 2026 | SESSION 3 | WHEN IN DOUBT, CITE!",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-22T10:12:41+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27532#prepaccountingfortheiphoneatappleinc",
    "course": "FA",
    "title": "Prep: Accounting for the iPhone at Apple Inc",
@@ -1699,32 +1680,18 @@
    "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612#prepcasehondajet618012pdfeng",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612#prepcasehondahondajetorpreferrednetworks",
    "course": "NJM",
-   "title": "Prep: Case – HondaJet (618012-PDF-ENG)",
+   "title": "Prep: Case – Honda (HondaJet) or Preferred Networks",
    "type": "prep",
    "due": "2026-10-22T15:00:00+09:00",
    "url": null,
-   "summary": "If choosing Honda, read the HondaJet case.",
+   "summary": "Read either the Honda or Preferred Networks case for the final paper.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612",
    "source_title": "SESSION 7 | Honda or Preferred Networks",
-   "note": "optional",
+   "note": "",
    "source": "page",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612#prepcasepreferrednetworksin1632pdfeng",
-   "course": "NJM",
-   "title": "Prep: Case – Preferred Networks (IN1632-PDF-ENG)",
-   "type": "prep",
-   "due": "2026-10-22T15:00:00+09:00",
-   "url": null,
-   "summary": "If choosing Preferred Networks, read its case on deep learning.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612",
-   "source_title": "SESSION 7 | Honda or Preferred Networks",
-   "note": "optional",
-   "source": "page",
-   "first_seen": "2026-10-05T10:21:12+00:00"
+   "first_seen": "2026-10-22T10:12:41+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858#prepcase5thomasgreenpowerofficepoliticsandacareerincrisis",
@@ -2055,7 +2022,7 @@
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": null,
-   "summary": "Read Case #7 on Kwame Owusu-Kesse at the Harlem Children's Zone.",
+   "summary": "Read the case about Kwame Owusu-Kesse at the Harlem Children's Zone.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
@@ -2069,7 +2036,7 @@
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/138269",
-   "summary": "Read the article and reflect on the case study method and the author's argument.",
+   "summary": "Read the article and reflect on the strengths and limitations of the case method.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
@@ -2077,18 +2044,18 @@
    "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepnytpodcastwhenaicomesforyourpurposeinlife",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#preppodcastwhenaicomesforyourpurposeinlife",
    "course": "OB",
-   "title": "Prep: NYT Podcast – When AI Comes for Your Purpose in Life",
+   "title": "Prep: Podcast – When AI Comes for Your Purpose in Life",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-   "summary": "Listen to the podcast and reflect on what your career might mean in the age of AI.",
+   "summary": "Listen to the podcast and reflect on what work and career mean in the age of AI.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-20T10:13:34+00:00"
+   "first_seen": "2026-10-22T10:12:41+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27535#prepaccountingforbitcoinattesla",
@@ -2133,18 +2100,32 @@
    "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598#preparticlewhynativeenglishspeakersfailtobeunderstoodinenglishandloseoutinbusiness",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598#prepspencerhazelwhynativeenglishspeakersfailtobeunderstoodinenglishandloseoutinbusiness",
    "course": "IW",
-   "title": "Prep: Article – Why native English speakers fail to be understood in English and lose out in business",
+   "title": "Prep: Spencer Hazel – Why native English speakers fail to be understood in English and lose out in business",
    "type": "prep",
    "due": "2026-10-21T12:45:00+09:00",
    "url": "https://theconversation.com/why-native-english-speakers-fail-to-be-understood-in-english-and-lose-out-in-global-business-54436",
-   "summary": "Read the article on why native English speakers struggle to be understood internationally.",
+   "summary": "Read the article about native English speakers failing to be understood in business.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598",
    "source_title": "WEDNESDAY 21 OCTOBER 2026 | SESSION 5 | GETTING TO THE POINT - FAST",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-15T10:21:51+00:00"
+   "first_seen": "2026-10-22T10:12:41+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598#session5quiz",
+   "course": "IW",
+   "title": "Session 5 Quiz",
+   "type": "exam",
+   "due": "2026-10-21T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6260",
+   "summary": "Complete and submit the quiz available from Oct 15.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598",
+   "source_title": "WEDNESDAY 21 OCTOBER 2026 | SESSION 5 | GETTING TO THE POINT - FAST",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-22T10:12:41+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301#prepsession5presessionmaterialpdf",
@@ -2229,6 +2210,62 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-21T10:14:07+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903#prepmarketingreadingproductpolicyhbs8208",
+   "course": "MK",
+   "title": "Prep: Marketing Reading: Product Policy (HBS 8208)",
+   "type": "prep",
+   "due": "2026-10-01T09:45:00+09:00",
+   "url": null,
+   "summary": "Read the recommended marketing reading on product policy.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903",
+   "source_title": "SESSION 4 | Product | Aqualisa",
+   "note": "optional",
+   "source": "page",
+   "first_seen": "2026-10-22T10:12:41+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903#prepaqualisaquartzsimplyabettershowerhbs502030",
+   "course": "MK",
+   "title": "Prep: Aqualisa Quartz: Simply a Better Shower (HBS 502030)",
+   "type": "prep",
+   "due": "2026-10-01T09:45:00+09:00",
+   "url": null,
+   "summary": "Read the Aqualisa Quartz case to prepare for the session.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903",
+   "source_title": "SESSION 4 | Product | Aqualisa",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-22T10:12:41+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#midtermexam",
+   "course": "IW",
+   "title": "Mid-term Exam",
+   "type": "exam",
+   "due": "2026-10-28T09:00:00+09:00",
+   "url": null,
+   "summary": "Take the mid-term exam during this session.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
+   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-22T10:12:41+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#signupformidtermconsultationtimeslot",
+   "course": "IW",
+   "title": "Sign up for mid-term consultation timeslot",
+   "type": "task",
+   "due": null,
+   "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
+   "summary": "Sign up for a preferred mid-term consultation slot via the Doodle poll.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
+   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-22T10:12:41+00:00"
   }
  ]
 }
