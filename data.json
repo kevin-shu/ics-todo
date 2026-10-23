@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-22T10:12:41+00:00",
+ "generated_at": "2026-10-23T10:10:09+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6097",
-   "course": "FA",
-   "title": "05 | Problem set",
-   "type": "quiz",
-   "due": "2026-10-08T00:30:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
   {
    "id": "canvas:assignment:9803",
    "course": "NJM",
@@ -242,6 +231,17 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-10-21T10:14:07+00:00"
+  },
+  {
+   "id": "canvas:assignment:9906",
+   "course": "LD",
+   "title": "Session 5  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-10-27T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9906",
+   "source": "canvas",
+   "summary": "Submit weekly reflection report using the provided template, due Tuesday.",
+   "first_seen": "2026-10-23T10:10:09+00:00"
   },
   {
    "id": "canvas:assignment:9640",
@@ -1202,6 +1202,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-05T10:21:12+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531#05problemset",
+   "course": "FA",
+   "title": "05 | Problem set",
+   "type": "assignment",
+   "due": "2026-10-08T09:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097",
+   "summary": "Complete and submit the problem set via Canvas.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531",
+   "source_title": "Class 05 |1245-1445, Mon, Oct 5, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-23T10:10:09+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907#prepcasealephfarmsanewcultureofmeathbs9522071",

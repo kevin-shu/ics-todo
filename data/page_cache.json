@@ -1258,13 +1258,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "FA",
-  "title": "05 | Problem set",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9803": {
   "updated_at": "2026-10-11T00:14:47Z",
   "kind": "canvas_item",
@@ -2123,5 +2116,12 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9906": {
+  "updated_at": "2026-10-23T10:01:48Z",
+  "kind": "canvas_item",
+  "course": "LD",
+  "title": "Session 5  Weekly Reflection",
+  "summary": "Submit weekly reflection report using the provided template, due Tuesday."
  }
 }
