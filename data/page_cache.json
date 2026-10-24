@@ -1053,11 +1053,11 @@
   "summary": "Submit your POA Memo analyzing the Michelin digital service platform case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817": {
-  "updated_at": "2026-10-21T11:16:13Z",
+  "updated_at": "2026-10-24T06:23:30Z",
   "kind": "canvas_item",
   "course": "MK",
   "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
-  "summary": "Submit your POA Memo for the Hot Wheels case."
+  "summary": "Submit your POA Memo for the Hot Wheels case here."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907": {
   "updated_at": "2026-10-15T10:35:52Z",
@@ -1258,13 +1258,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9803": {
-  "updated_at": "2026-10-11T00:14:47Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Class 3 TA Memo",
-  "summary": "Fill out and submit the Class 3 TA feedback memo using the template."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9809": {
   "updated_at": "2026-10-12T11:35:11Z",
   "kind": "canvas_item",
@@ -1308,11 +1301,11 @@
   "summary": "Complete the TA feedback sheet template for Class 6."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9807": {
-  "updated_at": "2026-09-29T00:40:59Z",
+  "updated_at": "2026-10-23T21:46:23Z",
   "kind": "canvas_item",
   "course": "NJM",
   "title": "Class 7 TA Memo",
-  "summary": ""
+  "summary": "Complete the TA memo feedback sheet using the provided template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27533": {
   "updated_at": "2026-10-11T08:33:42Z",
@@ -1869,7 +1862,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9835": {
-  "updated_at": "2026-10-18T14:54:33Z",
+  "updated_at": "2026-10-23T14:54:27Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 4 Post-session assignment",
@@ -1954,25 +1947,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28301": {
-  "updated_at": "2026-10-20T10:09:14Z",
+  "updated_at": "2026-10-24T05:21:41Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 5 | Collective Blind Spots",
   "items": [
    {
-    "title": "Prep: Session 5 Pre-Session Material (PDF)",
+    "title": "Prep: Session 5 1023 pre-4.pdf",
     "type": "prep",
     "due": "2026-10-23T00:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138348",
-    "summary": "Review the pre-session material before class.",
-    "note": "time TBD"
-   },
-   {
-    "title": "Prep: Session 5 Google Slides",
-    "type": "prep",
-    "due": "2026-10-23T00:00:00+09:00",
-    "url": "https://docs.google.com/presentation/d/1Zr9lFqaAxAod8I2dhzExtnvUz1ciwEWGmq6ST1rK5w4/edit?usp=sharing",
-    "summary": "Review the pre-session Google Slides before class.",
+    "summary": "Review the pre-session material for this session before class.",
     "note": "time TBD"
    }
   ]
@@ -2118,10 +2103,10 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9906": {
-  "updated_at": "2026-10-23T10:01:48Z",
+  "updated_at": "2026-10-23T10:18:27Z",
   "kind": "canvas_item",
   "course": "LD",
   "title": "Session 5  Weekly Reflection",
-  "summary": "Submit weekly reflection report using the provided template, due Tuesday."
+  "summary": "Submit weekly reflection report using the provided template by Tuesday."
  }
 }
