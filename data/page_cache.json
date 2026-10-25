@@ -1053,11 +1053,11 @@
   "summary": "Submit your POA Memo analyzing the Michelin digital service platform case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817": {
-  "updated_at": "2026-10-24T06:23:30Z",
+  "updated_at": "2026-10-25T10:01:01Z",
   "kind": "canvas_item",
   "course": "MK",
   "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
-  "summary": "Submit your POA Memo for the Hot Wheels case here."
+  "summary": "Submit the POA Memo for the Hot Wheels case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907": {
   "updated_at": "2026-10-15T10:35:52Z",
@@ -1640,25 +1640,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555": {
-  "updated_at": "2026-10-12T16:01:27Z",
+  "updated_at": "2026-10-24T12:51:15Z",
   "kind": "page",
   "course": "ECON",
   "title": "PS vs Xbox Case/Shutdown and Exit Decisions/Macroeconomic Statistics",
   "items": [
    {
-    "title": "Prep: PS vs Xbox Case",
-    "type": "prep",
-    "due": "2026-10-13T12:45:00+09:00",
-    "url": null,
-    "summary": "Read the PS vs. Xbox case to prepare for in-class discussion.",
-    "note": ""
-   },
-   {
     "title": "Study Group Assignment 2 on Pricing Games",
     "type": "assignment",
     "due": "2026-10-13T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/137221",
-    "summary": "Work with your study group on the pricing games assignment before class.",
+    "summary": "Work with your study group on the pricing games assignment.",
     "note": ""
    }
   ]
@@ -2032,7 +2024,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27537": {
-  "updated_at": "2026-10-21T08:09:46Z",
+  "updated_at": "2026-10-25T09:07:36Z",
   "kind": "page",
   "course": "FA",
   "title": "Class 11 |1245-1445, Mon, Oct 26, 2026",
@@ -2042,7 +2034,7 @@
     "type": "prep",
     "due": "2026-10-26T12:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 11 of the LLH textbook.",
+    "summary": "Read LLH Chapter 11 before class.",
     "note": ""
    }
   ]
@@ -2103,10 +2095,10 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9906": {
-  "updated_at": "2026-10-23T10:18:27Z",
+  "updated_at": "2026-10-24T15:57:16Z",
   "kind": "canvas_item",
   "course": "LD",
   "title": "Session 5  Weekly Reflection",
-  "summary": "Submit weekly reflection report using the provided template by Tuesday."
+  "summary": "Submit weekly reflection using the provided template by Tuesday."
  }
 }

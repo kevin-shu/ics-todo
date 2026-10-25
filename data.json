@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T10:11:32+00:00",
+ "generated_at": "2026-10-25T10:11:50+00:00",
  "items": [
   {
    "id": "canvas:assignment:9820",
@@ -207,7 +207,7 @@
    "due": "2026-10-25T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
    "source": "canvas",
-   "summary": "Submit your POA Memo for the Hot Wheels case here.",
+   "summary": "Submit the POA Memo for the Hot Wheels case.",
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
@@ -220,6 +220,17 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-10-21T10:14:07+00:00"
+  },
+  {
+   "id": "canvas:assignment:9906",
+   "course": "LD",
+   "title": "Session 5  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-10-27T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9906",
+   "source": "canvas",
+   "summary": "Submit weekly reflection using the provided template by Tuesday.",
+   "first_seen": "2026-10-23T10:10:09+00:00"
   },
   {
    "id": "canvas:assignment:9640",
@@ -242,17 +253,6 @@
    "source": "canvas",
    "summary": "Evaluate team members' contributions and provide feedback",
    "first_seen": "2026-09-21T09:48:55+00:00"
-  },
-  {
-   "id": "canvas:assignment:9906",
-   "course": "LD",
-   "title": "Session 5  Weekly Reflection",
-   "type": "assignment",
-   "due": "2026-11-10T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9906",
-   "source": "canvas",
-   "summary": "Submit weekly reflection report using the provided template by Tuesday.",
-   "first_seen": "2026-10-23T10:10:09+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27900#prepframeworkformarketingstrategyformationhbs8153",
@@ -1795,27 +1795,13 @@
    "first_seen": "2026-10-15T10:21:51+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555#preppsvsxboxcase",
-   "course": "ECON",
-   "title": "Prep: PS vs Xbox Case",
-   "type": "prep",
-   "due": "2026-10-13T12:45:00+09:00",
-   "url": null,
-   "summary": "Read the PS vs. Xbox case to prepare for in-class discussion.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555",
-   "source_title": "PS vs Xbox Case/Shutdown and Exit Decisions/Macroeconomic Statistics",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-10-13T10:20:27+00:00"
-  },
-  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555#studygroupassignment2onpricinggames",
    "course": "ECON",
    "title": "Study Group Assignment 2 on Pricing Games",
    "type": "assignment",
    "due": "2026-10-13T12:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/137221",
-   "summary": "Work with your study group on the pricing games assignment before class.",
+   "summary": "Work with your study group on the pricing games assignment.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555",
    "source_title": "PS vs Xbox Case/Shutdown and Exit Decisions/Macroeconomic Statistics",
    "note": "",
@@ -2193,7 +2179,7 @@
    "type": "prep",
    "due": "2026-10-26T12:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 11 of the LLH textbook.",
+   "summary": "Read LLH Chapter 11 before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27537",
    "source_title": "Class 11 |1245-1445, Mon, Oct 26, 2026",
    "note": "",
