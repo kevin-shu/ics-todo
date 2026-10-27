@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-26T10:14:05+00:00",
+ "generated_at": "2026-10-27T10:13:32+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9809",
-   "course": "NJM",
-   "title": "Option B (Daikin)",
-   "type": "assignment",
-   "due": "2026-10-12T11:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9809",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
   {
    "id": "canvas:assignment:9822",
    "course": "LD",
@@ -762,18 +751,18 @@
    "first_seen": "2026-10-02T10:19:09+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midterm",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#midtermexam",
    "course": "ECON",
-   "title": "Midterm",
+   "title": "Midterm Exam",
    "type": "exam",
    "due": "2026-10-16T12:45:00+09:00",
    "url": null,
-   "summary": "Midterm exam for the course.",
+   "summary": "Take the microeconomics/macroeconomics midterm exam.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules",
    "source_title": "Module outline",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-22T10:12:41+00:00"
+   "first_seen": "2026-10-27T10:13:32+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules#finalexam",
@@ -782,7 +771,7 @@
    "type": "exam",
    "due": "2026-11-03T09:00:00+09:00",
    "url": null,
-   "summary": "Final exam for the course.",
+   "summary": "Take the final exam.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules",
    "source_title": "Module outline",
    "note": "",
@@ -1294,46 +1283,46 @@
    "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#prephotwheelslaunchingthemixedplayexperience",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#prepcasehotwheelslaunchingthemixedplayexperience",
    "course": "MK",
-   "title": "Prep: Hot Wheels: Launching The Mixed Play Experience",
+   "title": "Prep: Case – Hot Wheels: Launching The Mixed Play Experience",
    "type": "prep",
    "due": "2026-10-26T09:45:00+09:00",
    "url": null,
-   "summary": "Read and prepare the Hot Wheels case for class discussion.",
+   "summary": "Read and analyze the Hot Wheels case before the session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914",
    "source_title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-01T10:21:07+00:00"
+   "first_seen": "2026-10-27T10:13:32+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#poamemohotwheelslaunchingthemixedplayexperience",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#poamemowriteupmodule3",
    "course": "MK",
-   "title": "POA Memo - Hot Wheels: Launching The Mixed Play Experience",
+   "title": "POA Memo Write-up (Module 3)",
    "type": "assignment",
    "due": "2026-10-25T20:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
-   "summary": "Write and submit the POA Memo for Hot Wheels via Turnitin.",
+   "summary": "Write and submit an individual POA Memo for one Module 3 case via Turnitin.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914",
    "source_title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-12T10:21:45+00:00"
+   "first_seen": "2026-10-27T10:13:32+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#poamemoevaluationmodule3case",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914#evaluationofclassmatespoamemos",
    "course": "MK",
-   "title": "POA Memo Evaluation - Module 3 case",
+   "title": "Evaluation of Classmates' POA Memos",
    "type": "assignment",
    "due": "2026-11-01T20:00:00+09:00",
    "url": null,
-   "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
+   "summary": "Evaluate classmates' POA Memos for a chosen case and post your essay.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914",
    "source_title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-19T10:17:08+00:00"
+   "first_seen": "2026-10-27T10:13:32+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857#prepcase3socialsalarysettingatspiber",
@@ -1996,11 +1985,11 @@
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepcase7kwameowusukesseattheharlemchildrenzone",
    "course": "OB",
-   "title": "Prep: Case #7. Kwame Owusu-Kesse at the Harlem Children Zone",
+   "title": "Prep: Case #7 – Kwame Owusu-Kesse at the Harlem Children Zone",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case about Kwame Owusu-Kesse at the Harlem Children's Zone.",
+   "summary": "Read the case to prepare for in-class discussion on leadership trade-offs.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
@@ -2014,7 +2003,7 @@
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/138269",
-   "summary": "Read the article and reflect on the strengths and limitations of the case method.",
+   "summary": "Read the article and reflect on strengths and limitations of the case method.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
@@ -2022,18 +2011,18 @@
    "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#preppodcastwhenaicomesforyourpurposeinlife",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862#prepnytpodcastwhenaicomesforyourpurposeinlife",
    "course": "OB",
-   "title": "Prep: Podcast – When AI Comes for Your Purpose in Life",
+   "title": "Prep: NYT Podcast – When AI Comes for Your Purpose in Life",
    "type": "prep",
    "due": "2026-10-27T09:45:00+09:00",
    "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-   "summary": "Listen to the podcast and reflect on what work and career mean in the age of AI.",
+   "summary": "Listen to the podcast and reflect on what work and career mean under AI.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862",
    "source_title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
    "note": "",
    "source": "page",
-   "first_seen": "2026-10-22T10:12:41+00:00"
+   "first_seen": "2026-10-27T10:13:32+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27535#prepaccountingforbitcoinattesla",
@@ -2230,6 +2219,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-22T10:12:41+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27559#prepcasehowtofightinflationmarch2022fomcmeeting",
+   "course": "ECON",
+   "title": "Prep: Case – How to Fight Inflation: March 2022 FOMC Meeting",
+   "type": "prep",
+   "due": "2026-11-03T09:00:00+09:00",
+   "url": null,
+   "summary": "Read the case and Excel data before the pre-final-exam discussion.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27559",
+   "source_title": "Japan in a Boardroom Briefing/Open Q&A Session",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-27T10:13:32+00:00"
   }
  ]
 }

@@ -474,17 +474,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules": {
-  "updated_at": "MODULE 1 | MICROECONOMICS\n| 1 | 2026-09-22 | TUE | 12:45-14:45 |\n| 2 | 2026-09-25 | FRI | 12:45-14:45 |\n| 3 | 2026-09-29 | TUE | 12:45-14:45 |\n| 4 | 2026-10-02 | FRI | 12:45-14:45 |\n| 5 | 2026-10-06 | TUE | 12:45-14:45 |\n| 6 | 2026-10-09 | FRI | 12:45-14:45 |\n| 7 | 2026-10-13 | TUE | 12:45-14:45 |\nMODULE 2: MACROECONOMICS\n| 8 | 2026-10-16 | FRI | 12:45-14:45 | Midterm\n| 9 | 2026-10-20 | TUE | 12:45-14:45 |\n| 10 | 2026-10-23 | FRI | 12:45-14:45 |\n| FINAL  EXAM | 2026-11-03 | TUE | 09:00-13:00 |",
+  "updated_at": "MODULE 1 | MICROECONOMICS\n| 1 | 2026-09-22 | TUE | 12:45-14:45 |\n| 2 | 2026-09-25 | FRI | 12:45-14:45 |\n| 3 | 2026-09-29 | TUE | 12:45-14:45 |\n| 4 | 2026-10-02 | FRI | 12:45-14:45 |\n| 5 | 2026-10-06 | TUE | 12:45-14:45 |\n| 6 | 2026-10-09 | FRI | 12:45-14:45 |\n| 7 | 2026-10-13 | TUE | 12:45-14:45 |\nMODULE 2: MACROECONOMICS\n| 8 | 2026-10-16 | FRI | 12:45-14:45 | Midterm\n| 9 | 2026-10-20 | TUE | 12:45-14:45 |\n| 10 | 2026-10-23 | FRI | 12:45-14:45 |\n| 11 | 2026-10-27 | TUE | 12:45-14:45 |\n| FINAL  EXAM | 2026-11-03 | TUE | 09:00-13:00 |",
   "kind": "page",
   "course": "ECON",
   "title": "Module outline",
   "items": [
    {
-    "title": "Midterm",
+    "title": "Midterm Exam",
     "type": "exam",
     "due": "2026-10-16T12:45:00+09:00",
     "url": null,
-    "summary": "Midterm exam for the course.",
+    "summary": "Take the microeconomics/macroeconomics midterm exam.",
     "note": ""
    },
    {
@@ -492,7 +492,7 @@
     "type": "exam",
     "due": "2026-11-03T09:00:00+09:00",
     "url": null,
-    "summary": "Final exam for the course.",
+    "summary": "Take the final exam.",
     "note": ""
    }
   ]
@@ -1140,33 +1140,41 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914": {
-  "updated_at": "2026-10-12T07:41:24Z",
+  "updated_at": "2026-10-26T16:09:21Z",
   "kind": "page",
   "course": "MK",
   "title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
   "items": [
    {
-    "title": "Prep: Hot Wheels: Launching The Mixed Play Experience",
+    "title": "Prep: Case – Hot Wheels: Launching The Mixed Play Experience",
     "type": "prep",
     "due": "2026-10-26T09:45:00+09:00",
     "url": null,
-    "summary": "Read and prepare the Hot Wheels case for class discussion.",
+    "summary": "Read and analyze the Hot Wheels case before the session.",
     "note": ""
    },
    {
-    "title": "POA Memo - Hot Wheels: Launching The Mixed Play Experience",
+    "title": "Prep: POA Memo Instructions",
+    "type": "prep",
+    "due": "2026-10-26T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136885",
+    "summary": "Review the POA memo write-up instructions before preparing your submission.",
+    "note": ""
+   },
+   {
+    "title": "POA Memo Write-up (Module 3)",
     "type": "assignment",
     "due": "2026-10-25T20:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
-    "summary": "Write and submit the POA Memo for Hot Wheels via Turnitin.",
+    "summary": "Write and submit an individual POA Memo for one Module 3 case via Turnitin.",
     "note": ""
    },
    {
-    "title": "POA Memo Evaluation - Module 3 case",
+    "title": "Evaluation of Classmates' POA Memos",
     "type": "assignment",
     "due": "2026-11-01T20:00:00+09:00",
     "url": null,
-    "summary": "Evaluate classmates' POA Memos for a Module 3 case and post an essay.",
+    "summary": "Evaluate classmates' POA Memos for a chosen case and post your essay.",
     "note": ""
    }
   ]
@@ -1257,13 +1265,6 @@
     "note": ""
    }
   ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9809": {
-  "updated_at": "2026-10-12T11:35:11Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Option B (Daikin)",
-  "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9810": {
   "updated_at": "2026-10-14T12:01:18Z",
@@ -1815,17 +1816,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862": {
-  "updated_at": "2026-10-22T07:39:57Z",
+  "updated_at": "2026-10-27T03:06:58Z",
   "kind": "page",
   "course": "OB",
   "title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
   "items": [
    {
-    "title": "Prep: Case #7. Kwame Owusu-Kesse at the Harlem Children Zone",
+    "title": "Prep: Case #7 – Kwame Owusu-Kesse at the Harlem Children Zone",
     "type": "prep",
     "due": "2026-10-27T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case about Kwame Owusu-Kesse at the Harlem Children's Zone.",
+    "summary": "Read the case to prepare for in-class discussion on leadership trade-offs.",
     "note": ""
    },
    {
@@ -1833,15 +1834,15 @@
     "type": "prep",
     "due": "2026-10-27T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/138269",
-    "summary": "Read the article and reflect on the strengths and limitations of the case method.",
+    "summary": "Read the article and reflect on strengths and limitations of the case method.",
     "note": ""
    },
    {
-    "title": "Prep: Podcast – When AI Comes for Your Purpose in Life",
+    "title": "Prep: NYT Podcast – When AI Comes for Your Purpose in Life",
     "type": "prep",
     "due": "2026-10-27T09:45:00+09:00",
     "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-    "summary": "Listen to the podcast and reflect on what work and career mean in the age of AI.",
+    "summary": "Listen to the podcast and reflect on what work and career mean under AI.",
     "note": ""
    }
   ]
@@ -2093,5 +2094,21 @@
   "course": "LD",
   "title": "Session 5  Weekly Reflection",
   "summary": "Submit weekly reflection using the provided template by Tuesday."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27559": {
+  "updated_at": "2026-10-26T18:42:47Z",
+  "kind": "page",
+  "course": "ECON",
+  "title": "Japan in a Boardroom Briefing/Open Q&A Session",
+  "items": [
+   {
+    "title": "Prep: Case – How to Fight Inflation: March 2022 FOMC Meeting",
+    "type": "prep",
+    "due": "2026-11-03T09:00:00+09:00",
+    "url": null,
+    "summary": "Read the case and Excel data before the pre-final-exam discussion.",
+    "note": ""
+   }
+  ]
  }
 }
