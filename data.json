@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-27T10:13:32+00:00",
+ "generated_at": "2026-10-28T10:11:50+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9822",
-   "course": "LD",
-   "title": "Session 3  Weekly Reflection",
-   "type": "assignment",
-   "due": "2026-10-13T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9822",
-   "source": "canvas",
-   "summary": "Submit a one-page weekly reflection report using the provided template, due Tuesday.",
-   "first_seen": "2026-10-10T10:20:24+00:00"
-  },
   {
    "id": "canvas:quiz:6258",
    "course": "IW",
@@ -209,6 +198,17 @@
    "source": "canvas",
    "summary": "Submit weekly reflection using the provided template by Tuesday.",
    "first_seen": "2026-10-23T10:10:09+00:00"
+  },
+  {
+   "id": "canvas:assignment:9918",
+   "course": "IW",
+   "title": "MID-TERM EXAM",
+   "type": "assignment",
+   "due": "2026-10-28T03:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-10-28T10:11:50+00:00"
   },
   {
    "id": "canvas:assignment:9640",
@@ -2193,32 +2193,18 @@
    "first_seen": "2026-10-22T10:12:41+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#midtermexam",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#signupformidtermindividualconsultationviadoodlepoll",
    "course": "IW",
-   "title": "Mid-term Exam",
-   "type": "exam",
-   "due": "2026-10-28T09:00:00+09:00",
-   "url": null,
-   "summary": "Take the mid-term exam during this session.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
-   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-10-22T10:12:41+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#signupformidtermconsultationtimeslot",
-   "course": "IW",
-   "title": "Sign up for mid-term consultation timeslot",
+   "title": "Sign up for mid-term individual consultation via Doodle poll",
    "type": "task",
-   "due": null,
+   "due": "2026-10-28T09:00:00+09:00",
    "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
-   "summary": "Sign up for a preferred mid-term consultation slot via the Doodle poll.",
+   "summary": "Indicate preferred date and time for a mid-term individual consultation via the Doodle poll.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
    "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
-   "note": "",
+   "note": "optional",
    "source": "page",
-   "first_seen": "2026-10-22T10:12:41+00:00"
+   "first_seen": "2026-10-28T10:11:50+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27559#prepcasehowtofightinflationmarch2022fomcmeeting",

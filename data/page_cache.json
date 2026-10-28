@@ -1649,13 +1649,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9822": {
-  "updated_at": "2026-10-09T10:55:11Z",
-  "kind": "canvas_item",
-  "course": "LD",
-  "title": "Session 3  Weekly Reflection",
-  "summary": "Submit a one-page weekly reflection report using the provided template, due Tuesday."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27868": {
   "updated_at": "2026-10-20T17:11:14Z",
   "kind": "page",
@@ -2065,26 +2058,26 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599": {
-  "updated_at": "2026-10-21T15:41:30Z",
+  "updated_at": "2026-10-27T23:54:56Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
   "items": [
    {
-    "title": "Mid-term Exam",
+    "title": "MID-TERM EXAM",
     "type": "exam",
-    "due": "2026-10-28T09:00:00+09:00",
-    "url": null,
-    "summary": "Take the mid-term exam during this session.",
+    "due": "2026-10-28T09:30:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
+    "summary": "Complete the mid-term exam, activated at 0930 on Wednesday 28 October 2026.",
     "note": ""
    },
    {
-    "title": "Sign up for mid-term consultation timeslot",
+    "title": "Sign up for mid-term individual consultation via Doodle poll",
     "type": "task",
-    "due": null,
+    "due": "2026-10-28T09:00:00+09:00",
     "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
-    "summary": "Sign up for a preferred mid-term consultation slot via the Doodle poll.",
-    "note": ""
+    "summary": "Indicate preferred date and time for a mid-term individual consultation via the Doodle poll.",
+    "note": "optional"
    }
   ]
  },
@@ -2110,5 +2103,12 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918": {
+  "updated_at": "2026-10-28T02:57:35Z",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "MID-TERM EXAM",
+  "summary": ""
  }
 }
