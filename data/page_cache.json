@@ -513,13 +513,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401": {
-  "updated_at": "2026-10-14T14:59:52Z",
-  "kind": "canvas_item",
-  "course": "MBAE",
-  "title": "INDIVIDUAL REFLECTION MEMO",
-  "summary": "Write and submit an individual reflection memo on MBA Essentials and team dynamics."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550": {
   "updated_at": "2026-09-29T17:09:27Z",
   "kind": "page",
@@ -1038,13 +1031,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815": {
-  "updated_at": "2026-10-14T10:52:38Z",
-  "kind": "canvas_item",
-  "course": "MK",
-  "title": "POA MEMO SUBMISSION | Aleph Farms: A New Culture of Meat",
-  "summary": "Submit your POA Memo for Aleph Farms here."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816": {
   "updated_at": "2026-10-18T11:02:54Z",
   "kind": "canvas_item",
@@ -1265,20 +1251,6 @@
     "note": ""
    }
   ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9810": {
-  "updated_at": "2026-10-14T12:01:18Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Option C (Recruit)",
-  "summary": "Submit the POA memo for Option C (Recruit)."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9804": {
-  "updated_at": "2026-10-14T13:56:49Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Class 4 TA Memo",
-  "summary": "Submit the TA memo for Class 4 using the provided feedback sheet template."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9805": {
   "updated_at": "2026-10-17T01:26:25Z",
@@ -1546,13 +1518,6 @@
     "note": ""
    }
   ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6258": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "IW",
-  "title": "[F 26-27] IW Session 4 Pre-session quiz ",
-  "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858": {
   "updated_at": "2026-10-13T03:19:42Z",

@@ -1,61 +1,6 @@
 {
- "generated_at": "2026-10-28T10:11:50+00:00",
+ "generated_at": "2026-10-29T10:12:00+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6258",
-   "course": "IW",
-   "title": "[F 26-27] IW Session 4 Pre-session quiz ",
-   "type": "quiz",
-   "due": "2026-10-13T23:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6258",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-08T10:19:43+00:00"
-  },
-  {
-   "id": "canvas:assignment:9810",
-   "course": "NJM",
-   "title": "Option C (Recruit)",
-   "type": "assignment",
-   "due": "2026-10-14T11:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9810",
-   "source": "canvas",
-   "summary": "Submit the POA memo for Option C (Recruit).",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
-  {
-   "id": "canvas:assignment:9815",
-   "course": "MK",
-   "title": "POA MEMO SUBMISSION | Aleph Farms: A New Culture of Meat",
-   "type": "assignment",
-   "due": "2026-10-14T11:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815",
-   "source": "canvas",
-   "summary": "Submit your POA Memo for Aleph Farms here.",
-   "first_seen": "2026-10-01T10:21:07+00:00"
-  },
-  {
-   "id": "canvas:assignment:9401",
-   "course": "MBAE",
-   "title": "INDIVIDUAL REFLECTION MEMO",
-   "type": "assignment",
-   "due": "2026-10-14T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/assignments/9401",
-   "source": "canvas",
-   "summary": "Write and submit an individual reflection memo on MBA Essentials and team dynamics.",
-   "first_seen": "2026-09-23T23:56:12+00:00"
-  },
-  {
-   "id": "canvas:assignment:9804",
-   "course": "NJM",
-   "title": "Class 4 TA Memo",
-   "type": "assignment",
-   "due": "2026-10-14T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9804",
-   "source": "canvas",
-   "summary": "Submit the TA memo for Class 4 using the provided feedback sheet template.",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
   {
    "id": "canvas:quiz:6096",
    "course": "FA",
