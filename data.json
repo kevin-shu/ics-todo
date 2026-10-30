@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-29T10:12:00+00:00",
+ "generated_at": "2026-10-30T10:17:05+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6096",
-   "course": "FA",
-   "title": "07 | Problem set",
-   "type": "quiz",
-   "due": "2026-10-15T00:30:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6096",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-12T10:21:45+00:00"
-  },
   {
    "id": "canvas:assignment:9805",
    "course": "NJM",
@@ -1380,6 +1369,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-12T10:21:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27533#07problemset",
+   "course": "FA",
+   "title": "07 | Problem set",
+   "type": "assignment",
+   "due": "2026-10-15T12:45:00+09:00",
+   "url": null,
+   "summary": "Complete and submit Problem Set 07 by the deadline.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27533",
+   "source_title": "Class 07 |1245-1445, Mon, Oct 12, 2026",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-10-30T10:17:05+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27533#prepcapitalizingdevelopmentcostsatfiatchryslerautomobilesandvolkswagen",

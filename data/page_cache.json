@@ -1638,13 +1638,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6096": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "FA",
-  "title": "07 | Problem set",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131": {
   "updated_at": "2026-10-16T14:33:07Z",
   "kind": "page",
