@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-30T10:17:05+00:00",
+ "generated_at": "2026-10-31T10:10:52+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9805",
-   "course": "NJM",
-   "title": "Class 5 TA Memo",
-   "type": "assignment",
-   "due": "2026-10-16T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9805",
-   "source": "canvas",
-   "summary": "Complete the TA memo using the attached feedback sheet template.",
-   "first_seen": "2026-10-05T10:21:12+00:00"
-  },
   {
    "id": "canvas:assignment:9816",
    "course": "MK",
@@ -154,6 +143,17 @@
    "source": "canvas",
    "summary": "Upload your answers to the final exam",
    "first_seen": "2026-09-21T09:48:55+00:00"
+  },
+  {
+   "id": "canvas:assignment:9921",
+   "course": "MK",
+   "title": "Class Participation",
+   "type": "assignment",
+   "due": "2026-10-31T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9921",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-10-31T10:10:52+00:00"
   },
   {
    "id": "canvas:assignment:9641",

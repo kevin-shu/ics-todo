@@ -1252,13 +1252,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9805": {
-  "updated_at": "2026-10-17T01:26:25Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Class 5 TA Memo",
-  "summary": "Complete the TA memo using the attached feedback sheet template."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9811": {
   "updated_at": "2026-10-21T11:53:51Z",
   "kind": "canvas_item",
@@ -2068,5 +2061,19 @@
   "course": "IW",
   "title": "MID-TERM EXAM",
   "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9921": {
+  "updated_at": "2026-10-31T05:40:57Z",
+  "kind": "canvas_item",
+  "course": "MK",
+  "title": "Class Participation",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28319": {
+  "updated_at": "2026-10-31T06:08:26Z",
+  "kind": "page",
+  "course": "LD",
+  "title": "SESSION 6 | Leadership Styles and Situational Adaptation",
+  "items": []
  }
 }
