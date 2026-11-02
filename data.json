@@ -1,28 +1,6 @@
 {
- "generated_at": "2026-11-01T10:10:30+00:00",
+ "generated_at": "2026-11-02T10:11:03+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9816",
-   "course": "MK",
-   "title": "POA MEMO SUBMISSION | Michelin: Building a Digital Service Platform",
-   "type": "assignment",
-   "due": "2026-10-18T11:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816",
-   "source": "canvas",
-   "summary": "Submit your POA Memo analyzing the Michelin digital service platform case.",
-   "first_seen": "2026-10-01T10:21:07+00:00"
-  },
-  {
-   "id": "canvas:assignment:9835",
-   "course": "IW",
-   "title": "[F 26-27] IW Session 4 Post-session assignment",
-   "type": "assignment",
-   "due": "2026-10-18T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9835",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-15T10:21:51+00:00"
-  },
   {
    "id": "canvas:assignment:9639",
    "course": "OB",
@@ -97,7 +75,7 @@
    "due": "2026-10-25T11:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
    "source": "canvas",
-   "summary": "Submit the POA Memo for the Hot Wheels case.",
+   "summary": "Submit the POA Memo for Hot Wheels Mixed Play Experience.",
    "first_seen": "2026-10-01T10:21:07+00:00"
   },
   {
@@ -165,6 +143,17 @@
    "source": "canvas",
    "summary": "Evaluate team members' contributions and provide feedback",
    "first_seen": "2026-09-21T09:48:55+00:00"
+  },
+  {
+   "id": "canvas:assignment:9913",
+   "course": "LD",
+   "title": "Session 6  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-11-10T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913",
+   "source": "canvas",
+   "summary": "Submit weekly reflection using the provided template by Tuesday.",
+   "first_seen": "2026-11-02T10:11:03+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27900#prepframeworkformarketingstrategyformationhbs8153",
@@ -1203,6 +1192,20 @@
    "first_seen": "2026-10-19T10:17:08+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#poamemosubmissionmichelinbuildingadigitalserviceplatform",
+   "course": "MK",
+   "title": "POA MEMO SUBMISSION | Michelin: Building a Digital Service Platform",
+   "type": "assignment",
+   "due": "2026-10-18T20:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816",
+   "summary": "Write and submit an individual POA Memo for the Michelin case via Turnitin.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923",
+   "source_title": "SESSION 9 | Growth (1 → N) | Michelin",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-02T10:11:03+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923#poamemoevaluationmodule3",
    "course": "MK",
    "title": "POA Memo Evaluation (Module 3)",
@@ -2167,6 +2170,34 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-10-27T10:13:32+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600#preppearsonsalesdrop4inthefirstquarter",
+   "course": "IW",
+   "title": "Prep: Pearson sales drop 4% in the first quarter",
+   "type": "prep",
+   "due": "2026-11-04T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/138699",
+   "summary": "Read the article about Pearson's sales drop in the first quarter.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600",
+   "source_title": "WEDNESDAY 4 NOVEMBER 2026 | SESSION 7 | THE ART OF PERSUASION: WRITING FOR INFLUENCE",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-02T10:11:03+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600#completepresessionsurvey",
+   "course": "IW",
+   "title": "Complete pre-session survey",
+   "type": "task",
+   "due": "2026-11-04T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6303",
+   "summary": "Complete the pre-session survey, available from Monday 2 November 2026.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600",
+   "source_title": "WEDNESDAY 4 NOVEMBER 2026 | SESSION 7 | THE ART OF PERSUASION: WRITING FOR INFLUENCE",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-02T10:11:03+00:00"
   }
  ]
 }
