@@ -1,11 +1,4 @@
 {
- "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9639": {
-  "updated_at": "2026-10-19T23:48:34Z",
-  "kind": "canvas_item",
-  "course": "OB",
-  "title": "2. Team Project Presentation",
-  "summary": "Submit team project presentation slides following the attached guideline and naming format."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9640": {
   "updated_at": "2026-08-20T09:22:09Z",
   "kind": "canvas_item",
@@ -2026,17 +2019,33 @@
   "summary": "Submit weekly reflection using the provided template by Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27559": {
-  "updated_at": "2026-10-26T18:42:47Z",
+  "updated_at": "2026-11-02T14:58:26Z",
   "kind": "page",
   "course": "ECON",
   "title": "Japan in a Boardroom Briefing/Open Q&A Session",
   "items": [
    {
-    "title": "Prep: Case – How to Fight Inflation: March 2022 FOMC Meeting",
+    "title": "Prep: \"How to Fight Inflation: March 2022 FOMC Meeting\" case",
     "type": "prep",
-    "due": "2026-11-03T09:00:00+09:00",
+    "due": "2026-10-27T12:45:00+09:00",
     "url": null,
-    "summary": "Read the case and Excel data before the pre-final-exam discussion.",
+    "summary": "Purchase and read the HBP case on the March 2022 FOMC meeting to fight inflation.",
+    "note": ""
+   },
+   {
+    "title": "Prep: FOMC Meeting case accompanying Excel file",
+    "type": "prep",
+    "due": "2026-10-27T12:45:00+09:00",
+    "url": null,
+    "summary": "Review the accompanying Excel file containing relevant economic data for the case.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Powell Speech at Jackson Hole 2021",
+    "type": "prep",
+    "due": "2026-10-27T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/138703",
+    "summary": "Read Powell's Jackson Hole 2021 speech and compare it with the FOMC meeting case.",
     "note": ""
    }
   ]
@@ -2056,11 +2065,28 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28319": {
-  "updated_at": "2026-11-02T02:23:46Z",
+  "updated_at": "2026-11-02T16:14:25Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 6 | Leadership Styles and Situational Adaptation",
-  "items": []
+  "items": [
+   {
+    "title": "Prep: Session 6 1106 full version-5.pdf",
+    "type": "prep",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138704",
+    "summary": "Review the pre-session material on leadership styles and situational adaptation.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Session 6 Part 2 GD",
+    "type": "prep",
+    "due": null,
+    "url": "https://docs.google.com/presentation/d/1IT3_nX97tF6snSmz2wLu-lE4kCkx3XOB15q6Nr0lGK8/edit?usp=sharing",
+    "summary": "Review the pre-session Part 2 material before the Path-Goal Theory discussion.",
+    "note": ""
+   }
+  ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913": {
   "updated_at": "2026-11-02T01:37:08Z",
@@ -2092,5 +2118,12 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6303": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F26-27] IW Session 7 Pre-session survey",
+  "summary": ""
  }
 }
