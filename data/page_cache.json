@@ -1,527 +1,4 @@
 {
- "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9640": {
-  "updated_at": "2026-08-20T09:22:09Z",
-  "kind": "canvas_item",
-  "course": "OB",
-  "title": "Final Exam",
-  "summary": "Upload your answers to the final exam"
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9641": {
-  "updated_at": "2026-08-20T09:23:15Z",
-  "kind": "canvas_item",
-  "course": "OB",
-  "title": "3. Peer Evaluation (Team Members)",
-  "summary": "Evaluate team members' contributions and provide feedback"
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules": {
-  "updated_at": "MODULE 1 | Marketing, Customer Value, and Growth\n| 1 | 2026-09-21 | MON | 09:45-11:45 |\nMODULE 2 | Building the Marketing Toolbox\n| 2 | 2026-09-24 | THU | 09:45-11:45 |\n| 3 | 2026-09-28 | MON | 09:45-11:45 |\n| 4 | 2026-10-01 | THU | 09:45-11:45 |\n| 5 | 2026-10-05 | MON | 09:45-11:45 |\n| 6 | 2026-10-08 | THU | 09:45-11:45 |\n| 7 | 2026-10-12 | MON | 09:45-11:45 |\nMODULE 3 | From Analysis to Formulating Marketing Strategy and Plan\n| 8 | 2026-10-15 | THU | 09:45-11:45 |\n| 9 | 2026-10-19 | MON | 09:45-11:45 |\n| 10 | 2026-10-22 | THU | 09:45-11:45 |\n| 11 | 2026-10-26 | MON | 09:45-11:45 |\n| 12 | 2026-11-02 | MON | 9:00-13:00 |",
-  "kind": "page",
-  "course": "MK",
-  "title": "Module outline",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27900": {
-  "updated_at": "2026-09-24T04:59:23Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 1 | Why Marketing Matters: Customer Value and Growth",
-  "items": [
-   {
-    "title": "Prep: Framework for Marketing Strategy Formation (HBS 8153)",
-    "type": "prep",
-    "due": "2026-09-21T09:45:00+09:00",
-    "url": null,
-    "summary": "Read this overview note on major marketing concepts and frameworks as a course roadmap.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Note on Low-Tech Marketing Math (HBS 599011)",
-    "type": "prep",
-    "due": "2026-09-21T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the assigned note on low-tech marketing math.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27913": {
-  "updated_at": "2026-09-24T05:02:17Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 2 | Customer Value | Starbucks",
-  "items": [
-   {
-    "title": "Prep: Starbucks: Delivering Customer Service (HBS 504016)",
-    "type": "prep",
-    "due": "2026-09-24T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the Starbucks case on customer value, satisfaction, and business performance.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Marketing Analysis Toolkit: Customer Lifetime Value Analysis (HBS 511029)",
-    "type": "prep",
-    "due": "2026-09-24T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the toolkit note on customer lifetime value analysis.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27902": {
-  "updated_at": "2026-10-01T04:41:37Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 3 | Segmentation, Targeting & Positioning | Product Team Cialis",
-  "items": [
-   {
-    "title": "Prep: Marketing Analysis Toolkit: Market Size and Market Share Analysis (HBS 510081)",
-    "type": "prep",
-    "due": "2026-09-28T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the toolkit on market size and market share analysis.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Marketing Reading: Segmentation and Targeting (HBS 8219)",
-    "type": "prep",
-    "due": "2026-09-28T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the recommended reading on segmentation and targeting.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Product Team Cialis: Getting Ready to Market (HBS 505038)",
-    "type": "prep",
-    "due": "2026-09-28T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the case on launching Cialis into the ED market.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27904": {
-  "updated_at": "2026-10-05T04:13:46Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 5 | Place / Distribution Channels | Chateau Margaux",
-  "items": [
-   {
-    "title": "Prep: Marketing Reading – Developing and Managing Channels of Distribution (HBS 8149)",
-    "type": "prep",
-    "due": "2026-10-05T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the recommended marketing reading on distribution channels.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Château Margaux: Launching the Third Wine (HBS 513107)",
-    "type": "prep",
-    "due": "2026-10-05T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the case on Château Margaux's distribution channel decisions.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27905": {
-  "updated_at": "2026-10-10T15:03:20Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 6 | Pricing | Medicines Company",
-  "items": [
-   {
-    "title": "Prep: Marketing Reading: Pricing Strategy (HBS 8203)",
-    "type": "prep",
-    "due": "2026-10-08T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the recommended marketing reading on pricing strategy.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: The Medicines Company (HBS 502006)",
-    "type": "prep",
-    "due": "2026-10-08T09:45:00+09:00",
-    "url": null,
-    "summary": "Read and prepare the Medicines Company case for class discussion.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27906": {
-  "updated_at": "2026-10-10T15:04:03Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 7 | Promotions / Marketing Communications | Casper Sleep",
-  "items": [
-   {
-    "title": "Prep: Marketing Reading: Marketing Communications (HBS 8186)",
-    "type": "prep",
-    "due": "2026-10-12T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the recommended marketing reading on marketing communications.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Casper Sleep Inc.: Marketing the \"One Perfect Mattress for Everyone\" (HBS 517042)",
-    "type": "prep",
-    "due": "2026-10-12T09:45:00+09:00",
-    "url": null,
-    "summary": "Read and prepare the Casper Sleep case for class discussion.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules": {
-  "updated_at": "MODULE 1 | General Topics\nMODULE 2 | Specific Topics\nFINAL",
-  "kind": "page",
-  "course": "FA",
-  "title": "Module outline",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27527": {
-  "updated_at": "2026-09-21T11:11:45Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 01 |1245-1445, Mon, Sep 21, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Ch.1",
-    "type": "prep",
-    "due": "2026-09-21T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 1 of the LLH textbook before class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: LLH Ch.5 (-p.250)",
-    "type": "prep",
-    "due": "2026-09-21T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 5 (up to p.250) of the LLH textbook before class.",
-    "note": ""
-   },
-   {
-    "title": "01 | Before Class Quiz",
-    "type": "exam",
-    "due": "2026-09-21T09:30:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9636",
-    "summary": "Complete the quiz before class begins.",
-    "note": ""
-   },
-   {
-    "title": "01 | Problem set",
-    "type": "assignment",
-    "due": "2026-09-28T09:30:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9630",
-    "summary": "Complete and submit the problem set (deadline extended).",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27528": {
-  "updated_at": "2026-09-20T14:09:19Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 02 |1245-1545, Thu, Sep 24, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Ch.2",
-    "type": "prep",
-    "due": "2026-09-24T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 2 of the LLH textbook before class.",
-    "note": ""
-   },
-   {
-    "title": "02 | Problem set",
-    "type": "assignment",
-    "due": "2026-09-28T09:30:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9632",
-    "summary": "Complete and submit the problem set assignment.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27529": {
-  "updated_at": "2026-09-28T03:11:25Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 03 |1245-1445, Mon, Sep 28, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Ch.3",
-    "type": "prep",
-    "due": "2026-09-28T12:45:00+09:00",
-    "url": null,
-    "summary": "Read chapter 3 of the LLH textbook.",
-    "note": ""
-   },
-   {
-    "title": "03 | Problem set",
-    "type": "assignment",
-    "due": "2026-10-01T09:30:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9634",
-    "summary": "Complete and submit the problem set homework.",
-    "note": ""
-   },
-   {
-    "title": "Complete Chipotle ratio analysis exercise for Class 4 discussion",
-    "type": "task",
-    "due": "2026-10-01T12:45:00+09:00",
-    "url": null,
-    "summary": "Compute and interpret Chipotle's liquidity, profitability, and efficiency ratios.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27530": {
-  "updated_at": "2026-09-30T05:19:46Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 04 |1245-1445, Thu, Oct 1, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Ch.4",
-    "type": "prep",
-    "due": "2026-10-01T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 4 of the LLH textbook.",
-    "note": ""
-   },
-   {
-    "title": "Review small discussion notes on Class 03 page",
-    "type": "task",
-    "due": "2026-10-01T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/pages/class-03-%7C1245-1445-mon-sep-28-2026",
-    "summary": "Check the Class 03 page for the small discussion topic for this class.",
-    "note": ""
-   },
-   {
-    "title": "04 | Problem set",
-    "type": "assignment",
-    "due": "2026-10-05T09:30:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/assignments/9633",
-    "summary": "Complete and submit Problem set 4.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28092": {
-  "updated_at": "2026-09-19T05:43:11Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Final Exam | 0900-1300. Thu, Oct 29, 2026",
-  "items": [
-   {
-    "title": "Final Exam",
-    "type": "exam",
-    "due": "2026-10-29T09:00:00+09:00",
-    "url": null,
-    "summary": "Take the final exam.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules": {
-  "updated_at": "INTRODUCTION SESSION\n| MODULE 1 | Know how to work with others\n| MODULE 2 | Know yourself\n| MODULE 3 |  Know where you work",
-  "kind": "page",
-  "course": "OB",
-  "title": "Module outline",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27852": {
-  "updated_at": "2026-09-22T04:35:25Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 1-1 | Sep. 22 TUE | Course Introduction",
-  "items": [
-   {
-    "title": "Prep: Syllabus",
-    "type": "prep",
-    "due": "2026-09-22T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/syllabus",
-    "summary": "Read the course syllabus before the first session.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27853": {
-  "updated_at": "2026-09-22T04:36:00Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 1-2 |  Sep. 22 TUE | Introduction to OB",
-  "items": [
-   {
-    "title": "Prep: Textbook Ch.1",
-    "type": "prep",
-    "due": "2026-09-22T09:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 1 of the OB textbook.",
-    "note": ""
-   },
-   {
-    "title": "Prep: NPR Podcast – Hard Work Is Irrelevant",
-    "type": "prep",
-    "due": "2026-09-22T09:45:00+09:00",
-    "url": "https://www.npr.org/sections/money/2017/09/13/550793717/episode-647-hard-work-is-irrelevant",
-    "summary": "Listen to the podcast on Netflix's culture and be ready to discuss it.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27854": {
-  "updated_at": "2026-09-25T03:11:28Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 2 | Sep. 25 FRI | Intragroup dynamics",
-  "items": [
-   {
-    "title": "Prep: Textbook Ch.9",
-    "type": "prep",
-    "due": "2026-09-25T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the chapter on foundations of group behavior (optional).",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Blog Posting – Nemawashi",
-    "type": "prep",
-    "due": "2026-09-25T09:45:00+09:00",
-    "url": "https://note.com/fukuharatamanegi/n/nc59dfba301c1",
-    "summary": "Read the blog post to explore the concept of Nemawashi.",
-    "note": ""
-   },
-   {
-    "title": "Sign up for team project meeting timeslot",
-    "type": "task",
-    "due": "2026-09-29T09:45:00+09:00",
-    "url": "https://chouseisan.com/s?h=b72efd06069543e29809f5bbc37c24cd",
-    "summary": "Sign up for a timeslot to meet with the instructor about your team project.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27855": {
-  "updated_at": "2026-09-29T03:07:41Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 3 | Sep. 29 TUE | Intergroup dynamics",
-  "items": [
-   {
-    "title": "Prep: Case #2 – Managing a Global Team: Greg James at Sun Microsystems, Inc. (A)",
-    "type": "prep",
-    "due": "2026-09-29T09:45:00+09:00",
-    "url": null,
-    "summary": "Read Case #2 on Greg James's global team at Sun Microsystems.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Textbook Ch.6",
-    "type": "prep",
-    "due": "2026-09-29T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the optional textbook chapter before class.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Video – The Blue Eyes, Brown Eyes Experiment",
-    "type": "prep",
-    "due": "2026-09-29T09:45:00+09:00",
-    "url": "https://www.youtube.com/watch?v=dLAi78hluFc&ab_channel=chel.by.the.seas",
-    "summary": "Watch the video and reflect on Jane Elliot's influence and its implications.",
-    "note": ""
-   },
-   {
-    "title": "Sign up for team project meeting timeslot",
-    "type": "task",
-    "due": "2026-09-29T09:45:00+09:00",
-    "url": "https://chouseisan.com/s?h=b72efd06069543e29809f5bbc37c24cd",
-    "summary": "Sign up for a timeslot to meet with the instructor about your team project.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27856": {
-  "updated_at": "2026-10-02T03:13:55Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 4 | Oct. 2 FRI | Emotion, Interpersonal Relations and and Leadership",
-  "items": [
-   {
-    "title": "Prep: Textbook Ch.4",
-    "type": "prep",
-    "due": "2026-10-02T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the optional textbook chapter before class.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: McDonald's Japan Campaign Video – 「スマイルあげない」",
-    "type": "prep",
-    "due": "2026-10-02T09:45:00+09:00",
-    "url": "https://www.youtube.com/watch?v=Ml7y3TgS_gA",
-    "summary": "Watch the McDonald's Japan video campaign clip before class.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules": {
-  "updated_at": "MODULE 1 | MICROECONOMICS\n| 1 | 2026-09-22 | TUE | 12:45-14:45 |\n| 2 | 2026-09-25 | FRI | 12:45-14:45 |\n| 3 | 2026-09-29 | TUE | 12:45-14:45 |\n| 4 | 2026-10-02 | FRI | 12:45-14:45 |\n| 5 | 2026-10-06 | TUE | 12:45-14:45 |\n| 6 | 2026-10-09 | FRI | 12:45-14:45 |\n| 7 | 2026-10-13 | TUE | 12:45-14:45 |\nMODULE 2: MACROECONOMICS\n| 8 | 2026-10-16 | FRI | 12:45-14:45 | Midterm\n| 9 | 2026-10-20 | TUE | 12:45-14:45 |\n| 10 | 2026-10-23 | FRI | 12:45-14:45 |\n| 11 | 2026-10-27 | TUE | 12:45-14:45 |\n| FINAL  EXAM | 2026-11-03 | TUE | 09:00-13:00 |",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Module outline",
-  "items": [
-   {
-    "title": "Midterm Exam",
-    "type": "exam",
-    "due": "2026-10-16T12:45:00+09:00",
-    "url": null,
-    "summary": "Take the microeconomics/macroeconomics midterm exam.",
-    "note": ""
-   },
-   {
-    "title": "Final Exam",
-    "type": "exam",
-    "due": "2026-11-03T09:00:00+09:00",
-    "url": null,
-    "summary": "Take the final exam.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27549": {
-  "updated_at": "2026-09-22T06:58:05Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Porter's Five Forces Analysis as Introduction/Characteristics of Consumer Demand",
-  "items": [
-   {
-    "title": "Prep: Price Elasticity of Demand and Revenue",
-    "type": "prep",
-    "due": "2026-09-29T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/135710",
-    "summary": "Read this material in advance of Session 3.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27550": {
-  "updated_at": "2026-09-29T17:09:27Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Profit Maximization",
-  "items": [
-   {
-    "title": "Prepare study group assignment for class",
-    "type": "task",
-    "due": "2026-09-29T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/136661",
-    "summary": "Prepare answers to the study group assignment with your group and bring them to class.",
-    "note": ""
-   }
-  ]
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules": {
   "updated_at": "MODULE 1:LEADERSHIP DEVELOPMENT ",
   "kind": "page",
@@ -993,204 +470,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27552": {
-  "updated_at": "2026-10-02T16:37:47Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Externalities/Game Theory (1)",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27531": {
-  "updated_at": "2026-10-04T14:13:24Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 05 |1245-1445, Mon, Oct 5, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Textbook Ch.6-7",
-    "type": "prep",
-    "due": "2026-10-05T12:45:00+09:00",
-    "url": null,
-    "summary": "Read chapters 6 and 7 of the LLH textbook.",
-    "note": ""
-   },
-   {
-    "title": "05 | Problem set",
-    "type": "assignment",
-    "due": "2026-10-08T09:30:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6097",
-    "summary": "Complete and submit the problem set via Canvas.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817": {
-  "updated_at": "2026-11-01T11:29:33Z",
-  "kind": "canvas_item",
-  "course": "MK",
-  "title": "POA MEMO SUBMISSION | Hot Wheels: Launching The Mixed Play Experience",
-  "summary": "Submit the POA Memo for Hot Wheels Mixed Play Experience."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27907": {
-  "updated_at": "2026-10-15T10:35:52Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 8 | Launch (0 to 1) | Aleph Farms",
-  "items": [
-   {
-    "title": "Prep: Case – Aleph Farms: A New Culture of Meat (HBS 9-522-071)",
-    "type": "prep",
-    "due": "2026-10-15T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the HBS case on Aleph Farms before class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: POA Memo Instruction",
-    "type": "prep",
-    "due": "2026-10-15T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136881",
-    "summary": "Review the POA memo instructions before class.",
-    "note": ""
-   },
-   {
-    "title": "POA Memo Write-up (30 points)",
-    "type": "assignment",
-    "due": "2026-10-14T20:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9815",
-    "summary": "Write and submit an individual POA memo for a Module 3 case via Turnitin.",
-    "note": ""
-   },
-   {
-    "title": "Evaluation of Others' POA Memo (10 points)",
-    "type": "assignment",
-    "due": "2026-11-01T20:00:00+09:00",
-    "url": null,
-    "summary": "Write a short essay evaluating classmates' POA memos and post it on the discussion board.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27923": {
-  "updated_at": "2026-10-19T07:26:00Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 9 | Growth (1 → N) | Michelin",
-  "items": [
-   {
-    "title": "Prep: Case – Michelin: Building a Digital Service Platform",
-    "type": "prep",
-    "due": "2026-10-19T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the Michelin digital service platform case before class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: POA Memo Instructions",
-    "type": "prep",
-    "due": "2026-10-19T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136884",
-    "summary": "Read the POA Memo instructions for the Final Exam assignment.",
-    "note": ""
-   },
-   {
-    "title": "POA MEMO SUBMISSION | Michelin: Building a Digital Service Platform",
-    "type": "assignment",
-    "due": "2026-10-18T20:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9816",
-    "summary": "Write and submit an individual POA Memo for the Michelin case via Turnitin.",
-    "note": ""
-   },
-   {
-    "title": "POA Memo Evaluation (Module 3)",
-    "type": "assignment",
-    "due": "2026-11-01T20:00:00+09:00",
-    "url": null,
-    "summary": "Read classmates' POA Memos and post a short evaluation essay for one case.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27914": {
-  "updated_at": "2026-10-26T16:09:21Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 11 | Maturity (N → N+) | Hot Wheels",
-  "items": [
-   {
-    "title": "Prep: Case – Hot Wheels: Launching The Mixed Play Experience",
-    "type": "prep",
-    "due": "2026-10-26T09:45:00+09:00",
-    "url": null,
-    "summary": "Read and analyze the Hot Wheels case before the session.",
-    "note": ""
-   },
-   {
-    "title": "Prep: POA Memo Instructions",
-    "type": "prep",
-    "due": "2026-10-26T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/files/136885",
-    "summary": "Review the POA memo write-up instructions before preparing your submission.",
-    "note": ""
-   },
-   {
-    "title": "POA Memo Write-up (Module 3)",
-    "type": "assignment",
-    "due": "2026-10-25T20:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9817",
-    "summary": "Write and submit an individual POA Memo for one Module 3 case via Turnitin.",
-    "note": ""
-   },
-   {
-    "title": "Evaluation of Classmates' POA Memos",
-    "type": "assignment",
-    "due": "2026-11-01T20:00:00+09:00",
-    "url": null,
-    "summary": "Evaluate classmates' POA Memos for a chosen case and post your essay.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27857": {
-  "updated_at": "2026-10-14T01:50:27Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 5 | Oct. 6 TUE | Personality and Individual Differences",
-  "items": [
-   {
-    "title": "Prep: Case #3. Social Salary Setting at Spiber",
-    "type": "prep",
-    "due": "2026-10-06T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the case about Spiber's set-your-own-salary system before class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Textbook Ch. 5",
-    "type": "prep",
-    "due": "2026-10-06T09:45:00+09:00",
-    "url": null,
-    "summary": "Optionally read Chapter 5 of the textbook before class.",
-    "note": "optional"
-   },
-   {
-    "title": "Take the Big Five personality test",
-    "type": "task",
-    "due": "2026-10-04T00:00:00+09:00",
-    "url": "https://bigfive-test.com/",
-    "summary": "Take the Big Five personality test before reporting your results.",
-    "note": "time TBD"
-   },
-   {
-    "title": "Submit Big Five test result",
-    "type": "task",
-    "due": "2026-10-04T00:00:00+09:00",
-    "url": "https://forms.gle/LH39ZSQhc1T3GPym7",
-    "summary": "Report your Big Five personality test result via the Google Form.",
-    "note": "time TBD"
-   }
-  ]
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27596": {
   "updated_at": "2026-10-07T14:57:22Z",
   "kind": "page",
@@ -1215,344 +494,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27553": {
-  "updated_at": "2026-10-10T00:26:08Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Game Theory (2)",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27532": {
-  "updated_at": "2026-10-11T08:33:19Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 06 |1245-1445, Thu, Oct 8, 2026",
-  "items": [
-   {
-    "title": "Prep: Accounting for the iPhone at Apple Inc",
-    "type": "prep",
-    "due": "2026-10-08T12:45:00+09:00",
-    "url": "https://hbsp.harvard.edu/import/1457915",
-    "summary": "Read the Accounting for the iPhone at Apple Inc case and prepare the assigned questions.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9811": {
-  "updated_at": "2026-10-21T11:53:51Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Final Paper",
-  "summary": "Complete the POA for the final paper assignment."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9806": {
-  "updated_at": "2026-10-21T21:37:04Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Class 6 TA Memo",
-  "summary": "Complete the TA feedback sheet template for Class 6."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/assignments/9807": {
-  "updated_at": "2026-10-23T21:46:23Z",
-  "kind": "canvas_item",
-  "course": "NJM",
-  "title": "Class 7 TA Memo",
-  "summary": "Complete the TA memo feedback sheet using the provided template."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27533": {
-  "updated_at": "2026-10-11T08:33:42Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 07 |1245-1445, Mon, Oct 12, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Ch.8",
-    "type": "prep",
-    "due": "2026-10-12T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 8 of the LLH textbook before class.",
-    "note": ""
-   },
-   {
-    "title": "07 | Problem set",
-    "type": "assignment",
-    "due": "2026-10-15T12:45:00+09:00",
-    "url": null,
-    "summary": "Complete and submit Problem Set 07 by the deadline.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Capitalizing Development Costs at Fiat Chrysler Automobiles and Volkswagen",
-    "type": "prep",
-    "due": "2026-10-15T12:45:00+09:00",
-    "url": "https://hbsp.harvard.edu/import/1457915",
-    "summary": "Read the Fiat Chrysler and Volkswagen case before Class 08.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27859": {
-  "updated_at": "2026-10-09T03:23:33Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 6 | Oct. 9 FRI | Motivation",
-  "items": [
-   {
-    "title": "Prep: Case #4. Trouble at Tessei",
-    "type": "prep",
-    "due": "2026-10-09T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the required case on Tessei's operational challenges before class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Textbook Ch. 7",
-    "type": "prep",
-    "due": "2026-10-09T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the optional textbook chapter on motivation theories.",
-    "note": "optional"
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules": {
-  "updated_at": "| 1 | 2026-10-01 | THU | 15:00-17:00 |\n| 2 | 2026-10-06 | TUE | 15:00-17:00 |\n| 3 | 2026-10-08 | THU | 15:00-17:00 |\n| 4 | 2026-10-13 | TUE | 15:00-17:00 | \n| 5 | 2026-10-15 | THU | 15:00-17:00 |\n| 6 | 2026-10-20 | TUE | 15:00-17:00 |\n| FINAL | 2026-10-22 | THU | 15:00-17:00 |",
-  "kind": "page",
-  "course": "NJM",
-  "title": "Module outline",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27606": {
-  "updated_at": "2026-09-28T23:50:24Z",
-  "kind": "page",
-  "course": "NJM",
-  "title": "SESSION 1 | Introduction",
-  "items": [
-   {
-    "title": "Prep: Purposism Interview",
-    "type": "prep",
-    "due": "2026-10-01T15:00:00+09:00",
-    "url": "https://thebeautifultruth.org/work/purpose/in-conversation-with-takashi-nawa/",
-    "summary": "Read the interview on purpose in Western and Japanese management.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27607": {
-  "updated_at": "2026-10-06T23:01:54Z",
-  "kind": "page",
-  "course": "NJM",
-  "title": "SESSION 2 | Inamori",
-  "items": [
-   {
-    "title": "Prep: Case – Kazuo Inamori – A Japanese Entrepreneur",
-    "type": "prep",
-    "due": "2026-10-06T15:00:00+09:00",
-    "url": null,
-    "summary": "Read the Inamori case and prepare to discuss the assigned questions.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27608": {
-  "updated_at": "2026-10-08T12:05:57Z",
-  "kind": "page",
-  "course": "NJM",
-  "title": "SESSION 3 | YKK",
-  "items": [
-   {
-    "title": "Prep: HBR Article – YKK (Lessons in Longevity from an 88-year-old Zipper Company)",
-    "type": "prep",
-    "due": "2026-10-08T15:00:00+09:00",
-    "url": null,
-    "summary": "Read the HBR article on YKK's 88 years of longevity as a zipper company.",
-    "note": ""
-   },
-   {
-    "title": "Prep: YKK Annual Report 2022",
-    "type": "prep",
-    "due": "2026-10-08T15:00:00+09:00",
-    "url": "https://www.ykk.com/english/csr/eco/report/pdf/2022/This_is_YKK_2022_dialogue.pdf",
-    "summary": "Read YKK's 2022 annual report on its Cycle of Goodness purpose.",
-    "note": ""
-   },
-   {
-    "title": "Homework: One-page PPT answering Q3 on YKK case",
-    "type": "assignment",
-    "due": "2026-10-07T20:00:00+09:00",
-    "url": null,
-    "summary": "If you choose the YKK case, write a one-page PPT answering Q3 and submit it.",
-    "note": "optional (only if this case is chosen)"
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27609": {
-  "updated_at": "2026-10-13T10:40:49Z",
-  "kind": "page",
-  "course": "NJM",
-  "title": "SESSION 4  | Daikin",
-  "items": [
-   {
-    "title": "Prep: Case – Daikin (IMD 7-2618 Overcoming Diversity through Innovation – Daikin at 100)",
-    "type": "prep",
-    "due": "2026-10-13T15:00:00+09:00",
-    "url": null,
-    "summary": "Read the Daikin case before class to discuss the questions.",
-    "note": ""
-   },
-   {
-    "title": "MEMO | Case response PPT (YKK, Daikin, or Recruit)",
-    "type": "assignment",
-    "due": "2026-10-12T20:00:00+09:00",
-    "url": null,
-    "summary": "Submit a one-page PPT answering Q3 for your chosen case (YKK, Daikin, or Recruit).",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27610": {
-  "updated_at": "2026-10-15T13:20:48Z",
-  "kind": "page",
-  "course": "NJM",
-  "title": "SESSION 5| Recruit",
-  "items": [
-   {
-    "title": "Prep: Case – \"Recruit\" (318130-PDF-ENG Globalizing Japanese Dream Machine: Recruit Holding Co, Ltd)",
-    "type": "prep",
-    "due": "2026-10-15T15:00:00+09:00",
-    "url": null,
-    "summary": "Read the case on Recruit's globalization and digital transformation strategy.",
-    "note": ""
-   },
-   {
-    "title": "Memo: One-page PPT answering Q3 (YKK / Daikin / Recruit)",
-    "type": "assignment",
-    "due": "2026-10-14T20:00:00+09:00",
-    "url": null,
-    "summary": "Write a one-page PPT answering Q3 for YKK, Daikin, or Recruit and submit it.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27611": {
-  "updated_at": "2026-10-20T05:51:45Z",
-  "kind": "page",
-  "course": "NJM",
-  "title": "SESSION 6 | GPIF",
-  "items": [
-   {
-    "title": "Prep: Case – Should a Pension Fund Try to Change the World? Inside GPIF's Embrace of ESG",
-    "type": "prep",
-    "due": "2026-10-20T15:00:00+09:00",
-    "url": null,
-    "summary": "Read the HBS case on GPIF's embrace of ESG investing.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Larry Fink's 2020 Letter to CEO",
-    "type": "prep",
-    "due": "2026-10-20T15:00:00+09:00",
-    "url": "https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter",
-    "summary": "Read Larry Fink's 2020 letter to CEOs.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Article – Where ESG Fails",
-    "type": "prep",
-    "due": "2026-10-20T15:00:00+09:00",
-    "url": "https://www.institutionalinvestor.com/article/b1hm5ghqtxj9s7/Where-ESG-Fails",
-    "summary": "Read the article on why ESG investing fails.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Video",
-    "type": "prep",
-    "due": "2026-10-20T15:00:00+09:00",
-    "url": "https://www.youtube.com/watch?v=jpPmueiZivk",
-    "summary": "Watch the assigned video before class.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1378/modules/items/27612": {
-  "updated_at": "2026-10-21T21:36:26Z",
-  "kind": "page",
-  "course": "NJM",
-  "title": "SESSION 7 | Honda or Preferred Networks",
-  "items": [
-   {
-    "title": "Prep: Case – Honda (HondaJet) or Preferred Networks",
-    "type": "prep",
-    "due": "2026-10-22T15:00:00+09:00",
-    "url": null,
-    "summary": "Read either the Honda or Preferred Networks case for the final paper.",
-    "note": ""
-   },
-   {
-    "title": "Final Paper | Honda or Preferred Networks",
-    "type": "assignment",
-    "due": "2026-10-21T20:00:00+09:00",
-    "url": null,
-    "summary": "Write a one-page PPT answering the chosen case's question and submit it.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27858": {
-  "updated_at": "2026-10-13T03:19:42Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 7 | Oct. 13 TUE | Perception, Power and Influence",
-  "items": [
-   {
-    "title": "Prep: Case #5 – Thomas Green: Power, Office Politics, and a Career in Crisis",
-    "type": "prep",
-    "due": "2026-10-13T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the required case and be ready to discuss it in class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Textbook Chapter 6",
-    "type": "prep",
-    "due": "2026-10-13T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the optional chapter 6 of the textbook.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Newspaper Article – I'm Done Being Your Model Minority",
-    "type": "prep",
-    "due": "2026-10-13T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137200",
-    "summary": "Skim the newspaper article on racial stereotyping.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Newspaper Article – A Titan's How-To on Breaking the Glass Ceiling",
-    "type": "prep",
-    "due": "2026-10-13T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137199",
-    "summary": "Skim the newspaper article on one perspective of overcoming gender inequality.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Newspaper Article – Yes, You Can",
-    "type": "prep",
-    "due": "2026-10-13T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137198",
-    "summary": "Skim the newspaper article presenting another perspective on gender inequality.",
-    "note": "optional"
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27554": {
-  "updated_at": "2026-10-08T16:28:25Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Economics of Information",
-  "items": []
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27597": {
   "updated_at": "2026-10-14T16:34:31Z",
   "kind": "page",
@@ -1573,22 +514,6 @@
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9835",
     "summary": "Complete the post-session writing assignment on writing to suit your audience.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27555": {
-  "updated_at": "2026-10-24T12:51:15Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "PS vs Xbox Case/Shutdown and Exit Decisions/Macroeconomic Statistics",
-  "items": [
-   {
-    "title": "Study Group Assignment 2 on Pricing Games",
-    "type": "assignment",
-    "due": "2026-10-13T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/137221",
-    "summary": "Work with your study group on the pricing games assignment.",
     "note": ""
    }
   ]
@@ -1617,219 +542,12 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/28131": {
-  "updated_at": "2026-10-16T14:33:07Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Optional | Midterm Feedback",
-  "items": [
-   {
-    "title": "Sign up for midterm feedback meeting timeslot",
-    "type": "task",
-    "due": "2026-10-19T12:45:00+09:00",
-    "url": null,
-    "summary": "Sign up for an optional one-on-one midterm feedback meeting timeslot.",
-    "note": "optional"
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27534": {
-  "updated_at": "2026-10-14T17:07:47Z",
-  "kind": "page",
-  "course": "FA",
-  "title": " Class 08 |1245-1445, Thu, Oct 15, 2026",
-  "items": [
-   {
-    "title": "Prep: Appendix A",
-    "type": "prep",
-    "due": "2026-10-15T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Appendix A on capitalizing development costs.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Case – Capitalizing Development Costs at Fiat Chrysler Automobiles and Volkswagen",
-    "type": "prep",
-    "due": "2026-10-15T12:45:00+09:00",
-    "url": null,
-    "summary": "Read the FCA/VW case and prepare answers to the case questions for discussion.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Tesla Background Article",
-    "type": "prep",
-    "due": "2026-10-19T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/files/133830",
-    "summary": "Read the Tesla background article in advance of Class 9.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Case – Accounting for Bitcoin at Tesla",
-    "type": "prep",
-    "due": "2026-10-19T12:45:00+09:00",
-    "url": "https://hbsp.harvard.edu/import/1457915",
-    "summary": "Access the coursepack and read the Accounting for Bitcoin at Tesla case for Class 9.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27861": {
-  "updated_at": "2026-10-16T03:13:05Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 8 | Oct. 16 FRI | Organizational Culture and Change",
-  "items": [
-   {
-    "title": "Prep: Coursepack Case #6 – Language and Globalization: \"Englishnization\" at Rakuten",
-    "type": "prep",
-    "due": "2026-10-16T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the case on language policy and globalization at Rakuten.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Textbook Ch.16",
-    "type": "prep",
-    "due": "2026-10-16T09:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 16 of the textbook.",
-    "note": "optional"
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27860": {
-  "updated_at": "2026-10-19T04:20:06Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 9~10 | Oct. 20/23 | Team Project Presentation",
-  "items": [
-   {
-    "title": "Prep: Team Presentation Guidelines",
-    "type": "prep",
-    "due": "2026-10-20T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/137497",
-    "summary": "Review the team presentation guidelines to structure your presentation.",
-    "note": ""
-   },
-   {
-    "title": "Submit team presentation slide deck",
-    "type": "assignment",
-    "due": "2026-10-19T00:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/assignments/9639",
-    "summary": "Submit your team's slide deck for the presentation (one per team).",
-    "note": "time TBD"
-   },
-   {
-    "title": "Complete peer evaluation Google Form for Presentation Day 1",
-    "type": "task",
-    "due": "2026-10-20T09:45:00+09:00",
-    "url": "https://forms.gle/ZTAXweiTWRogY67p8",
-    "summary": "Submit peer evaluation of Day 1 team presentations via Google Form.",
-    "note": ""
-   },
-   {
-    "title": "Complete peer evaluation Google Form for Presentation Day 2",
-    "type": "task",
-    "due": "2026-10-23T09:45:00+09:00",
-    "url": "https://forms.gle/fiiwDdnCnaWhjnNX6",
-    "summary": "Submit peer evaluation of Day 2 team presentations via Google Form.",
-    "note": ""
-   },
-   {
-    "title": "Post reflections or questions about team presentations on discussion board",
-    "type": "task",
-    "due": "2026-10-23T09:45:00+09:00",
-    "url": null,
-    "summary": "Post questions or reflections on other teams' presentations on the discussion board.",
-    "note": "optional"
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1373/modules/items/27862": {
-  "updated_at": "2026-10-27T03:06:58Z",
-  "kind": "page",
-  "course": "OB",
-  "title": "SESSION 11 | Oct. 27 TUE | Career and Organization",
-  "items": [
-   {
-    "title": "Prep: Case #7 – Kwame Owusu-Kesse at the Harlem Children Zone",
-    "type": "prep",
-    "due": "2026-10-27T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the case to prepare for in-class discussion on leadership trade-offs.",
-    "note": ""
-   },
-   {
-    "title": "Prep: I Teach at a Business School. It's Time to Shut Them Down.",
-    "type": "prep",
-    "due": "2026-10-27T09:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1373/files/138269",
-    "summary": "Read the article and reflect on strengths and limitations of the case method.",
-    "note": ""
-   },
-   {
-    "title": "Prep: NYT Podcast – When AI Comes for Your Purpose in Life",
-    "type": "prep",
-    "due": "2026-10-27T09:45:00+09:00",
-    "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-    "summary": "Listen to the podcast and reflect on what work and career mean under AI.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9823": {
-  "updated_at": "2026-10-15T09:38:41Z",
-  "kind": "canvas_item",
-  "course": "LD",
-  "title": "Session 4  Weekly Reflection",
-  "summary": "Submit weekly reflection using the provided template by Tuesday."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6260": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 5 Pre-session survey",
   "summary": ""
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27535": {
-  "updated_at": "2026-10-21T08:02:38Z",
-  "kind": "page",
-  "course": "FA",
-  "title": " Class 09 |1245-1445, Mon, Oct 19, 2026",
-  "items": [
-   {
-    "title": "Prep: Accounting for Bitcoin at Tesla",
-    "type": "prep",
-    "due": "2026-10-19T12:45:00+09:00",
-    "url": null,
-    "summary": "Read the case and prepare the case questions on Tesla's Bitcoin investment for discussion.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Tesla Background",
-    "type": "prep",
-    "due": "2026-10-19T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/files/133830",
-    "summary": "Read the Tesla background article for the case discussion.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27556": {
-  "updated_at": "2026-10-15T09:58:13Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Spending and Fiscal Policy",
-  "items": [
-   {
-    "title": "Midterm Examination",
-    "type": "exam",
-    "due": "2026-10-16T14:45:00+09:00",
-    "url": null,
-    "summary": "Take a short midterm examination at the end of this session.",
-    "note": ""
-   }
-  ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598": {
   "updated_at": "2026-10-21T14:58:13Z",
@@ -1871,20 +589,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27551": {
-  "updated_at": "2026-09-25T08:23:21Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Production Costs",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27557": {
-  "updated_at": "2026-10-19T11:39:15Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Production and Inflation",
-  "items": []
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/27867": {
   "updated_at": "2026-10-16T02:53:37Z",
   "kind": "page",
@@ -1908,84 +612,6 @@
     "note": "time TBD"
    }
   ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6104": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "FA",
-  "title": "10 | Problem set",
-  "summary": ""
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27536": {
-  "updated_at": "2026-10-21T08:05:16Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 10 |1245-1445, Thu, Oct 22, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Ch.9",
-    "type": "prep",
-    "due": "2026-10-22T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 9 of the LLH textbook.",
-    "note": ""
-   },
-   {
-    "title": "10 | Problem set",
-    "type": "assignment",
-    "due": "2026-10-22T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1372/quizzes/6104",
-    "summary": "Complete the problem set analyzing Starbucks's financial statements and ratios.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1372/modules/items/27537": {
-  "updated_at": "2026-10-25T09:07:36Z",
-  "kind": "page",
-  "course": "FA",
-  "title": "Class 11 |1245-1445, Mon, Oct 26, 2026",
-  "items": [
-   {
-    "title": "Prep: LLH Ch.11",
-    "type": "prep",
-    "due": "2026-10-26T12:45:00+09:00",
-    "url": null,
-    "summary": "Read LLH Chapter 11 before class.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/modules/items/27903": {
-  "updated_at": "2026-10-01T04:41:01Z",
-  "kind": "page",
-  "course": "MK",
-  "title": "SESSION 4 | Product | Aqualisa",
-  "items": [
-   {
-    "title": "Prep: Marketing Reading: Product Policy (HBS 8208)",
-    "type": "prep",
-    "due": "2026-10-01T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the recommended marketing reading on product policy.",
-    "note": "optional"
-   },
-   {
-    "title": "Prep: Aqualisa Quartz: Simply a Better Shower (HBS 502030)",
-    "type": "prep",
-    "due": "2026-10-01T09:45:00+09:00",
-    "url": null,
-    "summary": "Read the Aqualisa Quartz case to prepare for the session.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27558": {
-  "updated_at": "2026-10-21T16:40:19Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Monetary Policy and Policy Diagnosis",
-  "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599": {
   "updated_at": "2026-10-27T23:54:56Z",
@@ -2018,50 +644,11 @@
   "title": "Session 5  Weekly Reflection",
   "summary": "Submit weekly reflection using the provided template by Tuesday."
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1374/modules/items/27559": {
-  "updated_at": "2026-11-02T14:58:26Z",
-  "kind": "page",
-  "course": "ECON",
-  "title": "Japan in a Boardroom Briefing/Open Q&A Session",
-  "items": [
-   {
-    "title": "Prep: \"How to Fight Inflation: March 2022 FOMC Meeting\" case",
-    "type": "prep",
-    "due": "2026-10-27T12:45:00+09:00",
-    "url": null,
-    "summary": "Purchase and read the HBP case on the March 2022 FOMC meeting to fight inflation.",
-    "note": ""
-   },
-   {
-    "title": "Prep: FOMC Meeting case accompanying Excel file",
-    "type": "prep",
-    "due": "2026-10-27T12:45:00+09:00",
-    "url": null,
-    "summary": "Review the accompanying Excel file containing relevant economic data for the case.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Powell Speech at Jackson Hole 2021",
-    "type": "prep",
-    "due": "2026-10-27T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1374/files/138703",
-    "summary": "Read Powell's Jackson Hole 2021 speech and compare it with the FOMC meeting case.",
-    "note": ""
-   }
-  ]
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918": {
   "updated_at": "2026-10-28T02:57:35Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "MID-TERM EXAM",
-  "summary": ""
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1371/assignments/9921": {
-  "updated_at": "2026-10-31T05:40:57Z",
-  "kind": "canvas_item",
-  "course": "MK",
-  "title": "Class Participation",
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28319": {
@@ -2125,5 +712,334 @@
   "course": "IW",
   "title": "[F26-27] IW Session 7 Pre-session survey",
   "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9909": {
+  "updated_at": "2026-10-22T08:31:14Z",
+  "kind": "canvas_item",
+  "course": "DAB",
+  "title": "Test Survey",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9910": {
+  "updated_at": "2026-10-22T08:37:20Z",
+  "kind": "canvas_item",
+  "course": "DAB",
+  "title": "Freemark Abbey Winery Online Poll",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9911": {
+  "updated_at": "2026-10-23T02:54:03Z",
+  "kind": "canvas_item",
+  "course": "DAB",
+  "title": "Merck & Company Online Poll",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912": {
+  "updated_at": "2026-10-23T02:53:25Z",
+  "kind": "canvas_item",
+  "course": "DAB",
+  "title": "Emergency Vehicle Positioning, Inc. Online Poll",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules": {
+  "updated_at": "| 1 | 2026 NOV 06 Fri, 12:45 - 14:45\n| 2 | 2026 NOV 10 Tue, 12:45 - 14:45\n| 3 | 2026 NOV 17 Tue, 12:45 - 14:45\n| 4 | 2026 NOV 18 Wed, 12:45 - 14:45\n| 5 | 2026 NOV 20 Fri, 12:45 - 14:45\n| 6 | 2026 NOV 24 Tue, 12:45 - 14:45\n| 7 | 2026 NOV 27, Fri 12:45 - 14:45\n| 8 | 2026 DEC 01 Tue, 12:45 - 14:45\n| 9 | 2026 DEC 04 Fri, 12:45 - 14:45\n| 10 | 2026 DEC 10 Tue, 12:45 - 14:45\n| 11 | 2026 DEC 11 Fri, 12:45 - 14:45\n| 12 | 2026 DEC 15 Tue, 09:00 - 13:00\nExcel Short-Cuts and \"Data Table\" for Sensitivity Analysis and Simulation",
+  "kind": "page",
+  "course": "CF",
+  "title": "Module outline",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28344": {
+  "updated_at": "2026-11-03T14:41:09Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 1 | Course Introduction and DCF Basics",
+  "items": [
+   {
+    "title": "Prep: BMAE Textbook Ch.2 & 3",
+    "type": "prep",
+    "due": "2026-11-06T12:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapters 2 and 3 of the assigned textbook BMAE.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/modules": {
+  "updated_at": "MODULE 0 | INTRODUCTION TO DAB\n| 1 | 2026-11-05 | THU | 09:45-11:45 |\nMODULE 1 | RISK MANAGEMENT\n| 2 | 2026-11-09 | MON | 09:45-11:45 |\n| 3 | 2026-11-12 | THU | 09:45-11:45 |\nMODULE 2 | DATA ANALYTICS",
+  "kind": "page",
+  "course": "DAB",
+  "title": "Module outline",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28300": {
+  "updated_at": "2026-10-23T02:42:07Z",
+  "kind": "page",
+  "course": "DAB",
+  "title": "SESSION 1 | Course Overview",
+  "items": [
+   {
+    "title": "Prep: Case – Freemark Abbey Winery (Abridged)",
+    "type": "prep",
+    "due": "2026-11-05T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Freemark Abbey Winery (Abridged) case (606004) and be ready to discuss it.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Quantitative Methods online course – Decision Analysis",
+    "type": "prep",
+    "due": "2026-11-05T09:45:00+09:00",
+    "url": null,
+    "summary": "Review Decision Analysis sections: Introduction, Decision Trees, Comparing the Outcomes.",
+    "note": ""
+   },
+   {
+    "title": "Prep: SilverDecisions video tutorial (3:45)",
+    "type": "prep",
+    "due": "2026-11-05T09:45:00+09:00",
+    "url": "https://www.youtube.com/watch?v=laU_URuIVMg",
+    "summary": "Watch the SilverDecisions video tutorial.",
+    "note": ""
+   },
+   {
+    "title": "Freemark Abbey Winery Online Poll",
+    "type": "assignment",
+    "due": "2026-11-05T07:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9910",
+    "summary": "Complete the Freemark Abbey Winery online poll before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28308": {
+  "updated_at": "2026-10-23T02:43:30Z",
+  "kind": "page",
+  "course": "DAB",
+  "title": "SESSION 2 | Evaluating Alternatives Under Uncertainty | Merck & Company",
+  "items": [
+   {
+    "title": "Prep: Case – Merck & Company: Evaluating a Drug Licensing Opportunity",
+    "type": "prep",
+    "due": "2026-11-09T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Merck & Company case (201023) and be ready to discuss it.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Quantitative Methods online course – Decision Analysis and Decision Analysis II",
+    "type": "prep",
+    "due": "2026-11-09T09:45:00+09:00",
+    "url": null,
+    "summary": "Review Decision Analysis sections and Decision Analysis II > Conditional Probabilities.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Quantitative Methods examples – S&C Films and Eris Shoe Company",
+    "type": "prep",
+    "due": "2026-11-12T09:45:00+09:00",
+    "url": null,
+    "summary": "Review these examples on sensitivity analysis and value of information before Session 3 if concepts are new.",
+    "note": ""
+   },
+   {
+    "title": "Merck & Company Online Poll",
+    "type": "assignment",
+    "due": "2026-11-09T07:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9911",
+    "summary": "Complete the Merck & Company online poll before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310": {
+  "updated_at": "2026-10-23T02:55:05Z",
+  "kind": "page",
+  "course": "DAB",
+  "title": "SESSION 3 | Risk Management | Emergency Vehicle Positioning, Inc.",
+  "items": [
+   {
+    "title": "Prep: Case – Emergency Vehicle Positioning, Inc.",
+    "type": "prep",
+    "due": "2026-11-12T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Emergency Vehicle Positioning, Inc. case (UV0359) and be ready to discuss it.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Quantitative Methods online course – Sensitivity Analysis and Value of Information",
+    "type": "prep",
+    "due": "2026-11-12T09:45:00+09:00",
+    "url": null,
+    "summary": "Review Sensitivity Analysis and The Value of Information sections of the online course.",
+    "note": ""
+   },
+   {
+    "title": "Emergency Vehicle Positioning, Inc. Online Poll",
+    "type": "assignment",
+    "due": "2026-11-12T07:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912",
+    "summary": "Complete the Emergency Vehicle Positioning online poll before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1383/modules": {
+  "updated_at": "MODULE 1 | Preparation for Business Analysis\nMODULE 2 | Financial Statement Analysis\nMODULE 3 | Prospective Analysis\nMODULE 4 | Valuation Application\nFinal Exam",
+  "kind": "page",
+  "course": "FAV",
+  "title": "Module outline",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27673": {
+  "updated_at": "2026-11-03T01:39:50Z",
+  "kind": "page",
+  "course": "FAV",
+  "title": "Class 01 |1500-1700, Thu, Nov 5, 2026",
+  "items": [
+   {
+    "title": "Complete Company A ratio questions in notebook and bring to class",
+    "type": "task",
+    "due": "2026-11-05T15:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1383/files/138685",
+    "summary": "Answer Questions 1-3 on Company A independently in a physical notebook and bring it.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27674": {
+  "updated_at": "2026-11-03T01:43:10Z",
+  "kind": "page",
+  "course": "FAV",
+  "title": "Class 02 |1500-1700, Mon, Nov 9, 2026",
+  "items": [
+   {
+    "title": "Prep: Euro Disney case discussion questions",
+    "type": "prep",
+    "due": "2026-11-09T15:00:00+09:00",
+    "url": null,
+    "summary": "Prepare the Euro Disney case questions on accounting policies, incentives and red flags.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27675": {
+  "updated_at": "2026-11-03T01:43:11Z",
+  "kind": "page",
+  "course": "FAV",
+  "title": "Class 03 |1500-1700, Thu, Nov 12, 2026",
+  "items": [
+   {
+    "title": "Prep: Alibaba case",
+    "type": "prep",
+    "due": "2026-11-12T15:00:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1472269",
+    "summary": "Read the Alibaba case and prepare answers to the four discussion questions.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27684": {
+  "updated_at": "2026-10-25T09:17:14Z",
+  "kind": "page",
+  "course": "FAV",
+  "title": "Final exam | 1400-1800, Mon, Dec 14, 2026",
+  "items": [
+   {
+    "title": "Final exam",
+    "type": "exam",
+    "due": "2026-12-14T14:00:00+09:00",
+    "url": null,
+    "summary": "Final exam covering Classes 1-11; only pens, eraser and calculators allowed.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules": {
+  "updated_at": "Module 1: Industry-level perspectives\nModule 2: Business-level perspectives\nModule 3: Organizational-level perspectives\nGroup presentations\nFINAL EXAM | 2026-12-16 | WED | 09:00-13:00",
+  "kind": "page",
+  "course": "ST",
+  "title": "Module outline",
+  "items": [
+   {
+    "title": "Final Exam",
+    "type": "exam",
+    "due": "2026-12-16T09:00:00+09:00",
+    "url": null,
+    "summary": "Take the final exam.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28328": {
+  "updated_at": "2026-11-03T07:45:08Z",
+  "kind": "page",
+  "course": "ST",
+  "title": "1 | 2026-11-06 FRI  | 0945-1145 | Introduction to strategy",
+  "items": [
+   {
+    "title": "Prep: Grant Ch.1 and Ch.2 (selected sub-sections)",
+    "type": "prep",
+    "due": "2026-11-06T09:45:00+09:00",
+    "url": null,
+    "summary": "Read Grant Chapter 1 and the specified sub-sections of Chapter 2.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case – Space X: Revolutionizing the Space Industry",
+    "type": "prep",
+    "due": "2026-11-06T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Space X case (Grant pp. 319-323) and come prepared to discuss.",
+    "note": ""
+   },
+   {
+    "title": "Prep: SpaceX IPO filing article",
+    "type": "prep",
+    "due": "2026-11-06T09:45:00+09:00",
+    "url": "https://www.satellitetoday.com/finance/2026/05/20/spacexs-ipo-filing-gives-first-look-into-companys-financials/",
+    "summary": "Additional reading on SpaceX's IPO filing.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules": {
+  "updated_at": "MODULE 1 | INTRODUCTION\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS \nMODULE 3 | OPERATING MODELS\nMODULE 3 | OPERATING MODELS\nMODULE 3 | OPERATING MODELS\nMODULE 4 | OPERATIONS SCOPE & STRUCTURE\nMODULE 4 | OPERATIONS SCOPE & STRUCTURE\n| FINAL EXAMINATION | 2026-12-17 | THU | 09:00 - 13:00",
+  "kind": "page",
+  "course": "TOM",
+  "title": "Module outline",
+  "items": [
+   {
+    "title": "Final Examination",
+    "type": "exam",
+    "due": "2026-12-17T09:00:00+09:00",
+    "url": null,
+    "summary": "Take the final examination.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28323": {
+  "updated_at": "2026-11-03T13:16:51Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 1 | Introduction | Benihana of Tokyo",
+  "items": [
+   {
+    "title": "Prep: Case – Benihana of Tokyo",
+    "type": "prep",
+    "due": null,
+    "url": null,
+    "summary": "Read the case (673057), analyze Benihana's operation, and prepare the discussion questions.",
+    "note": "time TBD"
+   },
+   {
+    "title": "Prep: Benihana YouTube video",
+    "type": "prep",
+    "due": null,
+    "url": "http://www.youtube.com/watch?v=_v6HX7E3wB0&feature=fvw",
+    "summary": "Watch the Benihana chef performance video.",
+    "note": "time TBD"
+   }
+  ]
  }
 }
