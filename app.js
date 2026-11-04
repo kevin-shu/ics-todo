@@ -7,7 +7,8 @@ const checked = (id) => { try { return localStorage.getItem("done:" + id) === "1
 const setChecked = (id, v) => { try { v ? localStorage.setItem("done:" + id, "1") : localStorage.removeItem("done:" + id); } catch {} };
 
 // 篩選狀態：hidden = 被隱藏的課程代碼、optional = 是否顯示 optional 項目；存在本機瀏覽器，預設全顯示
-const COURSES = ["MK", "FA", "OB", "ECON", "LD", "MBAE", "IW", "NJM"];
+// 進行中的課程在前，已結束的課程（仍保留舊項目）在後
+const COURSES = ["CF", "DAB", "FAV", "ST", "TOM", "LD", "MBAE", "IW", "MK", "FA", "OB", "ECON", "NJM"];
 let filter = { hidden: [], optional: true };
 try { filter = { ...filter, ...JSON.parse(localStorage.getItem("filter")) }; } catch {}
 const saveFilter = () => { try { localStorage.setItem("filter", JSON.stringify(filter)); } catch {} };

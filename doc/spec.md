@@ -2,18 +2,25 @@
 
 ## 目的
 
-每天自動從 ICS Canvas（`https://canvas.ics.hit-u.ac.jp`）抓取 MK、FA、OB、ECON、LD、MBAE、IW、NJM 八門課中「學生需要做的事」（作業、quiz、考試、預習），連同 deadline 顯示在 GitHub Pages 網頁上。
+每天自動從 ICS Canvas（`https://canvas.ics.hit-u.ac.jp`）抓取 LD、MBAE、IW、CF、DAB、FAV、ST、TOM 八門課中「學生需要做的事」（作業、quiz、考試、預習），連同 deadline 顯示在 GitHub Pages 網頁上。
 
-| 代號 | Course ID |
-|---|---|
-| MK | 1371 |
-| FA | 1372 |
-| OB | 1373 |
-| ECON | 1374 |
-| LD | 1387 |
-| MBAE | 1267 |
-| IW | 1377 |
-| NJM | 1378 |
+| 代號 | Course ID | 狀態 |
+|---|---|---|
+| LD | 1387 | 追蹤中 |
+| MBAE | 1267 | 追蹤中 |
+| IW | 1377 | 追蹤中 |
+| CF | 1382 | 追蹤中 |
+| DAB | 1379 | 追蹤中 |
+| FAV | 1383 | 追蹤中 |
+| ST | 1381 | 追蹤中 |
+| TOM | 1380 | 追蹤中 |
+| MK | 1371 | 已結束 |
+| FA | 1372 | 已結束 |
+| OB | 1373 | 已結束 |
+| ECON | 1374 | 已結束 |
+| NJM | 1378 | 已結束 |
+
+追蹤中的課程列在 `scripts/fetch.py` 的 `COURSES`；已結束的課程不再抓取，但其舊項目保留在網頁上（見 data.json 的「保留已結束課程」）。
 
 ## 架構
 
@@ -29,7 +36,7 @@
 
 ## 資料來源
 
-1. **結構化項目**：Planner API `GET /api/v1/planner/items?start_date=<今天-14天>`，只保留上述 4 門課，且 `plannable_type` 為 `assignment` / `quiz` / `discussion_topic`（排除公告）。**不使用**繳交狀態：網頁公開且供同學共用，完成與否由每位使用者自行勾選。
+1. **結構化項目**：Planner API `GET /api/v1/planner/items?start_date=<今天-14天>`，只保留追蹤中的課程，且 `plannable_type` 為 `assignment` / `quiz` / `discussion_topic`（排除公告）。**不使用**繳交狀態：網頁公開且供同學共用，完成與否由每位使用者自行勾選。
 2. **非結構化項目**：預習、只寫在頁面中的作業與考試。來源為各課 Modules 中的 Page 內文，以及每門課的「Module 大綱」虛擬頁面（所有 Module 名稱，用來抓只寫在 Module 名稱的考試）。
    - Canvas 網址的 `verifier` 參數會被移除（它可讓人免登入下載檔案，而網頁是公開的），連結需登入 Canvas 才能開啟。
    - 頁面內文的超連結轉成 `[文字](URL)` 交給 page-extractor，用來取得每個待辦資源本身的連結；預習**每個資源各一筆**。
@@ -59,6 +66,7 @@
 - `id`：Canvas 項目為 `canvas:<type>:<plannable_id>`；頁面項目為 `page:<page_url>#<正規化標題>`。
 - 去重：頁面抽出的項目（不論類型）若與同課 Canvas 項目標題（小寫英數字）互相包含，丟棄頁面那筆；多個頁面抽出同課同標題的項目只留一筆。
 - `first_seen`：沿用上一版 `data.json`，新項目為本次執行時間。
+- 保留已結束課程：上一版 `data.json` 中 `course` 不在 `fetch.py` 的 `COURSES` 內的項目，原樣併入新版（不再更新）。
 
 ## 網頁顯示規則（app.js）
 
@@ -71,7 +79,7 @@
 - `first_seen` 在 24 小時內顯示 NEW。
 - `generated_at` 超過 36 小時（每日排程失敗，如 token 過期）時，頁首顯示「Data not updated since … — may be outdated.」警告。
 - 圖示：`icons/`（favicon 32、apple-touch-icon 180、manifest 用 512），由 ICS logo 補白成正方形後以 `sips` 產生；`manifest.webmanifest` 供 Android 加到主畫面。
-- 篩選列（To do / Past 同時套用）：八門課各一顆 chip，點擊切換顯示/隱藏（灰色＝隱藏），`All` / `None` 一次全開/全關；`Show optional` 核取方塊控制 `note` 為 `optional` 的項目。預設全顯示。狀態存在 localStorage（`filter`：`{hidden, optional}`）。
+- 篩選列（To do / Past 同時套用）：每門課（含已結束）各一顆 chip，進行中在前，點擊切換顯示/隱藏（灰色＝隱藏），`All` / `None` 一次全開/全關；`Show optional` 核取方塊控制 `note` 為 `optional` 的項目。預設全顯示。狀態存在 localStorage（`filter`：`{hidden, optional}`）。
 - 勾選狀態存在瀏覽器 localStorage（`done:<id>`），只在該瀏覽器有效。
 - 時間一律 JST，格式 `Tue 9/22 09:45`；`time TBD` 顯示為 `Tue 9/22 · before class`。
 

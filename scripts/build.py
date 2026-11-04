@@ -4,6 +4,8 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+from fetch import COURSES
+
 ROOT = Path(__file__).resolve().parent.parent
 WORK = ROOT / "work"
 CACHE = ROOT / "data" / "page_cache.json"
@@ -67,9 +69,13 @@ def build(cache):
                 "source": "page",
             })
 
+    old = load(OUT, {"items": []})["items"]
+    # 已結束（不在 COURSES 中）的課程不再抓取，沿用上一版的項目讓舊待辦留在網頁上
+    items += [i for i in old if i["course"] not in COURSES.values()]
+
     # 沿用上一版的 first_seen，新項目記錄為現在時間（網頁據此顯示 NEW）
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    seen = {i["id"]: i["first_seen"] for i in load(OUT, {"items": []})["items"]}
+    seen = {i["id"]: i["first_seen"] for i in old}
     for i in items:
         i["first_seen"] = seen.get(i["id"], now)
     OUT.write_text(json.dumps({"generated_at": now, "items": items}, ensure_ascii=False, indent=1))
