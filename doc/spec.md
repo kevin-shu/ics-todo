@@ -20,7 +20,7 @@
 | ECON | 1374 | 已結束 |
 | NJM | 1378 | 已結束 |
 
-追蹤中的課程列在 `scripts/fetch.py` 的 `COURSES`；已結束的課程不再抓取，但其舊項目保留在網頁上（見 data.json 的「保留已結束課程」）。
+追蹤中的課程列在 `scripts/fetch.py` 的 `COURSES`；已結束的課程不再抓取，但其舊項目保留在網頁上（見 data.json 的「保留舊項目」）。
 
 ## 架構
 
@@ -66,7 +66,7 @@
 - `id`：Canvas 項目為 `canvas:<type>:<plannable_id>`；頁面項目為 `page:<page_url>#<正規化標題>`。
 - 去重：頁面抽出的項目（不論類型）若與同課 Canvas 項目標題（小寫英數字）互相包含，丟棄頁面那筆；多個頁面抽出同課同標題的項目只留一筆。
 - `first_seen`：沿用上一版 `data.json`，新項目為本次執行時間。
-- 保留已結束課程：上一版 `data.json` 中 `course` 不在 `fetch.py` 的 `COURSES` 內的項目，原樣併入新版（不再更新）。
+- 保留舊項目：上一版 `data.json` 中本次沒產生的項目，若 `course` 不在 `fetch.py` 的 `COURSES` 內（已結束課程），或 `source` 為 `canvas`（截止超過 14 天、Planner 不再回傳），原樣併入新版（不再更新）。
 
 ## 網頁顯示規則（app.js）
 

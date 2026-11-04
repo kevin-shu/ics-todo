@@ -6,6 +6,7 @@
 - 網頁：https://kevin-shu.github.io/ics-todo/（GitHub Pages，main 根目錄）。
 - 本機預覽：`python3 -m http.server` 後開 `http://localhost:8000/`。
 - 新增課程：改 `scripts/fetch.py` 的 `COURSES`，並同步 `index.html` 的 `--<代號>` 顏色變數（缺了會白底白字）、`page-extractor.md` 與 `SKILL.md` 的課程名單、雲端 routine 的 prompt。
+- 課程結束：從 `COURSES` 移除即可，`build.py` 會沿用上一版 `data.json` 中該課的項目（不再更新）；截止超過 14 天、Planner 不再回傳的 Canvas 作業也同樣沿用；`app.js` 的 `COURSES` 要保留該代號，才能篩選。
 
 ## 遇到的問題
 - 課程頁面沒有 Canvas 的 to-do date，預習只寫在 Page 內文 → 交給 page-extractor（page-extractor）判讀，並以 `updated_at` 快取，只讀有變動的頁面。

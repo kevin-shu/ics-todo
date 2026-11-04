@@ -70,8 +70,10 @@ def build(cache):
             })
 
     old = load(OUT, {"items": []})["items"]
-    # 已結束（不在 COURSES 中）的課程不再抓取，沿用上一版的項目讓舊待辦留在網頁上
-    items += [i for i in old if i["course"] not in COURSES.values()]
+    # 沿用上一版的項目，讓舊待辦留在網頁上：已結束（不在 COURSES 中）課程的所有項目，
+    # 以及截止超過 14 天、Planner 不再回傳的 Canvas 項目
+    ids = {i["id"] for i in items}
+    items += [i for i in old if i["id"] not in ids and (i["course"] not in COURSES.values() or i["source"] == "canvas")]
 
     # 沿用上一版的 first_seen，新項目記錄為現在時間（網頁據此顯示 NEW）
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
