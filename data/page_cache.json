@@ -645,7 +645,7 @@
   "summary": "Submit weekly reflection using the provided template by Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918": {
-  "updated_at": "2026-10-28T02:57:35Z",
+  "updated_at": "2026-11-04T09:46:12Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "MID-TERM EXAM",
@@ -891,33 +891,33 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27673": {
-  "updated_at": "2026-11-03T01:39:50Z",
+  "updated_at": "2026-11-04T06:57:01Z",
   "kind": "page",
   "course": "FAV",
   "title": "Class 01 |1500-1700, Thu, Nov 5, 2026",
   "items": [
    {
-    "title": "Complete Company A ratio questions in notebook and bring to class",
-    "type": "task",
+    "title": "Prep: Company A Financial Data (Before Class Assignment)",
+    "type": "prep",
     "due": "2026-11-05T15:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1383/files/138685",
-    "summary": "Answer Questions 1-3 on Company A independently in a physical notebook and bring it.",
+    "summary": "Compute financial ratios for Company A and answer the given analysis questions before class.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27674": {
-  "updated_at": "2026-11-03T01:43:10Z",
+  "updated_at": "2026-11-04T07:00:12Z",
   "kind": "page",
   "course": "FAV",
   "title": "Class 02 |1500-1700, Mon, Nov 9, 2026",
   "items": [
    {
-    "title": "Prep: Euro Disney case discussion questions",
+    "title": "Prep: Euro Disney Case",
     "type": "prep",
     "due": "2026-11-09T15:00:00+09:00",
     "url": null,
-    "summary": "Prepare the Euro Disney case questions on accounting policies, incentives and red flags.",
+    "summary": "Read the Euro Disney case and prepare answers to the discussion questions on earnings management.",
     "note": ""
    }
   ]

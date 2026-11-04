@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T02:10:22+00:00",
+ "generated_at": "2026-11-04T10:10:03+00:00",
  "items": [
   {
    "id": "canvas:quiz:6260",
@@ -801,32 +801,32 @@
    "first_seen": "2026-11-04T02:10:22+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27673#completecompanyaratioquestionsinnotebookandbringtoclass",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27673#prepcompanyafinancialdatabeforeclassassignment",
    "course": "FAV",
-   "title": "Complete Company A ratio questions in notebook and bring to class",
-   "type": "task",
+   "title": "Prep: Company A Financial Data (Before Class Assignment)",
+   "type": "prep",
    "due": "2026-11-05T15:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1383/files/138685",
-   "summary": "Answer Questions 1-3 on Company A independently in a physical notebook and bring it.",
+   "summary": "Compute financial ratios for Company A and answer the given analysis questions before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27673",
    "source_title": "Class 01 |1500-1700, Thu, Nov 5, 2026",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-04T02:10:22+00:00"
+   "first_seen": "2026-11-04T10:10:03+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27674#prepeurodisneycasediscussionquestions",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27674#prepeurodisneycase",
    "course": "FAV",
-   "title": "Prep: Euro Disney case discussion questions",
+   "title": "Prep: Euro Disney Case",
    "type": "prep",
    "due": "2026-11-09T15:00:00+09:00",
    "url": null,
-   "summary": "Prepare the Euro Disney case questions on accounting policies, incentives and red flags.",
+   "summary": "Read the Euro Disney case and prepare answers to the discussion questions on earnings management.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27674",
    "source_title": "Class 02 |1500-1700, Mon, Nov 9, 2026",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-04T02:10:22+00:00"
+   "first_seen": "2026-11-04T10:10:03+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27675#prepalibabacase",
