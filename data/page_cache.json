@@ -542,13 +542,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6260": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "IW",
-  "title": "[F 26-27] IW Session 5 Pre-session survey",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27598": {
   "updated_at": "2026-10-21T14:58:13Z",
   "kind": "page",
@@ -683,17 +676,17 @@
   "summary": "Submit weekly reflection using the provided template by Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600": {
-  "updated_at": "2026-11-01T15:59:01Z",
+  "updated_at": "2026-11-04T15:02:04Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 4 NOVEMBER 2026 | SESSION 7 | THE ART OF PERSUASION: WRITING FOR INFLUENCE",
   "items": [
    {
-    "title": "Prep: Pearson sales drop 4% in the first quarter",
+    "title": "Prep: Katherine Cowdrey, \"Pearson sales drop 4% in the first quarter\"",
     "type": "prep",
     "due": "2026-11-04T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/138699",
-    "summary": "Read the article about Pearson's sales drop in the first quarter.",
+    "summary": "Read the Bookseller article about Pearson's quarterly sales drop.",
     "note": ""
    },
    {
@@ -701,7 +694,15 @@
     "type": "task",
     "due": "2026-11-04T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6303",
-    "summary": "Complete the pre-session survey, available from Monday 2 November 2026.",
+    "summary": "Complete the pre-session survey before class.",
+    "note": ""
+   },
+   {
+    "title": "Post-session assignment submission space",
+    "type": "assignment",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925",
+    "summary": "Submit the post-session assignment on writing for influence.",
     "note": ""
    }
   ]
@@ -721,7 +722,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9910": {
-  "updated_at": "2026-10-22T08:37:20Z",
+  "updated_at": "2026-11-05T00:14:08Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Freemark Abbey Winery Online Poll",
@@ -749,7 +750,7 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28344": {
-  "updated_at": "2026-11-03T14:41:09Z",
+  "updated_at": "2026-11-04T10:33:46Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 1 | Course Introduction and DCF Basics",
@@ -772,29 +773,29 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28300": {
-  "updated_at": "2026-10-23T02:42:07Z",
+  "updated_at": "2026-11-05T03:00:34Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 1 | Course Overview",
   "items": [
    {
-    "title": "Prep: Case – Freemark Abbey Winery (Abridged)",
+    "title": "Prep: Freemark Abbey Winery (Abridged) Case",
     "type": "prep",
     "due": "2026-11-05T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Freemark Abbey Winery (Abridged) case (606004) and be ready to discuss it.",
+    "summary": "Read the Freemark Abbey Winery (Abridged) case before class.",
     "note": ""
    },
    {
-    "title": "Prep: Quantitative Methods online course – Decision Analysis",
+    "title": "Prep: Harvard Business Impact Quantitative Methods – Decision Analysis sections",
     "type": "prep",
     "due": "2026-11-05T09:45:00+09:00",
     "url": null,
-    "summary": "Review Decision Analysis sections: Introduction, Decision Trees, Comparing the Outcomes.",
+    "summary": "Review the Decision Analysis, Decision Trees, and Comparing the Outcomes sections.",
     "note": ""
    },
    {
-    "title": "Prep: SilverDecisions video tutorial (3:45)",
+    "title": "Prep: SilverDecisions Video Tutorial (3:45)",
     "type": "prep",
     "due": "2026-11-05T09:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=laU_URuIVMg",
@@ -802,11 +803,11 @@
     "note": ""
    },
    {
-    "title": "Freemark Abbey Winery Online Poll",
-    "type": "assignment",
+    "title": "Complete Freemark Abbey Winery Online Poll",
+    "type": "task",
     "due": "2026-11-05T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9910",
-    "summary": "Complete the Freemark Abbey Winery online poll before class.",
+    "summary": "Complete the online poll on the Freemark Abbey Winery harvest decision.",
     "note": ""
    }
   ]
@@ -1003,7 +1004,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules": {
-  "updated_at": "MODULE 1 | INTRODUCTION\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS\nMODULE 2 | ANALYZING AND DESIGNING OPERATIONS \nMODULE 3 | OPERATING MODELS\nMODULE 3 | OPERATING MODELS\nMODULE 3 | OPERATING MODELS\nMODULE 4 | OPERATIONS SCOPE & STRUCTURE\nMODULE 4 | OPERATIONS SCOPE & STRUCTURE\n| FINAL EXAMINATION | 2026-12-17 | THU | 09:00 - 13:00",
+  "updated_at": "MODULE 1 | INTRODUCTION | November 5 \nMODULE 2 | PROCESS ANALYSIS | November 9~23\nMODULE 3 | OPERATING MODELS\nMODULE 4 | OPERATIONS SCOPE & STRUCTURE\n| FINAL EXAMINATION | 2026-12-17 | THU | 09:00 - 13:00",
   "kind": "page",
   "course": "TOM",
   "title": "Module outline",
@@ -1019,26 +1020,160 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28323": {
-  "updated_at": "2026-11-03T13:16:51Z",
+  "updated_at": "2026-11-05T05:38:43Z",
   "kind": "page",
   "course": "TOM",
-  "title": "SESSION 1 | Introduction | Benihana of Tokyo",
+  "title": "SESSION 1 | Introduction | Benihana of Tokyo | November 5 (12:45-14:45)",
   "items": [
    {
-    "title": "Prep: Case – Benihana of Tokyo",
+    "title": "Prep: \"Benihana of Tokyo\" Case",
     "type": "prep",
-    "due": null,
+    "due": "2026-11-05T12:45:00+09:00",
     "url": null,
-    "summary": "Read the case (673057), analyze Benihana's operation, and prepare the discussion questions.",
-    "note": "time TBD"
+    "summary": "Read the Benihana of Tokyo case before class.",
+    "note": ""
    },
    {
-    "title": "Prep: Benihana YouTube video",
+    "title": "Prep: Benihana YouTube Video",
     "type": "prep",
-    "due": null,
-    "url": "http://www.youtube.com/watch?v=_v6HX7E3wB0&feature=fvw",
-    "summary": "Watch the Benihana chef performance video.",
-    "note": "time TBD"
+    "due": "2026-11-05T12:45:00+09:00",
+    "url": "https://ics.manaba.jp/ct/link_cushion?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_v6HX7E3wB0%26feature%3Dfvw",
+    "summary": "Watch the YouTube video of a Benihana chef performance.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925": {
+  "updated_at": "2026-11-05T00:24:58Z",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW Session 7 Post-session assignment",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304": {
+  "updated_at": "67d42d751c06c853b2caa2eb5608c041",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW Session 8 Pre-session quiz",
+  "summary": "Judge whether each example communication would be seen as helpful or not."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27601": {
+  "updated_at": "2026-11-04T15:16:48Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 11  NOVEMBER 2026 | SESSION 8 | WHAT'S IT WORTH? FEEDBACK, ASSESSMENT AND EVALUATION",
+  "items": [
+   {
+    "title": "Complete pre-session quiz",
+    "type": "task",
+    "due": "2026-11-11T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304",
+    "summary": "Complete the pre-session quiz on helpful vs. unhelpful communication.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28324": {
+  "updated_at": "2026-11-04T20:37:46Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 2 | Process design | Process Fundamentals | November 9 (12:45-14:45)",
+  "items": [
+   {
+    "title": "Prep: \"Process Fundamentals\" Note",
+    "type": "prep",
+    "due": "2026-11-09T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the Note on Process Fundamentals before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354": {
+  "updated_at": "2026-11-04T20:37:54Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 3 | Job shop and HRM system | Fabritek | November 12 (12:45-14:45)",
+  "items": [
+   {
+    "title": "Prep: Fabritek Case",
+    "type": "prep",
+    "due": "2026-11-12T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the Fabritek case, including the footnote in Exhibit 2.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Milling Video",
+    "type": "prep",
+    "due": "2026-11-12T12:45:00+09:00",
+    "url": "http://www.youtube.com/watch?v=U99asuDT97I&NR=1",
+    "summary": "Watch the YouTube video on milling.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Drilling Video",
+    "type": "prep",
+    "due": "2026-11-12T12:45:00+09:00",
+    "url": "http://www.youtube.com/watch?v=om6GQKfoS1g",
+    "summary": "Watch the YouTube video on drilling.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Grinding Video",
+    "type": "prep",
+    "due": "2026-11-12T12:45:00+09:00",
+    "url": "http://www.youtube.com/watch?v=kYUdmtz1__k",
+    "summary": "Watch the YouTube video on grinding.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355": {
+  "updated_at": "2026-11-04T20:38:02Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
+  "items": [
+   {
+    "title": "Prep: Toshiba Ome Works Case",
+    "type": "prep",
+    "due": "2026-11-16T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the Toshiba Ome Works case before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: \"I Love Lucy\" Video",
+    "type": "prep",
+    "due": "2026-11-16T12:45:00+09:00",
+    "url": "https://www.youtube.com/watch?v=pGRj-A8rKxw",
+    "summary": "Watch the 'I Love Lucy' chocolate scene video on line operations.",
+    "note": ""
+   },
+   {
+    "title": "Prep: \"Charlie Chaplin's Modern Times\" Video",
+    "type": "prep",
+    "due": "2026-11-16T12:45:00+09:00",
+    "url": "https://www.youtube.com/watch?v=DfGs2Y5WJ14",
+    "summary": "Watch the Charlie Chaplin factory work video on line operations.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28356": {
+  "updated_at": "2026-11-05T08:22:11Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 5 | Line vs. cellular operation | Doré-Doré | November 20 (9:45-11:45)",
+  "items": [
+   {
+    "title": "Prep: Doré-Doré Case",
+    "type": "prep",
+    "due": "2026-11-20T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Doré-Doré case, focusing on the children's knitwear operation only.",
+    "note": ""
    }
   ]
  }
