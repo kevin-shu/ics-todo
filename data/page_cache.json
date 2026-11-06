@@ -733,17 +733,17 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28344": {
-  "updated_at": "2026-11-04T10:33:46Z",
+  "updated_at": "2026-11-06T15:57:31Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 1 | Course Introduction and DCF Basics",
   "items": [
    {
-    "title": "Prep: BMAE Textbook Ch.2 & 3",
+    "title": "Prep: BMAE Chapter 2 & 3",
     "type": "prep",
     "due": "2026-11-06T12:45:00+09:00",
     "url": null,
-    "summary": "Read Chapters 2 and 3 of the assigned textbook BMAE.",
+    "summary": "Read BMAE textbook Chapters 2 and 3.",
     "note": ""
    }
   ]
@@ -1027,7 +1027,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925": {
-  "updated_at": "2026-11-05T00:24:58Z",
+  "updated_at": "2026-11-06T16:29:20Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 7 Post-session assignment",
@@ -1180,6 +1180,46 @@
     "due": "2026-11-10T09:45:00+09:00",
     "url": "https://hbsp.harvard.edu/import/1474454",
     "summary": "Download and read the case on competition between Coke and Pepsi in 2010.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404": {
+  "updated_at": "2026-11-06T11:28:58Z",
+  "kind": "page",
+  "course": "LD",
+  "title": "SESSION 7 | Leading Through Organizational Change",
+  "items": [
+   {
+    "title": "Prep: Session 7 1113 pre.pdf",
+    "type": "prep",
+    "due": "2026-11-13T00:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138853",
+    "summary": "Review the Session 7 pre-session PDF.",
+    "note": "time TBD"
+   },
+   {
+    "title": "Prep: Session 7 Part 2 GD",
+    "type": "prep",
+    "due": "2026-11-13T00:00:00+09:00",
+    "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
+    "summary": "Review the Session 7 Part 2 group discussion slides.",
+    "note": "time TBD"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405": {
+  "updated_at": "2026-11-06T15:48:18Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 2 | Investment Criteria and Investment Decisions",
+  "items": [
+   {
+    "title": "Prep: BMAE Chapter 5 & 6",
+    "type": "prep",
+    "due": "2026-11-10T12:45:00+09:00",
+    "url": null,
+    "summary": "Read BMAE textbook Chapters 5 and 6.",
     "note": ""
    }
   ]
