@@ -645,28 +645,11 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28319": {
-  "updated_at": "2026-11-02T16:14:25Z",
+  "updated_at": "2026-11-05T16:00:12Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 6 | Leadership Styles and Situational Adaptation",
-  "items": [
-   {
-    "title": "Prep: Session 6 1106 full version-5.pdf",
-    "type": "prep",
-    "due": null,
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138704",
-    "summary": "Review the pre-session material on leadership styles and situational adaptation.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Session 6 Part 2 GD",
-    "type": "prep",
-    "due": null,
-    "url": "https://docs.google.com/presentation/d/1IT3_nX97tF6snSmz2wLu-lE4kCkx3XOB15q6Nr0lGK8/edit?usp=sharing",
-    "summary": "Review the pre-session Part 2 material before the Path-Goal Theory discussion.",
-    "note": ""
-   }
-  ]
+  "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913": {
   "updated_at": "2026-11-02T01:37:08Z",
@@ -813,33 +796,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28308": {
-  "updated_at": "2026-10-23T02:43:30Z",
+  "updated_at": "2026-11-06T07:08:08Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 2 | Evaluating Alternatives Under Uncertainty | Merck & Company",
   "items": [
    {
-    "title": "Prep: Case – Merck & Company: Evaluating a Drug Licensing Opportunity",
+    "title": "Prep: Case – Merck & Company: Evaluating a Drug Licensing Opportunity (201023)",
     "type": "prep",
     "due": "2026-11-09T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Merck & Company case (201023) and be ready to discuss it.",
+    "summary": "Read the Merck & Company case on evaluating a drug licensing opportunity.",
     "note": ""
    },
    {
-    "title": "Prep: Quantitative Methods online course – Decision Analysis and Decision Analysis II",
+    "title": "Prep: HBI Quantitative Methods – Decision Analysis and Decision Analysis II",
     "type": "prep",
     "due": "2026-11-09T09:45:00+09:00",
     "url": null,
-    "summary": "Review Decision Analysis sections and Decision Analysis II > Conditional Probabilities.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Quantitative Methods examples – S&C Films and Eris Shoe Company",
-    "type": "prep",
-    "due": "2026-11-12T09:45:00+09:00",
-    "url": null,
-    "summary": "Review these examples on sensitivity analysis and value of information before Session 3 if concepts are new.",
+    "summary": "Review the Decision Analysis sections on decision trees and conditional probabilities.",
     "note": ""
    },
    {
@@ -847,8 +822,16 @@
     "type": "assignment",
     "due": "2026-11-09T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9911",
-    "summary": "Complete the Merck & Company online poll before class.",
+    "summary": "Complete the online poll about the Merck & Company case before class.",
     "note": ""
+   },
+   {
+    "title": "Prep: HBI Quantitative Methods – Sensitivity Analysis and Value of Information",
+    "type": "prep",
+    "due": "2026-11-12T09:45:00+09:00",
+    "url": null,
+    "summary": "Review the S&C Films and Eris Shoe Company examples on sensitivity analysis and value of information.",
+    "note": "optional"
    }
   ]
  },
@@ -892,17 +875,17 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27673": {
-  "updated_at": "2026-11-04T06:57:01Z",
+  "updated_at": "2026-11-05T13:54:33Z",
   "kind": "page",
   "course": "FAV",
   "title": "Class 01 |1500-1700, Thu, Nov 5, 2026",
   "items": [
    {
-    "title": "Prep: Company A Financial Data (Before Class Assignment)",
-    "type": "prep",
+    "title": "Complete financial ratio analysis exercise and bring notebook to class",
+    "type": "task",
     "due": "2026-11-05T15:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1383/files/138685",
-    "summary": "Compute financial ratios for Company A and answer the given analysis questions before class.",
+    "summary": "Compute financial ratios for Company A using the provided data and bring written answers to class.",
     "note": ""
    }
   ]
@@ -1173,6 +1156,30 @@
     "due": "2026-11-20T09:45:00+09:00",
     "url": null,
     "summary": "Read the Doré-Doré case, focusing on the children's knitwear operation only.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28329": {
+  "updated_at": "2026-11-05T10:47:22Z",
+  "kind": "page",
+  "course": "ST",
+  "title": "2 | 2026-11-10 TUE  | 0945-1145 | Industry Analysis",
+  "items": [
+   {
+    "title": "Prep: Grant, Chapter 3 – Industry Analysis: The Fundamentals",
+    "type": "prep",
+    "due": "2026-11-10T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the textbook chapter on the fundamentals of industry analysis.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case – Cola Wars Continue: Coke and Pepsi in 2010 (9-711-462)",
+    "type": "prep",
+    "due": "2026-11-10T09:45:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1474454",
+    "summary": "Download and read the case on competition between Coke and Pepsi in 2010.",
     "note": ""
    }
   ]
