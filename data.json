@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-11-06T16:33:38+00:00",
+ "generated_at": "2026-11-07T10:09:42+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9909",
-   "course": "DAB",
-   "title": "Test Survey",
-   "type": "assignment",
-   "due": "2026-10-23T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9909",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-11-04T02:10:22+00:00"
-  },
   {
    "id": "canvas:assignment:9906",
    "course": "LD",
@@ -1106,30 +1095,30 @@
    "first_seen": "2026-11-06T10:10:22+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession71113prepdf",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession7presessionpdf",
    "course": "LD",
-   "title": "Prep: Session 7 1113 pre.pdf",
+   "title": "Prep: Session 7 Pre-Session PDF",
    "type": "prep",
-   "due": "2026-11-13T00:00:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138853",
-   "summary": "Review the Session 7 pre-session PDF.",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138886",
+   "summary": "Review the pre-session PDF material before Session 7 class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
    "source_title": "SESSION 7 | Leading Through Organizational Change",
-   "note": "time TBD",
+   "note": "",
    "source": "page",
-   "first_seen": "2026-11-06T16:33:38+00:00"
+   "first_seen": "2026-11-07T10:09:42+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession7part2gd",
    "course": "LD",
    "title": "Prep: Session 7 Part 2 GD",
    "type": "prep",
-   "due": "2026-11-13T00:00:00+09:00",
+   "due": null,
    "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
-   "summary": "Review the Session 7 Part 2 group discussion slides.",
+   "summary": "Review the Part 2 pre-session slides before Session 7 class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
    "source_title": "SESSION 7 | Leading Through Organizational Change",
-   "note": "time TBD",
+   "note": "",
    "source": "page",
    "first_seen": "2026-11-06T16:33:38+00:00"
   },
@@ -1146,6 +1135,17 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-06T16:33:38+00:00"
+  },
+  {
+   "id": "canvas:assignment:9909",
+   "course": "DAB",
+   "title": "Test Survey",
+   "type": "assignment",
+   "due": "2026-10-23T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9909",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-04T02:10:22+00:00"
   },
   {
    "id": "canvas:quiz:6260",

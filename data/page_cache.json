@@ -697,13 +697,6 @@
   "title": "[F26-27] IW Session 7 Pre-session survey",
   "summary": ""
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9909": {
-  "updated_at": "2026-10-22T08:31:14Z",
-  "kind": "canvas_item",
-  "course": "DAB",
-  "title": "Test Survey",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9910": {
   "updated_at": "2026-11-05T00:14:08Z",
   "kind": "canvas_item",
@@ -1027,7 +1020,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925": {
-  "updated_at": "2026-11-06T16:29:20Z",
+  "updated_at": "2026-11-06T16:56:56Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 7 Post-session assignment",
@@ -1185,26 +1178,26 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404": {
-  "updated_at": "2026-11-06T11:28:58Z",
+  "updated_at": "2026-11-07T07:35:39Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 7 | Leading Through Organizational Change",
   "items": [
    {
-    "title": "Prep: Session 7 1113 pre.pdf",
+    "title": "Prep: Session 7 Pre-Session PDF",
     "type": "prep",
-    "due": "2026-11-13T00:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138853",
-    "summary": "Review the Session 7 pre-session PDF.",
-    "note": "time TBD"
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138886",
+    "summary": "Review the pre-session PDF material before Session 7 class.",
+    "note": ""
    },
    {
     "title": "Prep: Session 7 Part 2 GD",
     "type": "prep",
-    "due": "2026-11-13T00:00:00+09:00",
+    "due": null,
     "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
-    "summary": "Review the Session 7 Part 2 group discussion slides.",
-    "note": "time TBD"
+    "summary": "Review the Part 2 pre-session slides before Session 7 class.",
+    "note": ""
    }
   ]
  },
