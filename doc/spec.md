@@ -2,7 +2,7 @@
 
 ## 目的
 
-每天自動從 ICS Canvas（`https://canvas.ics.hit-u.ac.jp`）抓取 LD、MBAE、IW、CF、DAB、FAV、ST、TOM 八門課中「學生需要做的事」（作業、quiz、考試、預習），連同 deadline 顯示在 GitHub Pages 網頁上。
+每天自動從 ICS Canvas（`https://canvas.ics.hit-u.ac.jp`）抓取 LD、MBAE、IW、CF、DAB、ST、TOM 七門課中「學生需要做的事」（作業、quiz、考試、預習），連同 deadline 顯示在 GitHub Pages 網頁上。
 
 | 代號 | Course ID | 狀態 |
 |---|---|---|
@@ -11,7 +11,7 @@
 | IW | 1377 | 追蹤中 |
 | CF | 1382 | 追蹤中 |
 | DAB | 1379 | 追蹤中 |
-| FAV | 1383 | 追蹤中 |
+| FAV | 1383 | 已退選 |
 | ST | 1381 | 追蹤中 |
 | TOM | 1380 | 追蹤中 |
 | MK | 1371 | 已結束 |

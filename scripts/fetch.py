@@ -9,8 +9,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 BASE = "https://canvas.ics.hit-u.ac.jp"
-# 已結束的課程（MK、FA、OB、ECON、NJM）不再抓取，其舊項目由 build.py 沿用
-COURSES = {1387: "LD", 1267: "MBAE", 1377: "IW", 1382: "CF", 1379: "DAB", 1383: "FAV", 1381: "ST", 1380: "TOM"}
+# 已結束或已退選的課程（MK、FA、OB、ECON、NJM、FAV）不再抓取，其舊項目由 build.py 沿用
+COURSES = {1387: "LD", 1267: "MBAE", 1377: "IW", 1382: "CF", 1379: "DAB", 1381: "ST", 1380: "TOM"}
 # Planner 中屬於「學生要做的事」的類型（排除 announcement 等），對應取得說明文字的 API 路徑與欄位
 TODO_TYPES = {
     "assignment": ("assignments", "description"),
