@@ -23,3 +23,5 @@
 - Canvas 檔案連結帶 `verifier` 參數可免登入下載，公開網頁會外洩講義 → fetch.py 移除 verifier。git 歷史中仍有舊連結（使用者決定不清理）。
 - Quiz API 沒有 `updated_at`，新 quiz 被誤判為未變動 → 快取沒有就一定判讀，並以說明文字 md5 當版本。
 - Favicon：`sips -p 580 580 --padColor FFFFFF` 補白成正方形，再 `sips -z` 縮成各尺寸。
+- 雲端更新連續數天沒 push（網頁顯示資料過期）→ `RemoteTrigger` 的 `list_runs` / `get_run_log` 查 run log；2026-11 是退選 FAV 後 Canvas 回 403 中斷 fetch.py，從 `COURSES`、SKILL.md、page-extractor.md、routine prompt 移除即可。
+- 退選課程（如 FAV）和已結束課程不同：除了從 `COURSES` 移除，還要從 `app.js` 的 `COURSES`、`index.html` 的顏色變數移除，並一次性刪掉 `data.json` 中該課項目（否則 build.py 會一直沿用）。
