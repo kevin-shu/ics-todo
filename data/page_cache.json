@@ -630,15 +630,8 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9906": {
-  "updated_at": "2026-10-24T15:57:16Z",
-  "kind": "canvas_item",
-  "course": "LD",
-  "title": "Session 5  Weekly Reflection",
-  "summary": "Submit weekly reflection using the provided template by Tuesday."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918": {
-  "updated_at": "2026-11-04T09:46:12Z",
+  "updated_at": "2026-11-10T10:26:30Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "MID-TERM EXAM",
@@ -652,11 +645,11 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913": {
-  "updated_at": "2026-11-02T01:37:08Z",
+  "updated_at": "2026-11-11T11:42:06Z",
   "kind": "canvas_item",
   "course": "LD",
   "title": "Session 6  Weekly Reflection",
-  "summary": "Submit weekly reflection using the provided template by Tuesday."
+  "summary": "Complete the Session 6 weekly reflection using the provided template, due Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600": {
   "updated_at": "2026-11-04T15:02:04Z",
@@ -705,7 +698,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9911": {
-  "updated_at": "2026-10-23T02:54:03Z",
+  "updated_at": "2026-11-08T23:48:26Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Merck & Company Online Poll",
@@ -789,7 +782,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28308": {
-  "updated_at": "2026-11-06T07:08:08Z",
+  "updated_at": "2026-11-11T00:26:02Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 2 | Evaluating Alternatives Under Uncertainty | Merck & Company",
@@ -799,15 +792,15 @@
     "type": "prep",
     "due": "2026-11-09T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Merck & Company case on evaluating a drug licensing opportunity.",
+    "summary": "Read the Merck case and prepare the discussion questions.",
     "note": ""
    },
    {
-    "title": "Prep: HBI Quantitative Methods – Decision Analysis and Decision Analysis II",
+    "title": "Prep: Quantitative Methods online course – Decision Analysis sections",
     "type": "prep",
     "due": "2026-11-09T09:45:00+09:00",
     "url": null,
-    "summary": "Review the Decision Analysis sections on decision trees and conditional probabilities.",
+    "summary": "Review Decision Analysis (Introduction, Decision Trees, Comparing the Outcomes) and Decision Analysis II (Conditional Probabilities).",
     "note": ""
    },
    {
@@ -815,31 +808,31 @@
     "type": "assignment",
     "due": "2026-11-09T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9911",
-    "summary": "Complete the online poll about the Merck & Company case before class.",
+    "summary": "Complete the online poll on the Merck case.",
     "note": ""
    },
    {
-    "title": "Prep: HBI Quantitative Methods – Sensitivity Analysis and Value of Information",
+    "title": "Prep: Review S&C Films and Eris Shoe Company examples",
     "type": "prep",
     "due": "2026-11-12T09:45:00+09:00",
     "url": null,
-    "summary": "Review the S&C Films and Eris Shoe Company examples on sensitivity analysis and value of information.",
+    "summary": "If sensitivity analysis and value of information are new, review these examples before Session 3.",
     "note": "optional"
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310": {
-  "updated_at": "2026-10-23T02:55:05Z",
+  "updated_at": "2026-11-11T02:12:04Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 3 | Risk Management | Emergency Vehicle Positioning, Inc.",
   "items": [
    {
-    "title": "Prep: Case – Emergency Vehicle Positioning, Inc.",
+    "title": "Prep: Case – Emergency Vehicle Positioning, Inc. (UV0359)",
     "type": "prep",
     "due": "2026-11-12T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Emergency Vehicle Positioning, Inc. case (UV0359) and be ready to discuss it.",
+    "summary": "Read the case and prepare the discussion questions.",
     "note": ""
    },
    {
@@ -847,7 +840,7 @@
     "type": "prep",
     "due": "2026-11-12T09:45:00+09:00",
     "url": null,
-    "summary": "Review Sensitivity Analysis and The Value of Information sections of the online course.",
+    "summary": "Review Decision Analysis > Sensitivity Analysis and Decision Analysis II > The Value of Information.",
     "note": ""
    },
    {
@@ -855,78 +848,7 @@
     "type": "assignment",
     "due": "2026-11-12T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912",
-    "summary": "Complete the Emergency Vehicle Positioning online poll before class.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1383/modules": {
-  "updated_at": "MODULE 1 | Preparation for Business Analysis\nMODULE 2 | Financial Statement Analysis\nMODULE 3 | Prospective Analysis\nMODULE 4 | Valuation Application\nFinal Exam",
-  "kind": "page",
-  "course": "FAV",
-  "title": "Module outline",
-  "items": []
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27673": {
-  "updated_at": "2026-11-05T13:54:33Z",
-  "kind": "page",
-  "course": "FAV",
-  "title": "Class 01 |1500-1700, Thu, Nov 5, 2026",
-  "items": [
-   {
-    "title": "Complete financial ratio analysis exercise and bring notebook to class",
-    "type": "task",
-    "due": "2026-11-05T15:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1383/files/138685",
-    "summary": "Compute financial ratios for Company A using the provided data and bring written answers to class.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27674": {
-  "updated_at": "2026-11-04T07:00:12Z",
-  "kind": "page",
-  "course": "FAV",
-  "title": "Class 02 |1500-1700, Mon, Nov 9, 2026",
-  "items": [
-   {
-    "title": "Prep: Euro Disney Case",
-    "type": "prep",
-    "due": "2026-11-09T15:00:00+09:00",
-    "url": null,
-    "summary": "Read the Euro Disney case and prepare answers to the discussion questions on earnings management.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27675": {
-  "updated_at": "2026-11-03T01:43:11Z",
-  "kind": "page",
-  "course": "FAV",
-  "title": "Class 03 |1500-1700, Thu, Nov 12, 2026",
-  "items": [
-   {
-    "title": "Prep: Alibaba case",
-    "type": "prep",
-    "due": "2026-11-12T15:00:00+09:00",
-    "url": "https://hbsp.harvard.edu/import/1472269",
-    "summary": "Read the Alibaba case and prepare answers to the four discussion questions.",
-    "note": ""
-   }
-  ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1383/modules/items/27684": {
-  "updated_at": "2026-10-25T09:17:14Z",
-  "kind": "page",
-  "course": "FAV",
-  "title": "Final exam | 1400-1800, Mon, Dec 14, 2026",
-  "items": [
-   {
-    "title": "Final exam",
-    "type": "exam",
-    "due": "2026-12-14T14:00:00+09:00",
-    "url": null,
-    "summary": "Final exam covering Classes 1-11; only pens, eraser and calculators allowed.",
+    "summary": "Complete the online poll on the Emergency Vehicle Positioning case.",
     "note": ""
    }
   ]
@@ -948,17 +870,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28328": {
-  "updated_at": "2026-11-03T07:45:08Z",
+  "updated_at": "2026-11-08T23:55:36Z",
   "kind": "page",
   "course": "ST",
   "title": "1 | 2026-11-06 FRI  | 0945-1145 | Introduction to strategy",
   "items": [
    {
-    "title": "Prep: Grant Ch.1 and Ch.2 (selected sub-sections)",
+    "title": "Prep: Grant Chapter 1 and Chapter 2 sub-sections",
     "type": "prep",
     "due": "2026-11-06T09:45:00+09:00",
     "url": null,
-    "summary": "Read Grant Chapter 1 and the specified sub-sections of Chapter 2.",
+    "summary": "Read Grant Ch.1 and the specified Ch.2 sub-sections.",
     "note": ""
    },
    {
@@ -966,15 +888,15 @@
     "type": "prep",
     "due": "2026-11-06T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Space X case (Grant pp. 319-323) and come prepared to discuss.",
+    "summary": "Read the Space X case (Grant pp. 319-323) and be ready to discuss the questions.",
     "note": ""
    },
    {
-    "title": "Prep: SpaceX IPO filing article",
+    "title": "Prep: Additional reading – SpaceX IPO filing article",
     "type": "prep",
     "due": "2026-11-06T09:45:00+09:00",
     "url": "https://www.satellitetoday.com/finance/2026/05/20/spacexs-ipo-filing-gives-first-look-into-companys-financials/",
-    "summary": "Additional reading on SpaceX's IPO filing.",
+    "summary": "Read the additional article on SpaceX's IPO filing.",
     "note": "optional"
    }
   ]
@@ -996,42 +918,42 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28323": {
-  "updated_at": "2026-11-05T05:38:43Z",
+  "updated_at": "2026-11-10T09:32:03Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 1 | Introduction | Benihana of Tokyo | November 5 (12:45-14:45)",
   "items": [
    {
-    "title": "Prep: \"Benihana of Tokyo\" Case",
+    "title": "Prep: Case – Benihana of Tokyo (673057)",
     "type": "prep",
     "due": "2026-11-05T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Benihana of Tokyo case before class.",
+    "summary": "Read the case, analyze Benihana's operation and prepare the discussion questions.",
     "note": ""
    },
    {
-    "title": "Prep: Benihana YouTube Video",
+    "title": "Prep: Benihana YouTube video",
     "type": "prep",
     "due": "2026-11-05T12:45:00+09:00",
-    "url": "https://ics.manaba.jp/ct/link_cushion?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_v6HX7E3wB0%26feature%3Dfvw",
-    "summary": "Watch the YouTube video of a Benihana chef performance.",
+    "url": "http://www.youtube.com/watch?v=_v6HX7E3wB0&feature=fvw",
+    "summary": "Watch the Benihana chef performance video.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925": {
-  "updated_at": "2026-11-08T07:33:47Z",
+  "updated_at": "2026-11-08T14:59:42Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 7 Post-session assignment",
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304": {
-  "updated_at": "67d42d751c06c853b2caa2eb5608c041",
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 8 Pre-session quiz",
-  "summary": "Judge whether each example communication would be seen as helpful or not."
+  "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27601": {
   "updated_at": "2026-11-04T15:16:48Z",
@@ -1050,57 +972,57 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28324": {
-  "updated_at": "2026-11-04T20:37:46Z",
+  "updated_at": "2026-11-09T15:38:05Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 2 | Process design | Process Fundamentals | November 9 (12:45-14:45)",
   "items": [
    {
-    "title": "Prep: \"Process Fundamentals\" Note",
+    "title": "Prep: Note – Process Fundamentals (696023)",
     "type": "prep",
     "due": "2026-11-09T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Note on Process Fundamentals before class.",
+    "summary": "Read the note and prepare questions on what you did not understand.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354": {
-  "updated_at": "2026-11-04T20:37:54Z",
+  "updated_at": "2026-11-10T09:10:18Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 3 | Job shop and HRM system | Fabritek | November 12 (12:45-14:45)",
   "items": [
    {
-    "title": "Prep: Fabritek Case",
+    "title": "Prep: Case – Fabritek (698014)",
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Fabritek case, including the footnote in Exhibit 2.",
+    "summary": "Read the case, including the Exhibit 2 footnote, and prepare the discussion questions.",
     "note": ""
    },
    {
-    "title": "Prep: Milling Video",
+    "title": "Prep: Video – Crash Course in Milling: Chapter 1",
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": "http://www.youtube.com/watch?v=U99asuDT97I&NR=1",
-    "summary": "Watch the YouTube video on milling.",
+    "summary": "Watch the milling video to familiarize yourself with the case.",
     "note": ""
    },
    {
-    "title": "Prep: Drilling Video",
+    "title": "Prep: Video – Crash Course in Milling: Chapter 9 (Drilling)",
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": "http://www.youtube.com/watch?v=om6GQKfoS1g",
-    "summary": "Watch the YouTube video on drilling.",
+    "summary": "Watch the drilling video to familiarize yourself with the case.",
     "note": ""
    },
    {
-    "title": "Prep: Grinding Video",
+    "title": "Prep: Video – Grinding",
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": "http://www.youtube.com/watch?v=kYUdmtz1__k",
-    "summary": "Watch the YouTube video on grinding.",
+    "summary": "Watch the grinding video to familiarize yourself with the case.",
     "note": ""
    }
   ]
@@ -1154,17 +1076,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28329": {
-  "updated_at": "2026-11-05T10:47:22Z",
+  "updated_at": "2026-11-10T10:54:01Z",
   "kind": "page",
   "course": "ST",
   "title": "2 | 2026-11-10 TUE  | 0945-1145 | Industry Analysis",
   "items": [
    {
-    "title": "Prep: Grant, Chapter 3 – Industry Analysis: The Fundamentals",
+    "title": "Prep: Grant Chapter 3",
     "type": "prep",
     "due": "2026-11-10T09:45:00+09:00",
     "url": null,
-    "summary": "Read the textbook chapter on the fundamentals of industry analysis.",
+    "summary": "Read Grant Chapter 3, Industry Analysis: The Fundamentals.",
     "note": ""
    },
    {
@@ -1172,7 +1094,7 @@
     "type": "prep",
     "due": "2026-11-10T09:45:00+09:00",
     "url": "https://hbsp.harvard.edu/import/1474454",
-    "summary": "Download and read the case on competition between Coke and Pepsi in 2010.",
+    "summary": "Read the Cola Wars case and be ready to discuss the questions.",
     "note": ""
    }
   ]
@@ -1202,7 +1124,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405": {
-  "updated_at": "2026-11-06T15:48:18Z",
+  "updated_at": "2026-11-10T08:00:51Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 2 | Investment Criteria and Investment Decisions",
@@ -1212,7 +1134,108 @@
     "type": "prep",
     "due": "2026-11-10T12:45:00+09:00",
     "url": null,
-    "summary": "Read BMAE textbook Chapters 5 and 6.",
+    "summary": "Read BMAE Chapters 5 and 6 and learn the four investment decision rules.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/assignments/9934": {
+  "updated_at": "2026-11-10T10:56:22Z",
+  "kind": "canvas_item",
+  "course": "ST",
+  "title": "Group Assignment 1: Company background",
+  "summary": "Submit one group answer on company industry, margins, competitors, suppliers, buyers and substitutes."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9928": {
+  "updated_at": "2026-11-11T11:41:34Z",
+  "kind": "canvas_item",
+  "course": "LD",
+  "title": "Session 7  Weekly Reflection ",
+  "summary": "Submit the Session 7 weekly reflection by Tuesday."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28408": {
+  "updated_at": "2026-11-09T09:42:40Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 3 | Free cash flow, DCF and Valuing Common Stock",
+  "items": [
+   {
+    "title": "Prep: BMAE Chapters 4-5",
+    "type": "prep",
+    "due": "2026-11-17T12:45:00+09:00",
+    "url": null,
+    "summary": "Read BMAE Chapters 4-5.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Review BMAE Chapter 6",
+    "type": "prep",
+    "due": "2026-11-17T12:45:00+09:00",
+    "url": null,
+    "summary": "Review BMAE Chapter 6 before working on the mini-case.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Mini-Case Linksys, Inc.",
+    "type": "prep",
+    "due": "2026-11-17T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/138959",
+    "summary": "Read the case and compute free cash flows, NPV, IRR and payback in Excel.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/27668": {
+  "updated_at": "2026-11-08T13:38:34Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "Excel Short-Cuts and Data Table Function",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28332": {
+  "updated_at": "2026-11-09T21:04:13Z",
+  "kind": "page",
+  "course": "ST",
+  "title": "3 | 2026-11-17 TUE  | 0945-1145 | Industry Evolution and Dynamics",
+  "items": [
+   {
+    "title": "Prep: Grant Chapter 4",
+    "type": "prep",
+    "due": "2026-11-17T09:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapter 4 in Grant, 2025.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case – Lithium-Ion Batteries",
+    "type": "prep",
+    "due": "2026-11-17T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the case in Grant, 2025 and be ready to answer the questions.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28331": {
+  "updated_at": "2026-11-11T06:18:26Z",
+  "kind": "page",
+  "course": "ST",
+  "title": "4 | 2026-11-19 THUR  | 0945-1145| Firm-specific resources and capabilities",
+  "items": [
+   {
+    "title": "Prep: Grant Chapter 5",
+    "type": "prep",
+    "due": "2026-11-19T09:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapter 5 in Grant (2025).",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case – Streaming Wars: Netflix vs Disney",
+    "type": "prep",
+    "due": "2026-11-19T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the case and be ready to discuss the questions.",
     "note": ""
    }
   ]
