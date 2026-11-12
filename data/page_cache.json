@@ -630,13 +630,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918": {
-  "updated_at": "2026-11-10T10:26:30Z",
-  "kind": "canvas_item",
-  "course": "IW",
-  "title": "MID-TERM EXAM",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28319": {
   "updated_at": "2026-11-05T16:00:12Z",
   "kind": "page",
@@ -705,7 +698,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912": {
-  "updated_at": "2026-10-23T02:53:25Z",
+  "updated_at": "2026-11-12T00:20:26Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Emergency Vehicle Positioning, Inc. Online Poll",
@@ -822,25 +815,33 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310": {
-  "updated_at": "2026-11-11T02:12:04Z",
+  "updated_at": "2026-11-12T02:50:15Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 3 | Risk Management | Emergency Vehicle Positioning, Inc.",
   "items": [
    {
-    "title": "Prep: Case – Emergency Vehicle Positioning, Inc. (UV0359)",
+    "title": "Prep: Emergency Vehicle Positioning, Inc. (UV0359)",
     "type": "prep",
     "due": "2026-11-12T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case and prepare the discussion questions.",
+    "summary": "Read the Emergency Vehicle Positioning, Inc. case before class.",
     "note": ""
    },
    {
-    "title": "Prep: Quantitative Methods online course – Sensitivity Analysis and Value of Information",
+    "title": "Prep: Harvard Business Impact – Decision Analysis: Sensitivity Analysis",
     "type": "prep",
     "due": "2026-11-12T09:45:00+09:00",
     "url": null,
-    "summary": "Review Decision Analysis > Sensitivity Analysis and Decision Analysis II > The Value of Information.",
+    "summary": "Review the Sensitivity Analysis section of the online course.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Harvard Business Impact – Decision Analysis II: The Value of Information",
+    "type": "prep",
+    "due": "2026-11-12T09:45:00+09:00",
+    "url": null,
+    "summary": "Review The Value of Information section of the online course.",
     "note": ""
    },
    {
@@ -848,7 +849,7 @@
     "type": "assignment",
     "due": "2026-11-12T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912",
-    "summary": "Complete the online poll on the Emergency Vehicle Positioning case.",
+    "summary": "Complete the online poll on the case before class.",
     "note": ""
    }
   ]
@@ -956,17 +957,25 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27601": {
-  "updated_at": "2026-11-04T15:16:48Z",
+  "updated_at": "2026-11-12T06:50:55Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 11  NOVEMBER 2026 | SESSION 8 | WHAT'S IT WORTH? FEEDBACK, ASSESSMENT AND EVALUATION",
   "items": [
    {
-    "title": "Complete pre-session quiz",
-    "type": "task",
+    "title": "Prep: Pre-session quiz",
+    "type": "prep",
     "due": "2026-11-11T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304",
-    "summary": "Complete the pre-session quiz on helpful vs. unhelpful communication.",
+    "summary": "Complete the pre-session quiz before class.",
+    "note": ""
+   },
+   {
+    "title": "Post-session assignment submission space",
+    "type": "assignment",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9935",
+    "summary": "Submit the post-session assignment on feedback and evaluation.",
     "note": ""
    }
   ]
@@ -1124,7 +1133,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405": {
-  "updated_at": "2026-11-10T08:00:51Z",
+  "updated_at": "2026-11-12T04:18:20Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 2 | Investment Criteria and Investment Decisions",
@@ -1134,7 +1143,7 @@
     "type": "prep",
     "due": "2026-11-10T12:45:00+09:00",
     "url": null,
-    "summary": "Read BMAE Chapters 5 and 6 and learn the four investment decision rules.",
+    "summary": "Read BMAE chapters 5 and 6 on investment decision rules.",
     "note": ""
    }
   ]
@@ -1236,6 +1245,44 @@
     "due": "2026-11-19T09:45:00+09:00",
     "url": null,
     "summary": "Read the case and be ready to discuss the questions.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9935": {
+  "updated_at": "2026-11-12T07:02:13Z",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW 8 Post-session assignment",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6305": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F26-27] IW Session 9 Pre-session quiz",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27602": {
+  "updated_at": "2026-11-12T07:07:55Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 18 NOVEMBER 2026 | SESSION 9 | EVERYBODY WINS! NEGOTIATING IN WRITING",
+  "items": [
+   {
+    "title": "Prep: Pre-session quiz",
+    "type": "prep",
+    "due": "2026-11-18T15:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6305",
+    "summary": "Complete and submit the pre-session quiz before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case background paper",
+    "type": "prep",
+    "due": "2026-11-18T15:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/139065",
+    "summary": "Read the case background paper before class.",
     "note": ""
    }
   ]

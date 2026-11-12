@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-11-11T15:27:12+00:00",
+ "generated_at": "2026-11-12T10:11:13+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9918",
-   "course": "IW",
-   "title": "MID-TERM EXAM",
-   "type": "assignment",
-   "due": "2026-10-28T03:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-10-28T10:11:50+00:00"
-  },
   {
    "id": "canvas:quiz:6303",
    "course": "IW",
@@ -90,6 +79,17 @@
    "first_seen": "2026-11-04T02:10:22+00:00"
   },
   {
+   "id": "canvas:assignment:9935",
+   "course": "IW",
+   "title": "[F 26-27] IW 8 Post-session assignment",
+   "type": "assignment",
+   "due": "2026-11-15T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9935",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-12T10:11:13+00:00"
+  },
+  {
    "id": "canvas:assignment:9934",
    "course": "ST",
    "title": "Group Assignment 1: Company background",
@@ -110,6 +110,17 @@
    "source": "canvas",
    "summary": "Submit the Session 7 weekly reflection by Tuesday.",
    "first_seen": "2026-11-11T15:27:12+00:00"
+  },
+  {
+   "id": "canvas:quiz:6305",
+   "course": "IW",
+   "title": "[F26-27] IW Session 9 Pre-session quiz",
+   "type": "quiz",
+   "due": "2026-11-17T23:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6305",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27930#packwinterclothingandbringtowelsforthekaruizawaretreat",
@@ -616,6 +627,20 @@
    "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#midtermexam",
+   "course": "IW",
+   "title": "MID-TERM EXAM",
+   "type": "exam",
+   "due": "2026-10-28T09:30:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
+   "summary": "Complete the mid-term exam, activated at 0930 on Wednesday 28 October 2026.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
+   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-12T10:11:13+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#signupformidtermindividualconsultationviadoodlepoll",
    "course": "IW",
    "title": "Sign up for mid-term individual consultation via Doodle poll",
@@ -770,32 +795,46 @@
    "first_seen": "2026-11-11T15:27:12+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310#prepcaseemergencyvehiclepositioningincuv0359",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310#prepemergencyvehiclepositioningincuv0359",
    "course": "DAB",
-   "title": "Prep: Case – Emergency Vehicle Positioning, Inc. (UV0359)",
+   "title": "Prep: Emergency Vehicle Positioning, Inc. (UV0359)",
    "type": "prep",
    "due": "2026-11-12T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case and prepare the discussion questions.",
+   "summary": "Read the Emergency Vehicle Positioning, Inc. case before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310",
    "source_title": "SESSION 3 | Risk Management | Emergency Vehicle Positioning, Inc.",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-11T15:27:12+00:00"
+   "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310#prepquantitativemethodsonlinecoursesensitivityanalysisandvalueofinformation",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310#prepharvardbusinessimpactdecisionanalysissensitivityanalysis",
    "course": "DAB",
-   "title": "Prep: Quantitative Methods online course – Sensitivity Analysis and Value of Information",
+   "title": "Prep: Harvard Business Impact – Decision Analysis: Sensitivity Analysis",
    "type": "prep",
    "due": "2026-11-12T09:45:00+09:00",
    "url": null,
-   "summary": "Review Decision Analysis > Sensitivity Analysis and Decision Analysis II > The Value of Information.",
+   "summary": "Review the Sensitivity Analysis section of the online course.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310",
    "source_title": "SESSION 3 | Risk Management | Emergency Vehicle Positioning, Inc.",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-04T02:10:22+00:00"
+   "first_seen": "2026-11-12T10:11:13+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310#prepharvardbusinessimpactdecisionanalysisiithevalueofinformation",
+   "course": "DAB",
+   "title": "Prep: Harvard Business Impact – Decision Analysis II: The Value of Information",
+   "type": "prep",
+   "due": "2026-11-12T09:45:00+09:00",
+   "url": null,
+   "summary": "Review The Value of Information section of the online course.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310",
+   "source_title": "SESSION 3 | Risk Management | Emergency Vehicle Positioning, Inc.",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules#finalexam",
@@ -894,6 +933,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-04T02:10:22+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27601#preppresessionquiz",
+   "course": "IW",
+   "title": "Prep: Pre-session quiz",
+   "type": "prep",
+   "due": "2026-11-11T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304",
+   "summary": "Complete the pre-session quiz before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27601",
+   "source_title": "WEDNESDAY 11  NOVEMBER 2026 | SESSION 8 | WHAT'S IT WORTH? FEEDBACK, ASSESSMENT AND EVALUATION",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28324#prepnoteprocessfundamentals696023",
@@ -1084,7 +1137,7 @@
    "type": "prep",
    "due": "2026-11-10T12:45:00+09:00",
    "url": null,
-   "summary": "Read BMAE Chapters 5 and 6 and learn the four investment decision rules.",
+   "summary": "Read BMAE chapters 5 and 6 on investment decision rules.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405",
    "source_title": "SESSION 2 | Investment Criteria and Investment Decisions",
    "note": "",
@@ -1188,6 +1241,31 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-11T15:27:12+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27602#prepcasebackgroundpaper",
+   "course": "IW",
+   "title": "Prep: Case background paper",
+   "type": "prep",
+   "due": "2026-11-18T15:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/139065",
+   "summary": "Read the case background paper before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27602",
+   "source_title": "WEDNESDAY 18 NOVEMBER 2026 | SESSION 9 | EVERYBODY WINS! NEGOTIATING IN WRITING",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-12T10:11:13+00:00"
+  },
+  {
+   "id": "canvas:assignment:9918",
+   "course": "IW",
+   "title": "MID-TERM EXAM",
+   "type": "assignment",
+   "due": "2026-10-28T03:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-10-28T10:11:50+00:00"
   },
   {
    "id": "canvas:assignment:9906",
