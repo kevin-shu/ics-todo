@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:11:13+00:00",
+ "generated_at": "2026-11-13T10:11:18+00:00",
  "items": [
   {
    "id": "canvas:quiz:6303",
@@ -969,7 +969,7 @@
    "type": "prep",
    "due": "2026-11-12T12:45:00+09:00",
    "url": null,
-   "summary": "Read the case, including the Exhibit 2 footnote, and prepare the discussion questions.",
+   "summary": "Read the Fabritek case, carefully including the footnote of Exhibit 2.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354",
    "source_title": "SESSION 3 | Job shop and HRM system | Fabritek | November 12 (12:45-14:45)",
    "note": "",
@@ -977,88 +977,102 @@
    "first_seen": "2026-11-11T15:27:12+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354#prepvideocrashcourseinmillingchapter1",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354#prepmillingvideocrashcourseinmillingch1",
    "course": "TOM",
-   "title": "Prep: Video – Crash Course in Milling: Chapter 1",
+   "title": "Prep: Milling Video (Crash Course in Milling Ch.1)",
    "type": "prep",
    "due": "2026-11-12T12:45:00+09:00",
    "url": "http://www.youtube.com/watch?v=U99asuDT97I&NR=1",
-   "summary": "Watch the milling video to familiarize yourself with the case.",
+   "summary": "Watch the video on basic milling machine anatomy to prepare for class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354",
    "source_title": "SESSION 3 | Job shop and HRM system | Fabritek | November 12 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-11T15:27:12+00:00"
+   "first_seen": "2026-11-13T10:11:18+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354#prepvideocrashcourseinmillingchapter9drilling",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354#prepdrillingvideocrashcourseinmillingch9",
    "course": "TOM",
-   "title": "Prep: Video – Crash Course in Milling: Chapter 9 (Drilling)",
+   "title": "Prep: Drilling Video (Crash Course in Milling Ch.9)",
    "type": "prep",
    "due": "2026-11-12T12:45:00+09:00",
    "url": "http://www.youtube.com/watch?v=om6GQKfoS1g",
-   "summary": "Watch the drilling video to familiarize yourself with the case.",
+   "summary": "Watch the video on drilling, tapping, and boring to prepare for class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354",
    "source_title": "SESSION 3 | Job shop and HRM system | Fabritek | November 12 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-11T15:27:12+00:00"
+   "first_seen": "2026-11-13T10:11:18+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354#prepvideogrinding",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354#prepgrindingvideo",
    "course": "TOM",
-   "title": "Prep: Video – Grinding",
+   "title": "Prep: Grinding Video",
    "type": "prep",
    "due": "2026-11-12T12:45:00+09:00",
    "url": "http://www.youtube.com/watch?v=kYUdmtz1__k",
-   "summary": "Watch the grinding video to familiarize yourself with the case.",
+   "summary": "Watch the grinding video to familiarize yourself with the process.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354",
    "source_title": "SESSION 3 | Job shop and HRM system | Fabritek | November 12 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-11T15:27:12+00:00"
+   "first_seen": "2026-11-13T10:11:18+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#preptoshibaomeworkscase",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepcasetoshibaomeworks696059",
    "course": "TOM",
-   "title": "Prep: Toshiba Ome Works Case",
+   "title": "Prep: Case – Toshiba Ome Works (696059)",
    "type": "prep",
    "due": "2026-11-16T12:45:00+09:00",
    "url": null,
-   "summary": "Read the Toshiba Ome Works case before class.",
+   "summary": "Read the Toshiba Ome Works case to prepare for the line operation discussion.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
    "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-05T10:12:04+00:00"
+   "first_seen": "2026-11-13T10:11:18+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepilovelucyvideo",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepilovelucyvideolucysfamouschocolatescene",
    "course": "TOM",
-   "title": "Prep: \"I Love Lucy\" Video",
+   "title": "Prep: I Love Lucy Video – Lucy's Famous Chocolate Scene",
    "type": "prep",
    "due": "2026-11-16T12:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=pGRj-A8rKxw",
-   "summary": "Watch the 'I Love Lucy' chocolate scene video on line operations.",
+   "summary": "Watch the video to familiarize yourself with line operations.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
    "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-05T10:12:04+00:00"
+   "first_seen": "2026-11-13T10:11:18+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepcharliechaplinsmoderntimesvideo",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepcharliechaplinvideofactorywork",
    "course": "TOM",
-   "title": "Prep: \"Charlie Chaplin's Modern Times\" Video",
+   "title": "Prep: Charlie Chaplin Video – Factory Work",
    "type": "prep",
    "due": "2026-11-16T12:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=DfGs2Y5WJ14",
-   "summary": "Watch the Charlie Chaplin factory work video on line operations.",
+   "summary": "Watch the video to familiarize yourself with line operations.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
    "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-05T10:12:04+00:00"
+   "first_seen": "2026-11-13T10:11:18+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#calculateassemblylinemetricsexhibit1",
+   "course": "TOM",
+   "title": "Calculate assembly line metrics (Exhibit 1)",
+   "type": "task",
+   "due": "2026-11-16T12:45:00+09:00",
+   "url": null,
+   "summary": "Calculate cycle time, WIP, line speed, and other metrics for the assembly line.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
+   "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-13T10:11:18+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28356#prepdordorcase",
@@ -1101,34 +1115,6 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-06T10:10:22+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession7presessionpdf",
-   "course": "LD",
-   "title": "Prep: Session 7 Pre-Session PDF",
-   "type": "prep",
-   "due": null,
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138886",
-   "summary": "Review the pre-session PDF material before Session 7 class.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
-   "source_title": "SESSION 7 | Leading Through Organizational Change",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-07T10:09:42+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession7part2gd",
-   "course": "LD",
-   "title": "Prep: Session 7 Part 2 GD",
-   "type": "prep",
-   "due": null,
-   "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
-   "summary": "Review the Part 2 pre-session slides before Session 7 class.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
-   "source_title": "SESSION 7 | Leading Through Organizational Change",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-06T16:33:38+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405#prepbmaechapter56",

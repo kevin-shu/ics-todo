@@ -997,7 +997,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28354": {
-  "updated_at": "2026-11-10T09:10:18Z",
+  "updated_at": "2026-11-12T23:26:12Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 3 | Job shop and HRM system | Fabritek | November 12 (12:45-14:45)",
@@ -1007,63 +1007,71 @@
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": null,
-    "summary": "Read the case, including the Exhibit 2 footnote, and prepare the discussion questions.",
+    "summary": "Read the Fabritek case, carefully including the footnote of Exhibit 2.",
     "note": ""
    },
    {
-    "title": "Prep: Video – Crash Course in Milling: Chapter 1",
+    "title": "Prep: Milling Video (Crash Course in Milling Ch.1)",
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": "http://www.youtube.com/watch?v=U99asuDT97I&NR=1",
-    "summary": "Watch the milling video to familiarize yourself with the case.",
+    "summary": "Watch the video on basic milling machine anatomy to prepare for class.",
     "note": ""
    },
    {
-    "title": "Prep: Video – Crash Course in Milling: Chapter 9 (Drilling)",
+    "title": "Prep: Drilling Video (Crash Course in Milling Ch.9)",
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": "http://www.youtube.com/watch?v=om6GQKfoS1g",
-    "summary": "Watch the drilling video to familiarize yourself with the case.",
+    "summary": "Watch the video on drilling, tapping, and boring to prepare for class.",
     "note": ""
    },
    {
-    "title": "Prep: Video – Grinding",
+    "title": "Prep: Grinding Video",
     "type": "prep",
     "due": "2026-11-12T12:45:00+09:00",
     "url": "http://www.youtube.com/watch?v=kYUdmtz1__k",
-    "summary": "Watch the grinding video to familiarize yourself with the case.",
+    "summary": "Watch the grinding video to familiarize yourself with the process.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355": {
-  "updated_at": "2026-11-04T20:38:02Z",
+  "updated_at": "2026-11-12T23:36:09Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
   "items": [
    {
-    "title": "Prep: Toshiba Ome Works Case",
+    "title": "Prep: Case – Toshiba Ome Works (696059)",
     "type": "prep",
     "due": "2026-11-16T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Toshiba Ome Works case before class.",
+    "summary": "Read the Toshiba Ome Works case to prepare for the line operation discussion.",
     "note": ""
    },
    {
-    "title": "Prep: \"I Love Lucy\" Video",
+    "title": "Prep: I Love Lucy Video – Lucy's Famous Chocolate Scene",
     "type": "prep",
     "due": "2026-11-16T12:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=pGRj-A8rKxw",
-    "summary": "Watch the 'I Love Lucy' chocolate scene video on line operations.",
+    "summary": "Watch the video to familiarize yourself with line operations.",
     "note": ""
    },
    {
-    "title": "Prep: \"Charlie Chaplin's Modern Times\" Video",
+    "title": "Prep: Charlie Chaplin Video – Factory Work",
     "type": "prep",
     "due": "2026-11-16T12:45:00+09:00",
     "url": "https://www.youtube.com/watch?v=DfGs2Y5WJ14",
-    "summary": "Watch the Charlie Chaplin factory work video on line operations.",
+    "summary": "Watch the video to familiarize yourself with line operations.",
+    "note": ""
+   },
+   {
+    "title": "Calculate assembly line metrics (Exhibit 1)",
+    "type": "task",
+    "due": "2026-11-16T12:45:00+09:00",
+    "url": null,
+    "summary": "Calculate cycle time, WIP, line speed, and other metrics for the assembly line.",
     "note": ""
    }
   ]
@@ -1109,28 +1117,11 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404": {
-  "updated_at": "2026-11-07T07:35:39Z",
+  "updated_at": "2026-11-13T03:51:28Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 7 | Leading Through Organizational Change",
-  "items": [
-   {
-    "title": "Prep: Session 7 Pre-Session PDF",
-    "type": "prep",
-    "due": null,
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/138886",
-    "summary": "Review the pre-session PDF material before Session 7 class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Session 7 Part 2 GD",
-    "type": "prep",
-    "due": null,
-    "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
-    "summary": "Review the Part 2 pre-session slides before Session 7 class.",
-    "note": ""
-   }
-  ]
+  "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405": {
   "updated_at": "2026-11-12T04:18:20Z",
@@ -1250,7 +1241,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9935": {
-  "updated_at": "2026-11-12T07:02:13Z",
+  "updated_at": "2026-11-13T09:26:18Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 8 Post-session assignment",
