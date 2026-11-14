@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T10:11:18+00:00",
+ "generated_at": "2026-11-14T10:09:43+00:00",
  "items": [
   {
    "id": "canvas:quiz:6303",
@@ -1117,6 +1117,34 @@
    "first_seen": "2026-11-06T10:10:22+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession71112prepdf",
+   "course": "LD",
+   "title": "Prep: Session 7 1112 pre.pdf",
+   "type": "prep",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139075",
+   "summary": "Review the pre-session materials on leading through organizational change.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
+   "source_title": "SESSION 7 | Leading Through Organizational Change",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-14T10:09:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession7part2gd",
+   "course": "LD",
+   "title": "Prep: Session 7 Part 2 GD",
+   "type": "prep",
+   "due": null,
+   "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
+   "summary": "Review the pre-session slides on leading through organizational change.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
+   "source_title": "SESSION 7 | Leading Through Organizational Change",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-14T10:09:43+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405#prepbmaechapter56",
    "course": "CF",
    "title": "Prep: BMAE Chapter 5 & 6",
@@ -1241,6 +1269,34 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-12T10:11:13+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433#prepsession81120pre1pdf",
+   "course": "LD",
+   "title": "Prep: Session 8 1120 pre-1.pdf",
+   "type": "prep",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139096",
+   "summary": "Review the pre-session materials on sustaining team motivation.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433",
+   "source_title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-14T10:09:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433#prepsession8part2gd",
+   "course": "LD",
+   "title": "Prep: Session 8 Part 2 GD",
+   "type": "prep",
+   "due": null,
+   "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
+   "summary": "Review the pre-session slides on sustaining team motivation.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433",
+   "source_title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-14T10:09:43+00:00"
   },
   {
    "id": "canvas:assignment:9918",

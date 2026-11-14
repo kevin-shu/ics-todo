@@ -1117,11 +1117,28 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404": {
-  "updated_at": "2026-11-13T03:51:28Z",
+  "updated_at": "2026-11-14T02:11:51Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 7 | Leading Through Organizational Change",
-  "items": []
+  "items": [
+   {
+    "title": "Prep: Session 7 1112 pre.pdf",
+    "type": "prep",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139075",
+    "summary": "Review the pre-session materials on leading through organizational change.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Session 7 Part 2 GD",
+    "type": "prep",
+    "due": null,
+    "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
+    "summary": "Review the pre-session slides on leading through organizational change.",
+    "note": ""
+   }
+  ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28405": {
   "updated_at": "2026-11-12T04:18:20Z",
@@ -1241,7 +1258,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9935": {
-  "updated_at": "2026-11-13T09:26:18Z",
+  "updated_at": "2026-11-13T13:55:30Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 8 Post-session assignment",
@@ -1274,6 +1291,30 @@
     "due": "2026-11-18T15:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/139065",
     "summary": "Read the case background paper before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433": {
+  "updated_at": "2026-11-13T15:10:31Z",
+  "kind": "page",
+  "course": "LD",
+  "title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
+  "items": [
+   {
+    "title": "Prep: Session 8 1120 pre-1.pdf",
+    "type": "prep",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139096",
+    "summary": "Review the pre-session materials on sustaining team motivation.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Session 8 Part 2 GD",
+    "type": "prep",
+    "due": null,
+    "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
+    "summary": "Review the pre-session slides on sustaining team motivation.",
     "note": ""
    }
   ]
