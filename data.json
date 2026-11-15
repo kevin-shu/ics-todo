@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:09:43+00:00",
+ "generated_at": "2026-11-15T10:10:32+00:00",
  "items": [
   {
    "id": "canvas:quiz:6303",
@@ -53,7 +53,7 @@
    "due": "2026-11-10T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913",
    "source": "canvas",
-   "summary": "Complete the Session 6 weekly reflection using the provided template, due Tuesday.",
+   "summary": "Submit weekly reflection report using the provided template by Tuesday.",
    "first_seen": "2026-11-02T10:11:03+00:00"
   },
   {
@@ -1123,12 +1123,26 @@
    "type": "prep",
    "due": null,
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139075",
-   "summary": "Review the pre-session materials on leading through organizational change.",
+   "summary": "Review this pre-session material before the session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
    "source_title": "SESSION 7 | Leading Through Organizational Change",
-   "note": "",
+   "note": "time TBD",
    "source": "page",
    "first_seen": "2026-11-14T10:09:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession7part1gp6pdf",
+   "course": "LD",
+   "title": "Prep: Session 7 part 1 GP-6.pdf",
+   "type": "prep",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139132",
+   "summary": "Review this pre-session material before the session.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
+   "source_title": "SESSION 7 | Leading Through Organizational Change",
+   "note": "time TBD",
+   "source": "page",
+   "first_seen": "2026-11-15T10:10:32+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404#prepsession7part2gd",
@@ -1137,10 +1151,10 @@
    "type": "prep",
    "due": null,
    "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
-   "summary": "Review the pre-session slides on leading through organizational change.",
+   "summary": "Review this pre-session material before the session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404",
    "source_title": "SESSION 7 | Leading Through Organizational Change",
-   "note": "",
+   "note": "time TBD",
    "source": "page",
    "first_seen": "2026-11-14T10:09:43+00:00"
   },
@@ -1297,6 +1311,34 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-14T10:09:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421#midtermexamination",
+   "course": "DAB",
+   "title": "Midterm Examination",
+   "type": "exam",
+   "due": "2026-11-16T11:45:00+09:00",
+   "url": null,
+   "summary": "Take the in-class midterm exam based on the case and submit your answers by the deadline.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421",
+   "source_title": "MIDTERM EXAMINATION",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-15T10:10:32+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421#downloadmidtermexamcase",
+   "course": "DAB",
+   "title": "Download midterm exam case",
+   "type": "task",
+   "due": "2026-11-16T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139110",
+   "summary": "Download the midterm exam case, available starting Saturday, November 14 at noon.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421",
+   "source_title": "MIDTERM EXAMINATION",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-15T10:10:32+00:00"
   },
   {
    "id": "canvas:assignment:9918",

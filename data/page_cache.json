@@ -638,11 +638,11 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913": {
-  "updated_at": "2026-11-11T11:42:06Z",
+  "updated_at": "2026-11-14T16:29:19Z",
   "kind": "canvas_item",
   "course": "LD",
   "title": "Session 6  Weekly Reflection",
-  "summary": "Complete the Session 6 weekly reflection using the provided template, due Tuesday."
+  "summary": "Submit weekly reflection report using the provided template by Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600": {
   "updated_at": "2026-11-04T15:02:04Z",
@@ -728,7 +728,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules": {
-  "updated_at": "MODULE 0 | INTRODUCTION TO DAB\n| 1 | 2026-11-05 | THU | 09:45-11:45 |\nMODULE 1 | RISK MANAGEMENT\n| 2 | 2026-11-09 | MON | 09:45-11:45 |\n| 3 | 2026-11-12 | THU | 09:45-11:45 |\nMODULE 2 | DATA ANALYTICS",
+  "updated_at": "MODULE 0 | INTRODUCTION TO DAB\n| 1 | 2026-11-05 | THU | 09:45-11:45 |\nMODULE 1 | RISK MANAGEMENT\n| 2 | 2026-11-09 | MON | 09:45-11:45 |\n| 3 | 2026-11-12 | THU | 09:45-11:45 |\n| 4 | 2026-11-16 | MON | 09:45-11:45 |\nMODULE 2 | DATA ANALYTICS",
   "kind": "page",
   "course": "DAB",
   "title": "Module outline",
@@ -1117,7 +1117,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404": {
-  "updated_at": "2026-11-14T02:11:51Z",
+  "updated_at": "2026-11-15T05:52:15Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 7 | Leading Through Organizational Change",
@@ -1127,16 +1127,24 @@
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139075",
-    "summary": "Review the pre-session materials on leading through organizational change.",
-    "note": ""
+    "summary": "Review this pre-session material before the session.",
+    "note": "time TBD"
+   },
+   {
+    "title": "Prep: Session 7 part 1 GP-6.pdf",
+    "type": "prep",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139132",
+    "summary": "Review this pre-session material before the session.",
+    "note": "time TBD"
    },
    {
     "title": "Prep: Session 7 Part 2 GD",
     "type": "prep",
     "due": null,
     "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
-    "summary": "Review the pre-session slides on leading through organizational change.",
-    "note": ""
+    "summary": "Review this pre-session material before the session.",
+    "note": "time TBD"
    }
   ]
  },
@@ -1258,7 +1266,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9935": {
-  "updated_at": "2026-11-13T13:55:30Z",
+  "updated_at": "2026-11-14T20:07:59Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 8 Post-session assignment",
@@ -1315,6 +1323,30 @@
     "due": null,
     "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
     "summary": "Review the pre-session slides on sustaining team motivation.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421": {
+  "updated_at": "2026-11-14T02:55:59Z",
+  "kind": "page",
+  "course": "DAB",
+  "title": "MIDTERM EXAMINATION",
+  "items": [
+   {
+    "title": "Midterm Examination",
+    "type": "exam",
+    "due": "2026-11-16T11:45:00+09:00",
+    "url": null,
+    "summary": "Take the in-class midterm exam based on the case and submit your answers by the deadline.",
+    "note": ""
+   },
+   {
+    "title": "Download midterm exam case",
+    "type": "task",
+    "due": "2026-11-16T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139110",
+    "summary": "Download the midterm exam case, available starting Saturday, November 14 at noon.",
     "note": ""
    }
   ]
