@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T10:10:32+00:00",
+ "generated_at": "2026-11-16T10:10:50+00:00",
  "items": [
   {
    "id": "canvas:quiz:6303",
@@ -90,6 +90,17 @@
    "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
+   "id": "canvas:assignment:9938",
+   "course": "DAB",
+   "title": "Midterm Examination",
+   "type": "assignment",
+   "due": "2026-11-16T02:55:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9938",
+   "source": "canvas",
+   "summary": "Take the midterm exam on the Kotobuki Udon: Entering Bangkok case.",
+   "first_seen": "2026-11-16T10:10:50+00:00"
+  },
+  {
    "id": "canvas:assignment:9934",
    "course": "ST",
    "title": "Group Assignment 1: Company background",
@@ -121,6 +132,17 @@
    "source": "canvas",
    "summary": "",
    "first_seen": "2026-11-12T10:11:13+00:00"
+  },
+  {
+   "id": "canvas:assignment:9939",
+   "course": "DAB",
+   "title": "Introduction to Statitics: E-ics",
+   "type": "assignment",
+   "due": "2026-11-18T22:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9939",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-16T10:10:50+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27930#packwinterclothingandbringtowelsforthekaruizawaretreat",
@@ -627,34 +649,6 @@
    "first_seen": "2026-10-20T10:13:34+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#midtermexam",
-   "course": "IW",
-   "title": "MID-TERM EXAM",
-   "type": "exam",
-   "due": "2026-10-28T09:30:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
-   "summary": "Complete the mid-term exam, activated at 0930 on Wednesday 28 October 2026.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
-   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-12T10:11:13+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#signupformidtermindividualconsultationviadoodlepoll",
-   "course": "IW",
-   "title": "Sign up for mid-term individual consultation via Doodle poll",
-   "type": "task",
-   "due": "2026-10-28T09:00:00+09:00",
-   "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
-   "summary": "Indicate preferred date and time for a mid-term individual consultation via the Doodle poll.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
-   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
-   "note": "optional",
-   "source": "page",
-   "first_seen": "2026-10-28T10:11:50+00:00"
-  },
-  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600#prepkatherinecowdreypearsonsalesdrop4inthefirstquarter",
    "course": "IW",
    "title": "Prep: Katherine Cowdrey, \"Pearson sales drop 4% in the first quarter\"",
@@ -1025,7 +1019,7 @@
    "type": "prep",
    "due": "2026-11-16T12:45:00+09:00",
    "url": null,
-   "summary": "Read the Toshiba Ome Works case to prepare for the line operation discussion.",
+   "summary": "Read the Toshiba Ome Works case on PC line operations.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
    "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
    "note": "",
@@ -1033,46 +1027,60 @@
    "first_seen": "2026-11-13T10:11:18+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepilovelucyvideolucysfamouschocolatescene",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepvideolucysfamouschocolatescene",
    "course": "TOM",
-   "title": "Prep: I Love Lucy Video – Lucy's Famous Chocolate Scene",
+   "title": "Prep: Video – Lucy's Famous Chocolate Scene",
    "type": "prep",
    "due": "2026-11-16T12:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=pGRj-A8rKxw",
-   "summary": "Watch the video to familiarize yourself with line operations.",
+   "summary": "Watch the chocolate factory scene to see line operations in action.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
    "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-13T10:11:18+00:00"
+   "first_seen": "2026-11-16T10:10:50+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepcharliechaplinvideofactorywork",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepvideocharliechaplinsmoderntimesfactorywork",
    "course": "TOM",
-   "title": "Prep: Charlie Chaplin Video – Factory Work",
+   "title": "Prep: Video – Charlie Chaplin's Modern Times (Factory Work)",
    "type": "prep",
    "due": "2026-11-16T12:45:00+09:00",
    "url": "https://www.youtube.com/watch?v=DfGs2Y5WJ14",
-   "summary": "Watch the video to familiarize yourself with line operations.",
+   "summary": "Watch the factory work scene illustrating assembly line operations.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
    "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-13T10:11:18+00:00"
+   "first_seen": "2026-11-16T10:10:50+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#calculateassemblylinemetricsexhibit1",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepcalculateassemblylinequantitiesexhibit1",
    "course": "TOM",
-   "title": "Calculate assembly line metrics (Exhibit 1)",
-   "type": "task",
+   "title": "Prep: Calculate assembly line quantities (Exhibit 1)",
+   "type": "prep",
    "due": "2026-11-16T12:45:00+09:00",
    "url": null,
-   "summary": "Calculate cycle time, WIP, line speed, and other metrics for the assembly line.",
+   "summary": "Calculate cycle time, WIP, line speed, and other line metrics from Exhibit 1.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
    "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-13T10:11:18+00:00"
+   "first_seen": "2026-11-16T10:10:50+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355#prepdiscussionquestionsontoshibaspcbusinessstrategy",
+   "course": "TOM",
+   "title": "Prep: Discussion questions on Toshiba's PC business strategy",
+   "type": "prep",
+   "due": "2026-11-16T12:45:00+09:00",
+   "url": null,
+   "summary": "Prepare to discuss Toshiba's strategy and operation of the Ome Plant.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28355",
+   "source_title": "SESSION 4 | Line operation | Toshiba Ome Works | November 16 (12:45-14:45)",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-16T10:10:50+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28356#prepdordorcase",
@@ -1313,32 +1321,60 @@
    "first_seen": "2026-11-14T10:09:43+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421#midtermexamination",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#prepintroductiontorandrstudiopdf",
    "course": "DAB",
-   "title": "Midterm Examination",
-   "type": "exam",
-   "due": "2026-11-16T11:45:00+09:00",
-   "url": null,
-   "summary": "Take the in-class midterm exam based on the case and submit your answers by the deadline.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421",
-   "source_title": "MIDTERM EXAMINATION",
+   "title": "Prep: Introduction to R and RStudio (PDF)",
+   "type": "prep",
+   "due": "2026-11-19T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139156",
+   "summary": "Read the guide and install R, RStudio, and the dplyr and parameters packages.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
+   "source_title": "SESSION 5  | Introduction to Statistics",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-15T10:10:32+00:00"
+   "first_seen": "2026-11-16T10:10:50+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421#downloadmidtermexamcase",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#prepcustomerpurchasedatapurchasecsvpurchasexlsx",
    "course": "DAB",
-   "title": "Download midterm exam case",
-   "type": "task",
-   "due": "2026-11-16T09:45:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139110",
-   "summary": "Download the midterm exam case, available starting Saturday, November 14 at noon.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421",
-   "source_title": "MIDTERM EXAMINATION",
+   "title": "Prep: Customer purchase data (purchase.csv / purchase.xlsx)",
+   "type": "prep",
+   "due": "2026-11-19T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134086",
+   "summary": "Download the customer purchase data file for the R session.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
+   "source_title": "SESSION 5  | Introduction to Statistics",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-15T10:10:32+00:00"
+   "first_seen": "2026-11-16T10:10:50+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#onlinepollintroductiontostatisticseics",
+   "course": "DAB",
+   "title": "Online Poll: Introduction to Statistics: E-ics",
+   "type": "assignment",
+   "due": "2026-11-19T07:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9939",
+   "summary": "Complete the online poll on introduction to statistics before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
+   "source_title": "SESSION 5  | Introduction to Statistics",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-16T10:10:50+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#bringyourowndevicetoclass",
+   "course": "DAB",
+   "title": "Bring your own device to class",
+   "type": "task",
+   "due": "2026-11-19T09:45:00+09:00",
+   "url": null,
+   "summary": "Bring your own laptop or device to class for the R session.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
+   "source_title": "SESSION 5  | Introduction to Statistics",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-16T10:10:50+00:00"
   },
   {
    "id": "canvas:assignment:9918",
