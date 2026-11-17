@@ -879,7 +879,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules": {
-  "updated_at": "MODULE 1 | INTRODUCTION | November 5 \nMODULE 2 | PROCESS ANALYSIS | November 9~23\nMODULE 3 | OPERATING MODELS\nMODULE 4 | OPERATIONS SCOPE & STRUCTURE\n| FINAL EXAMINATION | 2026-12-17 | THU | 09:00 - 13:00",
+  "updated_at": "MODULE 1 | INTRODUCTION | November 5 \nMODULE 2 | PROCESS ANALYSIS | November 9~23\nMODULE 3 | OPERATING MODELS | November 26~December 3\nMODULE 4 | OPERATIONS SCOPE & STRUCTURE\n| FINAL EXAMINATION | 2026-12-17 | THU | 09:00 - 13:00",
   "kind": "page",
   "course": "TOM",
   "title": "Module outline",
@@ -889,7 +889,7 @@
     "type": "exam",
     "due": "2026-12-17T09:00:00+09:00",
     "url": null,
-    "summary": "Take the final examination.",
+    "summary": "Take the final examination for the course.",
     "note": ""
    }
   ]
@@ -1061,17 +1061,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28356": {
-  "updated_at": "2026-11-05T08:22:11Z",
+  "updated_at": "2026-11-17T08:36:32Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 5 | Line vs. cellular operation | Doré-Doré | November 20 (9:45-11:45)",
   "items": [
    {
-    "title": "Prep: Doré-Doré Case",
+    "title": "Prep: Case – Doré-Doré (692028)",
     "type": "prep",
     "due": "2026-11-20T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Doré-Doré case, focusing on the children's knitwear operation only.",
+    "summary": "Read the Doré-Doré case on converting knitwear operations to cellular manufacturing.",
     "note": ""
    }
   ]
@@ -1149,11 +1149,11 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/assignments/9934": {
-  "updated_at": "2026-11-10T10:56:22Z",
+  "updated_at": "2026-11-17T00:00:57Z",
   "kind": "canvas_item",
   "course": "ST",
   "title": "Group Assignment 1: Company background",
-  "summary": "Submit one group answer on company industry, margins, competitors, suppliers, buyers and substitutes."
+  "summary": "Submit group answers on company's industry, competitors, suppliers, buyers, and substitutes."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9928": {
   "updated_at": "2026-11-11T11:41:34Z",
@@ -1312,7 +1312,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421": {
-  "updated_at": "2026-11-16T00:40:08Z",
+  "updated_at": "2026-11-17T06:31:47Z",
   "kind": "page",
   "course": "DAB",
   "title": "MIDTERM EXAMINATION",
@@ -1322,7 +1322,7 @@
     "type": "exam",
     "due": "2026-11-16T11:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9938",
-    "summary": "Take the midterm exam on the Kotobuki Udon case and submit your answers.",
+    "summary": "Complete the case-based midterm exam in class and submit your answers.",
     "note": ""
    }
   ]
@@ -1378,6 +1378,171 @@
     "url": null,
     "summary": "Bring your own laptop or device to class for the R session.",
     "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/quizzes/6307": {
+  "updated_at": "9b7d0460f126a7398a7f430298597d66",
+  "kind": "canvas_item",
+  "course": "TOM",
+  "title": "[AY26-27] TOM Presentation Slide Submission",
+  "summary": "One team member submits the team's presentation slides."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/assignments/9945": {
+  "updated_at": "2026-11-17T05:00:03Z",
+  "kind": "canvas_item",
+  "course": "ST",
+  "title": "Group Assignment 2: Industry evolution and dynamics",
+  "summary": "Submit a one-page summary on complementors, ecosystem actors, and future five-forces changes."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599": {
+  "updated_at": "2026-10-27T23:54:56Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
+  "items": [
+   {
+    "title": "Mid-term Exam",
+    "type": "exam",
+    "due": "2026-10-28T12:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
+    "summary": "Complete the mid-term exam task given in class and submit your answers.",
+    "note": ""
+   },
+   {
+    "title": "Sign up for mid-term consultation timeslot",
+    "type": "task",
+    "due": "2026-10-28T09:00:00+09:00",
+    "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
+    "summary": "Indicate your preferred date and time for an optional mid-term consultation via Doodle poll.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416": {
+  "updated_at": "2026-11-16T15:59:55Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 4 | Portfolio Theory and the Capital Asset Pricing Model (CAPM)",
+  "items": [
+   {
+    "title": "Prep: BMAE, Chapter 7 (except Section 7-4)",
+    "type": "prep",
+    "due": "2026-11-18T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the textbook chapter on risk and return before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: BMAE, Chapter 8 (except Section 8-5)",
+    "type": "prep",
+    "due": "2026-11-18T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the textbook chapter on portfolio theory and CAPM before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28333": {
+  "updated_at": "2026-11-16T23:54:06Z",
+  "kind": "page",
+  "course": "ST",
+  "title": "5 | 2026-11-24 TUE  | 0945-1145| Sources of competitive advantage",
+  "items": [
+   {
+    "title": "Prep: Grant, Chapter 5. Analyzing Resources and Capabilities",
+    "type": "prep",
+    "due": "2026-11-24T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the chapter on analyzing firm resources and capabilities.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case – Starbucks",
+    "type": "prep",
+    "due": "2026-11-24T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Starbucks case and prepare to discuss its sources of competitive advantage.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28357": {
+  "updated_at": "2026-11-17T09:00:56Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 6 | Field Study Presentation | November 23 (12:45-14:45) ",
+  "items": [
+   {
+    "title": "Field Study (Group Presentation)",
+    "type": "assignment",
+    "due": "2026-11-22T20:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1380/quizzes/6307",
+    "summary": "Submit your group's field study presentation slides in PowerPoint format.",
+    "note": ""
+   },
+   {
+    "title": "Submit peer evaluation for group project",
+    "type": "task",
+    "due": "2026-11-24T20:00:00+09:00",
+    "url": null,
+    "summary": "Individually and confidentially evaluate each of your teammates.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28358": {
+  "updated_at": "2026-11-17T09:07:28Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 7 | Basics of Operating Models | November 26 (12:45-14:45)",
+  "items": []
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28359": {
+  "updated_at": "2026-11-17T09:07:29Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": " SESSION 8 | Coordination Model | Digitalization at Siemens | November 30 (12:45-14:45)",
+  "items": [
+   {
+    "title": "Prep: Digitalization at Siemens (HBS Case 717-428)",
+    "type": "prep",
+    "due": "2026-11-30T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the Siemens case on its shift from horizontal to vertical IT.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Enterprise Architecture as a Strategy",
+    "type": "prep",
+    "due": "2026-11-30T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the recommended book on enterprise architecture as a strategy.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28360": {
+  "updated_at": "2026-11-17T09:07:30Z",
+  "kind": "page",
+  "course": "TOM",
+  "title": "SESSION 9 | Unification Model | Applying Data Science and Analytics at P&G | December 3 (12:45-14:45)",
+  "items": [
+   {
+    "title": "Prep: Harvard Business School Case 121-006",
+    "type": "prep",
+    "due": "2026-12-03T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the P&G case on integrating data science and analytics into operations.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Enterprise Architecture as a Strategy",
+    "type": "prep",
+    "due": "2026-12-03T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the recommended book on enterprise architecture as a strategy.",
+    "note": "optional"
    }
   ]
  }
