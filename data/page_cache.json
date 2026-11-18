@@ -704,7 +704,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules": {
-  "updated_at": "MODULE 0 | INTRODUCTION TO DAB\n| 1 | 2026-11-05 | THU | 09:45-11:45 |\nMODULE 1 | RISK MANAGEMENT\n| 2 | 2026-11-09 | MON | 09:45-11:45 |\n| 3 | 2026-11-12 | THU | 09:45-11:45 |\n| 4 | 2026-11-16 | MON | 09:45-11:45 |\nMODULE 2 | DATA ANALYTICS\n| 5 | 2026-11-19 | THU | 09:45-11:45 |",
+  "updated_at": "MODULE 0 | INTRODUCTION TO DAB\n| 1 | 2026-11-05 | THU | 09:45-11:45 |\nMODULE 1 | RISK MANAGEMENT\n| 2 | 2026-11-09 | MON | 09:45-11:45 |\n| 3 | 2026-11-12 | THU | 09:45-11:45 |\n| 4 | 2026-11-16 | MON | 09:45-11:45 |\nMODULE 2 | DATA ANALYTICS\n| 5 | 2026-11-19 | THU | 09:45-11:45 |\n| 6 | 2026-11-23 | MON | 09:45-11:45 |",
   "kind": "page",
   "course": "DAB",
   "title": "Module outline",
@@ -919,7 +919,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925": {
-  "updated_at": "2026-11-08T14:59:42Z",
+  "updated_at": "2026-11-17T14:50:50Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW Session 7 Post-session assignment",
@@ -1061,17 +1061,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28356": {
-  "updated_at": "2026-11-17T08:36:32Z",
+  "updated_at": "2026-11-17T20:56:38Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 5 | Line vs. cellular operation | Doré-Doré | November 20 (9:45-11:45)",
   "items": [
    {
-    "title": "Prep: Case – Doré-Doré (692028)",
+    "title": "Prep: Doré-Doré",
     "type": "prep",
     "due": "2026-11-20T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Doré-Doré case on converting knitwear operations to cellular manufacturing.",
+    "summary": "Read the Doré-Doré case on children's knitwear and prepare to discuss the questions.",
     "note": ""
    }
   ]
@@ -1101,7 +1101,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404": {
-  "updated_at": "2026-11-15T05:52:15Z",
+  "updated_at": "2026-11-17T14:11:06Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 7 | Leading Through Organizational Change",
@@ -1111,24 +1111,24 @@
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139075",
-    "summary": "Review this pre-session material before the session.",
-    "note": "time TBD"
+    "summary": "Review this pre-session material on responses to organizational change.",
+    "note": ""
    },
    {
     "title": "Prep: Session 7 part 1 GP-6.pdf",
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139132",
-    "summary": "Review this pre-session material before the session.",
-    "note": "time TBD"
+    "summary": "Review this pre-session material on responses to organizational change.",
+    "note": ""
    },
    {
-    "title": "Prep: Session 7 Part 2 GD",
+    "title": "Prep: Session 7 Part 2 GD-2.pdf",
     "type": "prep",
     "due": null,
-    "url": "https://docs.google.com/presentation/d/1NplinIP51cMXP7kO6NwnKCnIjhwSqhgHX4ONuGHappY/edit?usp=sharing",
-    "summary": "Review this pre-session material before the session.",
-    "note": "time TBD"
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139321",
+    "summary": "Review this pre-session material on responses to organizational change.",
+    "note": ""
    }
   ]
  },
@@ -1163,7 +1163,7 @@
   "summary": "Submit the Session 7 weekly reflection by Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28408": {
-  "updated_at": "2026-11-09T09:42:40Z",
+  "updated_at": "2026-11-17T13:41:30Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 3 | Free cash flow, DCF and Valuing Common Stock",
@@ -1173,23 +1173,23 @@
     "type": "prep",
     "due": "2026-11-17T12:45:00+09:00",
     "url": null,
-    "summary": "Read BMAE Chapters 4-5.",
+    "summary": "Read BMAE Chapters 4-5 before class.",
     "note": ""
    },
    {
-    "title": "Prep: Review BMAE Chapter 6",
-    "type": "prep",
-    "due": "2026-11-17T12:45:00+09:00",
-    "url": null,
-    "summary": "Review BMAE Chapter 6 before working on the mini-case.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Mini-Case Linksys, Inc.",
+    "title": "Prep: Linksys, Inc.",
     "type": "prep",
     "due": "2026-11-17T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/138959",
-    "summary": "Read the case and compute free cash flows, NPV, IRR and payback in Excel.",
+    "summary": "Review BMAE Chapter 6 and read the Linksys mini-case, then answer FCF, NPV, IRR, and payback questions.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Linksys, Inc. Summary",
+    "type": "prep",
+    "due": "2026-11-17T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/139313",
+    "summary": "Review the summary document for the Linksys mini-case.",
     "note": ""
    }
   ]
@@ -1342,7 +1342,7 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436": {
-  "updated_at": "2026-11-16T09:04:08Z",
+  "updated_at": "2026-11-18T07:39:32Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 5  | Introduction to Statistics",
@@ -1352,15 +1352,31 @@
     "type": "prep",
     "due": "2026-11-19T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139156",
-    "summary": "Read the guide and install R, RStudio, and the dplyr and parameters packages.",
+    "summary": "Read the introduction to R and RStudio guide before class.",
     "note": ""
    },
    {
-    "title": "Prep: Customer purchase data (purchase.csv / purchase.xlsx)",
-    "type": "prep",
+    "title": "Install R and RStudio on your device",
+    "type": "task",
+    "due": "2026-11-19T09:45:00+09:00",
+    "url": null,
+    "summary": "Install R and RStudio using Sections 1 and 2 of the reading before class.",
+    "note": ""
+   },
+   {
+    "title": "Download the customer purchase data",
+    "type": "task",
     "due": "2026-11-19T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134086",
-    "summary": "Download the customer purchase data file for the R session.",
+    "summary": "Download the customer purchase data files (purchase.csv and purchase.xlsx).",
+    "note": ""
+   },
+   {
+    "title": "Install the dplyr and parameters R packages",
+    "type": "task",
+    "due": "2026-11-19T09:45:00+09:00",
+    "url": null,
+    "summary": "Install the dplyr and parameters packages before class.",
     "note": ""
    },
    {
@@ -1368,15 +1384,7 @@
     "type": "assignment",
     "due": "2026-11-19T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9939",
-    "summary": "Complete the online poll on introduction to statistics before class.",
-    "note": ""
-   },
-   {
-    "title": "Bring your own device to class",
-    "type": "task",
-    "due": "2026-11-19T09:45:00+09:00",
-    "url": null,
-    "summary": "Bring your own laptop or device to class for the R session.",
+    "summary": "Complete the online poll on introduction to statistics.",
     "note": ""
    }
   ]
@@ -1420,25 +1428,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416": {
-  "updated_at": "2026-11-16T15:59:55Z",
+  "updated_at": "2026-11-17T16:00:48Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 4 | Portfolio Theory and the Capital Asset Pricing Model (CAPM)",
   "items": [
    {
-    "title": "Prep: BMAE, Chapter 7 (except Section 7-4)",
+    "title": "Prep: BMAE Chapters 7-8",
     "type": "prep",
     "due": "2026-11-18T12:45:00+09:00",
     "url": null,
-    "summary": "Read the textbook chapter on risk and return before class.",
-    "note": ""
-   },
-   {
-    "title": "Prep: BMAE, Chapter 8 (except Section 8-5)",
-    "type": "prep",
-    "due": "2026-11-18T12:45:00+09:00",
-    "url": null,
-    "summary": "Read the textbook chapter on portfolio theory and CAPM before class.",
+    "summary": "Read BMAE Chapter 7 (except 7-4) and Chapter 8 (except 8-5) and prepare CAPM questions.",
     "note": ""
    }
   ]
@@ -1499,17 +1499,17 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28359": {
-  "updated_at": "2026-11-17T09:07:29Z",
+  "updated_at": "2026-11-18T07:27:34Z",
   "kind": "page",
   "course": "TOM",
-  "title": " SESSION 8 | Coordination Model | Digitalization at Siemens | November 30 (12:45-14:45)",
+  "title": " SESSION 8 | Digitalization at Siemens | November 30 (12:45-14:45)",
   "items": [
    {
     "title": "Prep: Digitalization at Siemens (HBS Case 717-428)",
     "type": "prep",
     "due": "2026-11-30T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Siemens case on its shift from horizontal to vertical IT.",
+    "summary": "Read the Siemens case and prepare to discuss its digital transformation.",
     "note": ""
    },
    {
@@ -1517,23 +1517,23 @@
     "type": "prep",
     "due": "2026-11-30T12:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended book on enterprise architecture as a strategy.",
+    "summary": "Optional recommended reading on enterprise architecture as a strategy.",
     "note": "optional"
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28360": {
-  "updated_at": "2026-11-17T09:07:30Z",
+  "updated_at": "2026-11-18T07:27:42Z",
   "kind": "page",
   "course": "TOM",
-  "title": "SESSION 9 | Unification Model | Applying Data Science and Analytics at P&G | December 3 (12:45-14:45)",
+  "title": "SESSION 9 | Applying Data Science and Analytics at P&G | December 3 (12:45-14:45)",
   "items": [
    {
     "title": "Prep: Harvard Business School Case 121-006",
     "type": "prep",
     "due": "2026-12-03T12:45:00+09:00",
     "url": null,
-    "summary": "Read the P&G case on integrating data science and analytics into operations.",
+    "summary": "Read the P&G case and prepare to discuss its data science adoption.",
     "note": ""
    },
    {
@@ -1541,8 +1541,55 @@
     "type": "prep",
     "due": "2026-12-03T12:45:00+09:00",
     "url": null,
-    "summary": "Read the recommended book on enterprise architecture as a strategy.",
+    "summary": "Optional recommended reading on enterprise architecture as a strategy.",
     "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9948": {
+  "updated_at": "2026-11-18T08:22:01Z",
+  "kind": "canvas_item",
+  "course": "DAB",
+  "title": "Pilgrim Bank (A) Online Poll",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28452": {
+  "updated_at": "2026-11-18T08:23:12Z",
+  "kind": "page",
+  "course": "DAB",
+  "title": "SESSION 6 | Sampling | Pilgrim Bank (A)",
+  "items": [
+   {
+    "title": "Prep: Pilgrim Bank (A): Customer Profitability",
+    "type": "prep",
+    "due": "2026-11-23T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Pilgrim Bank (A) case and prepare to answer the customer profitability questions.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Pilgrim Bank Data (PilgrimBank.xlsx)",
+    "type": "prep",
+    "due": "2026-11-23T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134098",
+    "summary": "Download and review the Pilgrim Bank customer data spreadsheet.",
+    "note": ""
+   },
+   {
+    "title": "Prep: HBI Quantitative Methods – Sampling & Estimation and Hypothesis Testing",
+    "type": "prep",
+    "due": "2026-11-23T09:45:00+09:00",
+    "url": null,
+    "summary": "Review the Sampling & Estimation and Hypothesis Testing modules of the HBI online course.",
+    "note": ""
+   },
+   {
+    "title": "Online Poll: Pilgrim Bank (A)",
+    "type": "assignment",
+    "due": "2026-11-23T07:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9948",
+    "summary": "Complete the online poll on the Pilgrim Bank (A) case.",
+    "note": ""
    }
   ]
  }
