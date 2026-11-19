@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-11-18T10:11:50+00:00",
+ "generated_at": "2026-11-19T10:10:45+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6303",
-   "course": "IW",
-   "title": "[F26-27] IW Session 7 Pre-session survey",
-   "type": "quiz",
-   "due": "2026-11-03T23:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6303",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-11-03T10:11:32+00:00"
-  },
   {
    "id": "canvas:assignment:9910",
    "course": "DAB",
@@ -428,6 +417,20 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-09-23T23:56:12+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27594#presessionsurvey",
+   "course": "IW",
+   "title": "Pre-session survey",
+   "type": "assignment",
+   "due": "2026-09-23T08:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6255",
+   "summary": "Complete the pre-session survey before the deadline.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27594",
+   "source_title": "WEDNESDAY 23 SEPTEMBER 2026 | SESSION 1 | THE BUSINESS CASE FOR EFFECTIVE WRITING",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-19T10:10:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27594#postsessionassignmentthebusinesscaseforeffectivewriting",
@@ -1256,18 +1259,18 @@
    "first_seen": "2026-11-18T10:11:50+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28332#prepgrantchapter4",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28332#prepgrant2025chapter4",
    "course": "ST",
-   "title": "Prep: Grant Chapter 4",
+   "title": "Prep: Grant (2025), Chapter 4",
    "type": "prep",
    "due": "2026-11-17T09:45:00+09:00",
    "url": null,
-   "summary": "Read Chapter 4 in Grant, 2025.",
+   "summary": "Read Chapter 4 in Grant (2025).",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28332",
    "source_title": "3 | 2026-11-17 TUE  | 0945-1145 | Industry Evolution and Dynamics",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-11T15:27:12+00:00"
+   "first_seen": "2026-11-19T10:10:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28332#prepcaselithiumionbatteries",
@@ -1276,7 +1279,7 @@
    "type": "prep",
    "due": "2026-11-17T09:45:00+09:00",
    "url": null,
-   "summary": "Read the case in Grant, 2025 and be ready to answer the questions.",
+   "summary": "Read the Lithium-Ion Batteries case and prepare to discuss the questions in class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28332",
    "source_title": "3 | 2026-11-17 TUE  | 0945-1145 | Industry Evolution and Dynamics",
    "note": "",
@@ -1284,29 +1287,29 @@
    "first_seen": "2026-11-11T15:27:12+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28331#prepgrantchapter5",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28331#prepgrant2025chapter5",
    "course": "ST",
-   "title": "Prep: Grant Chapter 5",
+   "title": "Prep: Grant (2025), Chapter 5",
    "type": "prep",
-   "due": "2026-11-19T09:45:00+09:00",
+   "due": "2026-11-19T12:45:00+09:00",
    "url": null,
    "summary": "Read Chapter 5 in Grant (2025).",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28331",
-   "source_title": "4 | 2026-11-19 THUR  | 0945-1145| Firm-specific resources and capabilities",
+   "source_title": "4 | 2026-11-19 THUR  | 1245-1445| Firm-specific resources and capabilities",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-11T15:27:12+00:00"
+   "first_seen": "2026-11-19T10:10:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28331#prepcasestreamingwarsnetflixvsdisney",
    "course": "ST",
    "title": "Prep: Case – Streaming Wars: Netflix vs Disney",
    "type": "prep",
-   "due": "2026-11-19T09:45:00+09:00",
+   "due": "2026-11-19T12:45:00+09:00",
    "url": null,
-   "summary": "Read the case and be ready to discuss the questions.",
+   "summary": "Read the case and prepare to discuss Netflix's and Disney's resources and capabilities.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28331",
-   "source_title": "4 | 2026-11-19 THUR  | 0945-1145| Firm-specific resources and capabilities",
+   "source_title": "4 | 2026-11-19 THUR  | 1245-1445| Firm-specific resources and capabilities",
    "note": "",
    "source": "page",
    "first_seen": "2026-11-11T15:27:12+00:00"
@@ -1360,7 +1363,7 @@
    "type": "prep",
    "due": "2026-11-19T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139156",
-   "summary": "Read the introduction to R and RStudio guide before class.",
+   "summary": "Read the guide and install R, RStudio, and the dplyr and parameters packages.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
    "source_title": "SESSION 5  | Introduction to Statistics",
    "note": "",
@@ -1368,46 +1371,18 @@
    "first_seen": "2026-11-16T10:10:50+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#installrandrstudioonyourdevice",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#downloadcustomerpurchasedatapurchasecsvpurchasexlsx",
    "course": "DAB",
-   "title": "Install R and RStudio on your device",
-   "type": "task",
-   "due": "2026-11-19T09:45:00+09:00",
-   "url": null,
-   "summary": "Install R and RStudio using Sections 1 and 2 of the reading before class.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
-   "source_title": "SESSION 5  | Introduction to Statistics",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-18T10:11:50+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#downloadthecustomerpurchasedata",
-   "course": "DAB",
-   "title": "Download the customer purchase data",
+   "title": "Download customer purchase data (purchase.csv, purchase.xlsx)",
    "type": "task",
    "due": "2026-11-19T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134086",
-   "summary": "Download the customer purchase data files (purchase.csv and purchase.xlsx).",
+   "summary": "Download the purchase.csv and purchase.xlsx customer data files before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
    "source_title": "SESSION 5  | Introduction to Statistics",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-18T10:11:50+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#installthedplyrandparametersrpackages",
-   "course": "DAB",
-   "title": "Install the dplyr and parameters R packages",
-   "type": "task",
-   "due": "2026-11-19T09:45:00+09:00",
-   "url": null,
-   "summary": "Install the dplyr and parameters packages before class.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
-   "source_title": "SESSION 5  | Introduction to Statistics",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-18T10:11:50+00:00"
+   "first_seen": "2026-11-19T10:10:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#onlinepollintroductiontostatisticseics",
@@ -1416,7 +1391,7 @@
    "type": "assignment",
    "due": "2026-11-19T07:00:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9939",
-   "summary": "Complete the online poll on introduction to statistics.",
+   "summary": "Complete the Introduction to Statistics online poll.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436",
    "source_title": "SESSION 5  | Introduction to Statistics",
    "note": "",
@@ -1452,18 +1427,18 @@
    "first_seen": "2026-11-17T10:11:48+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416#prepbmaechapters78",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416#prepbmaechapter78",
    "course": "CF",
-   "title": "Prep: BMAE Chapters 7-8",
+   "title": "Prep: BMAE, Chapter 7 & 8",
    "type": "prep",
    "due": "2026-11-18T12:45:00+09:00",
    "url": null,
-   "summary": "Read BMAE Chapter 7 (except 7-4) and Chapter 8 (except 8-5) and prepare CAPM questions.",
+   "summary": "Read BMAE Chapter 7 (except 7-4) and Chapter 8 (except 8-5) and work through the CAPM questions.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416",
    "source_title": "SESSION 4 | Portfolio Theory and the Capital Asset Pricing Model (CAPM)",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-18T10:11:50+00:00"
+   "first_seen": "2026-11-19T10:10:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28333#prepgrantchapter5analyzingresourcesandcapabilities",
@@ -1618,6 +1593,101 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-18T10:11:50+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443#prepbmaechapter9",
+   "course": "CF",
+   "title": "Prep: BMAE, Chapter 9",
+   "type": "prep",
+   "due": "2026-11-20T12:45:00+09:00",
+   "url": null,
+   "summary": "Read Chapter 9 of BMAE before reading the assigned case.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443",
+   "source_title": "SESSION 5 | Company Cost of Capital and WACC",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-19T10:10:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443#prepcaseflashmemoryinc",
+   "course": "CF",
+   "title": "Prep: Case – Flash Memory, Inc.",
+   "type": "prep",
+   "due": "2026-11-20T12:45:00+09:00",
+   "url": null,
+   "summary": "Read the Flash Memory, Inc. case and its supplementary Excel worksheet.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443",
+   "source_title": "SESSION 5 | Company Cost of Capital and WACC",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-19T10:10:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443#assignmentflashmemorycostofcapitalandwaccquestions",
+   "course": "CF",
+   "title": "Assignment: Flash Memory cost of capital and WACC questions",
+   "type": "assignment",
+   "due": "2026-11-20T12:45:00+09:00",
+   "url": null,
+   "summary": "Answer the cost of equity, WACC, and free cash flow questions for Flash Memory, Inc.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443",
+   "source_title": "SESSION 5 | Company Cost of Capital and WACC",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-19T10:10:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28334#prephbsnoteonscenarioplanning",
+   "course": "ST",
+   "title": "Prep: HBS Note on Scenario Planning",
+   "type": "prep",
+   "due": "2026-11-27T09:45:00+09:00",
+   "url": "https://hbsp.harvard.edu/import/1477944",
+   "summary": "Purchase and read the HBS note on scenario planning.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28334",
+   "source_title": "6 | 2026-11-27 FRI  | 0945-1145| Scenario Planning",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-19T10:10:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28334#preppreclassdistributionscenarioplanninglecture",
+   "course": "ST",
+   "title": "Prep: PreClass Distribution – Scenario Planning Lecture",
+   "type": "prep",
+   "due": "2026-11-27T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1381/files/139361",
+   "summary": "Read the pre-class distribution PDF on scenario planning.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28334",
+   "source_title": "6 | 2026-11-27 FRI  | 0945-1145| Scenario Planning",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-19T10:10:45+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28334#prepprereadscenarioplanninglecture",
+   "course": "ST",
+   "title": "Prep: Pre-Read – Scenario Planning Lecture",
+   "type": "prep",
+   "due": "2026-11-27T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1381/files/139362",
+   "summary": "Read the pre-read PDF on scenario planning.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28334",
+   "source_title": "6 | 2026-11-27 FRI  | 0945-1145| Scenario Planning",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-19T10:10:45+00:00"
+  },
+  {
+   "id": "canvas:quiz:6303",
+   "course": "IW",
+   "title": "[F26-27] IW Session 7 Pre-session survey",
+   "type": "quiz",
+   "due": "2026-11-03T23:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6303",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-03T10:11:32+00:00"
   },
   {
    "id": "canvas:assignment:9918",

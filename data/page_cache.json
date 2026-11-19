@@ -652,13 +652,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6303": {
-  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
-  "kind": "canvas_item",
-  "course": "IW",
-  "title": "[F26-27] IW Session 7 Pre-session survey",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9910": {
   "updated_at": "2026-11-05T00:14:08Z",
   "kind": "canvas_item",
@@ -1202,17 +1195,17 @@
   "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28332": {
-  "updated_at": "2026-11-09T21:04:13Z",
+  "updated_at": "2026-11-19T01:03:07Z",
   "kind": "page",
   "course": "ST",
   "title": "3 | 2026-11-17 TUE  | 0945-1145 | Industry Evolution and Dynamics",
   "items": [
    {
-    "title": "Prep: Grant Chapter 4",
+    "title": "Prep: Grant (2025), Chapter 4",
     "type": "prep",
     "due": "2026-11-17T09:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 4 in Grant, 2025.",
+    "summary": "Read Chapter 4 in Grant (2025).",
     "note": ""
    },
    {
@@ -1220,21 +1213,21 @@
     "type": "prep",
     "due": "2026-11-17T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case in Grant, 2025 and be ready to answer the questions.",
+    "summary": "Read the Lithium-Ion Batteries case and prepare to discuss the questions in class.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28331": {
-  "updated_at": "2026-11-11T06:18:26Z",
+  "updated_at": "2026-11-19T07:21:08Z",
   "kind": "page",
   "course": "ST",
-  "title": "4 | 2026-11-19 THUR  | 0945-1145| Firm-specific resources and capabilities",
+  "title": "4 | 2026-11-19 THUR  | 1245-1445| Firm-specific resources and capabilities",
   "items": [
    {
-    "title": "Prep: Grant Chapter 5",
+    "title": "Prep: Grant (2025), Chapter 5",
     "type": "prep",
-    "due": "2026-11-19T09:45:00+09:00",
+    "due": "2026-11-19T12:45:00+09:00",
     "url": null,
     "summary": "Read Chapter 5 in Grant (2025).",
     "note": ""
@@ -1242,9 +1235,9 @@
    {
     "title": "Prep: Case – Streaming Wars: Netflix vs Disney",
     "type": "prep",
-    "due": "2026-11-19T09:45:00+09:00",
+    "due": "2026-11-19T12:45:00+09:00",
     "url": null,
-    "summary": "Read the case and be ready to discuss the questions.",
+    "summary": "Read the case and prepare to discuss Netflix's and Disney's resources and capabilities.",
     "note": ""
    }
   ]
@@ -1335,14 +1328,14 @@
   "summary": "Take the midterm exam on the Kotobuki Udon: Entering Bangkok case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9939": {
-  "updated_at": "2026-11-16T02:09:46Z",
+  "updated_at": "2026-11-18T23:58:00Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Introduction to Statitics: E-ics",
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436": {
-  "updated_at": "2026-11-18T07:39:32Z",
+  "updated_at": "2026-11-19T03:23:33Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 5  | Introduction to Statistics",
@@ -1352,31 +1345,15 @@
     "type": "prep",
     "due": "2026-11-19T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139156",
-    "summary": "Read the introduction to R and RStudio guide before class.",
+    "summary": "Read the guide and install R, RStudio, and the dplyr and parameters packages.",
     "note": ""
    },
    {
-    "title": "Install R and RStudio on your device",
-    "type": "task",
-    "due": "2026-11-19T09:45:00+09:00",
-    "url": null,
-    "summary": "Install R and RStudio using Sections 1 and 2 of the reading before class.",
-    "note": ""
-   },
-   {
-    "title": "Download the customer purchase data",
+    "title": "Download customer purchase data (purchase.csv, purchase.xlsx)",
     "type": "task",
     "due": "2026-11-19T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134086",
-    "summary": "Download the customer purchase data files (purchase.csv and purchase.xlsx).",
-    "note": ""
-   },
-   {
-    "title": "Install the dplyr and parameters R packages",
-    "type": "task",
-    "due": "2026-11-19T09:45:00+09:00",
-    "url": null,
-    "summary": "Install the dplyr and parameters packages before class.",
+    "summary": "Download the purchase.csv and purchase.xlsx customer data files before class.",
     "note": ""
    },
    {
@@ -1384,7 +1361,7 @@
     "type": "assignment",
     "due": "2026-11-19T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9939",
-    "summary": "Complete the online poll on introduction to statistics.",
+    "summary": "Complete the Introduction to Statistics online poll.",
     "note": ""
    }
   ]
@@ -1428,17 +1405,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416": {
-  "updated_at": "2026-11-17T16:00:48Z",
+  "updated_at": "2026-11-18T14:33:15Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 4 | Portfolio Theory and the Capital Asset Pricing Model (CAPM)",
   "items": [
    {
-    "title": "Prep: BMAE Chapters 7-8",
+    "title": "Prep: BMAE, Chapter 7 & 8",
     "type": "prep",
     "due": "2026-11-18T12:45:00+09:00",
     "url": null,
-    "summary": "Read BMAE Chapter 7 (except 7-4) and Chapter 8 (except 8-5) and prepare CAPM questions.",
+    "summary": "Read BMAE Chapter 7 (except 7-4) and Chapter 8 (except 8-5) and work through the CAPM questions.",
     "note": ""
    }
   ]
@@ -1547,7 +1524,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9948": {
-  "updated_at": "2026-11-18T08:22:01Z",
+  "updated_at": "2026-11-18T23:57:33Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Pilgrim Bank (A) Online Poll",
@@ -1589,6 +1566,70 @@
     "due": "2026-11-23T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9948",
     "summary": "Complete the online poll on the Pilgrim Bank (A) case.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443": {
+  "updated_at": "2026-11-18T15:16:33Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 5 | Company Cost of Capital and WACC",
+  "items": [
+   {
+    "title": "Prep: BMAE, Chapter 9",
+    "type": "prep",
+    "due": "2026-11-20T12:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapter 9 of BMAE before reading the assigned case.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case – Flash Memory, Inc.",
+    "type": "prep",
+    "due": "2026-11-20T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the Flash Memory, Inc. case and its supplementary Excel worksheet.",
+    "note": ""
+   },
+   {
+    "title": "Assignment: Flash Memory cost of capital and WACC questions",
+    "type": "assignment",
+    "due": "2026-11-20T12:45:00+09:00",
+    "url": null,
+    "summary": "Answer the cost of equity, WACC, and free cash flow questions for Flash Memory, Inc.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28334": {
+  "updated_at": "2026-11-19T01:32:55Z",
+  "kind": "page",
+  "course": "ST",
+  "title": "6 | 2026-11-27 FRI  | 0945-1145| Scenario Planning",
+  "items": [
+   {
+    "title": "Prep: HBS Note on Scenario Planning",
+    "type": "prep",
+    "due": "2026-11-27T09:45:00+09:00",
+    "url": "https://hbsp.harvard.edu/import/1477944",
+    "summary": "Purchase and read the HBS note on scenario planning.",
+    "note": ""
+   },
+   {
+    "title": "Prep: PreClass Distribution – Scenario Planning Lecture",
+    "type": "prep",
+    "due": "2026-11-27T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1381/files/139361",
+    "summary": "Read the pre-class distribution PDF on scenario planning.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Pre-Read – Scenario Planning Lecture",
+    "type": "prep",
+    "due": "2026-11-27T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1381/files/139362",
+    "summary": "Read the pre-read PDF on scenario planning.",
     "note": ""
    }
   ]
