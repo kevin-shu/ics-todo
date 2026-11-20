@@ -652,13 +652,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9910": {
-  "updated_at": "2026-11-05T00:14:08Z",
-  "kind": "canvas_item",
-  "course": "DAB",
-  "title": "Freemark Abbey Winery Online Poll",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9911": {
   "updated_at": "2026-11-08T23:48:26Z",
   "kind": "canvas_item",
@@ -912,10 +905,10 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925": {
-  "updated_at": "2026-11-17T14:50:50Z",
+  "updated_at": "2026-11-19T11:13:44Z",
   "kind": "canvas_item",
   "course": "IW",
-  "title": "[F 26-27] IW Session 7 Post-session assignment",
+  "title": "[F 26-27] IW 7 Post-session assignment",
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304": {
@@ -1054,17 +1047,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28356": {
-  "updated_at": "2026-11-17T20:56:38Z",
+  "updated_at": "2026-11-20T02:41:19Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 5 | Line vs. cellular operation | Doré-Doré | November 20 (9:45-11:45)",
   "items": [
    {
-    "title": "Prep: Doré-Doré",
+    "title": "Prep: Case – Doré-Doré (692028)",
     "type": "prep",
     "due": "2026-11-20T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Doré-Doré case on children's knitwear and prepare to discuss the questions.",
+    "summary": "Read the Doré-Doré case, focusing on the children's knitwear operation.",
     "note": ""
    }
   ]
@@ -1094,7 +1087,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28404": {
-  "updated_at": "2026-11-17T14:11:06Z",
+  "updated_at": "2026-11-20T03:12:11Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 7 | Leading Through Organizational Change",
@@ -1104,7 +1097,7 @@
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139075",
-    "summary": "Review this pre-session material on responses to organizational change.",
+    "summary": "Review this pre-session material before the leadership session.",
     "note": ""
    },
    {
@@ -1112,7 +1105,7 @@
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139132",
-    "summary": "Review this pre-session material on responses to organizational change.",
+    "summary": "Review this pre-session material before the leadership session.",
     "note": ""
    },
    {
@@ -1120,7 +1113,7 @@
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139321",
-    "summary": "Review this pre-session material on responses to organizational change.",
+    "summary": "Review this pre-session material before the leadership session.",
     "note": ""
    }
   ]
@@ -1257,17 +1250,17 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27602": {
-  "updated_at": "2026-11-12T07:07:55Z",
+  "updated_at": "2026-11-19T11:34:06Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 18 NOVEMBER 2026 | SESSION 9 | EVERYBODY WINS! NEGOTIATING IN WRITING",
   "items": [
    {
-    "title": "Prep: Pre-session quiz",
-    "type": "prep",
+    "title": "Session 9 Pre-session quiz",
+    "type": "assignment",
     "due": "2026-11-18T15:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6305",
-    "summary": "Complete and submit the pre-session quiz before class.",
+    "summary": "Complete and submit the pre-session quiz before the session.",
     "note": ""
    },
    {
@@ -1275,23 +1268,31 @@
     "type": "prep",
     "due": "2026-11-18T15:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/files/139065",
-    "summary": "Read the case background paper before class.",
+    "summary": "Read the case background paper for the negotiation session.",
+    "note": ""
+   },
+   {
+    "title": "IW 9 Post-session assignment",
+    "type": "assignment",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9949",
+    "summary": "Submit the post-session assignment following the provided guidance.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433": {
-  "updated_at": "2026-11-13T15:10:31Z",
+  "updated_at": "2026-11-20T08:03:51Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
   "items": [
    {
-    "title": "Prep: Session 8 1120 pre-1.pdf",
+    "title": "Prep: Session 8 1120 pre-2.pdf",
     "type": "prep",
     "due": null,
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139096",
-    "summary": "Review the pre-session materials on sustaining team motivation.",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139435",
+    "summary": "Review this pre-session material before the leadership session.",
     "note": ""
    },
    {
@@ -1299,7 +1300,7 @@
     "type": "prep",
     "due": null,
     "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
-    "summary": "Review the pre-session slides on sustaining team motivation.",
+    "summary": "Review this pre-session material before the leadership session.",
     "note": ""
    }
   ]
@@ -1374,11 +1375,11 @@
   "summary": "One team member submits the team's presentation slides."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/assignments/9945": {
-  "updated_at": "2026-11-17T05:00:03Z",
+  "updated_at": "2026-11-19T23:44:40Z",
   "kind": "canvas_item",
   "course": "ST",
   "title": "Group Assignment 2: Industry evolution and dynamics",
-  "summary": "Submit a one-page summary on complementors, ecosystem actors, and future five-forces changes."
+  "summary": "Submit a one-page summary on complementors, ecosystem actors, and future industry forces."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599": {
   "updated_at": "2026-10-27T23:54:56Z",
@@ -1531,73 +1532,73 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28452": {
-  "updated_at": "2026-11-18T08:23:12Z",
+  "updated_at": "2026-11-20T08:25:27Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 6 | Sampling | Pilgrim Bank (A)",
   "items": [
    {
-    "title": "Prep: Pilgrim Bank (A): Customer Profitability",
+    "title": "Prep: Case – Pilgrim Bank (A): Customer Profitability",
     "type": "prep",
     "due": "2026-11-23T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Pilgrim Bank (A) case and prepare to answer the customer profitability questions.",
+    "summary": "Read the case and prepare the customer profitability discussion questions.",
     "note": ""
    },
    {
-    "title": "Prep: Pilgrim Bank Data (PilgrimBank.xlsx)",
+    "title": "Prep: Pilgrim Bank Data (PilgrimBank.xlsx/.csv)",
     "type": "prep",
     "due": "2026-11-23T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134098",
-    "summary": "Download and review the Pilgrim Bank customer data spreadsheet.",
+    "summary": "Download and review the Pilgrim Bank customer data for analysis.",
     "note": ""
    },
    {
-    "title": "Prep: HBI Quantitative Methods – Sampling & Estimation and Hypothesis Testing",
+    "title": "Prep: HBI Quantitative Methods – Sampling & Hypothesis Testing modules",
     "type": "prep",
     "due": "2026-11-23T09:45:00+09:00",
     "url": null,
-    "summary": "Review the Sampling & Estimation and Hypothesis Testing modules of the HBI online course.",
+    "summary": "Review the Sampling & Estimation and Hypothesis Testing online modules.",
     "note": ""
    },
    {
-    "title": "Online Poll: Pilgrim Bank (A)",
-    "type": "assignment",
+    "title": "Complete Pilgrim Bank (A) Online Poll",
+    "type": "task",
     "due": "2026-11-23T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9948",
-    "summary": "Complete the online poll on the Pilgrim Bank (A) case.",
+    "summary": "Complete the online poll about Pilgrim Bank customer profitability.",
     "note": ""
    }
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443": {
-  "updated_at": "2026-11-18T15:16:33Z",
+  "updated_at": "2026-11-19T15:58:53Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 5 | Company Cost of Capital and WACC",
   "items": [
    {
-    "title": "Prep: BMAE, Chapter 9",
-    "type": "prep",
-    "due": "2026-11-20T12:45:00+09:00",
-    "url": null,
-    "summary": "Read Chapter 9 of BMAE before reading the assigned case.",
-    "note": ""
-   },
-   {
     "title": "Prep: Case – Flash Memory, Inc.",
     "type": "prep",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Flash Memory, Inc. case and its supplementary Excel worksheet.",
+    "summary": "Purchase and read the Flash Memory, Inc. case before class.",
     "note": ""
    },
    {
-    "title": "Assignment: Flash Memory cost of capital and WACC questions",
+    "title": "Prep: BMAE, Chapter 9",
+    "type": "prep",
+    "due": "2026-11-20T12:45:00+09:00",
+    "url": null,
+    "summary": "Read BMAE Chapter 9 before reading the assigned case.",
+    "note": ""
+   },
+   {
+    "title": "Assignment: Flash Memory, Inc. valuation questions",
     "type": "assignment",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Answer the cost of equity, WACC, and free cash flow questions for Flash Memory, Inc.",
+    "summary": "Calculate Flash Memory's cost of equity, WACC, and project cash flows.",
     "note": ""
    }
   ]
@@ -1630,6 +1631,52 @@
     "due": "2026-11-27T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1381/files/139362",
     "summary": "Read the pre-read PDF on scenario planning.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9949": {
+  "updated_at": "2026-11-20T09:00:32Z",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW 9 Post-session assignment",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6308": {
+  "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW Session 10 Pre-session quiz",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27603": {
+  "updated_at": "2026-11-19T11:48:56Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 25 NOVEMBER 2026 | SESSION 10 | AS IT HAPPENED: IMPACTFUL REPORTING",
+  "items": [
+   {
+    "title": "Session 10 Pre-session quiz",
+    "type": "assignment",
+    "due": "2026-11-25T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6308",
+    "summary": "Complete and submit the pre-session quiz, available from Nov 19.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28444": {
+  "updated_at": "2026-11-19T16:08:48Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 6 | Cost of Capital | CASE STUDY:  Nike, Inc.   ",
+  "items": [
+   {
+    "title": "Prep: Case – Nike, Inc. Cost of Capital (Darden, 2001)",
+    "type": "prep",
+    "due": "2026-11-24T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the Nike case and prepare to discuss and calculate WACC.",
     "note": ""
    }
   ]
