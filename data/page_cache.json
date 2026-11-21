@@ -1282,28 +1282,11 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433": {
-  "updated_at": "2026-11-20T08:03:51Z",
+  "updated_at": "2026-11-21T09:11:46Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
-  "items": [
-   {
-    "title": "Prep: Session 8 1120 pre-2.pdf",
-    "type": "prep",
-    "due": null,
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139435",
-    "summary": "Review this pre-session material before the leadership session.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Session 8 Part 2 GD",
-    "type": "prep",
-    "due": null,
-    "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
-    "summary": "Review this pre-session material before the leadership session.",
-    "note": ""
-   }
-  ]
+  "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421": {
   "updated_at": "2026-11-17T06:31:47Z",
@@ -1572,17 +1555,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443": {
-  "updated_at": "2026-11-19T15:58:53Z",
+  "updated_at": "2026-11-20T16:19:02Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 5 | Company Cost of Capital and WACC",
   "items": [
    {
-    "title": "Prep: Case – Flash Memory, Inc.",
+    "title": "Prep: Case – Flash Memory, Inc",
     "type": "prep",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Purchase and read the Flash Memory, Inc. case before class.",
+    "summary": "Read the Flash Memory, Inc. case before the session.",
     "note": ""
    },
    {
@@ -1590,15 +1573,15 @@
     "type": "prep",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Read BMAE Chapter 9 before reading the assigned case.",
+    "summary": "Read Chapter 9 of BMAE before reading the assigned case.",
     "note": ""
    },
    {
-    "title": "Assignment: Flash Memory, Inc. valuation questions",
+    "title": "Pre-session assignment: Flash Memory case questions",
     "type": "assignment",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Calculate Flash Memory's cost of equity, WACC, and project cash flows.",
+    "summary": "Answer the four questions on cost of equity, WACC, and free cash flows for Flash Memory.",
     "note": ""
    }
   ]
@@ -1636,7 +1619,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9949": {
-  "updated_at": "2026-11-20T09:00:32Z",
+  "updated_at": "2026-11-21T03:15:17Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 9 Post-session assignment",
@@ -1680,5 +1663,19 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9914": {
+  "updated_at": "2026-11-20T13:29:15Z",
+  "kind": "canvas_item",
+  "course": "LD",
+  "title": "Session 8  Weekly Reflection",
+  "summary": "Submit a weekly reflection assignment due Tuesday."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/assignments/9951": {
+  "updated_at": "2026-11-20T15:00:04Z",
+  "kind": "canvas_item",
+  "course": "CF",
+  "title": "Written Assignment No.1 (Due: 23:59, November 29 (Sunday))",
+  "summary": "Submit Written Assignment No.1 answers as a PDF using the provided answer sheet."
  }
 }
