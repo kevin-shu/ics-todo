@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:10:11+00:00",
+ "generated_at": "2026-11-22T10:10:04+00:00",
  "items": [
   {
    "id": "canvas:assignment:9925",
@@ -196,8 +196,19 @@
    "due": "2026-11-29T14:59:59Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/assignments/9951",
    "source": "canvas",
-   "summary": "Submit Written Assignment No.1 answers as a PDF using the provided answer sheet.",
+   "summary": "Submit your answer sheet for Written Assignment No.1 as a PDF file.",
    "first_seen": "2026-11-21T10:10:11+00:00"
+  },
+  {
+   "id": "canvas:assignment:9952",
+   "course": "CF",
+   "title": "Written Assignment No.2 (Due: 23:59, December 2, Wednesday) (PDF File Only)",
+   "type": "assignment",
+   "due": "2026-12-02T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/assignments/9952",
+   "source": "canvas",
+   "summary": "Submit your answer sheet for Written Assignment No.2 as a PDF file.",
+   "first_seen": "2026-11-22T10:10:04+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27930#packwinterclothingandbringtowelsforthekaruizawaretreat",
@@ -1376,6 +1387,34 @@
    "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433#prepsession81120pre2pdf",
+   "course": "LD",
+   "title": "Prep: Session 8 1120 pre-2.pdf",
+   "type": "prep",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139435",
+   "summary": "Review the pre-session material before Session 8.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433",
+   "source_title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-22T10:10:04+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433#prepsession8part2gd",
+   "course": "LD",
+   "title": "Prep: Session 8 Part 2 GD",
+   "type": "prep",
+   "due": null,
+   "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
+   "summary": "Review the pre-session slides before Session 8.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433",
+   "source_title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-22T10:10:04+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#prepintroductiontorandrstudiopdf",
    "course": "DAB",
    "title": "Prep: Introduction to R and RStudio (PDF)",
@@ -1416,34 +1455,6 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-16T10:10:50+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#midtermexam",
-   "course": "IW",
-   "title": "Mid-term Exam",
-   "type": "exam",
-   "due": "2026-10-28T12:00:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
-   "summary": "Complete the mid-term exam task given in class and submit your answers.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
-   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-17T10:11:48+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#signupformidtermconsultationtimeslot",
-   "course": "IW",
-   "title": "Sign up for mid-term consultation timeslot",
-   "type": "task",
-   "due": "2026-10-28T09:00:00+09:00",
-   "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
-   "summary": "Indicate your preferred date and time for an optional mid-term consultation via Doodle poll.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599",
-   "source_title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
-   "note": "optional",
-   "source": "page",
-   "first_seen": "2026-11-17T10:11:48+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416#prepbmaechapter78",
@@ -1696,6 +1707,34 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-20T10:12:44+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406#prepsession91127prepdf",
+   "course": "LD",
+   "title": "Prep: Session 9 1127 pre.pdf",
+   "type": "prep",
+   "due": null,
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139489",
+   "summary": "Review the pre-session material before Session 9.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406",
+   "source_title": "SESSION 9 | Systems Thinking: Seeing the Bigger Picture",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-22T10:10:04+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406#prepsession9part2gd",
+   "course": "LD",
+   "title": "Prep: Session 9 Part 2 GD",
+   "type": "prep",
+   "due": null,
+   "url": "https://docs.google.com/presentation/d/1ituHSxEwvkGM6GZ7HeWvQxFyfozYNjhtEiCXOjclGXo/edit?usp=sharing",
+   "summary": "Review the pre-session slides before Session 9.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406",
+   "source_title": "SESSION 9 | Systems Thinking: Seeing the Bigger Picture",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-22T10:10:04+00:00"
   },
   {
    "id": "canvas:assignment:9910",

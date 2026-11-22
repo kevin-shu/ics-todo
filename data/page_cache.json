@@ -1282,11 +1282,28 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433": {
-  "updated_at": "2026-11-21T09:11:46Z",
+  "updated_at": "2026-11-22T01:54:23Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
-  "items": []
+  "items": [
+   {
+    "title": "Prep: Session 8 1120 pre-2.pdf",
+    "type": "prep",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139435",
+    "summary": "Review the pre-session material before Session 8.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Session 8 Part 2 GD",
+    "type": "prep",
+    "due": null,
+    "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
+    "summary": "Review the pre-session slides before Session 8.",
+    "note": ""
+   }
+  ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421": {
   "updated_at": "2026-11-17T06:31:47Z",
@@ -1363,30 +1380,6 @@
   "course": "ST",
   "title": "Group Assignment 2: Industry evolution and dynamics",
   "summary": "Submit a one-page summary on complementors, ecosystem actors, and future industry forces."
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599": {
-  "updated_at": "2026-10-27T23:54:56Z",
-  "kind": "page",
-  "course": "IW",
-  "title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
-  "items": [
-   {
-    "title": "Mid-term Exam",
-    "type": "exam",
-    "due": "2026-10-28T12:00:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
-    "summary": "Complete the mid-term exam task given in class and submit your answers.",
-    "note": ""
-   },
-   {
-    "title": "Sign up for mid-term consultation timeslot",
-    "type": "task",
-    "due": "2026-10-28T09:00:00+09:00",
-    "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
-    "summary": "Indicate your preferred date and time for an optional mid-term consultation via Doodle poll.",
-    "note": "optional"
-   }
-  ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28416": {
   "updated_at": "2026-11-18T14:33:15Z",
@@ -1619,7 +1612,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9949": {
-  "updated_at": "2026-11-21T03:15:17Z",
+  "updated_at": "2026-11-22T09:42:42Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 9 Post-session assignment",
@@ -1672,10 +1665,41 @@
   "summary": "Submit a weekly reflection assignment due Tuesday."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/assignments/9951": {
-  "updated_at": "2026-11-20T15:00:04Z",
+  "updated_at": "2026-11-22T06:46:28Z",
   "kind": "canvas_item",
   "course": "CF",
   "title": "Written Assignment No.1 (Due: 23:59, November 29 (Sunday))",
-  "summary": "Submit Written Assignment No.1 answers as a PDF using the provided answer sheet."
+  "summary": "Submit your answer sheet for Written Assignment No.1 as a PDF file."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/assignments/9952": {
+  "updated_at": "2026-11-22T06:55:44Z",
+  "kind": "canvas_item",
+  "course": "CF",
+  "title": "Written Assignment No.2 (Due: 23:59, December 2, Wednesday) (PDF File Only)",
+  "summary": "Submit your answer sheet for Written Assignment No.2 as a PDF file."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406": {
+  "updated_at": "2026-11-22T06:16:28Z",
+  "kind": "page",
+  "course": "LD",
+  "title": "SESSION 9 | Systems Thinking: Seeing the Bigger Picture",
+  "items": [
+   {
+    "title": "Prep: Session 9 1127 pre.pdf",
+    "type": "prep",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139489",
+    "summary": "Review the pre-session material before Session 9.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Session 9 Part 2 GD",
+    "type": "prep",
+    "due": null,
+    "url": "https://docs.google.com/presentation/d/1ituHSxEwvkGM6GZ7HeWvQxFyfozYNjhtEiCXOjclGXo/edit?usp=sharing",
+    "summary": "Review the pre-session slides before Session 9.",
+    "note": ""
+   }
+  ]
  }
 }
