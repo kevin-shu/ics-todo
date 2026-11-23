@@ -690,7 +690,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules": {
-  "updated_at": "MODULE 0 | INTRODUCTION TO DAB\n| 1 | 2026-11-05 | THU | 09:45-11:45 |\nMODULE 1 | RISK MANAGEMENT\n| 2 | 2026-11-09 | MON | 09:45-11:45 |\n| 3 | 2026-11-12 | THU | 09:45-11:45 |\n| 4 | 2026-11-16 | MON | 09:45-11:45 |\nMODULE 2 | DATA ANALYTICS\n| 5 | 2026-11-19 | THU | 09:45-11:45 |\n| 6 | 2026-11-23 | MON | 09:45-11:45 |",
+  "updated_at": "MODULE 0 | INTRODUCTION TO DAB\n| 1 | 2026-11-05 | THU | 09:45-11:45 |\nMODULE 1 | RISK MANAGEMENT\n| 2 | 2026-11-09 | MON | 09:45-11:45 |\n| 3 | 2026-11-12 | THU | 09:45-11:45 |\n| 4 | 2026-11-16 | MON | 09:45-11:45 |\nMODULE 2 | DATA ANALYTICS\n| 5 | 2026-11-19 | THU | 09:45-11:45 |\n| 6 | 2026-11-23 | MON | 09:45-11:45 |\n| 7 | 2026-11-26 | THU | 09:45-11:45 |",
   "kind": "page",
   "course": "DAB",
   "title": "Module outline",
@@ -903,13 +903,6 @@
     "note": ""
    }
   ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9925": {
-  "updated_at": "2026-11-19T11:13:44Z",
-  "kind": "canvas_item",
-  "course": "IW",
-  "title": "[F 26-27] IW 7 Post-session assignment",
-  "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304": {
   "updated_at": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1322,11 +1315,11 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9938": {
-  "updated_at": "2026-11-16T02:48:41Z",
+  "updated_at": "2026-11-23T03:36:26Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Midterm Examination",
-  "summary": "Take the midterm exam on the Kotobuki Udon: Entering Bangkok case."
+  "summary": "Take the midterm exam based on the Kotobuki Udon case."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9939": {
   "updated_at": "2026-11-18T23:58:00Z",
@@ -1422,7 +1415,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28357": {
-  "updated_at": "2026-11-17T09:00:56Z",
+  "updated_at": "2026-11-22T16:46:32Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 6 | Field Study Presentation | November 23 (12:45-14:45) ",
@@ -1432,15 +1425,15 @@
     "type": "assignment",
     "due": "2026-11-22T20:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1380/quizzes/6307",
-    "summary": "Submit your group's field study presentation slides in PowerPoint format.",
+    "summary": "Submit your group's PowerPoint presentation for the field study.",
     "note": ""
    },
    {
-    "title": "Submit peer evaluation for group project",
-    "type": "task",
-    "due": "2026-11-24T20:00:00+09:00",
-    "url": null,
-    "summary": "Individually and confidentially evaluate each of your teammates.",
+    "title": "[AY26-27] Field Study Peer Evaluation",
+    "type": "assignment",
+    "due": "2026-11-25T20:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1380/quizzes/6309",
+    "summary": "Submit an individual evaluation of your teammates confidentially.",
     "note": ""
    }
   ]
@@ -1501,14 +1494,14 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9948": {
-  "updated_at": "2026-11-18T23:57:33Z",
+  "updated_at": "2026-11-23T00:02:15Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Pilgrim Bank (A) Online Poll",
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28452": {
-  "updated_at": "2026-11-20T08:25:27Z",
+  "updated_at": "2026-11-23T02:52:29Z",
   "kind": "page",
   "course": "DAB",
   "title": "SESSION 6 | Sampling | Pilgrim Bank (A)",
@@ -1518,31 +1511,31 @@
     "type": "prep",
     "due": "2026-11-23T09:45:00+09:00",
     "url": null,
-    "summary": "Read the case and prepare the customer profitability discussion questions.",
+    "summary": "Read the case on customer profitability analysis at Pilgrim Bank.",
     "note": ""
    },
    {
-    "title": "Prep: Pilgrim Bank Data (PilgrimBank.xlsx/.csv)",
+    "title": "Prep: Pilgrim Bank Data (PilgrimBank.xlsx)",
     "type": "prep",
     "due": "2026-11-23T09:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134098",
-    "summary": "Download and review the Pilgrim Bank customer data for analysis.",
+    "summary": "Download and review the Pilgrim Bank customer data before class.",
     "note": ""
    },
    {
-    "title": "Prep: HBI Quantitative Methods – Sampling & Hypothesis Testing modules",
+    "title": "Prep: HBI Quantitative Methods – Sampling & Estimation and Hypothesis Testing",
     "type": "prep",
     "due": "2026-11-23T09:45:00+09:00",
     "url": null,
-    "summary": "Review the Sampling & Estimation and Hypothesis Testing online modules.",
+    "summary": "Review the Sampling & Estimation and Hypothesis Testing online modules before class.",
     "note": ""
    },
    {
-    "title": "Complete Pilgrim Bank (A) Online Poll",
-    "type": "task",
+    "title": "Pilgrim Bank (A) Online Poll",
+    "type": "assignment",
     "due": "2026-11-23T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9948",
-    "summary": "Complete the online poll about Pilgrim Bank customer profitability.",
+    "summary": "Submit your discussion-question answers via the online poll before class.",
     "note": ""
    }
   ]
@@ -1612,7 +1605,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9949": {
-  "updated_at": "2026-11-22T09:42:42Z",
+  "updated_at": "2026-11-22T14:51:36Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 9 Post-session assignment",
@@ -1698,6 +1691,84 @@
     "due": null,
     "url": "https://docs.google.com/presentation/d/1ituHSxEwvkGM6GZ7HeWvQxFyfozYNjhtEiCXOjclGXo/edit?usp=sharing",
     "summary": "Review the pre-session slides before Session 9.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1380/quizzes/6309": {
+  "updated_at": "af90a26aa42a50500069599de3238969",
+  "kind": "canvas_item",
+  "course": "TOM",
+  "title": "[AY26-27] Peer Evaluation Submission",
+  "summary": "Submit your peer evaluation sheet."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9955": {
+  "updated_at": "2026-11-23T05:54:21Z",
+  "kind": "canvas_item",
+  "course": "DAB",
+  "title": "Waite First Securities Online Poll",
+  "summary": ""
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599": {
+  "updated_at": "2026-10-27T23:54:56Z",
+  "kind": "page",
+  "course": "IW",
+  "title": "WEDNESDAY 28 OCTOBER 2026 | SESSION 6 | MID-TERM EXAM",
+  "items": [
+   {
+    "title": "Mid-term Exam",
+    "type": "exam",
+    "due": "2026-10-28T09:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9918",
+    "summary": "Take the mid-term exam; the exact task will be announced at the session's start.",
+    "note": ""
+   },
+   {
+    "title": "Sign up for mid-term individual consultation via Doodle poll",
+    "type": "task",
+    "due": null,
+    "url": "https://doodle.com/sign-up-sheet/participate/8438ab7a-ee19-4e3b-9bff-28dda76d6a2d/select",
+    "summary": "Indicate your preferred time for an optional mid-term consultation via the Doodle poll.",
+    "note": "optional"
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474": {
+  "updated_at": "2026-11-23T05:55:23Z",
+  "kind": "page",
+  "course": "DAB",
+  "title": "SESSION 7 | Regression Analysis | Waite First Securities",
+  "items": [
+   {
+    "title": "Prep: Case – Waite First Securities",
+    "type": "prep",
+    "due": "2026-11-26T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Waite First Securities case on stock selection.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Waite First Securities Data (WaiteFirstSecurities.xlsx)",
+    "type": "prep",
+    "due": "2026-11-26T09:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134100",
+    "summary": "Download and review the Waite First Securities data before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: HBI Quantitative Methods – Regression Basics",
+    "type": "prep",
+    "due": "2026-11-26T09:45:00+09:00",
+    "url": null,
+    "summary": "Review the Regression Basics module of the online course before class.",
+    "note": ""
+   },
+   {
+    "title": "Waite First Securities Online Poll",
+    "type": "assignment",
+    "due": "2026-11-26T07:00:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9955",
+    "summary": "Submit your discussion-question answers via the online poll before class.",
     "note": ""
    }
   ]
