@@ -336,7 +336,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1267/modules/items/27878": {
-  "updated_at": "2026-09-08T13:19:26Z",
+  "updated_at": "2026-11-24T08:02:18Z",
   "kind": "page",
   "course": "MBAE",
   "title": "NOV 25 (WED) | 830-1145 | PRESENTATION SKILLS 1",
@@ -346,7 +346,15 @@
     "type": "prep",
     "due": "2026-11-25T08:30:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1267/files/135626",
-    "summary": "Read the presentation skills textbook material.",
+    "summary": "Read the presentation skills textbook materials before the workshop.",
+    "note": ""
+   },
+   {
+    "title": "Bring a device with internet access and earphones",
+    "type": "task",
+    "due": "2026-11-25T08:30:00+09:00",
+    "url": null,
+    "summary": "Bring a device with internet access and earphones to the session.",
     "note": ""
    }
   ]
@@ -651,13 +659,6 @@
     "note": ""
    }
   ]
- },
- "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9911": {
-  "updated_at": "2026-11-08T23:48:26Z",
-  "kind": "canvas_item",
-  "course": "DAB",
-  "title": "Merck & Company Online Poll",
-  "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912": {
   "updated_at": "2026-11-12T00:20:26Z",
@@ -1229,7 +1230,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9935": {
-  "updated_at": "2026-11-15T14:58:55Z",
+  "updated_at": "2026-11-23T23:00:49Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 8 Post-session assignment",
@@ -1275,25 +1276,25 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433": {
-  "updated_at": "2026-11-22T01:54:23Z",
+  "updated_at": "2026-11-24T05:36:32Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
   "items": [
    {
-    "title": "Prep: Session 8 1120 pre-2.pdf",
+    "title": "Prep: Session 8 Pre-Session Slides Part 1",
     "type": "prep",
     "due": null,
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139435",
-    "summary": "Review the pre-session material before Session 8.",
+    "summary": "Review the pre-session slides on sustaining motivation through psychological needs and communication.",
     "note": ""
    },
    {
-    "title": "Prep: Session 8 Part 2 GD",
+    "title": "Prep: Session 8 Pre-Session Slides Part 2",
     "type": "prep",
     "due": null,
     "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
-    "summary": "Review the pre-session slides before Session 8.",
+    "summary": "Review the pre-session Part 2 slides before the session.",
     "note": ""
    }
   ]
@@ -1391,17 +1392,17 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28333": {
-  "updated_at": "2026-11-16T23:54:06Z",
+  "updated_at": "2026-11-24T05:07:03Z",
   "kind": "page",
   "course": "ST",
   "title": "5 | 2026-11-24 TUE  | 0945-1145| Sources of competitive advantage",
   "items": [
    {
-    "title": "Prep: Grant, Chapter 5. Analyzing Resources and Capabilities",
+    "title": "Prep: Grant Chapter 5 – Analyzing Resources and Capabilities",
     "type": "prep",
     "due": "2026-11-24T09:45:00+09:00",
     "url": null,
-    "summary": "Read the chapter on analyzing firm resources and capabilities.",
+    "summary": "Read Chapter 5 of Grant on analyzing resources and capabilities.",
     "note": ""
    },
    {
@@ -1409,7 +1410,7 @@
     "type": "prep",
     "due": "2026-11-24T09:45:00+09:00",
     "url": null,
-    "summary": "Read the Starbucks case and prepare to discuss its sources of competitive advantage.",
+    "summary": "Read the Starbucks case and prepare the discussion questions.",
     "note": ""
    }
   ]
@@ -1541,33 +1542,33 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28443": {
-  "updated_at": "2026-11-20T16:19:02Z",
+  "updated_at": "2026-11-23T12:56:24Z",
   "kind": "page",
   "course": "CF",
-  "title": "SESSION 5 | Company Cost of Capital and WACC",
+  "title": "SESSION 5 | Company Cost of Capital and WACC (Flash Memory 1)",
   "items": [
    {
-    "title": "Prep: Case – Flash Memory, Inc",
+    "title": "Prep: Case – Flash Memory, Inc.",
     "type": "prep",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Flash Memory, Inc. case before the session.",
+    "summary": "Read the case Flash Memory, Inc. before the session.",
     "note": ""
    },
    {
-    "title": "Prep: BMAE, Chapter 9",
+    "title": "Prep: BMAE Chapter 9",
     "type": "prep",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 9 of BMAE before reading the assigned case.",
+    "summary": "Read BMAE Chapter 9 before reading the assigned case.",
     "note": ""
    },
    {
-    "title": "Pre-session assignment: Flash Memory case questions",
+    "title": "Pre-session Assignment: Flash Memory Cost of Capital Analysis",
     "type": "assignment",
     "due": "2026-11-20T12:45:00+09:00",
     "url": null,
-    "summary": "Answer the four questions on cost of equity, WACC, and free cash flows for Flash Memory.",
+    "summary": "Calculate Flash Memory's cost of equity, WACC, and related free cash flows in advance.",
     "note": ""
    }
   ]
@@ -1635,7 +1636,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28444": {
-  "updated_at": "2026-11-19T16:08:48Z",
+  "updated_at": "2026-11-24T09:09:25Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 6 | Cost of Capital | CASE STUDY:  Nike, Inc.   ",
@@ -1645,7 +1646,7 @@
     "type": "prep",
     "due": "2026-11-24T12:45:00+09:00",
     "url": null,
-    "summary": "Read the Nike case and prepare to discuss and calculate WACC.",
+    "summary": "Read the Nike cost of capital case and prepare the discussion questions.",
     "note": ""
    }
   ]
@@ -1703,7 +1704,7 @@
   "summary": "Submit your peer evaluation sheet."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9955": {
-  "updated_at": "2026-11-23T05:54:21Z",
+  "updated_at": "2026-11-24T01:04:10Z",
   "kind": "canvas_item",
   "course": "DAB",
   "title": "Waite First Securities Online Poll",
@@ -1769,6 +1770,101 @@
     "due": "2026-11-26T07:00:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9955",
     "summary": "Submit your discussion-question answers via the online poll before class.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/assignments/9958": {
+  "updated_at": "2026-11-24T03:00:06Z",
+  "kind": "canvas_item",
+  "course": "ST",
+  "title": "Group Assignment 3: Resources and capabilities",
+  "summary": "Analyze your company's KSFs, value proposition, strategy basis, and sustainable competitive advantage."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445": {
+  "updated_at": "2026-11-23T12:36:04Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 7 | Financial Projections I  (Financial Modeling) / Reviews / Midterm Exam",
+  "items": [
+   {
+    "title": "Financial Projection Exercise",
+    "type": "assignment",
+    "due": "2026-11-27T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/139707",
+    "summary": "Build your own financial projections using the provided blank Excel worksheet before class.",
+    "note": ""
+   },
+   {
+    "title": "Midterm Exam",
+    "type": "exam",
+    "due": "2026-11-27T12:45:00+09:00",
+    "url": null,
+    "summary": "A 15-minute closed-book midterm exam will be held at the end of the session.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28446": {
+  "updated_at": "2026-11-24T09:08:11Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 8 | Financial Projections II (Flash Memory 2)",
+  "items": [
+   {
+    "title": "Prep: Case – Flash Memory, Inc.",
+    "type": "prep",
+    "due": "2026-12-01T12:45:00+09:00",
+    "url": null,
+    "summary": "Re-read the case Flash Memory, Inc. before the session.",
+    "note": ""
+   },
+   {
+    "title": "Prep: BMAE Chapter 30",
+    "type": "prep",
+    "due": "2026-12-01T12:45:00+09:00",
+    "url": null,
+    "summary": "Read Chapter 30 of BMAE before the session.",
+    "note": ""
+   },
+   {
+    "title": "Flash Memory Financial Projections Exercise",
+    "type": "assignment",
+    "due": "2026-12-01T12:45:00+09:00",
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/134333",
+    "summary": "Prepare forecasted income statements and balance sheets for Flash Memory, Inc.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28447": {
+  "updated_at": "2026-11-24T03:09:47Z",
+  "kind": "page",
+  "course": "CF",
+  "title": "SESSION 9 | Financial Projections III (Jones Electrical Distribution)",
+  "items": [
+   {
+    "title": "Prep: Case – Jones Electrical Distribution",
+    "type": "prep",
+    "due": "2026-12-04T12:45:00+09:00",
+    "url": null,
+    "summary": "Read the case and prepare to answer the discussion questions.",
+    "note": ""
+   },
+   {
+    "title": "Bring PC with completed worksheets to class",
+    "type": "task",
+    "due": "2026-12-04T12:45:00+09:00",
+    "url": null,
+    "summary": "Bring your PC with completed worksheets to the session.",
+    "note": ""
+   },
+   {
+    "title": "Jones Electrical Distribution Financial Projections Exercise",
+    "type": "assignment",
+    "due": "2026-12-04T12:45:00+09:00",
+    "url": null,
+    "summary": "Compile projected income statements and balance sheets for Jones Electrical Distribution.",
     "note": ""
    }
   ]
