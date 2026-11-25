@@ -621,13 +621,6 @@
   "title": "SESSION 6 | Leadership Styles and Situational Adaptation",
   "items": []
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913": {
-  "updated_at": "2026-11-14T16:29:19Z",
-  "kind": "canvas_item",
-  "course": "LD",
-  "title": "Session 6  Weekly Reflection",
-  "summary": "Submit weekly reflection report using the provided template by Tuesday."
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27600": {
   "updated_at": "2026-11-04T15:02:04Z",
   "kind": "page",
@@ -1620,17 +1613,25 @@
   "summary": ""
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27603": {
-  "updated_at": "2026-11-19T11:48:56Z",
+  "updated_at": "2026-11-25T06:10:21Z",
   "kind": "page",
   "course": "IW",
   "title": "WEDNESDAY 25 NOVEMBER 2026 | SESSION 10 | AS IT HAPPENED: IMPACTFUL REPORTING",
   "items": [
    {
-    "title": "Session 10 Pre-session quiz",
-    "type": "assignment",
+    "title": "Prep: Quiz",
+    "type": "prep",
     "due": "2026-11-25T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6308",
-    "summary": "Complete and submit the pre-session quiz, available from Nov 19.",
+    "summary": "Complete and submit the pre-session quiz before class.",
+    "note": ""
+   },
+   {
+    "title": "IW 10 Post-session assignment",
+    "type": "assignment",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9960",
+    "summary": "Submit the post-session assignment for this session.",
     "note": ""
    }
   ]
@@ -1868,5 +1869,12 @@
     "note": ""
    }
   ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9960": {
+  "updated_at": "2026-11-25T06:57:38Z",
+  "kind": "canvas_item",
+  "course": "IW",
+  "title": "[F 26-27] IW 10 Post-session assignment",
+  "summary": ""
  }
 }

@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-11-24T10:11:19+00:00",
+ "generated_at": "2026-11-25T10:10:17+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9913",
-   "course": "LD",
-   "title": "Session 6  Weekly Reflection",
-   "type": "assignment",
-   "due": "2026-11-10T14:59:59Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913",
-   "source": "canvas",
-   "summary": "Submit weekly reflection report using the provided template by Tuesday.",
-   "first_seen": "2026-11-02T10:11:03+00:00"
-  },
   {
    "id": "canvas:quiz:6304",
    "course": "IW",
@@ -198,6 +187,17 @@
    "source": "canvas",
    "summary": "Submit your answer sheet for Written Assignment No.1 as a PDF file.",
    "first_seen": "2026-11-21T10:10:11+00:00"
+  },
+  {
+   "id": "canvas:assignment:9960",
+   "course": "IW",
+   "title": "[F 26-27] IW 10 Post-session assignment",
+   "type": "assignment",
+   "due": "2026-11-29T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9960",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-25T10:10:17+00:00"
   },
   {
    "id": "canvas:assignment:9958",
@@ -1734,6 +1734,20 @@
    "first_seen": "2026-11-19T10:10:45+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27603#prepquiz",
+   "course": "IW",
+   "title": "Prep: Quiz",
+   "type": "prep",
+   "due": "2026-11-25T12:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6308",
+   "summary": "Complete and submit the pre-session quiz before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27603",
+   "source_title": "WEDNESDAY 25 NOVEMBER 2026 | SESSION 10 | AS IT HAPPENED: IMPACTFUL REPORTING",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-25T10:10:17+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28444#prepcasenikeinccostofcapitaldarden2001",
    "course": "CF",
    "title": "Prep: Case – Nike, Inc. Cost of Capital (Darden, 2001)",
@@ -1942,6 +1956,17 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-24T10:11:19+00:00"
+  },
+  {
+   "id": "canvas:assignment:9913",
+   "course": "LD",
+   "title": "Session 6  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-11-10T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9913",
+   "source": "canvas",
+   "summary": "Submit weekly reflection report using the provided template by Tuesday.",
+   "first_seen": "2026-11-02T10:11:03+00:00"
   },
   {
    "id": "canvas:assignment:9911",
