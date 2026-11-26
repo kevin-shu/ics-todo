@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-11-25T10:10:17+00:00",
+ "generated_at": "2026-11-26T10:10:43+00:00",
  "items": [
-  {
-   "id": "canvas:quiz:6304",
-   "course": "IW",
-   "title": "[F 26-27] IW Session 8 Pre-session quiz",
-   "type": "quiz",
-   "due": "2026-11-10T23:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-11-05T10:12:04+00:00"
-  },
   {
    "id": "canvas:assignment:9912",
    "course": "DAB",
@@ -200,6 +189,17 @@
    "first_seen": "2026-11-25T10:10:17+00:00"
   },
   {
+   "id": "canvas:assignment:9963",
+   "course": "DAB",
+   "title": "GoodBelly Online Poll",
+   "type": "assignment",
+   "due": "2026-11-29T22:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9963",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
    "id": "canvas:assignment:9958",
    "course": "ST",
    "title": "Group Assignment 3: Resources and capabilities",
@@ -209,6 +209,17 @@
    "source": "canvas",
    "summary": "Analyze your company's KSFs, value proposition, strategy basis, and sustainable competitive advantage.",
    "first_seen": "2026-11-24T10:11:19+00:00"
+  },
+  {
+   "id": "canvas:quiz:6311",
+   "course": "IW",
+   "title": "[F 26-27] IW Session 11 Pre-session survey",
+   "type": "quiz",
+   "due": "2026-12-01T23:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6311",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-26T10:10:43+00:00"
   },
   {
    "id": "canvas:assignment:9952",
@@ -486,20 +497,6 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-09-23T23:56:12+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27594#presessionsurvey",
-   "course": "IW",
-   "title": "Pre-session survey",
-   "type": "assignment",
-   "due": "2026-09-23T08:00:00+09:00",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6255",
-   "summary": "Complete the pre-session survey before the deadline.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27594",
-   "source_title": "WEDNESDAY 23 SEPTEMBER 2026 | SESSION 1 | THE BUSINESS CASE FOR EFFECTIVE WRITING",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-19T10:10:45+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27594#postsessionassignmentthebusinesscaseforeffectivewriting",
@@ -1818,18 +1815,18 @@
    "first_seen": "2026-11-23T10:10:54+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474#prepcasewaitefirstsecurities",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474#prepcasewaitefirstsecuritiesuv6187",
    "course": "DAB",
-   "title": "Prep: Case – Waite First Securities",
+   "title": "Prep: Case – Waite First Securities (UV6187)",
    "type": "prep",
    "due": "2026-11-26T09:45:00+09:00",
    "url": null,
-   "summary": "Read the Waite First Securities case on stock selection.",
+   "summary": "Read the Waite First Securities case before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474",
    "source_title": "SESSION 7 | Regression Analysis | Waite First Securities",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-23T10:10:54+00:00"
+   "first_seen": "2026-11-26T10:10:43+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474#prepwaitefirstsecuritiesdatawaitefirstsecuritiesxlsx",
@@ -1838,7 +1835,7 @@
    "type": "prep",
    "due": "2026-11-26T09:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/134100",
-   "summary": "Download and review the Waite First Securities data before class.",
+   "summary": "Download and review the Waite First Securities regression dataset.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474",
    "source_title": "SESSION 7 | Regression Analysis | Waite First Securities",
    "note": "",
@@ -1846,18 +1843,32 @@
    "first_seen": "2026-11-23T10:10:54+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474#prephbiquantitativemethodsregressionbasics",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474#prephbiquantitativemethodsregressionbasicsmodule",
    "course": "DAB",
-   "title": "Prep: HBI Quantitative Methods – Regression Basics",
+   "title": "Prep: HBI Quantitative Methods – Regression Basics module",
    "type": "prep",
    "due": "2026-11-26T09:45:00+09:00",
    "url": null,
-   "summary": "Review the Regression Basics module of the online course before class.",
+   "summary": "Review the Regression Basics module of the online course.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474",
    "source_title": "SESSION 7 | Regression Analysis | Waite First Securities",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-23T10:10:54+00:00"
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474#prepareashortpresentationoneachcompany",
+   "course": "DAB",
+   "title": "Prepare a short presentation on each company",
+   "type": "task",
+   "due": "2026-11-26T09:45:00+09:00",
+   "url": null,
+   "summary": "Prepare a 2-minute presentation on each company's business model and industry context.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28474",
+   "source_title": "SESSION 7 | Regression Analysis | Waite First Securities",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-26T10:10:43+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445#financialprojectionexercise",
@@ -1956,6 +1967,101 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-24T10:11:19+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27604#prep2026banishedwordslistpressrelease",
+   "course": "IW",
+   "title": "Prep: 2026 Banished Words List Press Release",
+   "type": "prep",
+   "due": "2026-12-02T12:45:00+09:00",
+   "url": "https://www.lssu.edu/resources/about-lssu/traditions/banishedwords/",
+   "summary": "Read the Banished Words List press release.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27604",
+   "source_title": "WEDNESDAY 2 DECEMBER 2026 | SESSION 11 | THE SELF-EDIT",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28493#prepcasegoodbellyusingstatisticstojustifythemarketingexpensew92t52",
+   "course": "DAB",
+   "title": "Prep: Case – GoodBelly: Using Statistics to Justify the Marketing Expense (W92T52)",
+   "type": "prep",
+   "due": "2026-11-30T09:45:00+09:00",
+   "url": null,
+   "summary": "Read the GoodBelly case on using statistics to justify marketing expense.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28493",
+   "source_title": "SESSION 8 | Regression Analysis | GoodBelly",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28493#prepgoodbellyspreadsheetgoodbellyxlsx",
+   "course": "DAB",
+   "title": "Prep: GoodBelly Spreadsheet (GoodBelly.xlsx)",
+   "type": "prep",
+   "due": "2026-11-30T09:45:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/files/139859",
+   "summary": "Download and review the GoodBelly regression dataset.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28493",
+   "source_title": "SESSION 8 | Regression Analysis | GoodBelly",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28493#prephbiquantitativemethodsmultipleregressionmodule",
+   "course": "DAB",
+   "title": "Prep: HBI Quantitative Methods – Multiple Regression module",
+   "type": "prep",
+   "due": "2026-11-30T09:45:00+09:00",
+   "url": null,
+   "summary": "Review the Multiple Regression module of the online course.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28493",
+   "source_title": "SESSION 8 | Regression Analysis | GoodBelly",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28335#prepgrantchapter8industryevolutionandstrategicchange",
+   "course": "ST",
+   "title": "Prep: Grant Chapter 8 – Industry Evolution and Strategic Change",
+   "type": "prep",
+   "due": "2026-12-01T09:45:00+09:00",
+   "url": null,
+   "summary": "Read Chapter 8 on industry evolution and strategic change.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28335",
+   "source_title": "7 | 2026-12-01 TUE | 0945-1145 | Strategic Change",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28335#prepeastmankodakcase",
+   "course": "ST",
+   "title": "Prep: Eastman Kodak Case",
+   "type": "prep",
+   "due": "2026-12-01T09:45:00+09:00",
+   "url": null,
+   "summary": "Read the Eastman Kodak case in the textbook.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28335",
+   "source_title": "7 | 2026-12-01 TUE | 0945-1145 | Strategic Change",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "canvas:quiz:6304",
+   "course": "IW",
+   "title": "[F 26-27] IW Session 8 Pre-session quiz",
+   "type": "quiz",
+   "due": "2026-11-10T23:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1377/quizzes/6304",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-05T10:12:04+00:00"
   },
   {
    "id": "canvas:assignment:9913",
