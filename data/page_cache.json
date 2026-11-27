@@ -653,13 +653,6 @@
    }
   ]
  },
- "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912": {
-  "updated_at": "2026-11-12T00:20:26Z",
-  "kind": "canvas_item",
-  "course": "DAB",
-  "title": "Emergency Vehicle Positioning, Inc. Online Poll",
-  "summary": ""
- },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules": {
   "updated_at": "| 1 | 2026 NOV 06 Fri, 12:45 - 14:45\n| 2 | 2026 NOV 10 Tue, 12:45 - 14:45\n| 3 | 2026 NOV 17 Tue, 12:45 - 14:45\n| 4 | 2026 NOV 18 Wed, 12:45 - 14:45\n| 5 | 2026 NOV 20 Fri, 12:45 - 14:45\n| 6 | 2026 NOV 24 Tue, 12:45 - 14:45\n| 7 | 2026 NOV 27, Fri 12:45 - 14:45\n| 8 | 2026 DEC 01 Tue, 12:45 - 14:45\n| 9 | 2026 DEC 04 Fri, 12:45 - 14:45\n| 10 | 2026 DEC 10 Tue, 12:45 - 14:45\n| 11 | 2026 DEC 11 Fri, 12:45 - 14:45\n| 12 | 2026 DEC 15 Tue, 09:00 - 13:00\nExcel Short-Cuts and \"Data Table\" for Sensitivity Analysis and Simulation",
   "kind": "page",
@@ -1262,28 +1255,11 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433": {
-  "updated_at": "2026-11-24T05:36:32Z",
+  "updated_at": "2026-11-27T05:34:41Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
-  "items": [
-   {
-    "title": "Prep: Session 8 Pre-Session Slides Part 1",
-    "type": "prep",
-    "due": null,
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139435",
-    "summary": "Review the pre-session slides on sustaining motivation through psychological needs and communication.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Session 8 Pre-Session Slides Part 2",
-    "type": "prep",
-    "due": null,
-    "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
-    "summary": "Review the pre-session Part 2 slides before the session.",
-    "note": ""
-   }
-  ]
+  "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28421": {
   "updated_at": "2026-11-17T06:31:47Z",
@@ -1426,7 +1402,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/modules/items/28358": {
-  "updated_at": "2026-11-17T09:07:28Z",
+  "updated_at": "2026-11-26T12:36:09Z",
   "kind": "page",
   "course": "TOM",
   "title": "SESSION 7 | Basics of Operating Models | November 26 (12:45-14:45)",
@@ -1667,28 +1643,11 @@
   "summary": "Submit your answer sheet for Written Assignment No.2 as a PDF file."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406": {
-  "updated_at": "2026-11-22T06:16:28Z",
+  "updated_at": "2026-11-27T08:00:46Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 9 | Systems Thinking: Seeing the Bigger Picture",
-  "items": [
-   {
-    "title": "Prep: Session 9 1127 pre.pdf",
-    "type": "prep",
-    "due": null,
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139489",
-    "summary": "Review the pre-session material before Session 9.",
-    "note": ""
-   },
-   {
-    "title": "Prep: Session 9 Part 2 GD",
-    "type": "prep",
-    "due": null,
-    "url": "https://docs.google.com/presentation/d/1ituHSxEwvkGM6GZ7HeWvQxFyfozYNjhtEiCXOjclGXo/edit?usp=sharing",
-    "summary": "Review the pre-session slides before Session 9.",
-    "note": ""
-   }
-  ]
+  "items": []
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/quizzes/6309": {
   "updated_at": "af90a26aa42a50500069599de3238969",
@@ -1777,24 +1736,24 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1381/assignments/9958": {
-  "updated_at": "2026-11-24T03:00:06Z",
+  "updated_at": "2026-11-27T00:13:23Z",
   "kind": "canvas_item",
   "course": "ST",
   "title": "Group Assignment 3: Resources and capabilities",
-  "summary": "Analyze your company's KSFs, value proposition, strategy basis, and sustainable competitive advantage."
+  "summary": "Submit a 2-page group report on KSFs, value proposition, strategy, and advantage."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445": {
-  "updated_at": "2026-11-23T12:36:04Z",
+  "updated_at": "2026-11-27T05:18:39Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 7 | Financial Projections I  (Financial Modeling) / Reviews / Midterm Exam",
   "items": [
    {
-    "title": "Financial Projection Exercise",
-    "type": "assignment",
+    "title": "Prep: Financial Projection Exercise",
+    "type": "prep",
     "due": "2026-11-27T12:45:00+09:00",
     "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/139707",
-    "summary": "Build your own financial projections using the provided blank Excel worksheet before class.",
+    "summary": "Download the Excel file and build your own financial projections before class.",
     "note": ""
    },
    {
@@ -1802,7 +1761,7 @@
     "type": "exam",
     "due": "2026-11-27T12:45:00+09:00",
     "url": null,
-    "summary": "A 15-minute closed-book midterm exam will be held at the end of the session.",
+    "summary": "15-minute closed-book midterm exam held at the end of the session.",
     "note": ""
    }
   ]
@@ -1976,6 +1935,37 @@
     "due": "2026-12-01T09:45:00+09:00",
     "url": null,
     "summary": "Read the Eastman Kodak case in the textbook.",
+    "note": ""
+   }
+  ]
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9915": {
+  "updated_at": "2026-11-27T02:05:29Z",
+  "kind": "canvas_item",
+  "course": "LD",
+  "title": "Session 9  Weekly Reflection",
+  "summary": "Submit a weekly reflection report using the provided template."
+ },
+ "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28336": {
+  "updated_at": "2026-11-27T00:11:58Z",
+  "kind": "page",
+  "course": "ST",
+  "title": "8 | 2026-12-04 | FRI | 0945-1145| Diversification strategies",
+  "items": [
+   {
+    "title": "Prep: Textbook Ch.12",
+    "type": "prep",
+    "due": "2026-12-04T09:45:00+09:00",
+    "url": null,
+    "summary": "Read Grant Chapter 12 on diversification strategy.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Case – \"Google Is Now Alphabet—But What's the Corporate Strategy?\"",
+    "type": "prep",
+    "due": "2026-12-04T09:45:00+09:00",
+    "url": null,
+    "summary": "Read the Alphabet case and prepare the discussion questions.",
     "note": ""
    }
   ]

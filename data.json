@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-11-26T10:10:43+00:00",
+ "generated_at": "2026-11-27T10:10:32+00:00",
  "items": [
-  {
-   "id": "canvas:assignment:9912",
-   "course": "DAB",
-   "title": "Emergency Vehicle Positioning, Inc. Online Poll",
-   "type": "assignment",
-   "due": "2026-11-11T22:00:00Z",
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912",
-   "source": "canvas",
-   "summary": "",
-   "first_seen": "2026-11-04T02:10:22+00:00"
-  },
   {
    "id": "canvas:assignment:9935",
    "course": "IW",
@@ -207,8 +196,19 @@
    "due": "2026-11-30T08:00:00Z",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1381/assignments/9958",
    "source": "canvas",
-   "summary": "Analyze your company's KSFs, value proposition, strategy basis, and sustainable competitive advantage.",
+   "summary": "Submit a 2-page group report on KSFs, value proposition, strategy, and advantage.",
    "first_seen": "2026-11-24T10:11:19+00:00"
+  },
+  {
+   "id": "canvas:assignment:9915",
+   "course": "LD",
+   "title": "Session 9  Weekly Reflection",
+   "type": "assignment",
+   "due": "2026-12-01T14:59:59Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/assignments/9915",
+   "source": "canvas",
+   "summary": "Submit a weekly reflection report using the provided template.",
+   "first_seen": "2026-11-27T10:10:32+00:00"
   },
   {
    "id": "canvas:quiz:6311",
@@ -961,6 +961,20 @@
    "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310#emergencyvehiclepositioninginconlinepoll",
+   "course": "DAB",
+   "title": "Emergency Vehicle Positioning, Inc. Online Poll",
+   "type": "assignment",
+   "due": "2026-11-12T07:00:00+09:00",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912",
+   "summary": "Complete the online poll on the case before class.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28310",
+   "source_title": "SESSION 3 | Risk Management | Emergency Vehicle Positioning, Inc.",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-27T10:10:32+00:00"
+  },
+  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules#finalexam",
    "course": "ST",
    "title": "Final Exam",
@@ -1423,34 +1437,6 @@
    "first_seen": "2026-11-12T10:11:13+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433#prepsession8presessionslidespart1",
-   "course": "LD",
-   "title": "Prep: Session 8 Pre-Session Slides Part 1",
-   "type": "prep",
-   "due": null,
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139435",
-   "summary": "Review the pre-session slides on sustaining motivation through psychological needs and communication.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433",
-   "source_title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-24T10:11:19+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433#prepsession8presessionslidespart2",
-   "course": "LD",
-   "title": "Prep: Session 8 Pre-Session Slides Part 2",
-   "type": "prep",
-   "due": null,
-   "url": "https://docs.google.com/presentation/d/1DqY7KcvtL8phIBjVaCpzRglPoChD-thaT6FMlsTDBLQ/edit?usp=sharing",
-   "summary": "Review the pre-session Part 2 slides before the session.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28433",
-   "source_title": "SESSION 8 | Sustaining Motivation: Psychological Needs and Communication",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-24T10:11:19+00:00"
-  },
-  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1379/modules/items/28436#prepintroductiontorandrstudiopdf",
    "course": "DAB",
    "title": "Prep: Introduction to R and RStudio (PDF)",
@@ -1759,34 +1745,6 @@
    "first_seen": "2026-11-20T10:12:44+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406#prepsession91127prepdf",
-   "course": "LD",
-   "title": "Prep: Session 9 1127 pre.pdf",
-   "type": "prep",
-   "due": null,
-   "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139489",
-   "summary": "Review the pre-session material before Session 9.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406",
-   "source_title": "SESSION 9 | Systems Thinking: Seeing the Bigger Picture",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-22T10:10:04+00:00"
-  },
-  {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406#prepsession9part2gd",
-   "course": "LD",
-   "title": "Prep: Session 9 Part 2 GD",
-   "type": "prep",
-   "due": null,
-   "url": "https://docs.google.com/presentation/d/1ituHSxEwvkGM6GZ7HeWvQxFyfozYNjhtEiCXOjclGXo/edit?usp=sharing",
-   "summary": "Review the pre-session slides before Session 9.",
-   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406",
-   "source_title": "SESSION 9 | Systems Thinking: Seeing the Bigger Picture",
-   "note": "",
-   "source": "page",
-   "first_seen": "2026-11-22T10:10:04+00:00"
-  },
-  {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1377/modules/items/27599#midtermexam",
    "course": "IW",
    "title": "Mid-term Exam",
@@ -1871,18 +1829,18 @@
    "first_seen": "2026-11-26T10:10:43+00:00"
   },
   {
-   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445#financialprojectionexercise",
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445#prepfinancialprojectionexercise",
    "course": "CF",
-   "title": "Financial Projection Exercise",
-   "type": "assignment",
+   "title": "Prep: Financial Projection Exercise",
+   "type": "prep",
    "due": "2026-11-27T12:45:00+09:00",
    "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/139707",
-   "summary": "Build your own financial projections using the provided blank Excel worksheet before class.",
+   "summary": "Download the Excel file and build your own financial projections before class.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445",
    "source_title": "SESSION 7 | Financial Projections I  (Financial Modeling) / Reviews / Midterm Exam",
    "note": "",
    "source": "page",
-   "first_seen": "2026-11-24T10:11:19+00:00"
+   "first_seen": "2026-11-27T10:10:32+00:00"
   },
   {
    "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445#midtermexam",
@@ -1891,7 +1849,7 @@
    "type": "exam",
    "due": "2026-11-27T12:45:00+09:00",
    "url": null,
-   "summary": "A 15-minute closed-book midterm exam will be held at the end of the session.",
+   "summary": "15-minute closed-book midterm exam held at the end of the session.",
    "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28445",
    "source_title": "SESSION 7 | Financial Projections I  (Financial Modeling) / Reviews / Midterm Exam",
    "note": "",
@@ -2051,6 +2009,45 @@
    "note": "",
    "source": "page",
    "first_seen": "2026-11-26T10:10:43+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28336#preptextbookch12",
+   "course": "ST",
+   "title": "Prep: Textbook Ch.12",
+   "type": "prep",
+   "due": "2026-12-04T09:45:00+09:00",
+   "url": null,
+   "summary": "Read Grant Chapter 12 on diversification strategy.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28336",
+   "source_title": "8 | 2026-12-04 | FRI | 0945-1145| Diversification strategies",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-27T10:10:32+00:00"
+  },
+  {
+   "id": "page:https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28336#prepcasegoogleisnowalphabetbutwhatsthecorporatestrategy",
+   "course": "ST",
+   "title": "Prep: Case – \"Google Is Now Alphabet—But What's the Corporate Strategy?\"",
+   "type": "prep",
+   "due": "2026-12-04T09:45:00+09:00",
+   "url": null,
+   "summary": "Read the Alphabet case and prepare the discussion questions.",
+   "source_url": "https://canvas.ics.hit-u.ac.jp/courses/1381/modules/items/28336",
+   "source_title": "8 | 2026-12-04 | FRI | 0945-1145| Diversification strategies",
+   "note": "",
+   "source": "page",
+   "first_seen": "2026-11-27T10:10:32+00:00"
+  },
+  {
+   "id": "canvas:assignment:9912",
+   "course": "DAB",
+   "title": "Emergency Vehicle Positioning, Inc. Online Poll",
+   "type": "assignment",
+   "due": "2026-11-11T22:00:00Z",
+   "url": "https://canvas.ics.hit-u.ac.jp/courses/1379/assignments/9912",
+   "source": "canvas",
+   "summary": "",
+   "first_seen": "2026-11-04T02:10:22+00:00"
   },
   {
    "id": "canvas:quiz:6304",
