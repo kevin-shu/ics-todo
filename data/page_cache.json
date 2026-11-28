@@ -1643,11 +1643,28 @@
   "summary": "Submit your answer sheet for Written Assignment No.2 as a PDF file."
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1387/modules/items/28406": {
-  "updated_at": "2026-11-27T08:00:46Z",
+  "updated_at": "2026-11-28T06:55:26Z",
   "kind": "page",
   "course": "LD",
   "title": "SESSION 9 | Systems Thinking: Seeing the Bigger Picture",
-  "items": []
+  "items": [
+   {
+    "title": "Prep: Session 9 1127 pre.pdf",
+    "type": "prep",
+    "due": null,
+    "url": "https://canvas.ics.hit-u.ac.jp/courses/1387/files/139489",
+    "summary": "Review the pre-session materials before class.",
+    "note": ""
+   },
+   {
+    "title": "Prep: Session 9 Part 2 GD",
+    "type": "prep",
+    "due": null,
+    "url": "https://docs.google.com/presentation/d/1ituHSxEwvkGM6GZ7HeWvQxFyfozYNjhtEiCXOjclGXo/edit?usp=sharing",
+    "summary": "Review the Part 2 pre-session slides before class.",
+    "note": ""
+   }
+  ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1380/quizzes/6309": {
   "updated_at": "af90a26aa42a50500069599de3238969",
@@ -1767,7 +1784,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1382/modules/items/28446": {
-  "updated_at": "2026-11-24T09:08:11Z",
+  "updated_at": "2026-11-27T17:25:10Z",
   "kind": "page",
   "course": "CF",
   "title": "SESSION 8 | Financial Projections II (Flash Memory 2)",
@@ -1777,7 +1794,7 @@
     "type": "prep",
     "due": "2026-12-01T12:45:00+09:00",
     "url": null,
-    "summary": "Re-read the case Flash Memory, Inc. before the session.",
+    "summary": "Read the case Flash Memory, Inc. before class.",
     "note": ""
    },
    {
@@ -1785,15 +1802,15 @@
     "type": "prep",
     "due": "2026-12-01T12:45:00+09:00",
     "url": null,
-    "summary": "Read Chapter 30 of BMAE before the session.",
+    "summary": "Read BMAE Chapter 30 before class.",
     "note": ""
    },
    {
-    "title": "Flash Memory Financial Projections Exercise",
+    "title": "Flash Memory, Inc. financial projections assignment",
     "type": "assignment",
     "due": "2026-12-01T12:45:00+09:00",
-    "url": "https://canvas.ics.hit-u.ac.jp/courses/1382/files/134333",
-    "summary": "Prepare forecasted income statements and balance sheets for Flash Memory, Inc.",
+    "url": null,
+    "summary": "Prepare forecasted financial statements and answer the case questions.",
     "note": ""
    }
   ]
@@ -1831,7 +1848,7 @@
   ]
  },
  "https://canvas.ics.hit-u.ac.jp/courses/1377/assignments/9960": {
-  "updated_at": "2026-11-25T06:57:38Z",
+  "updated_at": "2026-11-28T08:26:07Z",
   "kind": "canvas_item",
   "course": "IW",
   "title": "[F 26-27] IW 10 Post-session assignment",
